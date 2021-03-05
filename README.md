@@ -1,4 +1,12 @@
-![](https://raw.githubusercontent.com/moul/moul/master/contribute.gif)
+<img align='right' src="https://raw.githubusercontent.com/moul/moul/master/contribute.gif">
+
+## Hi! I am Manfred :wave:
+
+:hammer: Founder of [Berty](https://github.com/berty)<br/>
+<!--:computer: Providing [consultancy services](https://pmgconsulting.org/)<br/>-->
+<!--:construction: I maintain a lot of OSS repos<br/>-->
+:heart: P2P, Cryptography, POCs, CLIs<br/>
+:octocat: Coding everyday :)<br/>
 
 <details>
   <summary>Details</summary>
