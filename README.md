@@ -22,7 +22,7 @@
 - [moul/prefix](https://github.com/moul/prefix) - 🔴 prepend numbers, stats, dates, durations to streams
 
 #### 🔭 Recent Releases I Worked On
-- [berty/berty](https://github.com/berty/berty) ([v2.262.0](https://github.com/berty/berty/releases/tag/v2.262.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/berty](https://github.com/berty/berty) ([v2.262.1](https://github.com/berty/berty/releases/tag/v2.262.1), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [alta/protopatch](https://github.com/alta/protopatch) ([v0.3.2](https://github.com/alta/protopatch/releases/tag/v0.3.2), 5 days ago) - protoc-gen-go patch utility
 - [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.2](https://github.com/moul/pkgman/releases/tag/v1.4.2), 1 week ago) - Package manipulation tool &amp; library (ipa, etc)
 - [moul/bot](https://github.com/moul/bot) ([v1.9.1](https://github.com/moul/bot/releases/tag/v1.9.1), 1 week ago) - my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
