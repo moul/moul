@@ -47,15 +47,15 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👷 Check out what I'm currently working on</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/moul.io">moul/moul.io</a> - sources of https://moul.io -&gt; website companion for vanity go modules (today)</li>
+  <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Renovate &#43; Golangci &#43; Goreleaser &#43; CircleCI &#43; ... (today)</li>
   <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> - ☠️ The Pathwar Project ☠️ (1 day ago)</li>
   <li><a href="https://github.com/berty/berty">berty/berty</a> - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network (2 days ago)</li>
   <li><a href="https://github.com/berty/community">berty/community</a> - Berty Planning, Management &amp; Coordination threads (2 days ago)</li>
   <li><a href="https://github.com/moul/depviz">moul/depviz</a> - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;) (2 days ago)</li>
   <li><a href="https://github.com/moul/generate-fake-data">moul/generate-fake-data</a> - 🧬 CLI to generate fake data for testing (4 days ago)</li>
-  <li><a href="https://github.com/moul/gotty-client">moul/gotty-client</a> - :wrench: terminal client for GoTTY (1 week ago)</li>
-  <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - zap logging driver for gorm v2 (1 week ago)</li>
-  <li><a href="https://github.com/moul/bot">moul/bot</a> - my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc) (1 week ago)</li>
   <li><a href="https://github.com/moul/pkgman">moul/pkgman</a> - Package manipulation tool &amp; library (ipa, etc) (1 week ago)</li>
+  <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - zap logging driver for gorm v2 (1 week ago)</li>
   <li><a href="https://github.com/moul/dl">moul/dl</a> - Static binary downloader that can find a writable directory in the $PATH (1 week ago)</li>
   </ul>
 
@@ -85,7 +85,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <li><a href="https://github.com/magictour">magictour</a>
   <li><a href="https://github.com/VoidedMuse">VoidedMuse</a>
   <li><a href="https://github.com/kavishgr">kavishgr</a>
-  <li><a href="https://github.com/goodland-io">goodland-io</a>
+  <li><a href="https://github.com/Velovo">Velovo</a>
   </ul>
 
   <h4>💬 Feedback</h4>
