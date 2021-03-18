@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [moul/zapring](https://github.com/moul/zapring) ([v1.0.0](https://github.com/moul/zapring/releases/tag/v1.0.0), today) - 💍 In-memory RING buffer backend for the Zap logger
+- [moul/zapring](https://github.com/moul/zapring) ([v1.1.0](https://github.com/moul/zapring/releases/tag/v1.1.0), today) - 💍 In-memory RING buffer backend for the Zap logger
 - [berty/berty](https://github.com/berty/berty) ([v2.262.1](https://github.com/berty/berty/releases/tag/v2.262.1), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [alta/protopatch](https://github.com/alta/protopatch) ([v0.3.2](https://github.com/alta/protopatch/releases/tag/v0.3.2), 6 days ago) - protoc-gen-go patch utility
 - [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.2](https://github.com/moul/pkgman/releases/tag/v1.4.2), 1 week ago) - Package manipulation tool &amp; library (ipa, etc)
@@ -52,9 +52,9 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <ul>
   
   <li><a href="https://github.com/moul/wipchat">moul/wipchat</a> - Golang wip.co (ex wip.chat) Go client &#43; CLI (today)</li>
+  <li><a href="https://github.com/moul/repoman">moul/repoman</a> - repo manager: some scripts I run against my repos (today)</li>
   <li><a href="https://github.com/moul/zapring">moul/zapring</a> - 💍 In-memory RING buffer backend for the Zap logger (today)</li>
   <li><a href="https://github.com/moul/srand">moul/srand</a> - Seed generator for srand (golang) (today)</li>
-  <li><a href="https://github.com/moul/repoman">moul/repoman</a> - repo manager: some scripts I run against my repos (today)</li>
   <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Renovate &#43; Golangci &#43; Goreleaser &#43; CircleCI &#43; ... (today)</li>
   <li><a href="https://github.com/moul/actions">moul/actions</a> -  (today)</li>
   <li><a href="https://github.com/moul/zapconfig">moul/zapconfig</a> - ⚡ Opinionated presets for Uber&#39;s Zap logging go library (today)</li>
