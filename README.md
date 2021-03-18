@@ -24,16 +24,16 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/berty](https://github.com/berty/berty) ([v2.262.2](https://github.com/berty/berty/releases/tag/v2.262.2), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/zapring](https://github.com/moul/zapring) ([v1.1.0](https://github.com/moul/zapring/releases/tag/v1.1.0), today) - 💍 In-memory RING buffer backend for the Zap logger
-- [berty/berty](https://github.com/berty/berty) ([v2.262.1](https://github.com/berty/berty/releases/tag/v2.262.1), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [alta/protopatch](https://github.com/alta/protopatch) ([v0.3.2](https://github.com/alta/protopatch/releases/tag/v0.3.2), 6 days ago) - protoc-gen-go patch utility
-- [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.2](https://github.com/moul/pkgman/releases/tag/v1.4.2), 1 week ago) - Package manipulation tool &amp; library (ipa, etc)
-- [moul/bot](https://github.com/moul/bot) ([v1.9.1](https://github.com/moul/bot/releases/tag/v1.9.1), 1 week ago) - my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
+- [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.2](https://github.com/moul/pkgman/releases/tag/v1.4.2), 1 week ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
+- [moul/bot](https://github.com/moul/bot) ([v1.9.1](https://github.com/moul/bot/releases/tag/v1.9.1), 1 week ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.9.1](https://github.com/moul/gotty-client/releases/tag/v1.9.1), 1 week ago) - :wrench: terminal client for GoTTY
 - [bump-sh/github-action](https://github.com/bump-sh/github-action) ([0.2](https://github.com/bump-sh/github-action/releases/tag/0.2), 1 week ago) - GitHub action to deploy your API documentation on Bump
 - [moul/test-github-actions](https://github.com/moul/test-github-actions) ([v1.7.2](https://github.com/moul/test-github-actions/releases/tag/v1.7.2), 1 week ago) - 🤒 Dummy repo to experiment with GitHub actions
 - [moul/captcha](https://github.com/moul/captcha) ([v1.0.1](https://github.com/moul/captcha/releases/tag/v1.0.1), 1 week ago) - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
-- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.0.2](https://github.com/moul/zapgorm2/releases/tag/v1.0.2), 1 week ago) - zap logging driver for gorm v2
+- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.0.2](https://github.com/moul/zapgorm2/releases/tag/v1.0.2), 1 week ago) - ⚡ zap logging driver for gorm v2
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -51,14 +51,14 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👷 Check out what I'm currently working on</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/wipchat">moul/wipchat</a> - Golang wip.co (ex wip.chat) Go client &#43; CLI (today)</li>
-  <li><a href="https://github.com/moul/repoman">moul/repoman</a> - repo manager: some scripts I run against my repos (today)</li>
+  <li><a href="https://github.com/moul/wipchat">moul/wipchat</a> - ✅ Golang wip.co (ex wip.chat) Go client &#43; CLI (today)</li>
+  <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ... (today)</li>
+  <li><a href="https://github.com/moul/repoman">moul/repoman</a> - 📋 repo manager: some scripts I run against my repos (today)</li>
   <li><a href="https://github.com/moul/zapring">moul/zapring</a> - 💍 In-memory RING buffer backend for the Zap logger (today)</li>
-  <li><a href="https://github.com/moul/srand">moul/srand</a> - Seed generator for srand (golang) (today)</li>
-  <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Renovate &#43; Golangci &#43; Goreleaser &#43; CircleCI &#43; ... (today)</li>
-  <li><a href="https://github.com/moul/actions">moul/actions</a> -  (today)</li>
+  <li><a href="https://github.com/moul/srand">moul/srand</a> - 🌱 Seed generator for srand (golang) (today)</li>
+  <li><a href="https://github.com/moul/actions">moul/actions</a> - 🙀 Personal GitHub Actions (today)</li>
   <li><a href="https://github.com/moul/zapconfig">moul/zapconfig</a> - ⚡ Opinionated presets for Uber&#39;s Zap logging go library (today)</li>
-  <li><a href="https://github.com/moul/moul.io">moul/moul.io</a> - sources of https://moul.io -&gt; website companion for vanity go modules (1 day ago)</li>
+  <li><a href="https://github.com/moul/moul.io">moul/moul.io</a> - 🕸 sources of https://moul.io -&gt; website companion for vanity go modules (1 day ago)</li>
   <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> - ☠️ The Pathwar Project ☠️ (2 days ago)</li>
   <li><a href="https://github.com/berty/berty">berty/berty</a> - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network (3 days ago)</li>
   </ul>
