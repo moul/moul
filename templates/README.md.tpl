@@ -9,11 +9,13 @@
 :octocat: Coding everyday :)<br/>
 
 #### 🌱 My latest projects
+
 {{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔭 Recent Releases I Worked On
+
 {{range recentReleases 10}}
 {{- if not (or (eq .Name "moul/skip") (eq .Name "moul/another-skip")) -}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
@@ -21,9 +23,11 @@
 {{- end}}
 
 #### ❤️ These awesome people sponsor me (thank you!)
+
 {{range sponsors 5}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
+
 For more information, see [the sponsors page](https://github.com/sponsors/moul/).
 
 <details>
