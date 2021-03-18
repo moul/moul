@@ -10,6 +10,7 @@
 
 #### 🌱 My latest projects
 
+
 - [moul/zapring](https://github.com/moul/zapring) - 
 - [moul/captcha](https://github.com/moul/captcha) - a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
 - [moul/progress](https://github.com/moul/progress) - progress, steps, completion patterns for golang
@@ -22,6 +23,7 @@
 - [moul/generate-fake-data](https://github.com/moul/generate-fake-data) - 🧬 CLI to generate fake data for testing
 
 #### 🔭 Recent Releases I Worked On
+
 - [moul/zapring](https://github.com/moul/zapring) ([v1.0.0](https://github.com/moul/zapring/releases/tag/v1.0.0), today) - 
 - [berty/berty](https://github.com/berty/berty) ([v2.262.1](https://github.com/berty/berty/releases/tag/v2.262.1), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [alta/protopatch](https://github.com/alta/protopatch) ([v0.3.2](https://github.com/alta/protopatch/releases/tag/v0.3.2), 6 days ago) - protoc-gen-go patch utility
@@ -36,27 +38,29 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+
 - [creack](https://github.com/creack) (7 months ago)
 - [shawnharmsen](https://github.com/shawnharmsen) (8 months ago)
 - [zxxma](https://github.com/zxxma) (1 year ago)
 - [le-du6](https://github.com/le-du6) (1 year ago)
 - [Z-a-r-a-k-i](https://github.com/Z-a-r-a-k-i) (1 year ago)
+
 For more information, see [the sponsors page](https://github.com/sponsors/moul/).
 
 <details>
   <h4>👷 Check out what I'm currently working on</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/repoman">moul/repoman</a> - repo manager: some scripts I run against my repos (today)</li>
+  <li><a href="https://github.com/moul/srand">moul/srand</a> - Seed generator for srand (golang) (today)</li>
   <li><a href="https://github.com/moul/zapring">moul/zapring</a> -  (today)</li>
-  <li><a href="https://github.com/moul/zapconfig">moul/zapconfig</a> - Opinionated presets for Uber&#39;s Zap logging go library (today)</li>
   <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Renovate &#43; Golangci &#43; Goreleaser &#43; CircleCI &#43; ... (today)</li>
+  <li><a href="https://github.com/moul/zapconfig">moul/zapconfig</a> - Opinionated presets for Uber&#39;s Zap logging go library (today)</li>
+  <li><a href="https://github.com/moul/wipchat">moul/wipchat</a> - Golang wip.co (ex wip.chat) Go client &#43; CLI (today)</li>
   <li><a href="https://github.com/moul/moul.io">moul/moul.io</a> - sources of https://moul.io -&gt; website companion for vanity go modules (1 day ago)</li>
   <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> - ☠️ The Pathwar Project ☠️ (2 days ago)</li>
-  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;) (3 days ago)</li>
-  <li><a href="https://github.com/berty/berty">berty/berty</a> - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network (3 days ago)</li>
   <li><a href="https://github.com/berty/community">berty/community</a> - Berty Planning, Management &amp; Coordination threads (3 days ago)</li>
-  <li><a href="https://github.com/moul/generate-fake-data">moul/generate-fake-data</a> - 🧬 CLI to generate fake data for testing (5 days ago)</li>
-  <li><a href="https://github.com/moul/bot">moul/bot</a> - my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc) (1 week ago)</li>
+  <li><a href="https://github.com/berty/berty">berty/berty</a> - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network (3 days ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
