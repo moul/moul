@@ -51,14 +51,14 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👷 Check out what I'm currently working on</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/zapring">moul/zapring</a> - 💍 In-memory RING buffer backend for the Zap logger (1 day ago)</li>
+  <li><a href="https://github.com/moul/zapring">moul/zapring</a> - 💍 In-memory RING buffer backend for the Zap logger (today)</li>
   <li><a href="https://github.com/berty/berty">berty/berty</a> - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network (1 day ago)</li>
   <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ... (2 days ago)</li>
-  <li><a href="https://github.com/moul/wipchat">moul/wipchat</a> - ✅ Golang wip.co (ex wip.chat) Go client &#43; CLI (2 days ago)</li>
-  <li><a href="https://github.com/moul/srand">moul/srand</a> - 🌱 Seed generator for srand (golang) (2 days ago)</li>
-  <li><a href="https://github.com/moul/actions">moul/actions</a> - 🙀 Personal GitHub Actions (2 days ago)</li>
   <li><a href="https://github.com/moul/repoman">moul/repoman</a> - 📋 repo manager: some scripts I run against my repos (2 days ago)</li>
+  <li><a href="https://github.com/moul/srand">moul/srand</a> - 🌱 Seed generator for srand (golang) (2 days ago)</li>
   <li><a href="https://github.com/moul/zapconfig">moul/zapconfig</a> - ⚡ Opinionated presets for Uber&#39;s Zap logging go library (2 days ago)</li>
+  <li><a href="https://github.com/moul/actions">moul/actions</a> - 🙀 Personal GitHub Actions (2 days ago)</li>
+  <li><a href="https://github.com/moul/wipchat">moul/wipchat</a> - ✅ Golang wip.co (ex wip.chat) Go client &#43; CLI (2 days ago)</li>
   <li><a href="https://github.com/moul/moul.io">moul/moul.io</a> - 🕸 sources of https://moul.io -&gt; website companion for vanity go modules (3 days ago)</li>
   <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> - ☠️ The Pathwar Project ☠️ (4 days ago)</li>
   </ul>
