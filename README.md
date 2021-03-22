@@ -24,8 +24,8 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/berty](https://github.com/berty/berty) ([v2.263.1](https://github.com/berty/berty/releases/tag/v2.263.1), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.0](https://github.com/moul/zapring/releases/tag/v1.3.0), 2 days ago) - 💍 In-memory RING buffer backend for the Zap logger
-- [berty/berty](https://github.com/berty/berty) ([v2.263.0](https://github.com/berty/berty/releases/tag/v2.263.0), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [alta/protopatch](https://github.com/alta/protopatch) ([v0.3.3](https://github.com/alta/protopatch/releases/tag/v0.3.3), 3 days ago) - protoc-gen-go patch utility
 - [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.2](https://github.com/moul/pkgman/releases/tag/v1.4.2), 1 week ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
 - [moul/bot](https://github.com/moul/bot) ([v1.9.1](https://github.com/moul/bot/releases/tag/v1.9.1), 1 week ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
@@ -61,6 +61,16 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ... (4 days ago)</li>
   <li><a href="https://github.com/moul/wipchat">moul/wipchat</a> - ✅ Golang wip.co (ex wip.chat) Go client &#43; CLI (4 days ago)</li>
   <li><a href="https://github.com/moul/zapconfig">moul/zapconfig</a> - ⚡ Opinionated presets for Uber&#39;s Zap logging go library (4 days ago)</li>
+  </ul>
+
+  <h4>🚧 Things I did recently</h4>
+  <ul>
+  
+  <li><a href="https://wip.co/@moul/todos/180792">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (today)</li>
+  <li><a href="https://wip.co/@moul/todos/180764">🐙  yesterday on GitHub #oss</a> (today)</li>
+  <li><a href="https://wip.co/@moul/todos/180679">🐙  yesterday on GitHub #oss</a> (1 day ago)</li>
+  <li><a href="https://wip.co/@moul/todos/180602">🐙  yesterday on GitHub #oss</a> (2 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/180531">🐙  yesterday on GitHub #oss</a> (3 days ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
