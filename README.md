@@ -66,11 +66,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
+  <li><a href="https://wip.co/@moul/todos/180810">📦  configure zap to log to stdout &#43; in-memory ring buffer &#43; rotating logfiles #berty https://github.com/berty/berty/pull/3177</a> (today)</li>
+  <li><a href="https://wip.co/@moul/todos/180799">👥  weekly sync with #berty team</a> (today)</li>
+  <li><a href="https://wip.co/@moul/todos/180797">🚧 hourly update my GitHub profile with recent wip.co updates #wip (https://github.com/moul/moul/commit/260538d0a5c40f6f7569819e9a07fd0ab9b09af9)</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/180792">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/180764">🐙  yesterday on GitHub #oss</a> (today)</li>
-  <li><a href="https://wip.co/@moul/todos/180679">🐙  yesterday on GitHub #oss</a> (1 day ago)</li>
-  <li><a href="https://wip.co/@moul/todos/180602">🐙  yesterday on GitHub #oss</a> (2 days ago)</li>
-  <li><a href="https://wip.co/@moul/todos/180531">🐙  yesterday on GitHub #oss</a> (3 days ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
