@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.264.0](https://github.com/berty/berty/releases/tag/v2.264.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/berty](https://github.com/berty/berty) ([v2.264.1](https://github.com/berty/berty/releases/tag/v2.264.1), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.0](https://github.com/moul/zapring/releases/tag/v1.3.0), 3 days ago) - 💍 In-memory RING buffer backend for the Zap logger
 - [alta/protopatch](https://github.com/alta/protopatch) ([v0.3.3](https://github.com/alta/protopatch/releases/tag/v0.3.3), 4 days ago) - protoc-gen-go patch utility
 - [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.2](https://github.com/moul/pkgman/releases/tag/v1.4.2), 1 week ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
@@ -51,9 +51,9 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👷 Check out what I'm currently working on</h4>
   <ul>
   
+  <li><a href="https://github.com/berty/berty">berty/berty</a> - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network (today)</li>
   <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ... (1 day ago)</li>
   <li><a href="https://github.com/berty/community">berty/community</a> - Berty Planning, Management &amp; Coordination threads (1 day ago)</li>
-  <li><a href="https://github.com/berty/berty">berty/berty</a> - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network (1 day ago)</li>
   <li><a href="https://github.com/ultreme/blog.m1ch3l.biz">ultreme/blog.m1ch3l.biz</a> -  (2 days ago)</li>
   <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - ⚡ zap logging driver for gorm v2 (2 days ago)</li>
   <li><a href="https://github.com/moul/zapring">moul/zapring</a> - 💍 In-memory RING buffer backend for the Zap logger (3 days ago)</li>
@@ -66,11 +66,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
+  <li><a href="https://wip.co/@moul/todos/180865">🐙  yesterday on GitHub #oss</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/180821">💵  order iRing Link &#43; accessories h/t @levelsio</a> (1 day ago)</li>
   <li><a href="https://wip.co/@moul/todos/180810">📦  configure zap to log to stdout &#43; in-memory ring buffer &#43; rotating logfiles #berty https://github.com/berty/berty/pull/3177</a> (1 day ago)</li>
   <li><a href="https://wip.co/@moul/todos/180799">👥  weekly sync with #berty team</a> (1 day ago)</li>
   <li><a href="https://wip.co/@moul/todos/180797">🚧 hourly update my GitHub profile with recent wip.co updates #wip (https://github.com/moul/moul/commit/260538d0a5c40f6f7569819e9a07fd0ab9b09af9)</a> (1 day ago)</li>
-  <li><a href="https://wip.co/@moul/todos/180792">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (1 day ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
