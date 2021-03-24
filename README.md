@@ -51,13 +51,13 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👷 Check out what I'm currently working on</h4>
   <ul>
   
+  <li><a href="https://github.com/berty/www.berty.tech">berty/www.berty.tech</a> - Official website of Berty Technologies (today)</li>
   <li><a href="https://github.com/berty/berty">berty/berty</a> - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network (1 day ago)</li>
-  <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ... (2 days ago)</li>
   <li><a href="https://github.com/berty/community">berty/community</a> - Berty Planning, Management &amp; Coordination threads (2 days ago)</li>
+  <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ... (2 days ago)</li>
   <li><a href="https://github.com/ultreme/blog.m1ch3l.biz">ultreme/blog.m1ch3l.biz</a> -  (3 days ago)</li>
   <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - ⚡ zap logging driver for gorm v2 (3 days ago)</li>
   <li><a href="https://github.com/moul/zapring">moul/zapring</a> - 💍 In-memory RING buffer backend for the Zap logger (4 days ago)</li>
-  <li><a href="https://github.com/moul/wipchat">moul/wipchat</a> - ✅ Golang wip.co (ex wip.chat) Go client &#43; CLI (6 days ago)</li>
   <li><a href="https://github.com/moul/srand">moul/srand</a> - 🌱 Seed generator for srand (golang) (6 days ago)</li>
   <li><a href="https://github.com/moul/actions">moul/actions</a> - 🙀 Personal GitHub Actions (6 days ago)</li>
   <li><a href="https://github.com/moul/repoman">moul/repoman</a> - 📋 repo manager: some scripts I run against my repos (6 days ago)</li>
