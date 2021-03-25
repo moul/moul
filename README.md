@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.266.1](https://github.com/berty/berty/releases/tag/v2.266.1), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/berty](https://github.com/berty/berty) ([v2.266.2](https://github.com/berty/berty/releases/tag/v2.266.2), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.0](https://github.com/moul/zapring/releases/tag/v1.3.0), 5 days ago) - 💍 In-memory RING buffer backend for the Zap logger
 - [alta/protopatch](https://github.com/alta/protopatch) ([v0.3.3](https://github.com/alta/protopatch/releases/tag/v0.3.3), 6 days ago) - protoc-gen-go patch utility
 - [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.2](https://github.com/moul/pkgman/releases/tag/v1.4.2), 2 weeks ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
