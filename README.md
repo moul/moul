@@ -51,16 +51,16 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👷 Check out what I'm currently working on</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/progress">moul/progress</a> - 🏗 progress, steps, completion patterns for golang (today)</li>
+  <li><a href="https://github.com/moul/prefix">moul/prefix</a> - 🔴 prepend numbers, stats, dates, durations to streams (today)</li>
   <li><a href="https://github.com/moul/number-to-words">moul/number-to-words</a> - convert number into words (english, french, italian, roman, spanish, portuguese, belgium, dutch, swedish, polish, russian, iranian, roman, aegean) (today)</li>
+  <li><a href="https://github.com/moul/quicssh">moul/quicssh</a> - SSH over QUIC (today)</li>
+  <li><a href="https://github.com/moul/actions-base">moul/actions-base</a> -  (today)</li>
+  <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - ⚡ zap logging driver for gorm v2 (today)</li>
   <li><a href="https://github.com/moul/anonuuid">moul/anonuuid</a> - :wrench: Anonymize UUIDs outputs (written in Golang) (today)</li>
+  <li><a href="https://github.com/moul/bot">moul/bot</a> - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc) (today)</li>
   <li><a href="https://github.com/moul/pipotron">moul/pipotron</a> - generic (&amp; funny?) text generator (today)</li>
   <li><a href="https://github.com/moul/gotty-client">moul/gotty-client</a> - :wrench: terminal client for GoTTY (today)</li>
-  <li><a href="https://github.com/moul/prefix">moul/prefix</a> - 🔴 prepend numbers, stats, dates, durations to streams (today)</li>
-  <li><a href="https://github.com/moul/actions-base">moul/actions-base</a> -  (today)</li>
-  <li><a href="https://github.com/moul/quicssh">moul/quicssh</a> - SSH over QUIC (today)</li>
-  <li><a href="https://github.com/moul/bot">moul/bot</a> - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc) (today)</li>
-  <li><a href="https://github.com/moul/zapring">moul/zapring</a> - 💍 In-memory RING buffer backend for the Zap logger (today)</li>
-  <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - ⚡ zap logging driver for gorm v2 (today)</li>
   </ul>
 
   <h4>🚧 Things I did recently</h4>
@@ -95,11 +95,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/gudgl">gudgl</a>
   <li><a href="https://github.com/armstrongg1">armstrongg1</a>
   <li><a href="https://github.com/binarypheonix">binarypheonix</a>
   <li><a href="https://github.com/arthurvdiniz">arthurvdiniz</a>
   <li><a href="https://github.com/wrhall">wrhall</a>
-  <li><a href="https://github.com/magictour">magictour</a>
   </ul>
 
   <h4>💬 Feedback</h4>
