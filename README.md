@@ -24,10 +24,10 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/berty](https://github.com/berty/berty) ([v2.268.0](https://github.com/berty/berty/releases/tag/v2.268.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.1](https://github.com/moul/pipotron/releases/tag/v1.13.1), 1 day ago) - generic (&amp; funny?) text generator
 - [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.9.2](https://github.com/moul/gotty-client/releases/tag/v1.9.2), 1 day ago) - :wrench: terminal client for GoTTY
 - [moul/bot](https://github.com/moul/bot) ([v1.9.2](https://github.com/moul/bot/releases/tag/v1.9.2), 1 day ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
-- [berty/berty](https://github.com/berty/berty) ([v2.267.0](https://github.com/berty/berty/releases/tag/v2.267.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.0](https://github.com/moul/zapring/releases/tag/v1.3.0), 6 days ago) - 💍 In-memory RING buffer backend for the Zap logger
 - [alta/protopatch](https://github.com/alta/protopatch) ([v0.3.3](https://github.com/alta/protopatch/releases/tag/v0.3.3), 1 week ago) - protoc-gen-go patch utility
 - [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.2](https://github.com/moul/pkgman/releases/tag/v1.4.2), 2 weeks ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
