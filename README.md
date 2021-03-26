@@ -95,11 +95,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/Dzalevski">Dzalevski</a>
   <li><a href="https://github.com/esin">esin</a>
   <li><a href="https://github.com/ljluestc">ljluestc</a>
   <li><a href="https://github.com/gudgl">gudgl</a>
   <li><a href="https://github.com/armstrongg1">armstrongg1</a>
-  <li><a href="https://github.com/binarypheonix">binarypheonix</a>
   </ul>
 
   <h4>💬 Feedback</h4>
