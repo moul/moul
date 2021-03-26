@@ -55,22 +55,22 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - :tophat: simple, fun and transparent SSH (and telnet) bastion server (today)</li>
   <li><a href="https://github.com/moul/sh.moul.io">moul/sh.moul.io</a> - &#34;curl | sh&#34; friendly commands I run often (today)</li>
   <li><a href="https://github.com/moul/progress">moul/progress</a> - 🏗 progress, steps, completion patterns for golang (today)</li>
-  <li><a href="https://github.com/moul/actions-base">moul/actions-base</a> -  (1 day ago)</li>
-  <li><a href="https://github.com/moul/zapring">moul/zapring</a> - 💍 In-memory RING buffer backend for the Zap logger (1 day ago)</li>
-  <li><a href="https://github.com/moul/anonuuid">moul/anonuuid</a> - :wrench: Anonymize UUIDs outputs (written in Golang) (1 day ago)</li>
-  <li><a href="https://github.com/moul/bot">moul/bot</a> - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc) (1 day ago)</li>
   <li><a href="https://github.com/moul/pipotron">moul/pipotron</a> - generic (&amp; funny?) text generator (1 day ago)</li>
   <li><a href="https://github.com/moul/number-to-words">moul/number-to-words</a> - convert number into words (english, french, italian, roman, spanish, portuguese, belgium, dutch, swedish, polish, russian, iranian, roman, aegean) (1 day ago)</li>
+  <li><a href="https://github.com/moul/zapring">moul/zapring</a> - 💍 In-memory RING buffer backend for the Zap logger (1 day ago)</li>
+  <li><a href="https://github.com/moul/bot">moul/bot</a> - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc) (1 day ago)</li>
+  <li><a href="https://github.com/moul/actions-base">moul/actions-base</a> -  (1 day ago)</li>
+  <li><a href="https://github.com/moul/anonuuid">moul/anonuuid</a> - :wrench: Anonymize UUIDs outputs (written in Golang) (1 day ago)</li>
   </ul>
 
   <h4>🚧 Things I did recently</h4>
   <ul>
   
+  <li><a href="https://wip.co/@moul/todos/181172">📻  daily &#34;Hacker News Café&#34; on ClubHouse&#34;</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/181142">🐙  yesterday on GitHub #oss</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/181117">📫  from 2000 to 125 unread notifications on GitHub :)</a> (1 day ago)</li>
   <li><a href="https://wip.co/@moul/todos/181089">📻  daily &#34;Hacker News Café&#34; on ClubHouse&#34;</a> (1 day ago)</li>
   <li><a href="https://wip.co/@moul/todos/181044">🐙  yesterday on GitHub #oss</a> (1 day ago)</li>
-  <li><a href="https://wip.co/@moul/todos/181006">📻  daily &#34;Hacker News Café&#34; on ClubHouse&#34;</a> (2 days ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
