@@ -51,16 +51,16 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👷 Check out what I'm currently working on</h4>
   <ul>
   
-  <li><a href="https://github.com/berty/berty">berty/berty</a> - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network (today)</li>
   <li><a href="https://github.com/moul/progress">moul/progress</a> - 🏗 progress, steps, completion patterns for golang (today)</li>
-  <li><a href="https://github.com/moul/prefix">moul/prefix</a> - 🔴 prepend numbers, stats, dates, durations to streams (1 day ago)</li>
-  <li><a href="https://github.com/moul/number-to-words">moul/number-to-words</a> - convert number into words (english, french, italian, roman, spanish, portuguese, belgium, dutch, swedish, polish, russian, iranian, roman, aegean) (1 day ago)</li>
-  <li><a href="https://github.com/moul/quicssh">moul/quicssh</a> - SSH over QUIC (1 day ago)</li>
+  <li><a href="https://github.com/berty/berty">berty/berty</a> - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network (today)</li>
+  <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - :tophat: simple, fun and transparent SSH (and telnet) bastion server (today)</li>
   <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - ⚡ zap logging driver for gorm v2 (1 day ago)</li>
-  <li><a href="https://github.com/moul/anonuuid">moul/anonuuid</a> - :wrench: Anonymize UUIDs outputs (written in Golang) (1 day ago)</li>
-  <li><a href="https://github.com/moul/bot">moul/bot</a> - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc) (1 day ago)</li>
-  <li><a href="https://github.com/moul/pipotron">moul/pipotron</a> - generic (&amp; funny?) text generator (1 day ago)</li>
   <li><a href="https://github.com/moul/actions-base">moul/actions-base</a> -  (1 day ago)</li>
+  <li><a href="https://github.com/moul/zapring">moul/zapring</a> - 💍 In-memory RING buffer backend for the Zap logger (1 day ago)</li>
+  <li><a href="https://github.com/moul/number-to-words">moul/number-to-words</a> - convert number into words (english, french, italian, roman, spanish, portuguese, belgium, dutch, swedish, polish, russian, iranian, roman, aegean) (1 day ago)</li>
+  <li><a href="https://github.com/moul/bot">moul/bot</a> - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc) (1 day ago)</li>
+  <li><a href="https://github.com/moul/anonuuid">moul/anonuuid</a> - :wrench: Anonymize UUIDs outputs (written in Golang) (1 day ago)</li>
+  <li><a href="https://github.com/moul/quicssh">moul/quicssh</a> - SSH over QUIC (1 day ago)</li>
   </ul>
 
   <h4>🚧 Things I did recently</h4>
