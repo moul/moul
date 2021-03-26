@@ -24,16 +24,16 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.0.3](https://github.com/moul/zapgorm2/releases/tag/v1.0.3), today) - ⚡ zap logging driver for gorm v2
+- [moul/bot](https://github.com/moul/bot) ([v1.9.3](https://github.com/moul/bot/releases/tag/v1.9.3), today) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
+- [moul/anonuuid](https://github.com/moul/anonuuid) ([v1.3.2](https://github.com/moul/anonuuid/releases/tag/v1.3.2), today) - :wrench: Anonymize UUIDs outputs (written in Golang)
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.0](https://github.com/moul/sshportal/releases/tag/v1.18.0), today) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.1](https://github.com/moul/grpcbin/releases/tag/v1.0.1), today) - httpbin like for gRPC
 - [berty/berty](https://github.com/berty/berty) ([v2.268.0](https://github.com/berty/berty/releases/tag/v2.268.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.1](https://github.com/moul/pipotron/releases/tag/v1.13.1), 1 day ago) - generic (&amp; funny?) text generator
 - [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.9.2](https://github.com/moul/gotty-client/releases/tag/v1.9.2), 1 day ago) - :wrench: terminal client for GoTTY
-- [moul/bot](https://github.com/moul/bot) ([v1.9.2](https://github.com/moul/bot/releases/tag/v1.9.2), 1 day ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.0](https://github.com/moul/zapring/releases/tag/v1.3.0), 6 days ago) - 💍 In-memory RING buffer backend for the Zap logger
 - [alta/protopatch](https://github.com/alta/protopatch) ([v0.3.3](https://github.com/alta/protopatch/releases/tag/v0.3.3), 1 week ago) - protoc-gen-go patch utility
-- [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.2](https://github.com/moul/pkgman/releases/tag/v1.4.2), 2 weeks ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
-- [bump-sh/github-action](https://github.com/bump-sh/github-action) ([0.2](https://github.com/bump-sh/github-action/releases/tag/0.2), 3 weeks ago) - GitHub action to deploy your API documentation on Bump
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -51,13 +51,13 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👷 Check out what I'm currently working on</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/progress">moul/progress</a> - 🏗 progress, steps, completion patterns for golang (today)</li>
-  <li><a href="https://github.com/moul/grpcbin">moul/grpcbin</a> - httpbin like for gRPC (today)</li>
-  <li><a href="https://github.com/moul/moulsay">moul/moulsay</a> - Egocentric &#34;cowsay&#34; alternative (today)</li>
-  <li><a href="https://github.com/moul/graphman">moul/graphman</a> - graph manipulation library in golang (pert, cpm, dijkstra, ...) (today)</li>
-  <li><a href="https://github.com/moul/sh.moul.io">moul/sh.moul.io</a> - &#34;curl | sh&#34; friendly commands I run often (today)</li>
   <li><a href="https://github.com/moul/dl">moul/dl</a> - Static binary downloader that can find a writable directory in the $PATH (today)</li>
-  <li><a href="https://github.com/moul/actions-base">moul/actions-base</a> -  (today)</li>
+  <li><a href="https://github.com/moul/generate-fake-data">moul/generate-fake-data</a> - 🧬 CLI to generate fake data for testing (today)</li>
+  <li><a href="https://github.com/moul/sh.moul.io">moul/sh.moul.io</a> - &#34;curl | sh&#34; friendly commands I run often (today)</li>
+  <li><a href="https://github.com/moul/anonuuid">moul/anonuuid</a> - :wrench: Anonymize UUIDs outputs (written in Golang) (today)</li>
+  <li><a href="https://github.com/moul/graphman">moul/graphman</a> - graph manipulation library in golang (pert, cpm, dijkstra, ...) (today)</li>
+  <li><a href="https://github.com/moul/grpcbin">moul/grpcbin</a> - httpbin like for gRPC (today)</li>
+  <li><a href="https://github.com/moul/cryptoguess">moul/cryptoguess</a> - Automatically detect and parse cryptography keys (today)</li>
   <li><a href="https://github.com/moul/bot">moul/bot</a> - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc) (today)</li>
   <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - :tophat: simple, fun and transparent SSH (and telnet) bastion server (today)</li>
   <li><a href="https://github.com/berty/berty">berty/berty</a> - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network (today)</li>
@@ -66,11 +66,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
+  <li><a href="https://wip.co/@moul/todos/181205">🐙  daily GitHub maintenance #oss</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/181175">🐙  daily GitHub maintenance #oss</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/181172">📻  daily &#34;Hacker News Café&#34; on ClubHouse&#34;</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/181142">🐙  yesterday on GitHub #oss</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/181117">📫  from 2000 to 125 unread notifications on GitHub :)</a> (1 day ago)</li>
-  <li><a href="https://wip.co/@moul/todos/181089">📻  daily &#34;Hacker News Café&#34; on ClubHouse&#34;</a> (1 day ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
