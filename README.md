@@ -51,12 +51,12 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👷 Check out what I'm currently working on</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/dl">moul/dl</a> - Static binary downloader that can find a writable directory in the $PATH (1 day ago)</li>
+  <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ... (today)</li>
+  <li><a href="https://github.com/moul/progress">moul/progress</a> - 🏗 progress, steps, completion patterns for golang (1 day ago)</li>
   <li><a href="https://github.com/moul/generate-fake-data">moul/generate-fake-data</a> - 🧬 CLI to generate fake data for testing (1 day ago)</li>
-  <li><a href="https://github.com/moul/sh.moul.io">moul/sh.moul.io</a> - &#34;curl | sh&#34; friendly commands I run often (1 day ago)</li>
   <li><a href="https://github.com/moul/anonuuid">moul/anonuuid</a> - :wrench: Anonymize UUIDs outputs (written in Golang) (1 day ago)</li>
   <li><a href="https://github.com/moul/graphman">moul/graphman</a> - graph manipulation library in golang (pert, cpm, dijkstra, ...) (1 day ago)</li>
-  <li><a href="https://github.com/moul/grpcbin">moul/grpcbin</a> - httpbin like for gRPC (1 day ago)</li>
+  <li><a href="https://github.com/moul/sh.moul.io">moul/sh.moul.io</a> - &#34;curl | sh&#34; friendly commands I run often (1 day ago)</li>
   <li><a href="https://github.com/moul/cryptoguess">moul/cryptoguess</a> - Automatically detect and parse cryptography keys (1 day ago)</li>
   <li><a href="https://github.com/moul/bot">moul/bot</a> - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc) (1 day ago)</li>
   <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - :tophat: simple, fun and transparent SSH (and telnet) bastion server (1 day ago)</li>
@@ -66,11 +66,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
+  <li><a href="https://wip.co/@moul/todos/181242">🐙  yesterday on GitHub #oss</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/181205">🐙  daily GitHub maintenance #oss</a> (1 day ago)</li>
   <li><a href="https://wip.co/@moul/todos/181175">🐙  daily GitHub maintenance #oss</a> (1 day ago)</li>
   <li><a href="https://wip.co/@moul/todos/181172">📻  daily &#34;Hacker News Café&#34; on ClubHouse&#34;</a> (1 day ago)</li>
   <li><a href="https://wip.co/@moul/todos/181142">🐙  yesterday on GitHub #oss</a> (1 day ago)</li>
-  <li><a href="https://wip.co/@moul/todos/181117">📫  from 2000 to 125 unread notifications on GitHub :)</a> (2 days ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
@@ -95,11 +95,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/Bitcoin-ls-No-Toy-Anymore">Bitcoin-ls-No-Toy-Anymore</a>
   <li><a href="https://github.com/iczc">iczc</a>
   <li><a href="https://github.com/Dzalevski">Dzalevski</a>
   <li><a href="https://github.com/esin">esin</a>
   <li><a href="https://github.com/ljluestc">ljluestc</a>
-  <li><a href="https://github.com/gudgl">gudgl</a>
   </ul>
 
   <h4>💬 Feedback</h4>
