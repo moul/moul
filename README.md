@@ -51,12 +51,12 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👷 Check out what I'm currently working on</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;) (today)</li>
   <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ... (today)</li>
   <li><a href="https://github.com/moul/progress">moul/progress</a> - 🏗 progress, steps, completion patterns for golang (1 day ago)</li>
-  <li><a href="https://github.com/moul/generate-fake-data">moul/generate-fake-data</a> - 🧬 CLI to generate fake data for testing (1 day ago)</li>
   <li><a href="https://github.com/moul/anonuuid">moul/anonuuid</a> - :wrench: Anonymize UUIDs outputs (written in Golang) (1 day ago)</li>
   <li><a href="https://github.com/moul/graphman">moul/graphman</a> - graph manipulation library in golang (pert, cpm, dijkstra, ...) (1 day ago)</li>
-  <li><a href="https://github.com/moul/sh.moul.io">moul/sh.moul.io</a> - &#34;curl | sh&#34; friendly commands I run often (1 day ago)</li>
+  <li><a href="https://github.com/moul/generate-fake-data">moul/generate-fake-data</a> - 🧬 CLI to generate fake data for testing (1 day ago)</li>
   <li><a href="https://github.com/moul/cryptoguess">moul/cryptoguess</a> - Automatically detect and parse cryptography keys (1 day ago)</li>
   <li><a href="https://github.com/moul/bot">moul/bot</a> - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc) (1 day ago)</li>
   <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - :tophat: simple, fun and transparent SSH (and telnet) bastion server (1 day ago)</li>
