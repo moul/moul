@@ -51,13 +51,13 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👷 Check out what I'm currently working on</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/prefix">moul/prefix</a> - 🔴 prepend numbers, stats, dates, durations to streams (today)</li>
-  <li><a href="https://github.com/moul/progress">moul/progress</a> - 🏗 progress, steps, completion patterns for golang (today)</li>
-  <li><a href="https://github.com/moul/retry">moul/retry</a> - :shell: retry shell commands (today)</li>
-  <li><a href="https://github.com/moul/captcha">moul/captcha</a> - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI (today)</li>
-  <li><a href="https://github.com/moul/roundtripper">moul/roundtripper</a> - implementation of http.RoundTripper/Transport with extra helpers (today)</li>
+  <li><a href="https://github.com/moul/cryptoguess">moul/cryptoguess</a> - Automatically detect and parse cryptography keys (today)</li>
+  <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ... (today)</li>
+  <li><a href="https://github.com/moul/http2curl">moul/http2curl</a> - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line (today)</li>
   <li><a href="https://github.com/moul/openfiles">moul/openfiles</a> - return stats about amount of currently opened files (related with syscall.NOFILE) (today)</li>
-  <li><a href="https://github.com/moul/test-github-actions">moul/test-github-actions</a> - 🤒 Dummy repo to experiment with GitHub actions (today)</li>
+  <li><a href="https://github.com/moul/zapconfig">moul/zapconfig</a> - ⚡ Opinionated presets for Uber&#39;s Zap logging go library (today)</li>
+  <li><a href="https://github.com/moul/retry">moul/retry</a> - :shell: retry shell commands (today)</li>
+  <li><a href="https://github.com/moul/roundtripper">moul/roundtripper</a> - implementation of http.RoundTripper/Transport with extra helpers (today)</li>
   <li><a href="https://github.com/moul/quicssh">moul/quicssh</a> - SSH over QUIC (today)</li>
   <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - :tophat: simple, fun and transparent SSH (and telnet) bastion server (today)</li>
   <li><a href="https://github.com/moul/u">moul/u</a> - Go common utility functions (today)</li>
