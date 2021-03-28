@@ -31,12 +31,14 @@
 For more information, see [the sponsors page](https://github.com/sponsors/moul/).
 
 <details>
+<!--
   <h4>👷 Check out what I'm currently working on</h4>
   <ul>
   {{range recentContributions 10}}
   <li><a href="{{.Repo.URL}}">{{.Repo.Name}}</a> - {{.Repo.Description}} ({{humanize .OccurredAt}})</li>
   {{- end}}
   </ul>
+-->
 
   <h4>🚧 Things I did recently</h4>
   <ul>
