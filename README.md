@@ -24,16 +24,16 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.1](https://github.com/moul/sshportal/releases/tag/v1.18.1), today) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
+- [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.1](https://github.com/moul/http2curl/releases/tag/v2.2.1), today) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/converter](https://github.com/moul/converter) ([v1.2.0](https://github.com/moul/converter/releases/tag/v1.2.0), 1 day ago) - :scissors: multiformat data conversion
 - [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.9.3](https://github.com/moul/gotty-client/releases/tag/v1.9.3), 1 day ago) - :wrench: terminal client for GoTTY
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.2](https://github.com/moul/grpcbin/releases/tag/v1.0.2), 1 day ago) - httpbin like for gRPC
 - [moul/bot](https://github.com/moul/bot) ([v1.9.4](https://github.com/moul/bot/releases/tag/v1.9.4), 1 day ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.0.3](https://github.com/moul/zapgorm2/releases/tag/v1.0.3), 2 days ago) - ⚡ zap logging driver for gorm v2
 - [moul/anonuuid](https://github.com/moul/anonuuid) ([v1.3.2](https://github.com/moul/anonuuid/releases/tag/v1.3.2), 2 days ago) - :wrench: Anonymize UUIDs outputs (written in Golang)
-- [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.0](https://github.com/moul/sshportal/releases/tag/v1.18.0), 2 days ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [berty/berty](https://github.com/berty/berty) ([v2.268.0](https://github.com/berty/berty/releases/tag/v2.268.0), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.1](https://github.com/moul/pipotron/releases/tag/v1.13.1), 3 days ago) - generic (&amp; funny?) text generator
-- [moul/zapring](https://github.com/moul/zapring) ([v1.3.0](https://github.com/moul/zapring/releases/tag/v1.3.0), 1 week ago) - 💍 In-memory RING buffer backend for the Zap logger
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -52,14 +52,14 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <ul>
   
   <li><a href="https://github.com/moul/prefix">moul/prefix</a> - 🔴 prepend numbers, stats, dates, durations to streams (today)</li>
+  <li><a href="https://github.com/moul/progress">moul/progress</a> - 🏗 progress, steps, completion patterns for golang (today)</li>
   <li><a href="https://github.com/moul/cryptoguess">moul/cryptoguess</a> - Automatically detect and parse cryptography keys (today)</li>
   <li><a href="https://github.com/moul/test-github-actions">moul/test-github-actions</a> - 🤒 Dummy repo to experiment with GitHub actions (today)</li>
-  <li><a href="https://github.com/moul/grpcbin">moul/grpcbin</a> - httpbin like for gRPC (today)</li>
   <li><a href="https://github.com/moul/roundtripper">moul/roundtripper</a> - implementation of http.RoundTripper/Transport with extra helpers (today)</li>
   <li><a href="https://github.com/moul/openfiles">moul/openfiles</a> - return stats about amount of currently opened files (related with syscall.NOFILE) (today)</li>
   <li><a href="https://github.com/moul/captcha">moul/captcha</a> - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI (today)</li>
-  <li><a href="https://github.com/moul/testman">moul/testman</a> - 😎 `go test` wrapper for advanced testing workflows in Go (today)</li>
-  <li><a href="https://github.com/moul/hacker-typing">moul/hacker-typing</a> - ☠️🏴‍☠️🦜 impress your friends :) (today)</li>
+  <li><a href="https://github.com/moul/retry">moul/retry</a> - :shell: retry shell commands (today)</li>
+  <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - :tophat: simple, fun and transparent SSH (and telnet) bastion server (today)</li>
   <li><a href="https://github.com/moul/u">moul/u</a> - Go common utility functions (today)</li>
   </ul>
 
