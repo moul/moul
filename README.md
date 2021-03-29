@@ -24,11 +24,11 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.2](https://github.com/moul/http2curl/releases/tag/v2.2.2), today) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.10.0](https://github.com/moul/gotty-client/releases/tag/v1.10.0), today) - :wrench: terminal client for GoTTY
 - [berty/berty](https://github.com/berty/berty) ([v2.269.0](https://github.com/berty/berty/releases/tag/v2.269.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/captcha](https://github.com/moul/captcha) ([v1.1.0](https://github.com/moul/captcha/releases/tag/v1.1.0), 1 day ago) - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.1](https://github.com/moul/sshportal/releases/tag/v1.18.1), 1 day ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-- [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.1](https://github.com/moul/http2curl/releases/tag/v2.2.1), 1 day ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/converter](https://github.com/moul/converter) ([v1.2.0](https://github.com/moul/converter/releases/tag/v1.2.0), 2 days ago) - :scissors: multiformat data conversion
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.2](https://github.com/moul/grpcbin/releases/tag/v1.0.2), 2 days ago) - httpbin like for gRPC
 - [moul/bot](https://github.com/moul/bot) ([v1.9.4](https://github.com/moul/bot/releases/tag/v1.9.4), 2 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
@@ -53,11 +53,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
+  <li><a href="https://wip.co/@moul/todos/181520">🐙  daily GitHub maintenance #oss</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/181497">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/181496">👥  weekly sync with #berty team</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/181429">🐙  yesterday on GitHub #oss</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/181322">🐙  yesterday on GitHub #oss</a> (1 day ago)</li>
-  <li><a href="https://wip.co/@moul/todos/181242">🐙  yesterday on GitHub #oss</a> (2 days ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
