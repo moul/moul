@@ -41,9 +41,9 @@
 
 - [creack](https://github.com/creack) (7 months ago)
 - [shawnharmsen](https://github.com/shawnharmsen) (8 months ago)
+- [zxxma](https://github.com/zxxma) (1 year ago)
 - [le-du6](https://github.com/le-du6) (1 year ago)
 - [Z-a-r-a-k-i](https://github.com/Z-a-r-a-k-i) (1 year ago)
-- [alexsland](https://github.com/alexsland) (1 year ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/moul/).
 
