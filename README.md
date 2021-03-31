@@ -11,6 +11,7 @@
 #### 🌱 My latest projects
 
 
+- [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) - useless alfred workflow used as a test to find a good project structure
 - [moul/zapring](https://github.com/moul/zapring) - 💍 In-memory RING buffer backend for the Zap logger
 - [moul/captcha](https://github.com/moul/captcha) - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
 - [moul/progress](https://github.com/moul/progress) - 🏗 progress, steps, completion patterns for golang
@@ -20,7 +21,6 @@
 - [moul/make-lol](https://github.com/moul/make-lol) - 🎺 make &#39;make&#39; fun again
 - [moul/berty-library-test](https://github.com/moul/berty-library-test) - 🧪 dummy repo that imports berty as a library, linked with a CI, to check if everything related to versioning is not broken
 - [moul/scaleway-cli-v1](https://github.com/moul/scaleway-cli-v1) - 💻  Command Line Interface for Scaleway [Initial version]
-- [moul/generate-fake-data](https://github.com/moul/generate-fake-data) - 🧬 CLI to generate fake data for testing
 
 #### 🔭 Recent Releases I Worked On
 
