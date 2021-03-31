@@ -53,11 +53,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
+  <li><a href="https://wip.co/@moul/todos/181669">🐙  yesterday on GitHub #oss</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/181659">🖼  first NFT bid on @levelsio&#39;s experiment #life (https://twitter.com/moul/status/1377014197121396740)</a> (1 day ago)</li>
   <li><a href="https://wip.co/@moul/todos/181635">🐙  daily GitHub maintenance #oss</a> (1 day ago)</li>
   <li><a href="https://wip.co/@moul/todos/181634">📻  daily &#34;Hacker News Café&#34; on ClubHouse&#34;</a> (1 day ago)</li>
   <li><a href="https://wip.co/@moul/todos/181564">🐙  yesterday on GitHub #oss</a> (1 day ago)</li>
-  <li><a href="https://wip.co/@moul/todos/181520">🐙  daily GitHub maintenance #oss</a> (2 days ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
