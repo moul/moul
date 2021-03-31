@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/bot](https://github.com/moul/bot) ([v1.9.5](https://github.com/moul/bot/releases/tag/v1.9.5), today) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.3](https://github.com/moul/grpcbin/releases/tag/v1.0.3), 1 day ago) - httpbin like for gRPC
 - [berty/berty](https://github.com/berty/berty) ([v2.270.0](https://github.com/berty/berty/releases/tag/v2.270.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.2](https://github.com/moul/http2curl/releases/tag/v2.2.2), 2 days ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
@@ -31,7 +32,6 @@
 - [moul/captcha](https://github.com/moul/captcha) ([v1.1.0](https://github.com/moul/captcha/releases/tag/v1.1.0), 3 days ago) - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.1](https://github.com/moul/sshportal/releases/tag/v1.18.1), 3 days ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [moul/converter](https://github.com/moul/converter) ([v1.2.0](https://github.com/moul/converter/releases/tag/v1.2.0), 4 days ago) - :scissors: multiformat data conversion
-- [moul/bot](https://github.com/moul/bot) ([v1.9.4](https://github.com/moul/bot/releases/tag/v1.9.4), 4 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.0.3](https://github.com/moul/zapgorm2/releases/tag/v1.0.3), 5 days ago) - ⚡ zap logging driver for gorm v2
 - [moul/anonuuid](https://github.com/moul/anonuuid) ([v1.3.2](https://github.com/moul/anonuuid/releases/tag/v1.3.2), 5 days ago) - :wrench: Anonymize UUIDs outputs (written in Golang)
 
