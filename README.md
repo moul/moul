@@ -24,9 +24,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/berty](https://github.com/berty/berty) ([v2.270.2](https://github.com/berty/berty/releases/tag/v2.270.2), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/bot](https://github.com/moul/bot) ([v1.9.5](https://github.com/moul/bot/releases/tag/v1.9.5), today) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.3](https://github.com/moul/grpcbin/releases/tag/v1.0.3), 1 day ago) - httpbin like for gRPC
-- [berty/berty](https://github.com/berty/berty) ([v2.270.0](https://github.com/berty/berty/releases/tag/v2.270.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.2](https://github.com/moul/http2curl/releases/tag/v2.2.2), 2 days ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.10.0](https://github.com/moul/gotty-client/releases/tag/v1.10.0), 2 days ago) - :wrench: terminal client for GoTTY
 - [moul/captcha](https://github.com/moul/captcha) ([v1.1.0](https://github.com/moul/captcha/releases/tag/v1.1.0), 3 days ago) - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
