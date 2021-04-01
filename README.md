@@ -53,11 +53,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
+  <li><a href="https://wip.co/@moul/todos/181800">💼  Auditing a startup studio focused on social consumer experiences #missions</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/181783">🐙  yesterday on GitHub #oss</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/181743">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (1 day ago)</li>
   <li><a href="https://wip.co/@moul/todos/181669">🐙  yesterday on GitHub #oss</a> (1 day ago)</li>
   <li><a href="https://wip.co/@moul/todos/181659">🖼  first NFT bid on @levelsio&#39;s experiment #life (https://twitter.com/moul/status/1377014197121396740)</a> (2 days ago)</li>
-  <li><a href="https://wip.co/@moul/todos/181635">🐙  daily GitHub maintenance #oss</a> (2 days ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
@@ -82,11 +82,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/gaius-qi">gaius-qi</a>
   <li><a href="https://github.com/ChenHaoHu">ChenHaoHu</a>
   <li><a href="https://github.com/knight0zh">knight0zh</a>
   <li><a href="https://github.com/chuhemiao">chuhemiao</a>
   <li><a href="https://github.com/ppd0705">ppd0705</a>
-  <li><a href="https://github.com/starbuling-l">starbuling-l</a>
   </ul>
 
   <h4>💬 Feedback</h4>
