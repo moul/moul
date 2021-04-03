@@ -53,11 +53,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
+  <li><a href="https://wip.co/@moul/todos/182000">🚧  wip alfred workflow with go #oss</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/181972">🐙  yesterday on GitHub #oss</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/181903">🌴  #berty offsite</a> (1 day ago)</li>
   <li><a href="https://wip.co/@moul/todos/181890">🐙  yesterday on GitHub #oss</a> (1 day ago)</li>
   <li><a href="https://wip.co/@moul/todos/181800">💼  Auditing a startup studio focused on social consumer experiences #missions</a> (2 days ago)</li>
-  <li><a href="https://wip.co/@moul/todos/181783">🐙  yesterday on GitHub #oss</a> (2 days ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
