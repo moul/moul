@@ -14,13 +14,13 @@
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) - useless alfred workflow used as a test to find a good project structure
 - [moul/zapring](https://github.com/moul/zapring) - 💍 In-memory RING buffer backend for the Zap logger
 - [moul/captcha](https://github.com/moul/captcha) - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
+- [moul/nixpkgs](https://github.com/moul/nixpkgs) - WIP personal nix config
 - [moul/progress](https://github.com/moul/progress) - 🏗 progress, steps, completion patterns for golang
 - [moul/test-github-actions](https://github.com/moul/test-github-actions) - 🤒 Dummy repo to experiment with GitHub actions
 - [moul/git-ci](https://github.com/moul/git-ci) - ♐ git subcommand to interract with CI/CD from command line
 - [moul/zapconfig](https://github.com/moul/zapconfig) - ⚡ Opinionated presets for Uber&#39;s Zap logging go library
 - [moul/make-lol](https://github.com/moul/make-lol) - 🎺 make &#39;make&#39; fun again
 - [moul/berty-library-test](https://github.com/moul/berty-library-test) - 🧪 dummy repo that imports berty as a library, linked with a CI, to check if everything related to versioning is not broken
-- [moul/scaleway-cli-v1](https://github.com/moul/scaleway-cli-v1) - 💻  Command Line Interface for Scaleway [Initial version]
 
 #### 🔭 Recent Releases I Worked On
 
