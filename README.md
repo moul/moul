@@ -53,11 +53,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
+  <li><a href="https://wip.co/@moul/todos/182062">📦  open-source my nix config #oss (https://github.com/moul/nixpkgs)</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/182037">🐙  yesterday on GitHub #oss</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/182000">🚧  wip alfred workflow with go #oss</a> (1 day ago)</li>
   <li><a href="https://wip.co/@moul/todos/181972">🐙  yesterday on GitHub #oss</a> (1 day ago)</li>
   <li><a href="https://wip.co/@moul/todos/181903">🌴  #berty offsite</a> (2 days ago)</li>
-  <li><a href="https://wip.co/@moul/todos/181890">🐙  yesterday on GitHub #oss</a> (2 days ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
