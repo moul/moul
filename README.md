@@ -24,8 +24,8 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/berty](https://github.com/berty/berty) ([v2.270.3](https://github.com/berty/berty/releases/tag/v2.270.3), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.1](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.1), 2 days ago) - useless alfred workflow used as a test to find a good project structure
-- [berty/berty](https://github.com/berty/berty) ([v2.270.2](https://github.com/berty/berty/releases/tag/v2.270.2), 5 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/bot](https://github.com/moul/bot) ([v1.9.5](https://github.com/moul/bot/releases/tag/v1.9.5), 5 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.3](https://github.com/moul/grpcbin/releases/tag/v1.0.3), 6 days ago) - httpbin like for gRPC
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.2](https://github.com/moul/http2curl/releases/tag/v2.2.2), 1 week ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
