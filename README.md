@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.270.3](https://github.com/berty/berty/releases/tag/v2.270.3), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/berty](https://github.com/berty/berty) ([v2.271.0](https://github.com/berty/berty/releases/tag/v2.271.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.1](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.1), 3 days ago) - useless alfred workflow used as a test to find a good project structure
 - [moul/bot](https://github.com/moul/bot) ([v1.9.5](https://github.com/moul/bot/releases/tag/v1.9.5), 6 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.3](https://github.com/moul/grpcbin/releases/tag/v1.0.3), 1 week ago) - httpbin like for gRPC
@@ -53,11 +53,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
+  <li><a href="https://wip.co/@moul/todos/182277">💻  setup cron to auto-pull and restart some containers #berty</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/182255">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/182225">🐙  yesterday on GitHub #oss</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/182119">🐙  yesterday on GitHub #oss</a> (1 day ago)</li>
   <li><a href="https://wip.co/@moul/todos/182098">🔬  experimenting with expo</a> (2 days ago)</li>
-  <li><a href="https://wip.co/@moul/todos/182062">📦  open-source my nix config #oss (https://github.com/moul/nixpkgs)</a> (2 days ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
