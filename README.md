@@ -53,11 +53,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
+  <li><a href="https://wip.co/@moul/todos/182434">🐙  yesterday on GitHub #oss</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/182327">🐙  yesterday on GitHub #oss</a> (1 day ago)</li>
   <li><a href="https://wip.co/@moul/todos/182277">💻  setup cron to auto-pull and restart some containers #berty</a> (2 days ago)</li>
   <li><a href="https://wip.co/@moul/todos/182255">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (2 days ago)</li>
   <li><a href="https://wip.co/@moul/todos/182225">🐙  yesterday on GitHub #oss</a> (2 days ago)</li>
-  <li><a href="https://wip.co/@moul/todos/182119">🐙  yesterday on GitHub #oss</a> (3 days ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
