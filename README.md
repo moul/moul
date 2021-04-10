@@ -24,15 +24,15 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.271.2](https://github.com/berty/berty/releases/tag/v2.271.2), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.1](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.1), 6 days ago) - useless alfred workflow used as a test to find a good project structure
+- [berty/berty](https://github.com/berty/berty) ([v2.271.2](https://github.com/berty/berty/releases/tag/v2.271.2), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.1](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.1), 1 week ago) - useless alfred workflow used as a test to find a good project structure
 - [moul/bot](https://github.com/moul/bot) ([v1.9.5](https://github.com/moul/bot/releases/tag/v1.9.5), 1 week ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.3](https://github.com/moul/grpcbin/releases/tag/v1.0.3), 1 week ago) - httpbin like for gRPC
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.2](https://github.com/moul/http2curl/releases/tag/v2.2.2), 1 week ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.10.0](https://github.com/moul/gotty-client/releases/tag/v1.10.0), 1 week ago) - :wrench: terminal client for GoTTY
 - [moul/captcha](https://github.com/moul/captcha) ([v1.1.0](https://github.com/moul/captcha/releases/tag/v1.1.0), 1 week ago) - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.1](https://github.com/moul/sshportal/releases/tag/v1.18.1), 1 week ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-- [moul/converter](https://github.com/moul/converter) ([v1.2.0](https://github.com/moul/converter/releases/tag/v1.2.0), 1 week ago) - :scissors: multiformat data conversion
+- [moul/converter](https://github.com/moul/converter) ([v1.2.0](https://github.com/moul/converter/releases/tag/v1.2.0), 2 weeks ago) - :scissors: multiformat data conversion
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.0.3](https://github.com/moul/zapgorm2/releases/tag/v1.0.3), 2 weeks ago) - ⚡ zap logging driver for gorm v2
 
 
@@ -53,11 +53,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
-  <li><a href="https://wip.co/@moul/todos/182506">🐙  yesterday on GitHub #oss</a> (today)</li>
-  <li><a href="https://wip.co/@moul/todos/182434">🐙  yesterday on GitHub #oss</a> (1 day ago)</li>
-  <li><a href="https://wip.co/@moul/todos/182327">🐙  yesterday on GitHub #oss</a> (2 days ago)</li>
-  <li><a href="https://wip.co/@moul/todos/182277">💻  setup cron to auto-pull and restart some containers #berty</a> (3 days ago)</li>
-  <li><a href="https://wip.co/@moul/todos/182255">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (3 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/182506">🐙  yesterday on GitHub #oss</a> (1 day ago)</li>
+  <li><a href="https://wip.co/@moul/todos/182434">🐙  yesterday on GitHub #oss</a> (2 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/182327">🐙  yesterday on GitHub #oss</a> (3 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/182277">💻  setup cron to auto-pull and restart some containers #berty</a> (4 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/182255">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (4 days ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
