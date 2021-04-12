@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) ([v1.11.1](https://github.com/moul/protoc-gen-gotemplate/releases/tag/v1.11.1), today) - :open_file_folder: generic protocol generator based on golang&#39;s text/template (grpc/protobuf)
 - [berty/berty](https://github.com/berty/berty) ([v2.272.1](https://github.com/berty/berty/releases/tag/v2.272.1), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/bot](https://github.com/moul/bot) ([v1.9.6](https://github.com/moul/bot/releases/tag/v1.9.6), 1 day ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.4](https://github.com/moul/grpcbin/releases/tag/v1.0.4), 1 day ago) - httpbin like for gRPC
@@ -33,7 +34,6 @@
 - [moul/captcha](https://github.com/moul/captcha) ([v1.1.0](https://github.com/moul/captcha/releases/tag/v1.1.0), 2 weeks ago) - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.1](https://github.com/moul/sshportal/releases/tag/v1.18.1), 2 weeks ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [moul/converter](https://github.com/moul/converter) ([v1.2.0](https://github.com/moul/converter/releases/tag/v1.2.0), 2 weeks ago) - :scissors: multiformat data conversion
-- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.0.3](https://github.com/moul/zapgorm2/releases/tag/v1.0.3), 2 weeks ago) - ⚡ zap logging driver for gorm v2
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
