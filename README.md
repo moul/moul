@@ -11,6 +11,7 @@
 #### 🌱 My latest projects
 
 
+- [moul/expo-hello](https://github.com/moul/expo-hello) - 🚧 useless Expo app used as a test to find a good project structure
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) - 🚧 useless Alfred workflow used as a test to find a good project structure
 - [moul/zapring](https://github.com/moul/zapring) - 💍 In-memory RING buffer backend for the Zap logger
 - [moul/captcha](https://github.com/moul/captcha) - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
@@ -20,7 +21,6 @@
 - [moul/git-ci](https://github.com/moul/git-ci) - ♐ git subcommand to interract with CI/CD from command line
 - [moul/zapconfig](https://github.com/moul/zapconfig) - ⚡ Opinionated presets for Uber&#39;s Zap logging go library
 - [moul/make-lol](https://github.com/moul/make-lol) - 🎺 make &#39;make&#39; fun again
-- [moul/berty-library-test](https://github.com/moul/berty-library-test) - 🧪 dummy repo that imports berty as a library, linked with a CI, to check if everything related to versioning is not broken
 
 #### 🔭 Recent Releases I Worked On
 
