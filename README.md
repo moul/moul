@@ -24,10 +24,10 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [moul/protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) ([v1.11.1](https://github.com/moul/protoc-gen-gotemplate/releases/tag/v1.11.1), today) - :open_file_folder: generic protocol generator based on golang&#39;s text/template (grpc/protobuf)
-- [berty/berty](https://github.com/berty/berty) ([v2.272.1](https://github.com/berty/berty/releases/tag/v2.272.1), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/bot](https://github.com/moul/bot) ([v1.9.6](https://github.com/moul/bot/releases/tag/v1.9.6), 1 day ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
-- [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.4](https://github.com/moul/grpcbin/releases/tag/v1.0.4), 1 day ago) - httpbin like for gRPC
+- [moul/protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) ([v1.11.1](https://github.com/moul/protoc-gen-gotemplate/releases/tag/v1.11.1), 1 day ago) - :open_file_folder: generic protocol generator based on golang&#39;s text/template (grpc/protobuf)
+- [berty/berty](https://github.com/berty/berty) ([v2.272.1](https://github.com/berty/berty/releases/tag/v2.272.1), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/bot](https://github.com/moul/bot) ([v1.9.6](https://github.com/moul/bot/releases/tag/v1.9.6), 2 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
+- [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.4](https://github.com/moul/grpcbin/releases/tag/v1.0.4), 2 days ago) - httpbin like for gRPC
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.1](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.1), 1 week ago) - useless alfred workflow used as a test to find a good project structure
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.2](https://github.com/moul/http2curl/releases/tag/v2.2.2), 2 weeks ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.10.0](https://github.com/moul/gotty-client/releases/tag/v1.10.0), 2 weeks ago) - :wrench: terminal client for GoTTY
@@ -53,11 +53,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
-  <li><a href="https://wip.co/@moul/todos/182769">🐙  yesterday on GitHub #oss</a> (today)</li>
-  <li><a href="https://wip.co/@moul/todos/182688">🐙  yesterday on GitHub #oss</a> (1 day ago)</li>
-  <li><a href="https://wip.co/@moul/todos/182609">🐙  yesterday on GitHub #oss</a> (2 days ago)</li>
-  <li><a href="https://wip.co/@moul/todos/182506">🐙  yesterday on GitHub #oss</a> (3 days ago)</li>
-  <li><a href="https://wip.co/@moul/todos/182434">🐙  yesterday on GitHub #oss</a> (4 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/182769">🐙  yesterday on GitHub #oss</a> (1 day ago)</li>
+  <li><a href="https://wip.co/@moul/todos/182688">🐙  yesterday on GitHub #oss</a> (2 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/182609">🐙  yesterday on GitHub #oss</a> (3 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/182506">🐙  yesterday on GitHub #oss</a> (4 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/182434">🐙  yesterday on GitHub #oss</a> (5 days ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
