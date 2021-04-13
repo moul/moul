@@ -11,10 +11,10 @@
 #### 🌱 My latest projects
 
 
-- [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) - useless alfred workflow used as a test to find a good project structure
+- [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) - 🚧 useless Alfred workflow used as a test to find a good project structure
 - [moul/zapring](https://github.com/moul/zapring) - 💍 In-memory RING buffer backend for the Zap logger
 - [moul/captcha](https://github.com/moul/captcha) - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
-- [moul/nixpkgs](https://github.com/moul/nixpkgs) - WIP personal nix config
+- [moul/nixpkgs](https://github.com/moul/nixpkgs) - WIP 🧔 personal nix config
 - [moul/progress](https://github.com/moul/progress) - 🏗 progress, steps, completion patterns for golang
 - [moul/test-github-actions](https://github.com/moul/test-github-actions) - 🤒 Dummy repo to experiment with GitHub actions
 - [moul/git-ci](https://github.com/moul/git-ci) - ♐ git subcommand to interract with CI/CD from command line
@@ -24,11 +24,11 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [moul/protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) ([v1.11.1](https://github.com/moul/protoc-gen-gotemplate/releases/tag/v1.11.1), 1 day ago) - :open_file_folder: generic protocol generator based on golang&#39;s text/template (grpc/protobuf)
+- [moul/protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) ([v1.11.2](https://github.com/moul/protoc-gen-gotemplate/releases/tag/v1.11.2), today) - :open_file_folder: generic protocol generator based on golang&#39;s text/template (grpc/protobuf)
 - [berty/berty](https://github.com/berty/berty) ([v2.272.1](https://github.com/berty/berty/releases/tag/v2.272.1), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/bot](https://github.com/moul/bot) ([v1.9.6](https://github.com/moul/bot/releases/tag/v1.9.6), 2 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.4](https://github.com/moul/grpcbin/releases/tag/v1.0.4), 2 days ago) - httpbin like for gRPC
-- [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.1](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.1), 1 week ago) - useless alfred workflow used as a test to find a good project structure
+- [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.1](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.1), 1 week ago) - 🚧 useless Alfred workflow used as a test to find a good project structure
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.2](https://github.com/moul/http2curl/releases/tag/v2.2.2), 2 weeks ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.10.0](https://github.com/moul/gotty-client/releases/tag/v1.10.0), 2 weeks ago) - :wrench: terminal client for GoTTY
 - [moul/captcha](https://github.com/moul/captcha) ([v1.1.0](https://github.com/moul/captcha/releases/tag/v1.1.0), 2 weeks ago) - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
