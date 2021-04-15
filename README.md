@@ -15,7 +15,7 @@
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) - 🚧 useless Alfred workflow used as a test to find a good project structure
 - [moul/zapring](https://github.com/moul/zapring) - 💍 In-memory RING buffer backend for the Zap logger
 - [moul/captcha](https://github.com/moul/captcha) - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
-- [moul/nixpkgs](https://github.com/moul/nixpkgs) - WIP 🧔 personal nix config
+- [moul/nixpkgs](https://github.com/moul/nixpkgs) - 🧔 personal nix config #nixos
 - [moul/progress](https://github.com/moul/progress) - 🏗 progress, steps, completion patterns for golang
 - [moul/test-github-actions](https://github.com/moul/test-github-actions) - 🤒 Dummy repo to experiment with GitHub actions
 - [moul/git-ci](https://github.com/moul/git-ci) - ♐ git subcommand to interract with CI/CD from command line
