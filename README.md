@@ -11,6 +11,7 @@
 #### 🌱 My latest projects
 
 
+- [moul/macos-chess-com](https://github.com/moul/macos-chess-com) - ♟ Unofficial mac app for chess.com/@ChessCom
 - [moul/expo-hello](https://github.com/moul/expo-hello) - 🚧 useless Expo app used as a test to find a good project structure
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) - 🚧 useless Alfred workflow used as a test to find a good project structure
 - [moul/zapring](https://github.com/moul/zapring) - 💍 In-memory RING buffer backend for the Zap logger
@@ -20,7 +21,6 @@
 - [moul/test-github-actions](https://github.com/moul/test-github-actions) - 🤒 Dummy repo to experiment with GitHub actions
 - [moul/git-ci](https://github.com/moul/git-ci) - ♐ git subcommand to interract with CI/CD from command line
 - [moul/zapconfig](https://github.com/moul/zapconfig) - ⚡ Opinionated presets for Uber&#39;s Zap logging go library
-- [moul/make-lol](https://github.com/moul/make-lol) - 🎺 make &#39;make&#39; fun again
 
 #### 🔭 Recent Releases I Worked On
 
