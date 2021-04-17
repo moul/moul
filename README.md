@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.273.2](https://github.com/berty/berty/releases/tag/v2.273.2), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/berty](https://github.com/berty/berty) ([v2.273.3](https://github.com/berty/berty/releases/tag/v2.273.3), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) ([v1.11.2](https://github.com/moul/protoc-gen-gotemplate/releases/tag/v1.11.2), 4 days ago) - :open_file_folder: generic protocol generator based on golang&#39;s text/template (grpc/protobuf)
 - [moul/bot](https://github.com/moul/bot) ([v1.9.6](https://github.com/moul/bot/releases/tag/v1.9.6), 6 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.4](https://github.com/moul/grpcbin/releases/tag/v1.0.4), 6 days ago) - httpbin like for gRPC
