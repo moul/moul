@@ -11,7 +11,7 @@
 #### 🌱 My latest projects
 
 
-- [moul/macos-chess-com](https://github.com/moul/macos-chess-com) - ♟ Unofficial mac app for chess.com/@ChessCom
+- [moul/macos-chess-com](https://github.com/moul/macos-chess-com) - ♟ macOS app for chess.com/@ChessCom (unofficial)
 - [moul/expo-hello](https://github.com/moul/expo-hello) - 🚧 useless Expo app used as a test to find a good project structure
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) - 🚧 useless Alfred workflow used as a test to find a good project structure
 - [moul/zapring](https://github.com/moul/zapring) - 💍 In-memory RING buffer backend for the Zap logger
