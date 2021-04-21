@@ -24,26 +24,26 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.273.3](https://github.com/berty/berty/releases/tag/v2.273.3), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) ([v1.11.2](https://github.com/moul/protoc-gen-gotemplate/releases/tag/v1.11.2), 5 days ago) - :open_file_folder: generic protocol generator based on golang&#39;s text/template (grpc/protobuf)
+- [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.2](https://github.com/moul/pipotron/releases/tag/v1.13.2), today) - generic (&amp; funny?) text generator
+- [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.5](https://github.com/moul/grpcbin/releases/tag/v1.0.5), today) - httpbin like for gRPC
+- [berty/berty](https://github.com/berty/berty) ([v2.273.6](https://github.com/berty/berty/releases/tag/v2.273.6), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/progress](https://github.com/moul/progress) ([v1.4.0](https://github.com/moul/progress/releases/tag/v1.4.0), 2 days ago) - 🏗 progress, steps, completion patterns for golang
+- [moul/protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) ([v1.11.2](https://github.com/moul/protoc-gen-gotemplate/releases/tag/v1.11.2), 1 week ago) - :open_file_folder: generic protocol generator based on golang&#39;s text/template (grpc/protobuf)
 - [moul/bot](https://github.com/moul/bot) ([v1.9.6](https://github.com/moul/bot/releases/tag/v1.9.6), 1 week ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
-- [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.4](https://github.com/moul/grpcbin/releases/tag/v1.0.4), 1 week ago) - httpbin like for gRPC
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.1](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.1), 2 weeks ago) - 🚧 useless Alfred workflow used as a test to find a good project structure
-- [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.2](https://github.com/moul/http2curl/releases/tag/v2.2.2), 2 weeks ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
-- [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.10.0](https://github.com/moul/gotty-client/releases/tag/v1.10.0), 2 weeks ago) - :wrench: terminal client for GoTTY
+- [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.2](https://github.com/moul/http2curl/releases/tag/v2.2.2), 3 weeks ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
+- [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.10.0](https://github.com/moul/gotty-client/releases/tag/v1.10.0), 3 weeks ago) - :wrench: terminal client for GoTTY
 - [moul/captcha](https://github.com/moul/captcha) ([v1.1.0](https://github.com/moul/captcha/releases/tag/v1.1.0), 3 weeks ago) - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
-- [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.1](https://github.com/moul/sshportal/releases/tag/v1.18.1), 3 weeks ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-- [moul/converter](https://github.com/moul/converter) ([v1.2.0](https://github.com/moul/converter/releases/tag/v1.2.0), 3 weeks ago) - :scissors: multiformat data conversion
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
+- [mingcheng](https://github.com/mingcheng) (1 day ago)
 - [creack](https://github.com/creack) (8 months ago)
 - [shawnharmsen](https://github.com/shawnharmsen) (9 months ago)
 - [zxxma](https://github.com/zxxma) (1 year ago)
 - [le-du6](https://github.com/le-du6) (1 year ago)
-- [Z-a-r-a-k-i](https://github.com/Z-a-r-a-k-i) (1 year ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/moul/).
 
@@ -53,11 +53,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
-  <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (today)</li>
-  <li><a href="https://wip.co/@moul/todos/183268">🐙  yesterday on GitHub #oss</a> (1 day ago)</li>
-  <li><a href="https://wip.co/@moul/todos/183216">🇪🇪  estonian e-residency application #life</a> (2 days ago)</li>
-  <li><a href="https://wip.co/@moul/todos/183175">🐙  yesterday on GitHub #oss</a> (2 days ago)</li>
-  <li><a href="https://wip.co/@moul/todos/183082">🐙  yesterday on GitHub #oss</a> (3 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (2 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (3 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/183268">🐙  yesterday on GitHub #oss</a> (4 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/183216">🇪🇪  estonian e-residency application #life</a> (5 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/183175">🐙  yesterday on GitHub #oss</a> (5 days ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
@@ -82,11 +82,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
-  <li><a href="https://github.com/avinassh">avinassh</a>
-  <li><a href="https://github.com/Magicianred">Magicianred</a>
-  <li><a href="https://github.com/ageis">ageis</a>
-  <li><a href="https://github.com/cljoly">cljoly</a>
-  <li><a href="https://github.com/Spoukke">Spoukke</a>
+  <li><a href="https://github.com/sakul-budhathoki">sakul-budhathoki</a>
+  <li><a href="https://github.com/zxxma">zxxma</a>
+  <li><a href="https://github.com/deliangyang">deliangyang</a>
+  <li><a href="https://github.com/ljahier">ljahier</a>
+  <li><a href="https://github.com/mariliacamara">mariliacamara</a>
   </ul>
 
   <h4>💬 Feedback</h4>
