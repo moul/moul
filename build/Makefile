@@ -1,6 +1,6 @@
 all: readme calendars
 
-README: ../README.md
+readme: ../README.md
 calendars: ../calendar.svg
 calendars.deps:
 	bundle install
@@ -17,7 +17,7 @@ print:
 
 .PHONY: ../calendar.svg
 ../calendar.svg:
-	bundle exec githubchart -u moul > ../calendar.svg
+	bundle exec githubchart -u moul | xmllint --format - > ../calendar.svg
 
 nix:
 	nix-shell --run 'make all'
