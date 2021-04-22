@@ -3,14 +3,16 @@ name: Update Calendar
 on:
   push:
   schedule:
-    - cron: "15,45 */1 * * *"
+    - cron: "15 */2 * * *"
 
 jobs:
-  markscribe:
+  githubchart:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@master
+        with:
+          ref: ${{ github.head_ref }}
 
       - name: Install Nix
         uses: cachix/install-nix-action@v12
@@ -19,9 +21,17 @@ jobs:
           extra_nix_config: |
             experimental-features = nix-command flakes
 
-      - name: githubchart
-        working_directory: build
-        run: nix-shell --run make calendars
+      - name: install nix deps
+        working-directory: build
+        run: nix-shell --run 'ruby --version'
+
+      - name: make calendars.deps
+        working-directory: build
+        run: nix-shell --run 'make calendars.deps'
+
+      - name: make calendars
+        working-directory: build
+        run: nix-shell --run 'make calendars'
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:

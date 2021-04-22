@@ -2,6 +2,9 @@ all: readme calendars
 
 README: ../README.md
 calendars: ../calendar.svg
+calendars.deps:
+	bundle install
+
 
 ##
 
