@@ -4,6 +4,7 @@ let
   ruby = pkgs.ruby_2_7;
   bundler = pkgs.bundler.override { inherit ruby; };
   nokogiri = pkgs.rubyPackages.nokogiri.override { inherit ruby; };
+  libxml = pkgs.rubyPackages.libxml-ruby.override { inherit ruby; };
 in
 pkgs.mkShell {
   buildInputs = with pkgs; [
@@ -16,13 +17,15 @@ pkgs.mkShell {
 
     # nokogiri
     libxml2
+    libxml
     libiconv
     libxslt
     zlib
+    pkg-config
     nokogiri
   ];
   shellHook = ''
-    set -xe
+    set -e
     mkdir -p .local-data/gems
     export GEM_HOME=$PWD/.local-data/gems
     export GEM_PATH=$GEM_HOME
@@ -30,7 +33,7 @@ pkgs.mkShell {
     export XSLT_LIB=${pkgs.lib.makeLibraryPath [ pkgs.libxslt ]}
     export XML2_LIB=${pkgs.lib.makeLibraryPath [ pkgs.libxml2 ]}
     # curl -Lks 'https://git.io/rg-ssl' | ruby
-    #bundle config build.nokogiri --use-system-libraries --with-xslt-lib=$XSLT_LIB --with-xml2-lib=$XML2_LIB
-    gem install githubchart
+    bundle config build.nokogiri --use-system-libraries --with-xslt-lib=$XSLT_LIB --with-xml2-lib=$XML2_LIB
+    #bundle install
   '';
 }
