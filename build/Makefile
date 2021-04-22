@@ -1,4 +1,9 @@
-all: ../README.md ../calendar.svg
+all: readme calendars
+
+README: ../README.md
+calendars: ../calendar.svg
+
+##
 
 print:
 	go run github.com/muesli/markscribe README.md.tpl
