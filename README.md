@@ -24,9 +24,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/berty](https://github.com/berty/berty) ([v2.274.0](https://github.com/berty/berty/releases/tag/v2.274.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.2](https://github.com/moul/pipotron/releases/tag/v1.13.2), 1 day ago) - generic (&amp; funny?) text generator
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.5](https://github.com/moul/grpcbin/releases/tag/v1.0.5), 1 day ago) - httpbin like for gRPC
-- [berty/berty](https://github.com/berty/berty) ([v2.273.6](https://github.com/berty/berty/releases/tag/v2.273.6), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/progress](https://github.com/moul/progress) ([v1.4.0](https://github.com/moul/progress/releases/tag/v1.4.0), 3 days ago) - 🏗 progress, steps, completion patterns for golang
 - [moul/protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) ([v1.11.2](https://github.com/moul/protoc-gen-gotemplate/releases/tag/v1.11.2), 1 week ago) - :open_file_folder: generic protocol generator based on golang&#39;s text/template (grpc/protobuf)
 - [moul/bot](https://github.com/moul/bot) ([v1.9.6](https://github.com/moul/bot/releases/tag/v1.9.6), 1 week ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
