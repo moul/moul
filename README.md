@@ -24,10 +24,10 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.274.0](https://github.com/berty/berty/releases/tag/v2.274.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.2](https://github.com/moul/pipotron/releases/tag/v1.13.2), 1 day ago) - generic (&amp; funny?) text generator
-- [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.5](https://github.com/moul/grpcbin/releases/tag/v1.0.5), 1 day ago) - httpbin like for gRPC
-- [moul/progress](https://github.com/moul/progress) ([v1.4.0](https://github.com/moul/progress/releases/tag/v1.4.0), 3 days ago) - 🏗 progress, steps, completion patterns for golang
+- [berty/berty](https://github.com/berty/berty) ([v2.274.0](https://github.com/berty/berty/releases/tag/v2.274.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.2](https://github.com/moul/pipotron/releases/tag/v1.13.2), 2 days ago) - generic (&amp; funny?) text generator
+- [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.5](https://github.com/moul/grpcbin/releases/tag/v1.0.5), 2 days ago) - httpbin like for gRPC
+- [moul/progress](https://github.com/moul/progress) ([v1.4.0](https://github.com/moul/progress/releases/tag/v1.4.0), 4 days ago) - 🏗 progress, steps, completion patterns for golang
 - [moul/protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) ([v1.11.2](https://github.com/moul/protoc-gen-gotemplate/releases/tag/v1.11.2), 1 week ago) - :open_file_folder: generic protocol generator based on golang&#39;s text/template (grpc/protobuf)
 - [moul/bot](https://github.com/moul/bot) ([v1.9.6](https://github.com/moul/bot/releases/tag/v1.9.6), 1 week ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.1](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.1), 2 weeks ago) - 🚧 useless Alfred workflow used as a test to find a good project structure
@@ -39,7 +39,7 @@
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
-- [mingcheng](https://github.com/mingcheng) (2 days ago)
+- [mingcheng](https://github.com/mingcheng) (3 days ago)
 - [creack](https://github.com/creack) (8 months ago)
 - [shawnharmsen](https://github.com/shawnharmsen) (9 months ago)
 - [zxxma](https://github.com/zxxma) (1 year ago)
@@ -53,11 +53,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
-  <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (3 days ago)</li>
-  <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (4 days ago)</li>
-  <li><a href="https://wip.co/@moul/todos/183268">🐙  yesterday on GitHub #oss</a> (5 days ago)</li>
-  <li><a href="https://wip.co/@moul/todos/183216">🇪🇪  estonian e-residency application #life</a> (6 days ago)</li>
-  <li><a href="https://wip.co/@moul/todos/183175">🐙  yesterday on GitHub #oss</a> (6 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (4 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (5 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/183268">🐙  yesterday on GitHub #oss</a> (6 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/183216">🇪🇪  estonian e-residency application #life</a> (1 week ago)</li>
+  <li><a href="https://wip.co/@moul/todos/183175">🐙  yesterday on GitHub #oss</a> (1 week ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
