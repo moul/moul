@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/repoman](https://github.com/moul/repoman) ([v1.0.0](https://github.com/moul/repoman/releases/tag/v1.0.0), today) - 📋 repo manager: some scripts I run against my repos
 - [moul/u](https://github.com/moul/u) ([v1.21.0](https://github.com/moul/u/releases/tag/v1.21.0), 1 day ago) - Go common utility functions
 - [alta/protopatch](https://github.com/alta/protopatch) ([v0.3.4](https://github.com/alta/protopatch/releases/tag/v0.3.4), 1 day ago) - protoc-gen-go patch utility
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.73.0](https://github.com/pathwar/pathwar/releases/tag/v2.73.0), 1 day ago) - ☠️ The Pathwar Project ☠️
@@ -33,7 +34,6 @@
 - [moul/progress](https://github.com/moul/progress) ([v1.4.0](https://github.com/moul/progress/releases/tag/v1.4.0), 5 days ago) - 🏗 progress, steps, completion patterns for golang
 - [moul/protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) ([v1.11.2](https://github.com/moul/protoc-gen-gotemplate/releases/tag/v1.11.2), 1 week ago) - :open_file_folder: generic protocol generator based on golang&#39;s text/template (grpc/protobuf)
 - [moul/bot](https://github.com/moul/bot) ([v1.9.6](https://github.com/moul/bot/releases/tag/v1.9.6), 1 week ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
-- [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.1](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.1), 3 weeks ago) - 🚧 useless Alfred workflow used as a test to find a good project structure
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
