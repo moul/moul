@@ -24,9 +24,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/repoman](https://github.com/moul/repoman) ([v1.1.0](https://github.com/moul/repoman/releases/tag/v1.1.0), today) - 📋 repo manager: some scripts I run against my repos
 - [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.3](https://github.com/moul/pkgman/releases/tag/v1.4.3), today) - 📱 Package manipulation tool &amp; library (ipa, etc)
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.2](https://github.com/moul/sshportal/releases/tag/v1.18.2), today) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-- [moul/repoman](https://github.com/moul/repoman) ([v1.0.0](https://github.com/moul/repoman/releases/tag/v1.0.0), 1 day ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/u](https://github.com/moul/u) ([v1.21.0](https://github.com/moul/u/releases/tag/v1.21.0), 2 days ago) - Go common utility functions
 - [alta/protopatch](https://github.com/alta/protopatch) ([v0.3.4](https://github.com/alta/protopatch/releases/tag/v0.3.4), 2 days ago) - protoc-gen-go patch utility
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.73.0](https://github.com/pathwar/pathwar/releases/tag/v2.73.0), 2 days ago) - ☠️ The Pathwar Project ☠️
