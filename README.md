@@ -24,6 +24,8 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.3](https://github.com/moul/pkgman/releases/tag/v1.4.3), today) - 📱 Package manipulation tool &amp; library (ipa, etc)
+- [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.2](https://github.com/moul/sshportal/releases/tag/v1.18.2), today) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [moul/repoman](https://github.com/moul/repoman) ([v1.0.0](https://github.com/moul/repoman/releases/tag/v1.0.0), 1 day ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/u](https://github.com/moul/u) ([v1.21.0](https://github.com/moul/u/releases/tag/v1.21.0), 2 days ago) - Go common utility functions
 - [alta/protopatch](https://github.com/alta/protopatch) ([v0.3.4](https://github.com/alta/protopatch/releases/tag/v0.3.4), 2 days ago) - protoc-gen-go patch utility
@@ -32,8 +34,6 @@
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.2](https://github.com/moul/pipotron/releases/tag/v1.13.2), 4 days ago) - generic (&amp; funny?) text generator
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.5](https://github.com/moul/grpcbin/releases/tag/v1.0.5), 4 days ago) - httpbin like for gRPC
 - [moul/progress](https://github.com/moul/progress) ([v1.4.0](https://github.com/moul/progress/releases/tag/v1.4.0), 6 days ago) - 🏗 progress, steps, completion patterns for golang
-- [moul/protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) ([v1.11.2](https://github.com/moul/protoc-gen-gotemplate/releases/tag/v1.11.2), 1 week ago) - :open_file_folder: generic protocol generator based on golang&#39;s text/template (grpc/protobuf)
-- [moul/bot](https://github.com/moul/bot) ([v1.9.6](https://github.com/moul/bot/releases/tag/v1.9.6), 2 weeks ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
