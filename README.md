@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [moul/repoman](https://github.com/moul/repoman) ([v1.1.0](https://github.com/moul/repoman/releases/tag/v1.1.0), 1 day ago) - 📋 repo manager: some scripts I run against my repos
+- [moul/repoman](https://github.com/moul/repoman) ([v1.1.1](https://github.com/moul/repoman/releases/tag/v1.1.1), today) - 📋 repo manager: some scripts I run against my repos
 - [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.3](https://github.com/moul/pkgman/releases/tag/v1.4.3), 1 day ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.2](https://github.com/moul/sshportal/releases/tag/v1.18.2), 1 day ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [moul/u](https://github.com/moul/u) ([v1.21.0](https://github.com/moul/u/releases/tag/v1.21.0), 3 days ago) - Go common utility functions
