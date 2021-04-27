@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/berty](https://github.com/berty/berty) ([v2.274.1](https://github.com/berty/berty/releases/tag/v2.274.1), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.3](https://github.com/moul/sshportal/releases/tag/v1.18.3), today) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [sgtm-club/sgtm](https://github.com/sgtm-club/sgtm) ([v1.54.2](https://github.com/sgtm-club/sgtm/releases/tag/v1.54.2), 1 day ago) - 👍 An ongoing-song sharing platform for musicians
 - [moul/repoman](https://github.com/moul/repoman) ([v1.1.1](https://github.com/moul/repoman/releases/tag/v1.1.1), 1 day ago) - 📋 repo manager: some scripts I run against my repos
@@ -31,7 +32,6 @@
 - [moul/u](https://github.com/moul/u) ([v1.21.0](https://github.com/moul/u/releases/tag/v1.21.0), 4 days ago) - Go common utility functions
 - [alta/protopatch](https://github.com/alta/protopatch) ([v0.3.4](https://github.com/alta/protopatch/releases/tag/v0.3.4), 4 days ago) - protoc-gen-go patch utility
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.73.0](https://github.com/pathwar/pathwar/releases/tag/v2.73.0), 4 days ago) - ☠️ The Pathwar Project ☠️
-- [berty/berty](https://github.com/berty/berty) ([v2.274.0](https://github.com/berty/berty/releases/tag/v2.274.0), 5 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.2](https://github.com/moul/pipotron/releases/tag/v1.13.2), 6 days ago) - generic (&amp; funny?) text generator
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.5](https://github.com/moul/grpcbin/releases/tag/v1.0.5), 6 days ago) - httpbin like for gRPC
 
@@ -82,11 +82,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/Lidiafromtheblock">Lidiafromtheblock</a>
   <li><a href="https://github.com/jojobizarr">jojobizarr</a>
   <li><a href="https://github.com/zandorstorm">zandorstorm</a>
   <li><a href="https://github.com/RubinPramod">RubinPramod</a>
   <li><a href="https://github.com/SamcroBIT">SamcroBIT</a>
-  <li><a href="https://github.com/dog465">dog465</a>
   </ul>
 
   <h4>💬 Feedback</h4>
