@@ -24,12 +24,12 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/u](https://github.com/moul/u) ([v1.22.0](https://github.com/moul/u/releases/tag/v1.22.0), today) - Go common utility functions
 - [berty/berty](https://github.com/berty/berty) ([v2.280.0](https://github.com/berty/berty/releases/tag/v2.280.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.3](https://github.com/moul/sshportal/releases/tag/v1.18.3), 2 days ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [sgtm-club/sgtm](https://github.com/sgtm-club/sgtm) ([v1.54.2](https://github.com/sgtm-club/sgtm/releases/tag/v1.54.2), 3 days ago) - 👍 An ongoing-song sharing platform for musicians
 - [moul/repoman](https://github.com/moul/repoman) ([v1.1.1](https://github.com/moul/repoman/releases/tag/v1.1.1), 3 days ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.3](https://github.com/moul/pkgman/releases/tag/v1.4.3), 4 days ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
-- [moul/u](https://github.com/moul/u) ([v1.21.0](https://github.com/moul/u/releases/tag/v1.21.0), 6 days ago) - Go common utility functions
 - [alta/protopatch](https://github.com/alta/protopatch) ([v0.3.4](https://github.com/alta/protopatch/releases/tag/v0.3.4), 6 days ago) - protoc-gen-go patch utility
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.73.0](https://github.com/pathwar/pathwar/releases/tag/v2.73.0), 6 days ago) - ☠️ The Pathwar Project ☠️
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.2](https://github.com/moul/pipotron/releases/tag/v1.13.2), 1 week ago) - generic (&amp; funny?) text generator
