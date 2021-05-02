@@ -24,12 +24,12 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.281.3](https://github.com/berty/berty/releases/tag/v2.281.3), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/u](https://github.com/moul/u) ([v1.22.0](https://github.com/moul/u/releases/tag/v1.22.0), 2 days ago) - Go common utility functions
-- [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.3](https://github.com/moul/sshportal/releases/tag/v1.18.3), 4 days ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-- [sgtm-club/sgtm](https://github.com/sgtm-club/sgtm) ([v1.54.2](https://github.com/sgtm-club/sgtm/releases/tag/v1.54.2), 5 days ago) - 👍 An ongoing-song sharing platform for musicians
-- [moul/repoman](https://github.com/moul/repoman) ([v1.1.1](https://github.com/moul/repoman/releases/tag/v1.1.1), 5 days ago) - 📋 repo manager: some scripts I run against my repos
-- [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.3](https://github.com/moul/pkgman/releases/tag/v1.4.3), 6 days ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
+- [berty/berty](https://github.com/berty/berty) ([v2.281.3](https://github.com/berty/berty/releases/tag/v2.281.3), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/u](https://github.com/moul/u) ([v1.22.0](https://github.com/moul/u/releases/tag/v1.22.0), 3 days ago) - Go common utility functions
+- [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.3](https://github.com/moul/sshportal/releases/tag/v1.18.3), 5 days ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
+- [sgtm-club/sgtm](https://github.com/sgtm-club/sgtm) ([v1.54.2](https://github.com/sgtm-club/sgtm/releases/tag/v1.54.2), 6 days ago) - 👍 An ongoing-song sharing platform for musicians
+- [moul/repoman](https://github.com/moul/repoman) ([v1.1.1](https://github.com/moul/repoman/releases/tag/v1.1.1), 6 days ago) - 📋 repo manager: some scripts I run against my repos
+- [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.3](https://github.com/moul/pkgman/releases/tag/v1.4.3), 1 week ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
 - [alta/protopatch](https://github.com/alta/protopatch) ([v0.3.4](https://github.com/alta/protopatch/releases/tag/v0.3.4), 1 week ago) - protoc-gen-go patch utility
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.73.0](https://github.com/pathwar/pathwar/releases/tag/v2.73.0), 1 week ago) - ☠️ The Pathwar Project ☠️
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.2](https://github.com/moul/pipotron/releases/tag/v1.13.2), 1 week ago) - generic (&amp; funny?) text generator
@@ -53,9 +53,9 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
-  <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (2 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (3 days ago)</li>
   <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (1 week ago)</li>
-  <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (1 week ago)</li>
+  <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (2 weeks ago)</li>
   <li><a href="https://wip.co/@moul/todos/183268">🐙  yesterday on GitHub #oss</a> (2 weeks ago)</li>
   <li><a href="https://wip.co/@moul/todos/183216">🇪🇪  estonian e-residency application #life</a> (2 weeks ago)</li>
   </ul>
