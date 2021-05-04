@@ -24,10 +24,10 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.283.0](https://github.com/berty/berty/releases/tag/v2.283.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.3](https://github.com/moul/pipotron/releases/tag/v1.13.3), 1 day ago) - generic (&amp; funny?) text generator
-- [moul/u](https://github.com/moul/u) ([v1.22.0](https://github.com/moul/u/releases/tag/v1.22.0), 4 days ago) - Go common utility functions
-- [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.3](https://github.com/moul/sshportal/releases/tag/v1.18.3), 6 days ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
+- [berty/berty](https://github.com/berty/berty) ([v2.283.0](https://github.com/berty/berty/releases/tag/v2.283.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.3](https://github.com/moul/pipotron/releases/tag/v1.13.3), 2 days ago) - generic (&amp; funny?) text generator
+- [moul/u](https://github.com/moul/u) ([v1.22.0](https://github.com/moul/u/releases/tag/v1.22.0), 5 days ago) - Go common utility functions
+- [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.3](https://github.com/moul/sshportal/releases/tag/v1.18.3), 1 week ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [sgtm-club/sgtm](https://github.com/sgtm-club/sgtm) ([v1.54.2](https://github.com/sgtm-club/sgtm/releases/tag/v1.54.2), 1 week ago) - 👍 An ongoing-song sharing platform for musicians
 - [moul/repoman](https://github.com/moul/repoman) ([v1.1.1](https://github.com/moul/repoman/releases/tag/v1.1.1), 1 week ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.3](https://github.com/moul/pkgman/releases/tag/v1.4.3), 1 week ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
@@ -39,7 +39,7 @@
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
-- [mingcheng](https://github.com/mingcheng) (1 week ago)
+- [mingcheng](https://github.com/mingcheng) (2 weeks ago)
 - [creack](https://github.com/creack) (9 months ago)
 - [shawnharmsen](https://github.com/shawnharmsen) (9 months ago)
 - [zxxma](https://github.com/zxxma) (1 year ago)
@@ -53,7 +53,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
-  <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (4 days ago)</li>
+  <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (5 days ago)</li>
   <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (2 weeks ago)</li>
   <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (2 weeks ago)</li>
   <li><a href="https://wip.co/@moul/todos/183268">🐙  yesterday on GitHub #oss</a> (2 weeks ago)</li>
