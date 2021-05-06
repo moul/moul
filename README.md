@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.6](https://github.com/moul/grpcbin/releases/tag/v1.0.6), today) - httpbin like for gRPC
 - [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.3.0](https://github.com/berty/go-ipfs-log/releases/tag/v1.3.0), 2 days ago) - Go version of append-only log CRDT on IPFS
 - [moul/makerlog](https://github.com/moul/makerlog) ([v1.5.1](https://github.com/moul/makerlog/releases/tag/v1.5.1), 2 days ago) - Golang getmakerlog.com client &#43; CLI
 - [berty/berty](https://github.com/berty/berty) ([v2.283.0](https://github.com/berty/berty/releases/tag/v2.283.0), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -33,7 +34,6 @@
 - [sgtm-club/sgtm](https://github.com/sgtm-club/sgtm) ([v1.54.2](https://github.com/sgtm-club/sgtm/releases/tag/v1.54.2), 1 week ago) - 👍 An ongoing-song sharing platform for musicians
 - [moul/repoman](https://github.com/moul/repoman) ([v1.1.1](https://github.com/moul/repoman/releases/tag/v1.1.1), 1 week ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.3](https://github.com/moul/pkgman/releases/tag/v1.4.3), 1 week ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
-- [alta/protopatch](https://github.com/alta/protopatch) ([v0.3.4](https://github.com/alta/protopatch/releases/tag/v0.3.4), 1 week ago) - protoc-gen-go patch utility
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
