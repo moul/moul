@@ -24,10 +24,10 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/berty](https://github.com/berty/berty) ([v2.283.1](https://github.com/berty/berty/releases/tag/v2.283.1), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.6](https://github.com/moul/grpcbin/releases/tag/v1.0.6), today) - httpbin like for gRPC
 - [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.3.0](https://github.com/berty/go-ipfs-log/releases/tag/v1.3.0), 2 days ago) - Go version of append-only log CRDT on IPFS
 - [moul/makerlog](https://github.com/moul/makerlog) ([v1.5.1](https://github.com/moul/makerlog/releases/tag/v1.5.1), 2 days ago) - Golang getmakerlog.com client &#43; CLI
-- [berty/berty](https://github.com/berty/berty) ([v2.283.0](https://github.com/berty/berty/releases/tag/v2.283.0), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.3](https://github.com/moul/pipotron/releases/tag/v1.13.3), 4 days ago) - generic (&amp; funny?) text generator
 - [moul/u](https://github.com/moul/u) ([v1.22.0](https://github.com/moul/u/releases/tag/v1.22.0), 1 week ago) - Go common utility functions
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.3](https://github.com/moul/sshportal/releases/tag/v1.18.3), 1 week ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
