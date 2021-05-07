@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.283.1](https://github.com/berty/berty/releases/tag/v2.283.1), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/berty](https://github.com/berty/berty) ([v2.284.0](https://github.com/berty/berty/releases/tag/v2.284.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.6](https://github.com/moul/grpcbin/releases/tag/v1.0.6), 1 day ago) - httpbin like for gRPC
 - [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.3.0](https://github.com/berty/go-ipfs-log/releases/tag/v1.3.0), 3 days ago) - Go version of append-only log CRDT on IPFS
 - [moul/makerlog](https://github.com/moul/makerlog) ([v1.5.1](https://github.com/moul/makerlog/releases/tag/v1.5.1), 3 days ago) - Golang getmakerlog.com client &#43; CLI
