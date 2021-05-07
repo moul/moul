@@ -24,11 +24,11 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.283.1](https://github.com/berty/berty/releases/tag/v2.283.1), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.6](https://github.com/moul/grpcbin/releases/tag/v1.0.6), today) - httpbin like for gRPC
-- [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.3.0](https://github.com/berty/go-ipfs-log/releases/tag/v1.3.0), 2 days ago) - Go version of append-only log CRDT on IPFS
-- [moul/makerlog](https://github.com/moul/makerlog) ([v1.5.1](https://github.com/moul/makerlog/releases/tag/v1.5.1), 2 days ago) - Golang getmakerlog.com client &#43; CLI
-- [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.3](https://github.com/moul/pipotron/releases/tag/v1.13.3), 4 days ago) - generic (&amp; funny?) text generator
+- [berty/berty](https://github.com/berty/berty) ([v2.283.1](https://github.com/berty/berty/releases/tag/v2.283.1), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.6](https://github.com/moul/grpcbin/releases/tag/v1.0.6), 1 day ago) - httpbin like for gRPC
+- [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.3.0](https://github.com/berty/go-ipfs-log/releases/tag/v1.3.0), 3 days ago) - Go version of append-only log CRDT on IPFS
+- [moul/makerlog](https://github.com/moul/makerlog) ([v1.5.1](https://github.com/moul/makerlog/releases/tag/v1.5.1), 3 days ago) - Golang getmakerlog.com client &#43; CLI
+- [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.3](https://github.com/moul/pipotron/releases/tag/v1.13.3), 5 days ago) - generic (&amp; funny?) text generator
 - [moul/u](https://github.com/moul/u) ([v1.22.0](https://github.com/moul/u/releases/tag/v1.22.0), 1 week ago) - Go common utility functions
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.3](https://github.com/moul/sshportal/releases/tag/v1.18.3), 1 week ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [sgtm-club/sgtm](https://github.com/sgtm-club/sgtm) ([v1.54.2](https://github.com/sgtm-club/sgtm/releases/tag/v1.54.2), 1 week ago) - 👍 An ongoing-song sharing platform for musicians
@@ -57,7 +57,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (2 weeks ago)</li>
   <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (2 weeks ago)</li>
   <li><a href="https://wip.co/@moul/todos/183268">🐙  yesterday on GitHub #oss</a> (2 weeks ago)</li>
-  <li><a href="https://wip.co/@moul/todos/183216">🇪🇪  estonian e-residency application #life</a> (2 weeks ago)</li>
+  <li><a href="https://wip.co/@moul/todos/183216">🇪🇪  estonian e-residency application #life</a> (3 weeks ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
@@ -72,7 +72,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/2dd66ce9133e6585040122d563afa039">github-other-repos.md</a> (7 months ago)</li>
+  <li><a href="https://gist.github.com/2dd66ce9133e6585040122d563afa039">github-other-repos.md</a> (8 months ago)</li>
   <li><a href="https://gist.github.com/3d9a81083861a2bb2a04b80dad79bb68">Yo! 👋👋</a> (11 months ago)</li>
   <li><a href="https://gist.github.com/0d8a8e72d07e7d461bdc9c243893fcc7">Caching-friendly Makefile Rule to use Protoc within Docker</a> (2 years ago)</li>
   <li><a href="https://gist.github.com/aa5e556280763727eab9d6dcd77e2110">poor man&#39;s ipfs pin</a> (2 years ago)</li>
