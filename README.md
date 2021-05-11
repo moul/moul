@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.0](https://github.com/berty/go-orbit-db/releases/tag/v1.11.0), today) - Go version of P2P Database on IPFS
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.0](https://github.com/moul/zapgorm2/releases/tag/v1.1.0), 2 days ago) - ⚡ zap logging driver for gorm v2
 - [moul/repoman](https://github.com/moul/repoman) ([v1.1.2](https://github.com/moul/repoman/releases/tag/v1.1.2), 2 days ago) - 📋 repo manager: some scripts I run against my repos
 - [berty/berty](https://github.com/berty/berty) ([v2.284.0](https://github.com/berty/berty/releases/tag/v2.284.0), 4 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -33,7 +34,6 @@
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.3](https://github.com/moul/pipotron/releases/tag/v1.13.3), 1 week ago) - generic (&amp; funny?) text generator
 - [moul/u](https://github.com/moul/u) ([v1.22.0](https://github.com/moul/u/releases/tag/v1.22.0), 1 week ago) - Go common utility functions
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.3](https://github.com/moul/sshportal/releases/tag/v1.18.3), 2 weeks ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-- [sgtm-club/sgtm](https://github.com/sgtm-club/sgtm) ([v1.54.2](https://github.com/sgtm-club/sgtm/releases/tag/v1.54.2), 2 weeks ago) - 👍 An ongoing-song sharing platform for musicians
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
