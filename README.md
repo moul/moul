@@ -24,11 +24,11 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/berty](https://github.com/berty/berty) ([v2.284.1](https://github.com/berty/berty/releases/tag/v2.284.1), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.7](https://github.com/moul/grpcbin/releases/tag/v1.0.7), 1 day ago) - httpbin like for gRPC
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.0](https://github.com/berty/go-orbit-db/releases/tag/v1.11.0), 1 day ago) - Go version of P2P Database on IPFS
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.0](https://github.com/moul/zapgorm2/releases/tag/v1.1.0), 3 days ago) - ⚡ zap logging driver for gorm v2
 - [moul/repoman](https://github.com/moul/repoman) ([v1.1.2](https://github.com/moul/repoman/releases/tag/v1.1.2), 3 days ago) - 📋 repo manager: some scripts I run against my repos
-- [berty/berty](https://github.com/berty/berty) ([v2.284.0](https://github.com/berty/berty/releases/tag/v2.284.0), 5 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.3.0](https://github.com/berty/go-ipfs-log/releases/tag/v1.3.0), 1 week ago) - Go version of append-only log CRDT on IPFS
 - [moul/makerlog](https://github.com/moul/makerlog) ([v1.5.1](https://github.com/moul/makerlog/releases/tag/v1.5.1), 1 week ago) - Golang getmakerlog.com client &#43; CLI
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.3](https://github.com/moul/pipotron/releases/tag/v1.13.3), 1 week ago) - generic (&amp; funny?) text generator
