@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/bot](https://github.com/moul/bot) ([v1.9.7](https://github.com/moul/bot/releases/tag/v1.9.7), today) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [berty/berty](https://github.com/berty/berty) ([v2.284.3](https://github.com/berty/berty/releases/tag/v2.284.3), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.7](https://github.com/moul/grpcbin/releases/tag/v1.0.7), 4 days ago) - httpbin like for gRPC
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.0](https://github.com/berty/go-orbit-db/releases/tag/v1.11.0), 4 days ago) - Go version of P2P Database on IPFS
@@ -33,7 +34,6 @@
 - [moul/makerlog](https://github.com/moul/makerlog) ([v1.5.1](https://github.com/moul/makerlog/releases/tag/v1.5.1), 1 week ago) - Golang getmakerlog.com client &#43; CLI
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.3](https://github.com/moul/pipotron/releases/tag/v1.13.3), 1 week ago) - generic (&amp; funny?) text generator
 - [moul/u](https://github.com/moul/u) ([v1.22.0](https://github.com/moul/u/releases/tag/v1.22.0), 2 weeks ago) - Go common utility functions
-- [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.3](https://github.com/moul/sshportal/releases/tag/v1.18.3), 2 weeks ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
