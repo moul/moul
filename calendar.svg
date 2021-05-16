@@ -53,7 +53,7 @@
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="20" data-date="2021-04-25" x="615" y="20" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="5" data-date="2021-05-02" x="627" y="20" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="6" data-date="2021-05-09" x="639" y="20" width="10" height="10"/>
-  <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2021-05-16" x="651" y="20" width="10" height="10"/>
+  <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="7" data-date="2021-05-16" x="651" y="20" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="20" data-date="2020-05-18" x="27" y="32" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="38" data-date="2020-05-25" x="39" y="32" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="15" data-date="2020-06-01" x="51" y="32" width="10" height="10"/>
@@ -365,7 +365,7 @@
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="26" data-date="2021-04-24" x="603" y="92" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="10" data-date="2021-05-01" x="615" y="92" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2021-05-08" x="627" y="92" width="10" height="10"/>
-  <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="3" data-date="2021-05-15" x="639" y="92" width="10" height="10"/>
+  <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="2" data-date="2021-05-15" x="639" y="92" width="10" height="10"/>
   <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;display:none;" x="0" y="28">Sun</text>
   <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;" x="0" y="40">Mon</text>
   <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;display:none;" x="0" y="52">Tue</text>
