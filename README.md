@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [moul/bot](https://github.com/moul/bot) ([v1.9.7](https://github.com/moul/bot/releases/tag/v1.9.7), 3 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
+- [moul/bot](https://github.com/moul/bot) ([v1.9.8](https://github.com/moul/bot/releases/tag/v1.9.8), today) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [berty/berty](https://github.com/berty/berty) ([v2.284.3](https://github.com/berty/berty/releases/tag/v2.284.3), 4 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.7](https://github.com/moul/grpcbin/releases/tag/v1.0.7), 1 week ago) - httpbin like for gRPC
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.0](https://github.com/berty/go-orbit-db/releases/tag/v1.11.0), 1 week ago) - Go version of P2P Database on IPFS
