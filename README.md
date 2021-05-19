@@ -24,8 +24,8 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [moul/bot](https://github.com/moul/bot) ([v1.9.8](https://github.com/moul/bot/releases/tag/v1.9.8), today) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
-- [berty/berty](https://github.com/berty/berty) ([v2.284.3](https://github.com/berty/berty/releases/tag/v2.284.3), 4 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/bot](https://github.com/moul/bot) ([v1.9.8](https://github.com/moul/bot/releases/tag/v1.9.8), 1 day ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
+- [berty/berty](https://github.com/berty/berty) ([v2.284.3](https://github.com/berty/berty/releases/tag/v2.284.3), 5 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.7](https://github.com/moul/grpcbin/releases/tag/v1.0.7), 1 week ago) - httpbin like for gRPC
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.0](https://github.com/berty/go-orbit-db/releases/tag/v1.11.0), 1 week ago) - Go version of P2P Database on IPFS
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.0](https://github.com/moul/zapgorm2/releases/tag/v1.1.0), 1 week ago) - ⚡ zap logging driver for gorm v2
@@ -54,7 +54,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <ul>
   
   <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (2 weeks ago)</li>
-  <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (4 weeks ago)</li>
+  <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (1 month ago)</li>
   <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (1 month ago)</li>
   <li><a href="https://wip.co/@moul/todos/183268">🐙  yesterday on GitHub #oss</a> (1 month ago)</li>
   <li><a href="https://wip.co/@moul/todos/183216">🇪🇪  estonian e-residency application #life</a> (1 month ago)</li>
