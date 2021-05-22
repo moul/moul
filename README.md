@@ -82,11 +82,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/SantoshSrinivas79">SantoshSrinivas79</a>
   <li><a href="https://github.com/sam-mix">sam-mix</a>
   <li><a href="https://github.com/brownchow">brownchow</a>
   <li><a href="https://github.com/barad007">barad007</a>
   <li><a href="https://github.com/bytustoken">bytustoken</a>
-  <li><a href="https://github.com/vulcangz">vulcangz</a>
   </ul>
 
   <h4>💬 Feedback</h4>
