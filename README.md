@@ -24,10 +24,10 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [moul/bot](https://github.com/moul/bot) ([v1.9.10](https://github.com/moul/bot/releases/tag/v1.9.10), today) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
-- [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.8](https://github.com/moul/grpcbin/releases/tag/v1.0.8), today) - httpbin like for gRPC
-- [moul/repoman](https://github.com/moul/repoman) ([v1.1.3](https://github.com/moul/repoman/releases/tag/v1.1.3), today) - 📋 repo manager: some scripts I run against my repos
-- [berty/berty](https://github.com/berty/berty) ([v2.284.8](https://github.com/berty/berty/releases/tag/v2.284.8), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/bot](https://github.com/moul/bot) ([v1.9.10](https://github.com/moul/bot/releases/tag/v1.9.10), 1 day ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
+- [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.8](https://github.com/moul/grpcbin/releases/tag/v1.0.8), 1 day ago) - httpbin like for gRPC
+- [moul/repoman](https://github.com/moul/repoman) ([v1.1.3](https://github.com/moul/repoman/releases/tag/v1.1.3), 1 day ago) - 📋 repo manager: some scripts I run against my repos
+- [berty/berty](https://github.com/berty/berty) ([v2.284.8](https://github.com/berty/berty/releases/tag/v2.284.8), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.0](https://github.com/berty/go-orbit-db/releases/tag/v1.11.0), 1 week ago) - Go version of P2P Database on IPFS
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.0](https://github.com/moul/zapgorm2/releases/tag/v1.1.0), 2 weeks ago) - ⚡ zap logging driver for gorm v2
 - [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.3.0](https://github.com/berty/go-ipfs-log/releases/tag/v1.3.0), 2 weeks ago) - Go version of append-only log CRDT on IPFS
@@ -73,7 +73,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>📓 Gists I wrote</h4>
   <ul>
   <li><a href="https://gist.github.com/2dd66ce9133e6585040122d563afa039">github-other-repos.md</a> (8 months ago)</li>
-  <li><a href="https://gist.github.com/3d9a81083861a2bb2a04b80dad79bb68">Yo! 👋👋</a> (11 months ago)</li>
+  <li><a href="https://gist.github.com/3d9a81083861a2bb2a04b80dad79bb68">Yo! 👋👋</a> (1 year ago)</li>
   <li><a href="https://gist.github.com/0d8a8e72d07e7d461bdc9c243893fcc7">Caching-friendly Makefile Rule to use Protoc within Docker</a> (2 years ago)</li>
   <li><a href="https://gist.github.com/aa5e556280763727eab9d6dcd77e2110">poor man&#39;s ipfs pin</a> (2 years ago)</li>
   
