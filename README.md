@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [uber-go/zap](https://github.com/uber-go/zap) ([v1.17.0](https://github.com/uber-go/zap/releases/tag/v1.17.0), today) - Blazing fast, structured, leveled logging in Go.
 - [berty/berty](https://github.com/berty/berty) ([v2.284.9](https://github.com/berty/berty/releases/tag/v2.284.9), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/bot](https://github.com/moul/bot) ([v1.9.10](https://github.com/moul/bot/releases/tag/v1.9.10), 2 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.8](https://github.com/moul/grpcbin/releases/tag/v1.0.8), 2 days ago) - httpbin like for gRPC
@@ -33,7 +34,6 @@
 - [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.3.0](https://github.com/berty/go-ipfs-log/releases/tag/v1.3.0), 3 weeks ago) - Go version of append-only log CRDT on IPFS
 - [moul/makerlog](https://github.com/moul/makerlog) ([v1.5.1](https://github.com/moul/makerlog/releases/tag/v1.5.1), 3 weeks ago) - Golang getmakerlog.com client &#43; CLI
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.3](https://github.com/moul/pipotron/releases/tag/v1.13.3), 3 weeks ago) - generic (&amp; funny?) text generator
-- [moul/u](https://github.com/moul/u) ([v1.22.0](https://github.com/moul/u/releases/tag/v1.22.0), 3 weeks ago) - Go common utility functions
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
