@@ -24,10 +24,10 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/berty](https://github.com/berty/berty) ([v2.284.9](https://github.com/berty/berty/releases/tag/v2.284.9), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/bot](https://github.com/moul/bot) ([v1.9.10](https://github.com/moul/bot/releases/tag/v1.9.10), 2 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.8](https://github.com/moul/grpcbin/releases/tag/v1.0.8), 2 days ago) - httpbin like for gRPC
 - [moul/repoman](https://github.com/moul/repoman) ([v1.1.3](https://github.com/moul/repoman/releases/tag/v1.1.3), 2 days ago) - 📋 repo manager: some scripts I run against my repos
-- [berty/berty](https://github.com/berty/berty) ([v2.284.8](https://github.com/berty/berty/releases/tag/v2.284.8), 4 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.0](https://github.com/berty/go-orbit-db/releases/tag/v1.11.0), 2 weeks ago) - Go version of P2P Database on IPFS
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.0](https://github.com/moul/zapgorm2/releases/tag/v1.1.0), 2 weeks ago) - ⚡ zap logging driver for gorm v2
 - [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.3.0](https://github.com/berty/go-ipfs-log/releases/tag/v1.3.0), 3 weeks ago) - Go version of append-only log CRDT on IPFS
@@ -82,11 +82,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/kaminek">kaminek</a>
   <li><a href="https://github.com/kooksee">kooksee</a>
   <li><a href="https://github.com/bcgalvin">bcgalvin</a>
   <li><a href="https://github.com/SantoshSrinivas79">SantoshSrinivas79</a>
   <li><a href="https://github.com/sam-mix">sam-mix</a>
-  <li><a href="https://github.com/brownchow">brownchow</a>
   </ul>
 
   <h4>💬 Feedback</h4>
