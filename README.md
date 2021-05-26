@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/multipmuri](https://github.com/moul/multipmuri) ([v1.14.0](https://github.com/moul/multipmuri/releases/tag/v1.14.0), today) - A library to parse project-management URIs (inspired by @multiformats)
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.17.0](https://github.com/uber-go/zap/releases/tag/v1.17.0), 1 day ago) - Blazing fast, structured, leveled logging in Go.
 - [berty/berty](https://github.com/berty/berty) ([v2.284.9](https://github.com/berty/berty/releases/tag/v2.284.9), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/bot](https://github.com/moul/bot) ([v1.9.10](https://github.com/moul/bot/releases/tag/v1.9.10), 3 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
@@ -33,7 +34,6 @@
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.0](https://github.com/moul/zapgorm2/releases/tag/v1.1.0), 2 weeks ago) - ⚡ zap logging driver for gorm v2
 - [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.3.0](https://github.com/berty/go-ipfs-log/releases/tag/v1.3.0), 3 weeks ago) - Go version of append-only log CRDT on IPFS
 - [moul/makerlog](https://github.com/moul/makerlog) ([v1.5.1](https://github.com/moul/makerlog/releases/tag/v1.5.1), 3 weeks ago) - Golang getmakerlog.com client &#43; CLI
-- [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.3](https://github.com/moul/pipotron/releases/tag/v1.13.3), 3 weeks ago) - generic (&amp; funny?) text generator
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
