@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/zapconfig](https://github.com/moul/zapconfig) ([v1.4.0](https://github.com/moul/zapconfig/releases/tag/v1.4.0), today) - ⚡ Opinionated presets for Uber&#39;s Zap logging go library
 - [moul/repoman](https://github.com/moul/repoman) ([v1.3.0](https://github.com/moul/repoman/releases/tag/v1.3.0), today) - 📋 repo manager: some scripts I run against my repos
 - [berty/berty](https://github.com/berty/berty) ([v2.285.0](https://github.com/berty/berty/releases/tag/v2.285.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/rules.mk](https://github.com/moul/rules.mk) ([v1.17.0](https://github.com/moul/rules.mk/releases/tag/v1.17.0), today) - Pre-defined rules to include in your Makefile (Golang, Docker, ...)
@@ -33,7 +34,6 @@
 - [moul/bot](https://github.com/moul/bot) ([v1.9.10](https://github.com/moul/bot/releases/tag/v1.9.10), 4 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.8](https://github.com/moul/grpcbin/releases/tag/v1.0.8), 4 days ago) - httpbin like for gRPC
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.0](https://github.com/berty/go-orbit-db/releases/tag/v1.11.0), 2 weeks ago) - Go version of P2P Database on IPFS
-- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.0](https://github.com/moul/zapgorm2/releases/tag/v1.1.0), 2 weeks ago) - ⚡ zap logging driver for gorm v2
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
