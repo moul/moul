@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/u](https://github.com/moul/u) ([v1.22.0](https://github.com/moul/u/releases/tag/v1.22.0), today) - Go common utility functions
 - [moul/repoman](https://github.com/moul/repoman) ([v1.2.0](https://github.com/moul/repoman/releases/tag/v1.2.0), 1 day ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/multipmuri](https://github.com/moul/multipmuri) ([v1.14.0](https://github.com/moul/multipmuri/releases/tag/v1.14.0), 1 day ago) - A library to parse project-management URIs (inspired by @multiformats)
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.17.0](https://github.com/uber-go/zap/releases/tag/v1.17.0), 2 days ago) - Blazing fast, structured, leveled logging in Go.
@@ -33,7 +34,6 @@
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.0](https://github.com/berty/go-orbit-db/releases/tag/v1.11.0), 2 weeks ago) - Go version of P2P Database on IPFS
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.0](https://github.com/moul/zapgorm2/releases/tag/v1.1.0), 2 weeks ago) - ⚡ zap logging driver for gorm v2
 - [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.3.0](https://github.com/berty/go-ipfs-log/releases/tag/v1.3.0), 3 weeks ago) - Go version of append-only log CRDT on IPFS
-- [moul/makerlog](https://github.com/moul/makerlog) ([v1.5.1](https://github.com/moul/makerlog/releases/tag/v1.5.1), 3 weeks ago) - Golang getmakerlog.com client &#43; CLI
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
