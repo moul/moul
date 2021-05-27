@@ -24,10 +24,10 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/repoman](https://github.com/moul/repoman) ([v1.3.0](https://github.com/moul/repoman/releases/tag/v1.3.0), today) - 📋 repo manager: some scripts I run against my repos
 - [berty/berty](https://github.com/berty/berty) ([v2.285.0](https://github.com/berty/berty/releases/tag/v2.285.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/rules.mk](https://github.com/moul/rules.mk) ([v1.17.0](https://github.com/moul/rules.mk/releases/tag/v1.17.0), today) - Pre-defined rules to include in your Makefile (Golang, Docker, ...)
 - [moul/u](https://github.com/moul/u) ([v1.23.0](https://github.com/moul/u/releases/tag/v1.23.0), today) - Go common utility functions
-- [moul/repoman](https://github.com/moul/repoman) ([v1.2.0](https://github.com/moul/repoman/releases/tag/v1.2.0), 1 day ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/multipmuri](https://github.com/moul/multipmuri) ([v1.14.0](https://github.com/moul/multipmuri/releases/tag/v1.14.0), 1 day ago) - A library to parse project-management URIs (inspired by @multiformats)
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.17.0](https://github.com/uber-go/zap/releases/tag/v1.17.0), 2 days ago) - Blazing fast, structured, leveled logging in Go.
 - [moul/bot](https://github.com/moul/bot) ([v1.9.10](https://github.com/moul/bot/releases/tag/v1.9.10), 4 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
