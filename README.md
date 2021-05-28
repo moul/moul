@@ -11,7 +11,7 @@
 #### 🌱 My latest projects
 
 
-- [moul/repoman-action](https://github.com/moul/repoman-action) - GitHub action for repoman
+- [moul/repoman-action](https://github.com/moul/repoman-action) - 🐙 GitHub action for repoman
 - [moul/macos-chess-com](https://github.com/moul/macos-chess-com) - ♟ macOS app for chess.com/@ChessCom (unofficial)
 - [moul/expo-hello](https://github.com/moul/expo-hello) - 🚧 useless Expo app used as a test to find a good project structure
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) - 🚧 useless Alfred workflow used as a test to find a good project structure
@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [moul/repoman](https://github.com/moul/repoman) ([v1.4.1](https://github.com/moul/repoman/releases/tag/v1.4.1), today) - 📋 repo manager: some scripts I run against my repos
+- [moul/repoman](https://github.com/moul/repoman) ([v1.4.3](https://github.com/moul/repoman/releases/tag/v1.4.3), today) - 📋 repo manager: some scripts I run against my repos
 - [berty/berty](https://github.com/berty/berty) ([v2.286.0](https://github.com/berty/berty/releases/tag/v2.286.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/u](https://github.com/moul/u) ([v1.24.0](https://github.com/moul/u/releases/tag/v1.24.0), 1 day ago) - Go common utility functions
 - [moul/zapconfig](https://github.com/moul/zapconfig) ([v1.4.0](https://github.com/moul/zapconfig/releases/tag/v1.4.0), 1 day ago) - ⚡ Opinionated presets for Uber&#39;s Zap logging go library
