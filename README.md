@@ -11,6 +11,7 @@
 #### 🌱 My latest projects
 
 
+- [moul/repoman-action](https://github.com/moul/repoman-action) - GitHub action for repoman
 - [moul/macos-chess-com](https://github.com/moul/macos-chess-com) - ♟ macOS app for chess.com/@ChessCom (unofficial)
 - [moul/expo-hello](https://github.com/moul/expo-hello) - 🚧 useless Expo app used as a test to find a good project structure
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) - 🚧 useless Alfred workflow used as a test to find a good project structure
@@ -20,7 +21,6 @@
 - [moul/progress](https://github.com/moul/progress) - 🏗 progress, steps, completion patterns for golang
 - [moul/test-github-actions](https://github.com/moul/test-github-actions) - 🤒 Dummy repo to experiment with GitHub actions
 - [moul/git-ci](https://github.com/moul/git-ci) - ♐ git subcommand to interract with CI/CD from command line
-- [moul/zapconfig](https://github.com/moul/zapconfig) - ⚡ Opinionated presets for Uber&#39;s Zap logging go library
 
 #### 🔭 Recent Releases I Worked On
 
