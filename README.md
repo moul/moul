@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [bump-sh/github-action](https://github.com/bump-sh/github-action) ([0.3](https://github.com/bump-sh/github-action/releases/tag/0.3), today) - GitHub action to deploy your API documentation on Bump
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.0](https://github.com/moul/repoman/releases/tag/v1.6.0), 1 day ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.34.1](https://github.com/moul/golang-repo-template/releases/tag/v1.34.1), 3 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [berty/berty](https://github.com/berty/berty) ([v2.286.0](https://github.com/berty/berty/releases/tag/v2.286.0), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -33,7 +34,6 @@
 - [moul/multipmuri](https://github.com/moul/multipmuri) ([v1.14.0](https://github.com/moul/multipmuri/releases/tag/v1.14.0), 5 days ago) - A library to parse project-management URIs (inspired by @multiformats)
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.17.0](https://github.com/uber-go/zap/releases/tag/v1.17.0), 6 days ago) - Blazing fast, structured, leveled logging in Go.
 - [moul/bot](https://github.com/moul/bot) ([v1.9.10](https://github.com/moul/bot/releases/tag/v1.9.10), 1 week ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
-- [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.8](https://github.com/moul/grpcbin/releases/tag/v1.0.8), 1 week ago) - httpbin like for gRPC
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -82,11 +82,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/dhsathiya">dhsathiya</a>
   <li><a href="https://github.com/kalifun">kalifun</a>
   <li><a href="https://github.com/SkYNewZ">SkYNewZ</a>
   <li><a href="https://github.com/geekodour">geekodour</a>
   <li><a href="https://github.com/v9n">v9n</a>
-  <li><a href="https://github.com/muesli">muesli</a>
   </ul>
 
   <h4>💬 Feedback</h4>
