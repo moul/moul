@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.4.0](https://github.com/muesli/markscribe/releases/tag/v0.4.0), today) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [bump-sh/github-action](https://github.com/bump-sh/github-action) ([0.3](https://github.com/bump-sh/github-action/releases/tag/0.3), today) - GitHub action to deploy your API documentation on Bump
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.0](https://github.com/moul/repoman/releases/tag/v1.6.0), 1 day ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.34.1](https://github.com/moul/golang-repo-template/releases/tag/v1.34.1), 3 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
@@ -33,7 +34,6 @@
 - [moul/rules.mk](https://github.com/moul/rules.mk) ([v1.17.0](https://github.com/moul/rules.mk/releases/tag/v1.17.0), 4 days ago) - Pre-defined rules to include in your Makefile (Golang, Docker, ...)
 - [moul/multipmuri](https://github.com/moul/multipmuri) ([v1.14.0](https://github.com/moul/multipmuri/releases/tag/v1.14.0), 5 days ago) - A library to parse project-management URIs (inspired by @multiformats)
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.17.0](https://github.com/uber-go/zap/releases/tag/v1.17.0), 6 days ago) - Blazing fast, structured, leveled logging in Go.
-- [moul/bot](https://github.com/moul/bot) ([v1.9.10](https://github.com/moul/bot/releases/tag/v1.9.10), 1 week ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
