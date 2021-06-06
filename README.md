@@ -24,11 +24,11 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.287.0](https://github.com/berty/berty/releases/tag/v2.287.0), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.5.0](https://github.com/muesli/markscribe/releases/tag/v0.5.0), 2 days ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
-- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.35.0](https://github.com/moul/golang-repo-template/releases/tag/v1.35.0), 4 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
-- [bump-sh/github-action](https://github.com/bump-sh/github-action) ([0.3](https://github.com/bump-sh/github-action/releases/tag/0.3), 5 days ago) - GitHub action to deploy your API documentation on Bump
-- [moul/repoman](https://github.com/moul/repoman) ([v1.6.0](https://github.com/moul/repoman/releases/tag/v1.6.0), 6 days ago) - 📋 repo manager: some scripts I run against my repos
+- [berty/berty](https://github.com/berty/berty) ([v2.287.0](https://github.com/berty/berty/releases/tag/v2.287.0), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.5.0](https://github.com/muesli/markscribe/releases/tag/v0.5.0), 3 days ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
+- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.35.0](https://github.com/moul/golang-repo-template/releases/tag/v1.35.0), 5 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
+- [bump-sh/github-action](https://github.com/bump-sh/github-action) ([0.3](https://github.com/bump-sh/github-action/releases/tag/0.3), 6 days ago) - GitHub action to deploy your API documentation on Bump
+- [moul/repoman](https://github.com/moul/repoman) ([v1.6.0](https://github.com/moul/repoman/releases/tag/v1.6.0), 1 week ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/u](https://github.com/moul/u) ([v1.24.0](https://github.com/moul/u/releases/tag/v1.24.0), 1 week ago) - Go common utility functions
 - [moul/zapconfig](https://github.com/moul/zapconfig) ([v1.4.0](https://github.com/moul/zapconfig/releases/tag/v1.4.0), 1 week ago) - ⚡ Opinionated presets for Uber&#39;s Zap logging go library
 - [moul/rules.mk](https://github.com/moul/rules.mk) ([v1.17.0](https://github.com/moul/rules.mk/releases/tag/v1.17.0), 1 week ago) - Pre-defined rules to include in your Makefile (Golang, Docker, ...)
@@ -72,7 +72,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/2dd66ce9133e6585040122d563afa039">github-other-repos.md</a> (8 months ago)</li>
+  <li><a href="https://gist.github.com/2dd66ce9133e6585040122d563afa039">github-other-repos.md</a> (9 months ago)</li>
   <li><a href="https://gist.github.com/3d9a81083861a2bb2a04b80dad79bb68">Yo! 👋👋</a> (1 year ago)</li>
   <li><a href="https://gist.github.com/0d8a8e72d07e7d461bdc9c243893fcc7">Caching-friendly Makefile Rule to use Protoc within Docker</a> (2 years ago)</li>
   <li><a href="https://gist.github.com/aa5e556280763727eab9d6dcd77e2110">poor man&#39;s ipfs pin</a> (2 years ago)</li>
@@ -82,11 +82,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/curtis-SAAS">curtis-SAAS</a>
   <li><a href="https://github.com/michaelkrupp">michaelkrupp</a>
   <li><a href="https://github.com/bububa">bububa</a>
   <li><a href="https://github.com/ImaCrea">ImaCrea</a>
   <li><a href="https://github.com/pp5x">pp5x</a>
-  <li><a href="https://github.com/meafs">meafs</a>
   </ul>
 
   <h4>💬 Feedback</h4>
