@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/zapgorm](https://github.com/moul/zapgorm) ([v1.1.3](https://github.com/moul/zapgorm/releases/tag/v1.1.3), today) - ⚡ Zap logger for GORM (support v1 and v2)
 - [berty/berty](https://github.com/berty/berty) ([v2.288.0](https://github.com/berty/berty/releases/tag/v2.288.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.5.0](https://github.com/muesli/markscribe/releases/tag/v0.5.0), 4 days ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.35.0](https://github.com/moul/golang-repo-template/releases/tag/v1.35.0), 6 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
@@ -33,7 +34,6 @@
 - [moul/zapconfig](https://github.com/moul/zapconfig) ([v1.4.0](https://github.com/moul/zapconfig/releases/tag/v1.4.0), 1 week ago) - ⚡ Opinionated presets for Uber&#39;s Zap logging go library
 - [moul/rules.mk](https://github.com/moul/rules.mk) ([v1.17.0](https://github.com/moul/rules.mk/releases/tag/v1.17.0), 1 week ago) - Pre-defined rules to include in your Makefile (Golang, Docker, ...)
 - [moul/multipmuri](https://github.com/moul/multipmuri) ([v1.14.0](https://github.com/moul/multipmuri/releases/tag/v1.14.0), 1 week ago) - A library to parse project-management URIs (inspired by @multiformats)
-- [uber-go/zap](https://github.com/uber-go/zap) ([v1.17.0](https://github.com/uber-go/zap/releases/tag/v1.17.0), 1 week ago) - Blazing fast, structured, leveled logging in Go.
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
