@@ -1,6 +1,6 @@
 ## Greetings from France 🇫🇷👋
 
-<img align="right" src="https://raw.githubusercontent.com/moul/moul/master/contribute.gif">
+<img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
 :hammer: Founder of [Berty](https://github.com/berty)<br/>
 :heart: P2P, Cryptography, POCs, CLIs<br/>

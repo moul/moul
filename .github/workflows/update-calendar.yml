@@ -38,7 +38,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: "chore: update generated calendar"
-          branch: master
+          branch: main
           commit_user_name: calendar-bot 🤖
           commit_user_email: actions@github.com
           commit_author: calendar-bot 🤖 <actions@github.com>
