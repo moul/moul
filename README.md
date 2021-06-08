@@ -1,6 +1,6 @@
 ## Greetings from France 🇫🇷👋
 
-<img align="right" src="https://raw.githubusercontent.com/moul/moul/master/contribute.gif">
+<img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
 :hammer: Founder of [Berty](https://github.com/berty)<br/>
 :heart: P2P, Cryptography, POCs, CLIs<br/>
@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), today) - 🔒 TOTP CLI
 - [berty/berty](https://github.com/berty/berty) ([v2.289.1](https://github.com/berty/berty/releases/tag/v2.289.1), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/zapgorm](https://github.com/moul/zapgorm) ([v1.1.3](https://github.com/moul/zapgorm/releases/tag/v1.1.3), 1 day ago) - ⚡ Zap logger for GORM (support v1 and v2)
 - [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.5.0](https://github.com/muesli/markscribe/releases/tag/v0.5.0), 5 days ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
@@ -33,7 +34,6 @@
 - [moul/u](https://github.com/moul/u) ([v1.24.0](https://github.com/moul/u/releases/tag/v1.24.0), 1 week ago) - Go common utility functions
 - [moul/zapconfig](https://github.com/moul/zapconfig) ([v1.4.0](https://github.com/moul/zapconfig/releases/tag/v1.4.0), 1 week ago) - ⚡ Opinionated presets for Uber&#39;s Zap logging go library
 - [moul/rules.mk](https://github.com/moul/rules.mk) ([v1.17.0](https://github.com/moul/rules.mk/releases/tag/v1.17.0), 1 week ago) - Pre-defined rules to include in your Makefile (Golang, Docker, ...)
-- [moul/multipmuri](https://github.com/moul/multipmuri) ([v1.14.0](https://github.com/moul/multipmuri/releases/tag/v1.14.0), 1 week ago) - A library to parse project-management URIs (inspired by @multiformats)
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -82,11 +82,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/mathias7777">mathias7777</a>
   <li><a href="https://github.com/curtis-SAAS">curtis-SAAS</a>
   <li><a href="https://github.com/michaelkrupp">michaelkrupp</a>
   <li><a href="https://github.com/bububa">bububa</a>
   <li><a href="https://github.com/ImaCrea">ImaCrea</a>
-  <li><a href="https://github.com/pp5x">pp5x</a>
   </ul>
 
   <h4>💬 Feedback</h4>
