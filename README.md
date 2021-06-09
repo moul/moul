@@ -13,6 +13,7 @@
 
 - [moul/totp-cli](https://github.com/moul/totp-cli) - 🔒 TOTP CLI
 - [moul/repoman-action](https://github.com/moul/repoman-action) - 🐙 GitHub action for repoman
+- [moul/logman](https://github.com/moul/logman) - log files management library optimized for &#34;Share with Developers&#34;
 - [moul/macos-chess-com](https://github.com/moul/macos-chess-com) - ♟ macOS app for chess.com/@ChessCom (unofficial)
 - [moul/expo-hello](https://github.com/moul/expo-hello) - 🚧 useless Expo app used as a test to find a good project structure
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) - 🚧 useless Alfred workflow used as a test to find a good project structure
@@ -20,7 +21,6 @@
 - [moul/captcha](https://github.com/moul/captcha) - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
 - [moul/nixpkgs](https://github.com/moul/nixpkgs) - 🧔 personal nix config #nixos
 - [moul/progress](https://github.com/moul/progress) - 🏗 progress, steps, completion patterns for golang
-- [moul/test-github-actions](https://github.com/moul/test-github-actions) - 🤒 Dummy repo to experiment with GitHub actions
 
 #### 🔭 Recent Releases I Worked On
 
