@@ -24,8 +24,8 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/logman](https://github.com/moul/logman) ([v1.2.0](https://github.com/moul/logman/releases/tag/v1.2.0), today) - log files management library optimized for &#34;Share with Developers&#34;
 - [berty/berty](https://github.com/berty/berty) ([v2.289.3](https://github.com/berty/berty/releases/tag/v2.289.3), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/logman](https://github.com/moul/logman) ([v1.1.0](https://github.com/moul/logman/releases/tag/v1.1.0), today) - log files management library optimized for &#34;Share with Developers&#34;
 - [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 2 days ago) - 🔒 TOTP CLI
 - [moul/zapgorm](https://github.com/moul/zapgorm) ([v1.1.3](https://github.com/moul/zapgorm/releases/tag/v1.1.3), 3 days ago) - ⚡ Zap logger for GORM (support v1 and v2)
 - [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.5.0](https://github.com/muesli/markscribe/releases/tag/v0.5.0), 1 week ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
