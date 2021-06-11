@@ -35,7 +35,6 @@
 - [moul/u](https://github.com/moul/u) ([v1.24.0](https://github.com/moul/u/releases/tag/v1.24.0), 2 weeks ago) - Go common utility functions
 - [moul/zapconfig](https://github.com/moul/zapconfig) ([v1.4.0](https://github.com/moul/zapconfig/releases/tag/v1.4.0), 2 weeks ago) - ⚡ Opinionated presets for Uber&#39;s Zap logging go library
 
-
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
