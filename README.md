@@ -35,7 +35,6 @@
 - [moul/u](https://github.com/moul/u) ([v1.24.0](https://github.com/moul/u/releases/tag/v1.24.0), 2 weeks ago) - Go common utility functions
 - [moul/zapconfig](https://github.com/moul/zapconfig) ([v1.4.0](https://github.com/moul/zapconfig/releases/tag/v1.4.0), 2 weeks ago) - ⚡ Opinionated presets for Uber&#39;s Zap logging go library
 
-
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
@@ -115,6 +114,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <hr />
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
+
+  <img src="https://img.shields.io/date/1622221298.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
