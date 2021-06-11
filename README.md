@@ -1,6 +1,6 @@
 ## Greetings from France 🇫🇷👋
 
-<img align="right" src="https://raw.githubusercontent.com/moul/moul/master/contribute.gif">
+<img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
 :hammer: Founder of [Berty](https://github.com/berty)<br/>
 :heart: P2P, Cryptography, POCs, CLIs<br/>
@@ -13,6 +13,7 @@
 
 - [moul/totp-cli](https://github.com/moul/totp-cli) - 🔒 TOTP CLI
 - [moul/repoman-action](https://github.com/moul/repoman-action) - 🐙 GitHub action for repoman
+- [moul/logman](https://github.com/moul/logman) - log files management library optimized for &#34;Share with Developers&#34;
 - [moul/macos-chess-com](https://github.com/moul/macos-chess-com) - ♟ macOS app for chess.com/@ChessCom (unofficial)
 - [moul/expo-hello](https://github.com/moul/expo-hello) - 🚧 useless Expo app used as a test to find a good project structure
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) - 🚧 useless Alfred workflow used as a test to find a good project structure
@@ -20,21 +21,19 @@
 - [moul/captcha](https://github.com/moul/captcha) - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
 - [moul/nixpkgs](https://github.com/moul/nixpkgs) - 🧔 personal nix config #nixos
 - [moul/progress](https://github.com/moul/progress) - 🏗 progress, steps, completion patterns for golang
-- [moul/test-github-actions](https://github.com/moul/test-github-actions) - 🤒 Dummy repo to experiment with GitHub actions
 
 #### 🔭 Recent Releases I Worked On
 
-- [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), today) - 🔒 TOTP CLI
-- [berty/berty](https://github.com/berty/berty) ([v2.289.1](https://github.com/berty/berty/releases/tag/v2.289.1), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/zapgorm](https://github.com/moul/zapgorm) ([v1.1.3](https://github.com/moul/zapgorm/releases/tag/v1.1.3), 1 day ago) - ⚡ Zap logger for GORM (support v1 and v2)
-- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.5.0](https://github.com/muesli/markscribe/releases/tag/v0.5.0), 5 days ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
+- [berty/berty](https://github.com/berty/berty) ([v2.289.2](https://github.com/berty/berty/releases/tag/v2.289.2), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/logman](https://github.com/moul/logman) ([v1.0.0](https://github.com/moul/logman/releases/tag/v1.0.0), 1 day ago) - log files management library optimized for &#34;Share with Developers&#34;
+- [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 2 days ago) - 🔒 TOTP CLI
+- [moul/zapgorm](https://github.com/moul/zapgorm) ([v1.1.3](https://github.com/moul/zapgorm/releases/tag/v1.1.3), 3 days ago) - ⚡ Zap logger for GORM (support v1 and v2)
+- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.5.0](https://github.com/muesli/markscribe/releases/tag/v0.5.0), 1 week ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.35.0](https://github.com/moul/golang-repo-template/releases/tag/v1.35.0), 1 week ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [bump-sh/github-action](https://github.com/bump-sh/github-action) ([0.3](https://github.com/bump-sh/github-action/releases/tag/0.3), 1 week ago) - GitHub action to deploy your API documentation on Bump
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.0](https://github.com/moul/repoman/releases/tag/v1.6.0), 1 week ago) - 📋 repo manager: some scripts I run against my repos
-- [moul/u](https://github.com/moul/u) ([v1.24.0](https://github.com/moul/u/releases/tag/v1.24.0), 1 week ago) - Go common utility functions
-- [moul/zapconfig](https://github.com/moul/zapconfig) ([v1.4.0](https://github.com/moul/zapconfig/releases/tag/v1.4.0), 1 week ago) - ⚡ Opinionated presets for Uber&#39;s Zap logging go library
-- [moul/rules.mk](https://github.com/moul/rules.mk) ([v1.17.0](https://github.com/moul/rules.mk/releases/tag/v1.17.0), 1 week ago) - Pre-defined rules to include in your Makefile (Golang, Docker, ...)
-
+- [moul/u](https://github.com/moul/u) ([v1.24.0](https://github.com/moul/u/releases/tag/v1.24.0), 2 weeks ago) - Go common utility functions
+- [moul/zapconfig](https://github.com/moul/zapconfig) ([v1.4.0](https://github.com/moul/zapconfig/releases/tag/v1.4.0), 2 weeks ago) - ⚡ Opinionated presets for Uber&#39;s Zap logging go library
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
