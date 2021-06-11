@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.4.0](https://github.com/berty/go-ipfs-log/releases/tag/v1.4.0), today) - Go version of append-only log CRDT on IPFS
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.4](https://github.com/moul/pipotron/releases/tag/v1.13.4), today) - generic (&amp; funny?) text generator
 - [moul/converter](https://github.com/moul/converter) ([v1.2.1](https://github.com/moul/converter/releases/tag/v1.2.1), today) - :scissors: multiformat data conversion
 - [moul/git-ci](https://github.com/moul/git-ci) ([v1.0.3](https://github.com/moul/git-ci/releases/tag/v1.0.3), today) - ♐ git subcommand to interract with CI/CD from command line
@@ -33,7 +34,6 @@
 - [moul/logman](https://github.com/moul/logman) ([v1.2.0](https://github.com/moul/logman/releases/tag/v1.2.0), 1 day ago) - log files management library optimized for &#34;Share with Developers&#34;
 - [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 3 days ago) - 🔒 TOTP CLI
 - [moul/zapgorm](https://github.com/moul/zapgorm) ([v1.1.3](https://github.com/moul/zapgorm/releases/tag/v1.1.3), 4 days ago) - ⚡ Zap logger for GORM (support v1 and v2)
-- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.5.0](https://github.com/muesli/markscribe/releases/tag/v0.5.0), 1 week ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1623402316.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1623404268.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
