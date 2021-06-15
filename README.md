@@ -24,11 +24,11 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.4.1](https://github.com/berty/go-ipfs-log/releases/tag/v1.4.1), today) - Go version of append-only log CRDT on IPFS
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.1](https://github.com/berty/go-orbit-db/releases/tag/v1.11.1), 1 day ago) - Go version of P2P Database on IPFS
 - [berty/berty](https://github.com/berty/berty) ([v2.290.1](https://github.com/berty/berty/releases/tag/v2.290.1), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/converter](https://github.com/moul/converter) ([v1.2.2](https://github.com/moul/converter/releases/tag/v1.2.2), 3 days ago) - :scissors: multiformat data conversion
 - [moul/bot](https://github.com/moul/bot) ([v1.9.12](https://github.com/moul/bot/releases/tag/v1.9.12), 3 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
-- [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.4.0](https://github.com/berty/go-ipfs-log/releases/tag/v1.4.0), 4 days ago) - Go version of append-only log CRDT on IPFS
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.4](https://github.com/moul/pipotron/releases/tag/v1.13.4), 4 days ago) - generic (&amp; funny?) text generator
 - [moul/git-ci](https://github.com/moul/git-ci) ([v1.0.3](https://github.com/moul/git-ci/releases/tag/v1.0.3), 4 days ago) - ♐ git subcommand to interract with CI/CD from command line
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.4](https://github.com/moul/sshportal/releases/tag/v1.18.4), 4 days ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1623744319.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1623746337.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
