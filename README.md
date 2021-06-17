@@ -24,16 +24,16 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [moul/u](https://github.com/moul/u) ([v1.25.0](https://github.com/moul/u/releases/tag/v1.25.0), today) - Go common utility functions
-- [berty/berty](https://github.com/berty/berty) ([v2.290.2](https://github.com/berty/berty/releases/tag/v2.290.2), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.2](https://github.com/berty/go-orbit-db/releases/tag/v1.11.2), 1 day ago) - Go version of P2P Database on IPFS
-- [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.4.1](https://github.com/berty/go-ipfs-log/releases/tag/v1.4.1), 1 day ago) - Go version of append-only log CRDT on IPFS
-- [moul/converter](https://github.com/moul/converter) ([v1.2.2](https://github.com/moul/converter/releases/tag/v1.2.2), 4 days ago) - :scissors: multiformat data conversion
-- [moul/bot](https://github.com/moul/bot) ([v1.9.12](https://github.com/moul/bot/releases/tag/v1.9.12), 4 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
-- [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.4](https://github.com/moul/pipotron/releases/tag/v1.13.4), 5 days ago) - generic (&amp; funny?) text generator
-- [moul/git-ci](https://github.com/moul/git-ci) ([v1.0.3](https://github.com/moul/git-ci/releases/tag/v1.0.3), 5 days ago) - ♐ git subcommand to interract with CI/CD from command line
-- [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.4](https://github.com/moul/sshportal/releases/tag/v1.18.4), 5 days ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-- [moul/logman](https://github.com/moul/logman) ([v1.2.0](https://github.com/moul/logman/releases/tag/v1.2.0), 6 days ago) - log files management library optimized for &#34;Share with Developers&#34;
+- [moul/u](https://github.com/moul/u) ([v1.25.0](https://github.com/moul/u/releases/tag/v1.25.0), 1 day ago) - Go common utility functions
+- [berty/berty](https://github.com/berty/berty) ([v2.290.2](https://github.com/berty/berty/releases/tag/v2.290.2), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.2](https://github.com/berty/go-orbit-db/releases/tag/v1.11.2), 2 days ago) - Go version of P2P Database on IPFS
+- [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.4.1](https://github.com/berty/go-ipfs-log/releases/tag/v1.4.1), 2 days ago) - Go version of append-only log CRDT on IPFS
+- [moul/converter](https://github.com/moul/converter) ([v1.2.2](https://github.com/moul/converter/releases/tag/v1.2.2), 5 days ago) - :scissors: multiformat data conversion
+- [moul/bot](https://github.com/moul/bot) ([v1.9.12](https://github.com/moul/bot/releases/tag/v1.9.12), 5 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
+- [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.4](https://github.com/moul/pipotron/releases/tag/v1.13.4), 6 days ago) - generic (&amp; funny?) text generator
+- [moul/git-ci](https://github.com/moul/git-ci) ([v1.0.3](https://github.com/moul/git-ci/releases/tag/v1.0.3), 6 days ago) - ♐ git subcommand to interract with CI/CD from command line
+- [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.4](https://github.com/moul/sshportal/releases/tag/v1.18.4), 6 days ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
+- [moul/logman](https://github.com/moul/logman) ([v1.2.0](https://github.com/moul/logman/releases/tag/v1.2.0), 1 week ago) - log files management library optimized for &#34;Share with Developers&#34;
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -55,7 +55,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   
   <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (1 month ago)</li>
   <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (1 month ago)</li>
-  <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (1 month ago)</li>
+  <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (2 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/183268">🐙  yesterday on GitHub #oss</a> (2 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/183216">🇪🇪  estonian e-residency application #life</a> (2 months ago)</li>
   </ul>
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1623886595.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1623888606.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
