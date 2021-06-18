@@ -53,11 +53,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
+  <li><a href="https://wip.co/@moul/todos/189179">💉  2nd pfizer #life</a> (today)</li>
+  <li><a href="https://wip.co/@moul/todos/189178">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (today)</li>
   <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (1 month ago)</li>
   <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (2 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (2 months ago)</li>
-  <li><a href="https://wip.co/@moul/todos/183268">🐙  yesterday on GitHub #oss</a> (2 months ago)</li>
-  <li><a href="https://wip.co/@moul/todos/183216">🇪🇪  estonian e-residency application #life</a> (2 months ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1624009120.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1624010720.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
