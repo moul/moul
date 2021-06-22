@@ -26,6 +26,8 @@ github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742 h1:Esafd1046DLD
 github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742/go.mod h1:bx2lNnkwVCuqBIxFjflWJWanXIb3RllmbCylyMrvgv0=
 github.com/muesli/markscribe v0.5.0 h1:l/38CENsRBHaw9xWR09clF49TAbFVIg4Y+dVUXwbnqI=
 github.com/muesli/markscribe v0.5.0/go.mod h1:K/q/i7zlu/E5f4lXVCgGz7lhIeI95BA5XLk+GpXhEMk=
+github.com/muesli/markscribe v0.6.0 h1:Xpa/472953T00bjobonBAPRWBJSatFib5vRD2iNKx60=
+github.com/muesli/markscribe v0.6.0/go.mod h1:K/q/i7zlu/E5f4lXVCgGz7lhIeI95BA5XLk+GpXhEMk=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/russross/blackfriday/v2 v2.0.1/go.mod h1:+Rmxgy9KzJVeS9/2gXHxylqXiyQDYRxCVz55jmeOWTM=
