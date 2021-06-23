@@ -24,16 +24,16 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.35.1](https://github.com/moul/golang-repo-template/releases/tag/v1.35.1), today) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
+- [moul/u](https://github.com/moul/u) ([v1.25.1](https://github.com/moul/u/releases/tag/v1.25.1), today) - Go common utility functions
 - [berty/berty](https://github.com/berty/berty) ([v2.292.2](https://github.com/berty/berty/releases/tag/v2.292.2), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.6.0](https://github.com/muesli/markscribe/releases/tag/v0.6.0), 1 day ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
-- [moul/u](https://github.com/moul/u) ([v1.25.0](https://github.com/moul/u/releases/tag/v1.25.0), 1 week ago) - Go common utility functions
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.2](https://github.com/berty/go-orbit-db/releases/tag/v1.11.2), 1 week ago) - Go version of P2P Database on IPFS
 - [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.4.1](https://github.com/berty/go-ipfs-log/releases/tag/v1.4.1), 1 week ago) - Go version of append-only log CRDT on IPFS
 - [moul/converter](https://github.com/moul/converter) ([v1.2.2](https://github.com/moul/converter/releases/tag/v1.2.2), 1 week ago) - :scissors: multiformat data conversion
 - [moul/bot](https://github.com/moul/bot) ([v1.9.12](https://github.com/moul/bot/releases/tag/v1.9.12), 1 week ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.4](https://github.com/moul/pipotron/releases/tag/v1.13.4), 1 week ago) - generic (&amp; funny?) text generator
 - [moul/git-ci](https://github.com/moul/git-ci) ([v1.0.3](https://github.com/moul/git-ci/releases/tag/v1.0.3), 1 week ago) - ♐ git subcommand to interract with CI/CD from command line
-- [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.4](https://github.com/moul/sshportal/releases/tag/v1.18.4), 1 week ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1624477117.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1624478783.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
