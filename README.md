@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.292.1](https://github.com/berty/berty/releases/tag/v2.292.1), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/berty](https://github.com/berty/berty) ([v2.292.2](https://github.com/berty/berty/releases/tag/v2.292.2), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.6.0](https://github.com/muesli/markscribe/releases/tag/v0.6.0), 1 day ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [moul/u](https://github.com/moul/u) ([v1.25.0](https://github.com/moul/u/releases/tag/v1.25.0), 1 week ago) - Go common utility functions
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.2](https://github.com/berty/go-orbit-db/releases/tag/v1.11.2), 1 week ago) - Go version of P2P Database on IPFS
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1624442727.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1624444754.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
