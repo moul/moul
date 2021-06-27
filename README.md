@@ -11,6 +11,7 @@
 #### 🌱 My latest projects
 
 
+- [moul/rrgc](https://github.com/moul/rrgc) - 🗑 garbage collect backup directories with mutiple window rules
 - [moul/chizap](https://github.com/moul/chizap) - ⚡️ simple zap logging middleware for go-chi 
 - [moul/totp-cli](https://github.com/moul/totp-cli) - 🔒 TOTP CLI
 - [moul/repoman-action](https://github.com/moul/repoman-action) - 🐙 GitHub action for repoman
@@ -20,7 +21,6 @@
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) - 🚧 useless Alfred workflow used as a test to find a good project structure
 - [moul/zapring](https://github.com/moul/zapring) - 💍 In-memory RING buffer backend for the Zap logger
 - [moul/captcha](https://github.com/moul/captcha) - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
-- [moul/nixpkgs](https://github.com/moul/nixpkgs) - 🧔 personal nix config #nixos
 
 #### 🔭 Recent Releases I Worked On
 
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1624802872.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1624804442.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
