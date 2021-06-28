@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [uber-go/zap](https://github.com/uber-go/zap) ([v1.18.0](https://github.com/uber-go/zap/releases/tag/v1.18.0), today) - Blazing fast, structured, leveled logging in Go.
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.3](https://github.com/berty/go-orbit-db/releases/tag/v1.11.3), today) - Go version of P2P Database on IPFS
 - [moul/rrgc](https://github.com/moul/rrgc) ([v1.0.0](https://github.com/moul/rrgc/releases/tag/v1.0.0), today) - 🗑 round-robin garbage-collector
 - [berty/yolo](https://github.com/berty/yolo) ([v2.99.2](https://github.com/berty/yolo/releases/tag/v2.99.2), 3 days ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
@@ -33,7 +34,6 @@
 - [moul/u](https://github.com/moul/u) ([v1.25.1](https://github.com/moul/u/releases/tag/v1.25.1), 5 days ago) - Go common utility functions
 - [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.6.0](https://github.com/muesli/markscribe/releases/tag/v0.6.0), 6 days ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.4.1](https://github.com/berty/go-ipfs-log/releases/tag/v1.4.1), 1 week ago) - Go version of append-only log CRDT on IPFS
-- [moul/converter](https://github.com/moul/converter) ([v1.2.2](https://github.com/moul/converter/releases/tag/v1.2.2), 2 weeks ago) - :scissors: multiformat data conversion
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1624902462.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1624903959.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
