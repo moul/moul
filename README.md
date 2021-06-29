@@ -24,23 +24,23 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [uber-go/zap](https://github.com/uber-go/zap) ([v1.18.1](https://github.com/uber-go/zap/releases/tag/v1.18.1), today) - Blazing fast, structured, leveled logging in Go.
-- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.3](https://github.com/berty/go-orbit-db/releases/tag/v1.11.3), today) - Go version of P2P Database on IPFS
-- [moul/rrgc](https://github.com/moul/rrgc) ([v1.0.0](https://github.com/moul/rrgc/releases/tag/v1.0.0), today) - 🗑 round-robin garbage-collector
-- [berty/yolo](https://github.com/berty/yolo) ([v2.99.2](https://github.com/berty/yolo/releases/tag/v2.99.2), 3 days ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
-- [moul/chizap](https://github.com/moul/chizap) ([v1.0.1](https://github.com/moul/chizap/releases/tag/v1.0.1), 3 days ago) - ⚡️ simple zap logging middleware for go-chi 
-- [berty/berty](https://github.com/berty/berty) ([v2.293.1](https://github.com/berty/berty/releases/tag/v2.293.1), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.35.2](https://github.com/moul/golang-repo-template/releases/tag/v1.35.2), 4 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
-- [moul/u](https://github.com/moul/u) ([v1.25.1](https://github.com/moul/u/releases/tag/v1.25.1), 5 days ago) - Go common utility functions
-- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.6.0](https://github.com/muesli/markscribe/releases/tag/v0.6.0), 6 days ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
-- [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.4.1](https://github.com/berty/go-ipfs-log/releases/tag/v1.4.1), 1 week ago) - Go version of append-only log CRDT on IPFS
+- [uber-go/zap](https://github.com/uber-go/zap) ([v1.18.1](https://github.com/uber-go/zap/releases/tag/v1.18.1), 1 day ago) - Blazing fast, structured, leveled logging in Go.
+- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.3](https://github.com/berty/go-orbit-db/releases/tag/v1.11.3), 1 day ago) - Go version of P2P Database on IPFS
+- [moul/rrgc](https://github.com/moul/rrgc) ([v1.0.0](https://github.com/moul/rrgc/releases/tag/v1.0.0), 1 day ago) - 🗑 round-robin garbage-collector
+- [berty/yolo](https://github.com/berty/yolo) ([v2.99.2](https://github.com/berty/yolo/releases/tag/v2.99.2), 4 days ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
+- [moul/chizap](https://github.com/moul/chizap) ([v1.0.1](https://github.com/moul/chizap/releases/tag/v1.0.1), 4 days ago) - ⚡️ simple zap logging middleware for go-chi 
+- [berty/berty](https://github.com/berty/berty) ([v2.293.1](https://github.com/berty/berty/releases/tag/v2.293.1), 4 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.35.2](https://github.com/moul/golang-repo-template/releases/tag/v1.35.2), 5 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
+- [moul/u](https://github.com/moul/u) ([v1.25.1](https://github.com/moul/u/releases/tag/v1.25.1), 6 days ago) - Go common utility functions
+- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.6.0](https://github.com/muesli/markscribe/releases/tag/v0.6.0), 1 week ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
+- [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.4.1](https://github.com/berty/go-ipfs-log/releases/tag/v1.4.1), 2 weeks ago) - Go version of append-only log CRDT on IPFS
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
 - [mingcheng](https://github.com/mingcheng) (2 months ago)
-- [creack](https://github.com/creack) (10 months ago)
+- [creack](https://github.com/creack) (11 months ago)
 - [shawnharmsen](https://github.com/shawnharmsen) (11 months ago)
 - [zxxma](https://github.com/zxxma) (1 year ago)
 - [le-du6](https://github.com/le-du6) (1 year ago)
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1624923298.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1624925254.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
