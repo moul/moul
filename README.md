@@ -11,6 +11,7 @@
 #### 🌱 My latest projects
 
 
+- [moul/climan](https://github.com/moul/climan) - Golang CLI manager
 - [moul/rrgc](https://github.com/moul/rrgc) - 🗑 round-robin garbage-collector
 - [moul/chizap](https://github.com/moul/chizap) - ⚡️ simple zap logging middleware for go-chi 
 - [moul/midcat](https://github.com/moul/midcat) - 🎹 multipurpose MIDI relay (MIDi CAT)
@@ -20,10 +21,10 @@
 - [moul/macos-chess-com](https://github.com/moul/macos-chess-com) - ♟ macOS app for chess.com/@ChessCom (unofficial)
 - [moul/expo-hello](https://github.com/moul/expo-hello) - 🚧 useless Expo app used as a test to find a good project structure
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) - 🚧 useless Alfred workflow used as a test to find a good project structure
-- [moul/zapring](https://github.com/moul/zapring) - 💍 In-memory RING buffer backend for the Zap logger
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/climan](https://github.com/moul/climan) ([v1.0.0](https://github.com/moul/climan/releases/tag/v1.0.0), today) - Golang CLI manager
 - [berty/berty](https://github.com/berty/berty) ([v2.293.5](https://github.com/berty/berty/releases/tag/v2.293.5), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/midcat](https://github.com/moul/midcat) ([v1.0.0](https://github.com/moul/midcat/releases/tag/v1.0.0), 1 day ago) - 🎹 multipurpose MIDI relay (MIDi CAT)
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.18.1](https://github.com/uber-go/zap/releases/tag/v1.18.1), 2 days ago) - Blazing fast, structured, leveled logging in Go.
@@ -33,7 +34,6 @@
 - [moul/chizap](https://github.com/moul/chizap) ([v1.0.1](https://github.com/moul/chizap/releases/tag/v1.0.1), 5 days ago) - ⚡️ simple zap logging middleware for go-chi 
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.35.2](https://github.com/moul/golang-repo-template/releases/tag/v1.35.2), 6 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/u](https://github.com/moul/u) ([v1.25.1](https://github.com/moul/u/releases/tag/v1.25.1), 1 week ago) - Go common utility functions
-- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.6.0](https://github.com/muesli/markscribe/releases/tag/v0.6.0), 1 week ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1625061913.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1625063667.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
