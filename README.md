@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [moul/u](https://github.com/moul/u) ([v1.26.0](https://github.com/moul/u/releases/tag/v1.26.0), 1 day ago) - Go common utility functions
+- [moul/u](https://github.com/moul/u) ([v1.26.0](https://github.com/moul/u/releases/tag/v1.26.0), 1 day ago) - 🔬 Go common utility functions
 - [moul/climan](https://github.com/moul/climan) ([v1.0.0](https://github.com/moul/climan/releases/tag/v1.0.0), 2 days ago) - 🦪 Golang CLI manager
 - [berty/berty](https://github.com/berty/berty) ([v2.293.5](https://github.com/berty/berty/releases/tag/v2.293.5), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/midcat](https://github.com/moul/midcat) ([v1.0.0](https://github.com/moul/midcat/releases/tag/v1.0.0), 3 days ago) - 🎹 multipurpose MIDI relay (MIDi CAT)
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1625240347.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1625241909.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
