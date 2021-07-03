@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/rrgc](https://github.com/moul/rrgc) ([v1.0.1](https://github.com/moul/rrgc/releases/tag/v1.0.1), today) - 🗑 round-robin garbage-collector
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.0](https://github.com/moul/golang-repo-template/releases/tag/v1.36.0), 1 day ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/u](https://github.com/moul/u) ([v1.26.0](https://github.com/moul/u/releases/tag/v1.26.0), 2 days ago) - 🔬 Go common utility functions
 - [moul/climan](https://github.com/moul/climan) ([v1.0.0](https://github.com/moul/climan/releases/tag/v1.0.0), 3 days ago) - 🦪 Golang CLI manager
@@ -31,7 +32,6 @@
 - [moul/midcat](https://github.com/moul/midcat) ([v1.0.0](https://github.com/moul/midcat/releases/tag/v1.0.0), 4 days ago) - 🎹 multipurpose MIDI relay (MIDi CAT)
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.18.1](https://github.com/uber-go/zap/releases/tag/v1.18.1), 5 days ago) - Blazing fast, structured, leveled logging in Go.
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.3](https://github.com/berty/go-orbit-db/releases/tag/v1.11.3), 5 days ago) - Go version of P2P Database on IPFS
-- [moul/rrgc](https://github.com/moul/rrgc) ([v1.0.0](https://github.com/moul/rrgc/releases/tag/v1.0.0), 5 days ago) - 🗑 round-robin garbage-collector
 - [berty/yolo](https://github.com/berty/yolo) ([v2.99.2](https://github.com/berty/yolo/releases/tag/v2.99.2), 1 week ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 - [moul/chizap](https://github.com/moul/chizap) ([v1.0.1](https://github.com/moul/chizap/releases/tag/v1.0.1), 1 week ago) - ⚡️ simple zap logging middleware for go-chi 
 
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1625321123.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1625322832.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
