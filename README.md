@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [moul/midcat](https://github.com/moul/midcat) ([v1.1.0](https://github.com/moul/midcat/releases/tag/v1.1.0), today) - 🎹 multipurpose MIDI relay (MIDi CAT)
+- [moul/midcat](https://github.com/moul/midcat) ([v1.2.0](https://github.com/moul/midcat/releases/tag/v1.2.0), today) - 🎹 multipurpose MIDI relay (MIDi CAT)
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.4](https://github.com/berty/go-orbit-db/releases/tag/v1.11.4), today) - Go version of P2P Database on IPFS
 - [moul/rrgc](https://github.com/moul/rrgc) ([v1.2.0](https://github.com/moul/rrgc/releases/tag/v1.2.0), 1 day ago) - 🗑 round-robin garbage-collector
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.1](https://github.com/moul/golang-repo-template/releases/tag/v1.36.1), 1 day ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1625515512.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1625517262.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
