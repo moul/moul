@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/bot](https://github.com/moul/bot) ([v1.9.13](https://github.com/moul/bot/releases/tag/v1.9.13), today) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [berty/berty](https://github.com/berty/berty) ([v2.294.0](https://github.com/berty/berty/releases/tag/v2.294.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/midcat](https://github.com/moul/midcat) ([v1.2.0](https://github.com/moul/midcat/releases/tag/v1.2.0), 2 days ago) - 🎹 multipurpose MIDI relay (MIDi CAT)
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.4](https://github.com/berty/go-orbit-db/releases/tag/v1.11.4), 2 days ago) - Go version of P2P Database on IPFS
@@ -33,7 +34,6 @@
 - [moul/climan](https://github.com/moul/climan) ([v1.0.0](https://github.com/moul/climan/releases/tag/v1.0.0), 1 week ago) - 🦪 Golang CLI manager
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.18.1](https://github.com/uber-go/zap/releases/tag/v1.18.1), 1 week ago) - Blazing fast, structured, leveled logging in Go.
 - [berty/yolo](https://github.com/berty/yolo) ([v2.99.2](https://github.com/berty/yolo/releases/tag/v2.99.2), 1 week ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
-- [moul/chizap](https://github.com/moul/chizap) ([v1.0.1](https://github.com/moul/chizap/releases/tag/v1.0.1), 1 week ago) - ⚡️ simple zap logging middleware for go-chi 
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1625679694.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1625681106.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
