@@ -24,16 +24,16 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [moul/u](https://github.com/moul/u) ([v1.27.0](https://github.com/moul/u/releases/tag/v1.27.0), 1 day ago) - 🔬 Go common utility functions
-- [moul/bot](https://github.com/moul/bot) ([v1.9.13](https://github.com/moul/bot/releases/tag/v1.9.13), 1 day ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
-- [berty/berty](https://github.com/berty/berty) ([v2.294.0](https://github.com/berty/berty/releases/tag/v2.294.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/midcat](https://github.com/moul/midcat) ([v1.2.0](https://github.com/moul/midcat/releases/tag/v1.2.0), 3 days ago) - 🎹 multipurpose MIDI relay (MIDi CAT)
-- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.4](https://github.com/berty/go-orbit-db/releases/tag/v1.11.4), 3 days ago) - Go version of P2P Database on IPFS
-- [moul/rrgc](https://github.com/moul/rrgc) ([v1.2.0](https://github.com/moul/rrgc/releases/tag/v1.2.0), 4 days ago) - 🗑 round-robin garbage-collector
-- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.1](https://github.com/moul/golang-repo-template/releases/tag/v1.36.1), 4 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
+- [moul/u](https://github.com/moul/u) ([v1.27.0](https://github.com/moul/u/releases/tag/v1.27.0), 2 days ago) - 🔬 Go common utility functions
+- [moul/bot](https://github.com/moul/bot) ([v1.9.13](https://github.com/moul/bot/releases/tag/v1.9.13), 2 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
+- [berty/berty](https://github.com/berty/berty) ([v2.294.0](https://github.com/berty/berty/releases/tag/v2.294.0), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/midcat](https://github.com/moul/midcat) ([v1.2.0](https://github.com/moul/midcat/releases/tag/v1.2.0), 4 days ago) - 🎹 multipurpose MIDI relay (MIDi CAT)
+- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.11.4](https://github.com/berty/go-orbit-db/releases/tag/v1.11.4), 4 days ago) - Go version of P2P Database on IPFS
+- [moul/rrgc](https://github.com/moul/rrgc) ([v1.2.0](https://github.com/moul/rrgc/releases/tag/v1.2.0), 5 days ago) - 🗑 round-robin garbage-collector
+- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.1](https://github.com/moul/golang-repo-template/releases/tag/v1.36.1), 5 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/climan](https://github.com/moul/climan) ([v1.0.0](https://github.com/moul/climan/releases/tag/v1.0.0), 1 week ago) - 🦪 Golang CLI manager
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.18.1](https://github.com/uber-go/zap/releases/tag/v1.18.1), 1 week ago) - Blazing fast, structured, leveled logging in Go.
-- [berty/yolo](https://github.com/berty/yolo) ([v2.99.2](https://github.com/berty/yolo/releases/tag/v2.99.2), 1 week ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
+- [berty/yolo](https://github.com/berty/yolo) ([v2.99.2](https://github.com/berty/yolo/releases/tag/v2.99.2), 2 weeks ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -53,8 +53,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
-  <li><a href="https://wip.co/@moul/todos/189179">💉  2nd pfizer #life</a> (2 weeks ago)</li>
-  <li><a href="https://wip.co/@moul/todos/189178">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (2 weeks ago)</li>
+  <li><a href="https://wip.co/@moul/todos/189179">💉  2nd pfizer #life</a> (3 weeks ago)</li>
+  <li><a href="https://wip.co/@moul/todos/189178">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (3 weeks ago)</li>
   <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (2 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (2 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (2 months ago)</li>
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1625787276.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1625789343.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
