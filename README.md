@@ -24,15 +24,15 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.300.0](https://github.com/berty/berty/releases/tag/v2.300.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.2](https://github.com/moul/golang-repo-template/releases/tag/v1.36.2), 4 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
-- [moul/zapring](https://github.com/moul/zapring) ([v1.3.1](https://github.com/moul/zapring/releases/tag/v1.3.1), 4 days ago) - 💍 In-memory RING buffer backend for the Zap logger
-- [moul/logman](https://github.com/moul/logman) ([v1.2.1](https://github.com/moul/logman/releases/tag/v1.2.1), 4 days ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
-- [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.2](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.2), 4 days ago) - 🚧 useless Alfred workflow used as a test to find a good project structure
-- [moul/converter](https://github.com/moul/converter) ([v1.2.3](https://github.com/moul/converter/releases/tag/v1.2.3), 4 days ago) - :scissors: multiformat data conversion
+- [berty/berty](https://github.com/berty/berty) ([v2.300.0](https://github.com/berty/berty/releases/tag/v2.300.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.2](https://github.com/moul/golang-repo-template/releases/tag/v1.36.2), 5 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
+- [moul/zapring](https://github.com/moul/zapring) ([v1.3.1](https://github.com/moul/zapring/releases/tag/v1.3.1), 5 days ago) - 💍 In-memory RING buffer backend for the Zap logger
+- [moul/logman](https://github.com/moul/logman) ([v1.2.1](https://github.com/moul/logman/releases/tag/v1.2.1), 5 days ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
+- [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.2](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.2), 5 days ago) - 🚧 useless Alfred workflow used as a test to find a good project structure
+- [moul/converter](https://github.com/moul/converter) ([v1.2.3](https://github.com/moul/converter/releases/tag/v1.2.3), 5 days ago) - :scissors: multiformat data conversion
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.5](https://github.com/moul/pipotron/releases/tag/v1.13.5), 1 week ago) - generic (&amp; funny?) text generator
-- [moul/u](https://github.com/moul/u) ([v1.27.0](https://github.com/moul/u/releases/tag/v1.27.0), 2 weeks ago) - 🔬 Go common utility functions
-- [moul/bot](https://github.com/moul/bot) ([v1.9.13](https://github.com/moul/bot/releases/tag/v1.9.13), 2 weeks ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
+- [moul/u](https://github.com/moul/u) ([v1.27.0](https://github.com/moul/u/releases/tag/v1.27.0), 3 weeks ago) - 🔬 Go common utility functions
+- [moul/bot](https://github.com/moul/bot) ([v1.9.13](https://github.com/moul/bot/releases/tag/v1.9.13), 3 weeks ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/midcat](https://github.com/moul/midcat) ([v1.2.0](https://github.com/moul/midcat/releases/tag/v1.2.0), 3 weeks ago) - 🎹 multipurpose MIDI relay (MIDi CAT)
 
 
@@ -55,7 +55,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   
   <li><a href="https://wip.co/@moul/todos/189179">💉  2nd pfizer #life</a> (1 month ago)</li>
   <li><a href="https://wip.co/@moul/todos/189178">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (1 month ago)</li>
-  <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (2 months ago)</li>
+  <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (3 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (3 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (3 months ago)</li>
   </ul>
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1627428890.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1627430932.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
