@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="663" height="104">
-  <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="16" data-date="2020-08-02" x="27" y="20" width="10" height="10"/>
+  <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="16" data-date="2020-08-02" x="27" y="20" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="3" data-date="2020-08-09" x="39" y="20" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="5" data-date="2020-08-16" x="51" y="20" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="10" data-date="2020-08-23" x="63" y="20" width="10" height="10"/>
@@ -59,7 +59,7 @@
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="18" data-date="2020-08-17" x="51" y="32" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="10" data-date="2020-08-24" x="63" y="32" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="12" data-date="2020-08-31" x="75" y="32" width="10" height="10"/>
-  <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="46" data-date="2020-09-07" x="87" y="32" width="10" height="10"/>
+  <rect style="fill:#196127;shape-rendering:crispedges;" data-score="46" data-date="2020-09-07" x="87" y="32" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="20" data-date="2020-09-14" x="99" y="32" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="9" data-date="2020-09-21" x="111" y="32" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="17" data-date="2020-09-28" x="123" y="32" width="10" height="10"/>
@@ -79,7 +79,7 @@
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="14" data-date="2021-01-04" x="291" y="32" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="6" data-date="2021-01-11" x="303" y="32" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="21" data-date="2021-01-18" x="315" y="32" width="10" height="10"/>
-  <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="16" data-date="2021-01-25" x="327" y="32" width="10" height="10"/>
+  <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="16" data-date="2021-01-25" x="327" y="32" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="10" data-date="2021-02-01" x="339" y="32" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="12" data-date="2021-02-08" x="351" y="32" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="23" data-date="2021-02-15" x="363" y="32" width="10" height="10"/>
@@ -90,7 +90,7 @@
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="24" data-date="2021-03-22" x="423" y="32" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="17" data-date="2021-03-29" x="435" y="32" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="8" data-date="2021-04-05" x="447" y="32" width="10" height="10"/>
-  <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="16" data-date="2021-04-12" x="459" y="32" width="10" height="10"/>
+  <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="16" data-date="2021-04-12" x="459" y="32" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="14" data-date="2021-04-19" x="471" y="32" width="10" height="10"/>
   <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="40" data-date="2021-04-26" x="483" y="32" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="10" data-date="2021-05-03" x="495" y="32" width="10" height="10"/>
@@ -165,7 +165,7 @@
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="10" data-date="2020-08-19" x="51" y="56" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="7" data-date="2020-08-26" x="63" y="56" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="25" data-date="2020-09-02" x="75" y="56" width="10" height="10"/>
-  <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="46" data-date="2020-09-09" x="87" y="56" width="10" height="10"/>
+  <rect style="fill:#196127;shape-rendering:crispedges;" data-score="46" data-date="2020-09-09" x="87" y="56" width="10" height="10"/>
   <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="43" data-date="2020-09-16" x="99" y="56" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="21" data-date="2020-09-23" x="111" y="56" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="10" data-date="2020-09-30" x="123" y="56" width="10" height="10"/>
@@ -178,7 +178,7 @@
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="27" data-date="2020-11-18" x="207" y="56" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="26" data-date="2020-11-25" x="219" y="56" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="15" data-date="2020-12-02" x="231" y="56" width="10" height="10"/>
-  <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="16" data-date="2020-12-09" x="243" y="56" width="10" height="10"/>
+  <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="16" data-date="2020-12-09" x="243" y="56" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="26" data-date="2020-12-16" x="255" y="56" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="29" data-date="2020-12-23" x="267" y="56" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="7" data-date="2020-12-30" x="279" y="56" width="10" height="10"/>
@@ -188,14 +188,14 @@
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="4" data-date="2021-01-27" x="327" y="56" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="4" data-date="2021-02-03" x="339" y="56" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="5" data-date="2021-02-10" x="351" y="56" width="10" height="10"/>
-  <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="16" data-date="2021-02-17" x="363" y="56" width="10" height="10"/>
+  <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="16" data-date="2021-02-17" x="363" y="56" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="14" data-date="2021-02-24" x="375" y="56" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="21" data-date="2021-03-03" x="387" y="56" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="13" data-date="2021-03-10" x="399" y="56" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="22" data-date="2021-03-17" x="411" y="56" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="4" data-date="2021-03-24" x="423" y="56" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="18" data-date="2021-03-31" x="435" y="56" width="10" height="10"/>
-  <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="16" data-date="2021-04-07" x="447" y="56" width="10" height="10"/>
+  <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="16" data-date="2021-04-07" x="447" y="56" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="12" data-date="2021-04-14" x="459" y="56" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="24" data-date="2021-04-21" x="471" y="56" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="30" data-date="2021-04-28" x="483" y="56" width="10" height="10"/>
@@ -213,21 +213,21 @@
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="2" data-date="2021-07-21" x="627" y="56" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="8" data-date="2021-07-28" x="639" y="56" width="10" height="10"/>
   <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2021-08-04" x="651" y="56" width="10" height="10"/>
-  <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="16" data-date="2020-08-06" x="27" y="68" width="10" height="10"/>
+  <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="16" data-date="2020-08-06" x="27" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="2" data-date="2020-08-13" x="39" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="9" data-date="2020-08-20" x="51" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="13" data-date="2020-08-27" x="63" y="68" width="10" height="10"/>
   <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="33" data-date="2020-09-03" x="75" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="10" data-date="2020-09-10" x="87" y="68" width="10" height="10"/>
   <rect style="fill:#196127;shape-rendering:crispedges;" data-score="50" data-date="2020-09-17" x="99" y="68" width="10" height="10"/>
-  <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="46" data-date="2020-09-24" x="111" y="68" width="10" height="10"/>
+  <rect style="fill:#196127;shape-rendering:crispedges;" data-score="46" data-date="2020-09-24" x="111" y="68" width="10" height="10"/>
   <rect style="fill:#196127;shape-rendering:crispedges;" data-score="52" data-date="2020-10-01" x="123" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="11" data-date="2020-10-08" x="135" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="13" data-date="2020-10-15" x="147" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="10" data-date="2020-10-22" x="159" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="8" data-date="2020-10-29" x="171" y="68" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="22" data-date="2020-11-05" x="183" y="68" width="10" height="10"/>
-  <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="48" data-date="2020-11-12" x="195" y="68" width="10" height="10"/>
+  <rect style="fill:#196127;shape-rendering:crispedges;" data-score="48" data-date="2020-11-12" x="195" y="68" width="10" height="10"/>
   <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="35" data-date="2020-11-19" x="207" y="68" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="17" data-date="2020-11-26" x="219" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="12" data-date="2020-12-03" x="231" y="68" width="10" height="10"/>
@@ -246,7 +246,7 @@
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="8" data-date="2021-03-04" x="387" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="7" data-date="2021-03-11" x="399" y="68" width="10" height="10"/>
   <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="42" data-date="2021-03-18" x="411" y="68" width="10" height="10"/>
-  <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="47" data-date="2021-03-25" x="423" y="68" width="10" height="10"/>
+  <rect style="fill:#196127;shape-rendering:crispedges;" data-score="47" data-date="2021-03-25" x="423" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="7" data-date="2021-04-01" x="435" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="6" data-date="2021-04-08" x="447" y="68" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="24" data-date="2021-04-15" x="459" y="68" width="10" height="10"/>
@@ -255,7 +255,7 @@
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="10" data-date="2021-05-06" x="495" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="4" data-date="2021-05-13" x="507" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="11" data-date="2021-05-20" x="519" y="68" width="10" height="10"/>
-  <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="32" data-date="2021-05-27" x="531" y="68" width="10" height="10"/>
+  <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="32" data-date="2021-05-27" x="531" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="9" data-date="2021-06-03" x="543" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="9" data-date="2021-06-10" x="555" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="14" data-date="2021-06-17" x="567" y="68" width="10" height="10"/>
@@ -265,7 +265,7 @@
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2021-07-15" x="615" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="12" data-date="2021-07-22" x="627" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="5" data-date="2021-07-29" x="639" y="68" width="10" height="10"/>
-  <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="4" data-date="2021-08-05" x="651" y="68" width="10" height="10"/>
+  <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="5" data-date="2021-08-05" x="651" y="68" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="10" data-date="2020-08-07" x="27" y="80" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="6" data-date="2020-08-14" x="39" y="80" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="7" data-date="2020-08-21" x="51" y="80" width="10" height="10"/>
@@ -274,7 +274,7 @@
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="30" data-date="2020-09-11" x="87" y="80" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="19" data-date="2020-09-18" x="99" y="80" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="21" data-date="2020-09-25" x="111" y="80" width="10" height="10"/>
-  <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="31" data-date="2020-10-02" x="123" y="80" width="10" height="10"/>
+  <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="31" data-date="2020-10-02" x="123" y="80" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="29" data-date="2020-10-09" x="135" y="80" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="11" data-date="2020-10-16" x="147" y="80" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="5" data-date="2020-10-23" x="159" y="80" width="10" height="10"/>
@@ -285,7 +285,7 @@
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="28" data-date="2020-11-27" x="219" y="80" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="11" data-date="2020-12-04" x="231" y="80" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="7" data-date="2020-12-11" x="243" y="80" width="10" height="10"/>
-  <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="31" data-date="2020-12-18" x="255" y="80" width="10" height="10"/>
+  <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="31" data-date="2020-12-18" x="255" y="80" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="5" data-date="2020-12-25" x="267" y="80" width="10" height="10"/>
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="21" data-date="2021-01-01" x="279" y="80" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="15" data-date="2021-01-08" x="291" y="80" width="10" height="10"/>
@@ -308,7 +308,7 @@
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="22" data-date="2021-05-07" x="495" y="80" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="15" data-date="2021-05-14" x="507" y="80" width="10" height="10"/>
   <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="45" data-date="2021-05-21" x="519" y="80" width="10" height="10"/>
-  <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="31" data-date="2021-05-28" x="531" y="80" width="10" height="10"/>
+  <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="31" data-date="2021-05-28" x="531" y="80" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="3" data-date="2021-06-04" x="543" y="80" width="10" height="10"/>
   <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="33" data-date="2021-06-11" x="555" y="80" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="3" data-date="2021-06-18" x="567" y="80" width="10" height="10"/>
@@ -318,7 +318,7 @@
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="8" data-date="2021-07-16" x="615" y="80" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="13" data-date="2021-07-23" x="627" y="80" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="2" data-date="2021-07-30" x="639" y="80" width="10" height="10"/>
-  <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2021-08-06" x="651" y="80" width="10" height="10"/>
+  <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2021-08-06" x="651" y="80" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="7" data-date="2020-08-08" x="27" y="92" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="4" data-date="2020-08-15" x="39" y="92" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="5" data-date="2020-08-22" x="51" y="92" width="10" height="10"/>
@@ -331,7 +331,7 @@
   <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="23" data-date="2020-10-10" x="135" y="92" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="6" data-date="2020-10-17" x="147" y="92" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="2" data-date="2020-10-24" x="159" y="92" width="10" height="10"/>
-  <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="16" data-date="2020-10-31" x="171" y="92" width="10" height="10"/>
+  <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="16" data-date="2020-10-31" x="171" y="92" width="10" height="10"/>
   <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="41" data-date="2020-11-07" x="183" y="92" width="10" height="10"/>
   <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="43" data-date="2020-11-14" x="195" y="92" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="11" data-date="2020-11-21" x="207" y="92" width="10" height="10"/>
@@ -342,7 +342,7 @@
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="9" data-date="2020-12-26" x="267" y="92" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="15" data-date="2021-01-02" x="279" y="92" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2021-01-09" x="291" y="92" width="10" height="10"/>
-  <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="16" data-date="2021-01-16" x="303" y="92" width="10" height="10"/>
+  <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="16" data-date="2021-01-16" x="303" y="92" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="11" data-date="2021-01-23" x="315" y="92" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2021-01-30" x="327" y="92" width="10" height="10"/>
   <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="3" data-date="2021-02-06" x="339" y="92" width="10" height="10"/>
