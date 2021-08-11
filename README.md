@@ -24,8 +24,8 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/berty](https://github.com/berty/berty) ([v2.302.6](https://github.com/berty/berty/releases/tag/v2.302.6), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.19.0](https://github.com/uber-go/zap/releases/tag/v1.19.0), 2 days ago) - Blazing fast, structured, leveled logging in Go.
-- [berty/berty](https://github.com/berty/berty) ([v2.302.5](https://github.com/berty/berty/releases/tag/v2.302.5), 1 week ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.1](https://github.com/moul/repoman/releases/tag/v1.6.1), 1 week ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.2](https://github.com/moul/golang-repo-template/releases/tag/v1.36.2), 2 weeks ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.1](https://github.com/moul/zapring/releases/tag/v1.3.1), 2 weeks ago) - 💍 In-memory RING buffer backend for the Zap logger
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1628688925.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1628690714.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
