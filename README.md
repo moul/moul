@@ -24,10 +24,10 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.302.8](https://github.com/berty/berty/releases/tag/v2.302.8), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.3](https://github.com/moul/golang-repo-template/releases/tag/v1.36.3), 3 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
-- [moul/zapring](https://github.com/moul/zapring) ([v1.3.2](https://github.com/moul/zapring/releases/tag/v1.3.2), 3 days ago) - 💍 In-memory RING buffer backend for the Zap logger
-- [uber-go/zap](https://github.com/uber-go/zap) ([v1.19.0](https://github.com/uber-go/zap/releases/tag/v1.19.0), 6 days ago) - Blazing fast, structured, leveled logging in Go.
+- [berty/berty](https://github.com/berty/berty) ([v2.302.8](https://github.com/berty/berty/releases/tag/v2.302.8), 4 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.3](https://github.com/moul/golang-repo-template/releases/tag/v1.36.3), 4 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
+- [moul/zapring](https://github.com/moul/zapring) ([v1.3.2](https://github.com/moul/zapring/releases/tag/v1.3.2), 4 days ago) - 💍 In-memory RING buffer backend for the Zap logger
+- [uber-go/zap](https://github.com/uber-go/zap) ([v1.19.0](https://github.com/uber-go/zap/releases/tag/v1.19.0), 1 week ago) - Blazing fast, structured, leveled logging in Go.
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.1](https://github.com/moul/repoman/releases/tag/v1.6.1), 2 weeks ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/logman](https://github.com/moul/logman) ([v1.2.1](https://github.com/moul/logman/releases/tag/v1.2.1), 3 weeks ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.2](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.2), 3 weeks ago) - 🚧 useless Alfred workflow used as a test to find a good project structure
@@ -57,7 +57,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <li><a href="https://wip.co/@moul/todos/189178">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (1 month ago)</li>
   <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (3 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (3 months ago)</li>
-  <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (3 months ago)</li>
+  <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (4 months ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1629070473.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1629072561.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
