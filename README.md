@@ -11,6 +11,7 @@
 #### 🌱 My latest projects
 
 
+- [moul/scheme](https://github.com/moul/scheme) - Personal color scheme for my terminals etc
 - [moul/uptime](https://github.com/moul/uptime) - 📈 Uptime monitor and status page for Manfred Touron, powered by @upptime
 - [moul/climan](https://github.com/moul/climan) - 🦪 Golang CLI manager
 - [moul/rrgc](https://github.com/moul/rrgc) - 🗑 round-robin garbage-collector
@@ -20,7 +21,6 @@
 - [moul/repoman-action](https://github.com/moul/repoman-action) - 🐙 GitHub action for repoman
 - [moul/logman](https://github.com/moul/logman) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
 - [moul/macos-chess-com](https://github.com/moul/macos-chess-com) - ♟ macOS app for chess.com/@ChessCom (unofficial)
-- [moul/expo-hello](https://github.com/moul/expo-hello) - 🚧 useless Expo app used as a test to find a good project structure
 
 #### 🔭 Recent Releases I Worked On
 
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1629146083.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1629147903.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
