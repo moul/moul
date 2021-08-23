@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.12.0](https://github.com/berty/go-orbit-db/releases/tag/v1.12.0), today) - Go version of P2P Database on IPFS
 - [berty/berty](https://github.com/berty/berty) ([v2.305.0](https://github.com/berty/berty/releases/tag/v2.305.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.4](https://github.com/moul/golang-repo-template/releases/tag/v1.36.4), 5 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.2](https://github.com/moul/zapring/releases/tag/v1.3.2), 1 week ago) - 💍 In-memory RING buffer backend for the Zap logger
@@ -33,7 +34,6 @@
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.2](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.2), 1 month ago) - 🚧 useless Alfred workflow used as a test to find a good project structure
 - [moul/converter](https://github.com/moul/converter) ([v1.2.3](https://github.com/moul/converter/releases/tag/v1.2.3), 1 month ago) - :scissors: multiformat data conversion
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.5](https://github.com/moul/pipotron/releases/tag/v1.13.5), 1 month ago) - generic (&amp; funny?) text generator
-- [moul/u](https://github.com/moul/u) ([v1.27.0](https://github.com/moul/u/releases/tag/v1.27.0), 1 month ago) - 🔬 Go common utility functions
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1629707798.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1629709509.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
