@@ -24,9 +24,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.12.0](https://github.com/berty/go-orbit-db/releases/tag/v1.12.0), today) - Go version of P2P Database on IPFS
-- [berty/berty](https://github.com/berty/berty) ([v2.305.0](https://github.com/berty/berty/releases/tag/v2.305.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.4](https://github.com/moul/golang-repo-template/releases/tag/v1.36.4), 5 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
+- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.12.0](https://github.com/berty/go-orbit-db/releases/tag/v1.12.0), 1 day ago) - Go version of P2P Database on IPFS
+- [berty/berty](https://github.com/berty/berty) ([v2.305.0](https://github.com/berty/berty/releases/tag/v2.305.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.4](https://github.com/moul/golang-repo-template/releases/tag/v1.36.4), 6 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.2](https://github.com/moul/zapring/releases/tag/v1.3.2), 1 week ago) - 💍 In-memory RING buffer backend for the Zap logger
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.19.0](https://github.com/uber-go/zap/releases/tag/v1.19.0), 2 weeks ago) - Blazing fast, structured, leveled logging in Go.
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.1](https://github.com/moul/repoman/releases/tag/v1.6.1), 3 weeks ago) - 📋 repo manager: some scripts I run against my repos
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1629761694.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1629763806.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
