@@ -24,9 +24,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.3](https://github.com/moul/http2curl/releases/tag/v2.2.3), 1 day ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
-- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.12.0](https://github.com/berty/go-orbit-db/releases/tag/v1.12.0), 3 days ago) - Go version of P2P Database on IPFS
-- [berty/berty](https://github.com/berty/berty) ([v2.305.0](https://github.com/berty/berty/releases/tag/v2.305.0), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.3](https://github.com/moul/http2curl/releases/tag/v2.2.3), 2 days ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
+- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.12.0](https://github.com/berty/go-orbit-db/releases/tag/v1.12.0), 4 days ago) - Go version of P2P Database on IPFS
+- [berty/berty](https://github.com/berty/berty) ([v2.305.0](https://github.com/berty/berty/releases/tag/v2.305.0), 4 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.4](https://github.com/moul/golang-repo-template/releases/tag/v1.36.4), 1 week ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.2](https://github.com/moul/zapring/releases/tag/v1.3.2), 2 weeks ago) - 💍 In-memory RING buffer backend for the Zap logger
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.19.0](https://github.com/uber-go/zap/releases/tag/v1.19.0), 2 weeks ago) - Blazing fast, structured, leveled logging in Go.
@@ -55,7 +55,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   
   <li><a href="https://wip.co/@moul/todos/189179">💉  2nd pfizer #life</a> (2 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/189178">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (2 months ago)</li>
-  <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (3 months ago)</li>
+  <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (4 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (4 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (4 months ago)</li>
   </ul>
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1630020883.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1630023022.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
