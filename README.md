@@ -24,9 +24,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.13.0](https://github.com/berty/go-orbit-db/releases/tag/v1.13.0), today) - Go version of P2P Database on IPFS
-- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.5](https://github.com/moul/golang-repo-template/releases/tag/v1.36.5), 2 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
-- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.73.1](https://github.com/pathwar/pathwar/releases/tag/v2.73.1), 5 days ago) - ☠️ The Pathwar Project ☠️
+- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.13.0](https://github.com/berty/go-orbit-db/releases/tag/v1.13.0), 1 day ago) - Go version of P2P Database on IPFS
+- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.5](https://github.com/moul/golang-repo-template/releases/tag/v1.36.5), 3 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
+- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.73.1](https://github.com/pathwar/pathwar/releases/tag/v2.73.1), 6 days ago) - ☠️ The Pathwar Project ☠️
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.19.1](https://github.com/uber-go/zap/releases/tag/v1.19.1), 1 week ago) - Blazing fast, structured, leveled logging in Go.
 - [berty/berty](https://github.com/berty/berty) ([v2.306.2](https://github.com/berty/berty/releases/tag/v2.306.2), 1 week ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.2](https://github.com/moul/repoman/releases/tag/v1.6.2), 2 weeks ago) - 📋 repo manager: some scripts I run against my repos
@@ -53,10 +53,10 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>🚧 Things I did recently</h4>
   <ul>
   
-  <li><a href="https://wip.co/@moul/todos/189179">💉  2nd pfizer #life</a> (2 months ago)</li>
-  <li><a href="https://wip.co/@moul/todos/189178">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (2 months ago)</li>
+  <li><a href="https://wip.co/@moul/todos/189179">💉  2nd pfizer #life</a> (3 months ago)</li>
+  <li><a href="https://wip.co/@moul/todos/189178">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (3 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (4 months ago)</li>
-  <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (4 months ago)</li>
+  <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (5 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (5 months ago)</li>
   </ul>
 
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1631748877.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1631750999.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
