@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/bot](https://github.com/moul/bot) ([v1.9.14](https://github.com/moul/bot/releases/tag/v1.9.14), today) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [berty/berty](https://github.com/berty/berty) ([v2.307.0](https://github.com/berty/berty/releases/tag/v2.307.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.3](https://github.com/moul/repoman/releases/tag/v1.6.3), 1 day ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.4](https://github.com/moul/http2curl/releases/tag/v2.2.4), 1 day ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
@@ -33,7 +34,6 @@
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.19.1](https://github.com/uber-go/zap/releases/tag/v1.19.1), 1 week ago) - Blazing fast, structured, leveled logging in Go.
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.2](https://github.com/moul/zapring/releases/tag/v1.3.2), 1 month ago) - 💍 In-memory RING buffer backend for the Zap logger
 - [moul/logman](https://github.com/moul/logman) ([v1.2.1](https://github.com/moul/logman/releases/tag/v1.2.1), 2 months ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
-- [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.2](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.2), 2 months ago) - 🚧 useless Alfred workflow used as a test to find a good project structure
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1632240320.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1632242586.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
