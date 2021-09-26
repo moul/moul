@@ -24,10 +24,10 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [moul/bot](https://github.com/moul/bot) ([v1.9.16](https://github.com/moul/bot/releases/tag/v1.9.16), today) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
-- [berty/berty](https://github.com/berty/berty) ([v2.307.2](https://github.com/berty/berty/releases/tag/v2.307.2), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/repoman](https://github.com/moul/repoman) ([v1.6.3](https://github.com/moul/repoman/releases/tag/v1.6.3), 5 days ago) - 📋 repo manager: some scripts I run against my repos
-- [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.4](https://github.com/moul/http2curl/releases/tag/v2.2.4), 5 days ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
+- [moul/bot](https://github.com/moul/bot) ([v1.9.16](https://github.com/moul/bot/releases/tag/v1.9.16), 1 day ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
+- [berty/berty](https://github.com/berty/berty) ([v2.307.2](https://github.com/berty/berty/releases/tag/v2.307.2), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/repoman](https://github.com/moul/repoman) ([v1.6.3](https://github.com/moul/repoman/releases/tag/v1.6.3), 6 days ago) - 📋 repo manager: some scripts I run against my repos
+- [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.4](https://github.com/moul/http2curl/releases/tag/v2.2.4), 6 days ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.6](https://github.com/moul/golang-repo-template/releases/tag/v1.36.6), 1 week ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.74.0](https://github.com/pathwar/pathwar/releases/tag/v2.74.0), 1 week ago) - ☠️ The Pathwar Project ☠️
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.13.0](https://github.com/berty/go-orbit-db/releases/tag/v1.13.0), 1 week ago) - Go version of P2P Database on IPFS
@@ -55,7 +55,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   
   <li><a href="https://wip.co/@moul/todos/189179">💉  2nd pfizer #life</a> (3 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/189178">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (3 months ago)</li>
-  <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (4 months ago)</li>
+  <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (5 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (5 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (5 months ago)</li>
   </ul>
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1632612866.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1632615063.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
