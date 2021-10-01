@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.13.1](https://github.com/berty/go-orbit-db/releases/tag/v1.13.1), today) - Go version of P2P Database on IPFS
 - [berty/berty](https://github.com/berty/berty) ([v2.310.0](https://github.com/berty/berty/releases/tag/v2.310.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [berty/yolo](https://github.com/berty/yolo) ([v2.100.0](https://github.com/berty/yolo/releases/tag/v2.100.0), 1 day ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 - [moul/bot](https://github.com/moul/bot) ([v1.9.16](https://github.com/moul/bot/releases/tag/v1.9.16), 6 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
@@ -31,7 +32,6 @@
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.4](https://github.com/moul/http2curl/releases/tag/v2.2.4), 1 week ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.6](https://github.com/moul/golang-repo-template/releases/tag/v1.36.6), 1 week ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.74.0](https://github.com/pathwar/pathwar/releases/tag/v2.74.0), 2 weeks ago) - ☠️ The Pathwar Project ☠️
-- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.13.0](https://github.com/berty/go-orbit-db/releases/tag/v1.13.0), 2 weeks ago) - Go version of P2P Database on IPFS
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.19.1](https://github.com/uber-go/zap/releases/tag/v1.19.1), 3 weeks ago) - Blazing fast, structured, leveled logging in Go.
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.2](https://github.com/moul/zapring/releases/tag/v1.3.2), 1 month ago) - 💍 In-memory RING buffer backend for the Zap logger
 
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1633073648.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1633075524.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
