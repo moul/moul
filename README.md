@@ -24,9 +24,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [moul/assh](https://github.com/moul/assh) ([v2.12.0](https://github.com/moul/assh/releases/tag/v2.12.0), today) - :computer: make your ssh client smarter
-- [berty/berty](https://github.com/berty/berty) ([v2.311.0](https://github.com/berty/berty/releases/tag/v2.311.0), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.13.1](https://github.com/berty/go-orbit-db/releases/tag/v1.13.1), 1 week ago) - Go version of P2P Database on IPFS
+- [moul/assh](https://github.com/moul/assh) ([v2.12.0](https://github.com/moul/assh/releases/tag/v2.12.0), 1 day ago) - :computer: make your ssh client smarter
+- [berty/berty](https://github.com/berty/berty) ([v2.311.0](https://github.com/berty/berty/releases/tag/v2.311.0), 4 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.13.1](https://github.com/berty/go-orbit-db/releases/tag/v1.13.1), 2 weeks ago) - Go version of P2P Database on IPFS
 - [berty/yolo](https://github.com/berty/yolo) ([v2.100.0](https://github.com/berty/yolo/releases/tag/v2.100.0), 2 weeks ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 - [moul/bot](https://github.com/moul/bot) ([v1.9.16](https://github.com/moul/bot/releases/tag/v1.9.16), 2 weeks ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.3](https://github.com/moul/repoman/releases/tag/v1.6.3), 3 weeks ago) - 📋 repo manager: some scripts I run against my repos
@@ -57,7 +57,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <li><a href="https://wip.co/@moul/todos/189178">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (3 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (5 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (5 months ago)</li>
-  <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (5 months ago)</li>
+  <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (6 months ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1634254494.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1634256615.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
