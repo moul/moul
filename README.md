@@ -24,8 +24,8 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.319.0](https://github.com/berty/berty/releases/tag/v2.319.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [berty/yolo](https://github.com/berty/yolo) ([v2.100.1](https://github.com/berty/yolo/releases/tag/v2.100.1), 3 days ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
+- [berty/berty](https://github.com/berty/berty) ([v2.319.0](https://github.com/berty/berty/releases/tag/v2.319.0), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/yolo](https://github.com/berty/yolo) ([v2.100.1](https://github.com/berty/yolo/releases/tag/v2.100.1), 4 days ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.8](https://github.com/moul/golang-repo-template/releases/tag/v1.36.8), 1 week ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/number-to-words](https://github.com/moul/number-to-words) ([v0.7.0](https://github.com/moul/number-to-words/releases/tag/v0.7.0), 1 week ago) - convert number into words (english, french, italian, roman, spanish, portuguese, belgium, dutch, swedish, polish, russian, iranian, roman, aegean)
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.3](https://github.com/moul/zapring/releases/tag/v1.3.3), 3 weeks ago) - 💍 In-memory RING buffer backend for the Zap logger
@@ -57,7 +57,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <li><a href="https://wip.co/@moul/todos/189178">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (4 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (6 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (6 months ago)</li>
-  <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (6 months ago)</li>
+  <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (7 months ago)</li>
   </ul>
 
   <h4>📜 Recent blog posts</h4>
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1636846506.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1636848681.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
