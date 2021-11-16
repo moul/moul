@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.320.2](https://github.com/berty/berty/releases/tag/v2.320.2), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/berty](https://github.com/berty/berty) ([v2.320.3](https://github.com/berty/berty/releases/tag/v2.320.3), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.1](https://github.com/moul/zapgorm2/releases/tag/v1.1.1), 2 days ago) - ⚡ zap logging driver for gorm v2
 - [berty/yolo](https://github.com/berty/yolo) ([v2.100.1](https://github.com/berty/yolo/releases/tag/v2.100.1), 6 days ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.8](https://github.com/moul/golang-repo-template/releases/tag/v1.36.8), 2 weeks ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1637073570.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1637075387.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
