@@ -24,16 +24,16 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/zapring](https://github.com/moul/zapring) ([v1.3.4](https://github.com/moul/zapring/releases/tag/v1.3.4), today) - 💍 In-memory RING buffer backend for the Zap logger
+- [moul/chizap](https://github.com/moul/chizap) ([v1.0.2](https://github.com/moul/chizap/releases/tag/v1.0.2), today) - ⚡️ simple zap logging middleware for go-chi 
 - [berty/berty](https://github.com/berty/berty) ([v2.320.4](https://github.com/berty/berty/releases/tag/v2.320.4), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.1](https://github.com/moul/zapgorm2/releases/tag/v1.1.1), 5 days ago) - ⚡ zap logging driver for gorm v2
 - [berty/yolo](https://github.com/berty/yolo) ([v2.100.1](https://github.com/berty/yolo/releases/tag/v2.100.1), 1 week ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.8](https://github.com/moul/golang-repo-template/releases/tag/v1.36.8), 2 weeks ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/number-to-words](https://github.com/moul/number-to-words) ([v0.7.0](https://github.com/moul/number-to-words/releases/tag/v0.7.0), 2 weeks ago) - convert number into words (english, french, italian, roman, spanish, portuguese, belgium, dutch, swedish, polish, russian, iranian, roman, aegean)
-- [moul/zapring](https://github.com/moul/zapring) ([v1.3.3](https://github.com/moul/zapring/releases/tag/v1.3.3), 4 weeks ago) - 💍 In-memory RING buffer backend for the Zap logger
 - [moul/assh](https://github.com/moul/assh) ([v2.12.0](https://github.com/moul/assh/releases/tag/v2.12.0), 1 month ago) - :computer: make your ssh client smarter
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.13.1](https://github.com/berty/go-orbit-db/releases/tag/v1.13.1), 1 month ago) - Go version of P2P Database on IPFS
 - [moul/bot](https://github.com/moul/bot) ([v1.9.16](https://github.com/moul/bot/releases/tag/v1.9.16), 1 month ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
-- [moul/repoman](https://github.com/moul/repoman) ([v1.6.3](https://github.com/moul/repoman/releases/tag/v1.6.3), 2 months ago) - 📋 repo manager: some scripts I run against my repos
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1637332468.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1637334575.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
