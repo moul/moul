@@ -24,10 +24,10 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.320.6](https://github.com/berty/berty/releases/tag/v2.320.6), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/zapring](https://github.com/moul/zapring) ([v1.3.4](https://github.com/moul/zapring/releases/tag/v1.3.4), 1 day ago) - 💍 In-memory RING buffer backend for the Zap logger
-- [moul/chizap](https://github.com/moul/chizap) ([v1.0.2](https://github.com/moul/chizap/releases/tag/v1.0.2), 1 day ago) - ⚡️ simple zap logging middleware for go-chi 
-- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.1](https://github.com/moul/zapgorm2/releases/tag/v1.1.1), 6 days ago) - ⚡ zap logging driver for gorm v2
+- [berty/berty](https://github.com/berty/berty) ([v2.320.6](https://github.com/berty/berty/releases/tag/v2.320.6), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/zapring](https://github.com/moul/zapring) ([v1.3.4](https://github.com/moul/zapring/releases/tag/v1.3.4), 2 days ago) - 💍 In-memory RING buffer backend for the Zap logger
+- [moul/chizap](https://github.com/moul/chizap) ([v1.0.2](https://github.com/moul/chizap/releases/tag/v1.0.2), 2 days ago) - ⚡️ simple zap logging middleware for go-chi 
+- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.1](https://github.com/moul/zapgorm2/releases/tag/v1.1.1), 1 week ago) - ⚡ zap logging driver for gorm v2
 - [berty/yolo](https://github.com/berty/yolo) ([v2.100.1](https://github.com/berty/yolo/releases/tag/v2.100.1), 1 week ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.8](https://github.com/moul/golang-repo-template/releases/tag/v1.36.8), 2 weeks ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/number-to-words](https://github.com/moul/number-to-words) ([v0.7.0](https://github.com/moul/number-to-words/releases/tag/v0.7.0), 2 weeks ago) - convert number into words (english, french, italian, roman, spanish, portuguese, belgium, dutch, swedish, polish, russian, iranian, roman, aegean)
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1637451299.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1637453509.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
