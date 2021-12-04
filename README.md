@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.328.1](https://github.com/berty/berty/releases/tag/v2.328.1), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/berty](https://github.com/berty/berty) ([v2.328.2](https://github.com/berty/berty/releases/tag/v2.328.2), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.5](https://github.com/moul/sshportal/releases/tag/v1.18.5), 1 week ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.4](https://github.com/moul/repoman/releases/tag/v1.6.4), 1 week ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/logman](https://github.com/moul/logman) ([v1.2.2](https://github.com/moul/logman/releases/tag/v1.2.2), 1 week ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
@@ -116,7 +116,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1638646440.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1638648361.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
