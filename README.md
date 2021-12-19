@@ -24,14 +24,14 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [moul/repoman](https://github.com/moul/repoman) ([v1.6.5](https://github.com/moul/repoman/releases/tag/v1.6.5), today) - 📋 repo manager: some scripts I run against my repos
-- [berty/berty](https://github.com/berty/berty) ([v2.336.5](https://github.com/berty/berty/releases/tag/v2.336.5), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/repoman](https://github.com/moul/repoman) ([v1.6.5](https://github.com/moul/repoman/releases/tag/v1.6.5), 1 day ago) - 📋 repo manager: some scripts I run against my repos
+- [berty/berty](https://github.com/berty/berty) ([v2.336.5](https://github.com/berty/berty/releases/tag/v2.336.5), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.13.2](https://github.com/berty/go-orbit-db/releases/tag/v1.13.2), 1 week ago) - Go version of P2P Database on IPFS
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.9](https://github.com/moul/golang-repo-template/releases/tag/v1.36.9), 1 week ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
-- [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.5](https://github.com/moul/sshportal/releases/tag/v1.18.5), 3 weeks ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-- [moul/logman](https://github.com/moul/logman) ([v1.2.2](https://github.com/moul/logman/releases/tag/v1.2.2), 3 weeks ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
-- [moul/zapring](https://github.com/moul/zapring) ([v1.3.4](https://github.com/moul/zapring/releases/tag/v1.3.4), 4 weeks ago) - 💍 In-memory RING buffer backend for the Zap logger
-- [moul/chizap](https://github.com/moul/chizap) ([v1.0.2](https://github.com/moul/chizap/releases/tag/v1.0.2), 4 weeks ago) - ⚡️ simple zap logging middleware for go-chi 
+- [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.5](https://github.com/moul/sshportal/releases/tag/v1.18.5), 4 weeks ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
+- [moul/logman](https://github.com/moul/logman) ([v1.2.2](https://github.com/moul/logman/releases/tag/v1.2.2), 4 weeks ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
+- [moul/zapring](https://github.com/moul/zapring) ([v1.3.4](https://github.com/moul/zapring/releases/tag/v1.3.4), 1 month ago) - 💍 In-memory RING buffer backend for the Zap logger
+- [moul/chizap](https://github.com/moul/chizap) ([v1.0.2](https://github.com/moul/chizap/releases/tag/v1.0.2), 1 month ago) - ⚡️ simple zap logging middleware for go-chi 
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.1](https://github.com/moul/zapgorm2/releases/tag/v1.1.1), 1 month ago) - ⚡ zap logging driver for gorm v2
 - [berty/yolo](https://github.com/berty/yolo) ([v2.100.1](https://github.com/berty/yolo/releases/tag/v2.100.1), 1 month ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1639870494.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1639872787.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
