@@ -24,9 +24,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.337.2](https://github.com/berty/berty/releases/tag/v2.337.2), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/chizap](https://github.com/moul/chizap) ([v1.0.3](https://github.com/moul/chizap/releases/tag/v1.0.3), 2 days ago) - ⚡️ simple zap logging middleware for go-chi 
-- [moul/repoman](https://github.com/moul/repoman) ([v1.6.5](https://github.com/moul/repoman/releases/tag/v1.6.5), 3 days ago) - 📋 repo manager: some scripts I run against my repos
+- [berty/berty](https://github.com/berty/berty) ([v2.337.2](https://github.com/berty/berty/releases/tag/v2.337.2), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/chizap](https://github.com/moul/chizap) ([v1.0.3](https://github.com/moul/chizap/releases/tag/v1.0.3), 3 days ago) - ⚡️ simple zap logging middleware for go-chi 
+- [moul/repoman](https://github.com/moul/repoman) ([v1.6.5](https://github.com/moul/repoman/releases/tag/v1.6.5), 4 days ago) - 📋 repo manager: some scripts I run against my repos
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.13.2](https://github.com/berty/go-orbit-db/releases/tag/v1.13.2), 1 week ago) - Go version of P2P Database on IPFS
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.9](https://github.com/moul/golang-repo-template/releases/tag/v1.36.9), 2 weeks ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.5](https://github.com/moul/sshportal/releases/tag/v1.18.5), 1 month ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1640129714.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1640131989.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
