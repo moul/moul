@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/assh](https://github.com/moul/assh) ([v2.12.1](https://github.com/moul/assh/releases/tag/v2.12.1), today) - :computer: make your ssh client smarter
 - [berty/berty](https://github.com/berty/berty) ([v2.340.0](https://github.com/berty/berty/releases/tag/v2.340.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/progress](https://github.com/moul/progress) ([v1.4.1](https://github.com/moul/progress/releases/tag/v1.4.1), 5 days ago) - 🏗 progress, steps, completion patterns for golang
 - [moul/logman](https://github.com/moul/logman) ([v1.2.3](https://github.com/moul/logman/releases/tag/v1.2.3), 5 days ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
@@ -33,7 +34,6 @@
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.5](https://github.com/moul/zapring/releases/tag/v1.3.5), 1 week ago) - 💍 In-memory RING buffer backend for the Zap logger
 - [moul/chizap](https://github.com/moul/chizap) ([v1.0.3](https://github.com/moul/chizap/releases/tag/v1.0.3), 2 weeks ago) - ⚡️ simple zap logging middleware for go-chi 
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.5](https://github.com/moul/repoman/releases/tag/v1.6.5), 2 weeks ago) - 📋 repo manager: some scripts I run against my repos
-- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.13.2](https://github.com/berty/go-orbit-db/releases/tag/v1.13.2), 3 weeks ago) - Go version of P2P Database on IPFS
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1641240314.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1641242160.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
