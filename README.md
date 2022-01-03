@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [moul/assh](https://github.com/moul/assh) ([v2.12.1](https://github.com/moul/assh/releases/tag/v2.12.1), today) - :computer: make your ssh client smarter
+- [moul/assh](https://github.com/moul/assh) ([v2.12.2](https://github.com/moul/assh/releases/tag/v2.12.2), today) - :computer: make your ssh client smarter
 - [berty/berty](https://github.com/berty/berty) ([v2.340.0](https://github.com/berty/berty/releases/tag/v2.340.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/progress](https://github.com/moul/progress) ([v1.4.1](https://github.com/moul/progress/releases/tag/v1.4.1), 5 days ago) - 🏗 progress, steps, completion patterns for golang
 - [moul/logman](https://github.com/moul/logman) ([v1.2.3](https://github.com/moul/logman/releases/tag/v1.2.3), 5 days ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1641243921.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1641245710.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
