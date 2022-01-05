@@ -24,14 +24,14 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [uber-go/zap](https://github.com/uber-go/zap) ([v1.20.0](https://github.com/uber-go/zap/releases/tag/v1.20.0), today) - Blazing fast, structured, leveled logging in Go.
-- [berty/berty](https://github.com/berty/berty) ([v2.341.0](https://github.com/berty/berty/releases/tag/v2.341.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/assh](https://github.com/moul/assh) ([v2.12.2](https://github.com/moul/assh/releases/tag/v2.12.2), 1 day ago) - :computer: make your ssh client smarter
-- [moul/progress](https://github.com/moul/progress) ([v1.4.1](https://github.com/moul/progress/releases/tag/v1.4.1), 6 days ago) - 🏗 progress, steps, completion patterns for golang
-- [moul/logman](https://github.com/moul/logman) ([v1.2.3](https://github.com/moul/logman/releases/tag/v1.2.3), 6 days ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
-- [moul/captcha](https://github.com/moul/captcha) ([v1.1.1](https://github.com/moul/captcha/releases/tag/v1.1.1), 6 days ago) - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
-- [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.3](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.3), 6 days ago) - 🚧 useless Alfred workflow used as a test to find a good project structure
-- [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.5](https://github.com/moul/http2curl/releases/tag/v2.2.5), 6 days ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
+- [uber-go/zap](https://github.com/uber-go/zap) ([v1.20.0](https://github.com/uber-go/zap/releases/tag/v1.20.0), 1 day ago) - Blazing fast, structured, leveled logging in Go.
+- [berty/berty](https://github.com/berty/berty) ([v2.341.0](https://github.com/berty/berty/releases/tag/v2.341.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/assh](https://github.com/moul/assh) ([v2.12.2](https://github.com/moul/assh/releases/tag/v2.12.2), 2 days ago) - :computer: make your ssh client smarter
+- [moul/progress](https://github.com/moul/progress) ([v1.4.1](https://github.com/moul/progress/releases/tag/v1.4.1), 1 week ago) - 🏗 progress, steps, completion patterns for golang
+- [moul/logman](https://github.com/moul/logman) ([v1.2.3](https://github.com/moul/logman/releases/tag/v1.2.3), 1 week ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
+- [moul/captcha](https://github.com/moul/captcha) ([v1.1.1](https://github.com/moul/captcha/releases/tag/v1.1.1), 1 week ago) - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
+- [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.3](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.3), 1 week ago) - 🚧 useless Alfred workflow used as a test to find a good project structure
+- [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.5](https://github.com/moul/http2curl/releases/tag/v2.2.5), 1 week ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.5](https://github.com/moul/zapring/releases/tag/v1.3.5), 1 week ago) - 💍 In-memory RING buffer backend for the Zap logger
 - [moul/chizap](https://github.com/moul/chizap) ([v1.0.3](https://github.com/moul/chizap/releases/tag/v1.0.3), 2 weeks ago) - ⚡️ simple zap logging middleware for go-chi 
 
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1641339330.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1641341619.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
