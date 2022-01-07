@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [ipfs/go-log](https://github.com/ipfs/go-log) ([v2.4.0](https://github.com/ipfs/go-log/releases/tag/v2.4.0), today) - A logging library used by go-ipfs
 - [berty/berty](https://github.com/berty/berty) ([v2.342.0](https://github.com/berty/berty/releases/tag/v2.342.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.20.0](https://github.com/uber-go/zap/releases/tag/v1.20.0), 3 days ago) - Blazing fast, structured, leveled logging in Go.
 - [moul/assh](https://github.com/moul/assh) ([v2.12.2](https://github.com/moul/assh/releases/tag/v2.12.2), 4 days ago) - :computer: make your ssh client smarter
@@ -33,7 +34,6 @@
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.3](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.3), 1 week ago) - 🚧 useless Alfred workflow used as a test to find a good project structure
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.5](https://github.com/moul/http2curl/releases/tag/v2.2.5), 1 week ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.5](https://github.com/moul/zapring/releases/tag/v1.3.5), 2 weeks ago) - 💍 In-memory RING buffer backend for the Zap logger
-- [moul/chizap](https://github.com/moul/chizap) ([v1.0.3](https://github.com/moul/chizap/releases/tag/v1.0.3), 2 weeks ago) - ⚡️ simple zap logging middleware for go-chi 
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1641555262.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1641557143.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
