@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/zapfilter](https://github.com/moul/zapfilter) ([v1.7.0](https://github.com/moul/zapfilter/releases/tag/v1.7.0), today) - ⚡💊 advanced filtering for uber&#39;s zap logger
 - [ipfs/go-log](https://github.com/ipfs/go-log) ([v2.5.0](https://github.com/ipfs/go-log/releases/tag/v2.5.0), 3 days ago) - A logging library used by go-ipfs
 - [berty/berty](https://github.com/berty/berty) ([v2.342.0](https://github.com/berty/berty/releases/tag/v2.342.0), 6 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.20.0](https://github.com/uber-go/zap/releases/tag/v1.20.0), 1 week ago) - Blazing fast, structured, leveled logging in Go.
@@ -33,7 +34,6 @@
 - [moul/captcha](https://github.com/moul/captcha) ([v1.1.1](https://github.com/moul/captcha/releases/tag/v1.1.1), 2 weeks ago) - 🦾 a &#34;Completely Automated Public Turing test to tell Computers and Humans Apart&#34; CLI
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.3](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.3), 2 weeks ago) - 🚧 useless Alfred workflow used as a test to find a good project structure
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.5](https://github.com/moul/http2curl/releases/tag/v2.2.5), 2 weeks ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
-- [moul/zapring](https://github.com/moul/zapring) ([v1.3.5](https://github.com/moul/zapring/releases/tag/v1.3.5), 2 weeks ago) - 💍 In-memory RING buffer backend for the Zap logger
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1641978328.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1641980170.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
