@@ -24,9 +24,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/berty](https://github.com/berty/berty) ([v2.343.0](https://github.com/berty/berty/releases/tag/v2.343.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/zapfilter](https://github.com/moul/zapfilter) ([v1.7.0](https://github.com/moul/zapfilter/releases/tag/v1.7.0), 1 day ago) - ⚡💊 advanced filtering for uber&#39;s zap logger
 - [ipfs/go-log](https://github.com/ipfs/go-log) ([v2.5.0](https://github.com/ipfs/go-log/releases/tag/v2.5.0), 4 days ago) - A logging library used by go-ipfs
-- [berty/berty](https://github.com/berty/berty) ([v2.342.0](https://github.com/berty/berty/releases/tag/v2.342.0), 1 week ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.20.0](https://github.com/uber-go/zap/releases/tag/v1.20.0), 1 week ago) - Blazing fast, structured, leveled logging in Go.
 - [moul/assh](https://github.com/moul/assh) ([v2.12.2](https://github.com/moul/assh/releases/tag/v2.12.2), 1 week ago) - :computer: make your ssh client smarter
 - [moul/progress](https://github.com/moul/progress) ([v1.4.1](https://github.com/moul/progress/releases/tag/v1.4.1), 2 weeks ago) - 🏗 progress, steps, completion patterns for golang
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1642086352.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1642088280.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
