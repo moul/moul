@@ -82,10 +82,10 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <ul>
   
   <li><a href="https://github.com/ZORKIL3">ZORKIL3</a>
-  <li><a href="https://github.com/hum">hum</a>
   <li><a href="https://github.com/schiederme">schiederme</a>
   <li><a href="https://github.com/Glittergates">Glittergates</a>
   <li><a href="https://github.com/vietanhphamnhu">vietanhphamnhu</a>
+  <li><a href="https://github.com/GoJaden">GoJaden</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1642142381.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1642144027.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
