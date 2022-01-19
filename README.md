@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [ipfs-shipyard/gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) ([v1.3.0](https://github.com/ipfs-shipyard/gomobile-ipfs/releases/tag/v1.3.0), 1 day ago) - IPFS and libp2p on Mobile, with Gomobile
+- [ipfs-shipyard/gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) ([v](https://github.com/ipfs-shipyard/gomobile-ipfs/releases/tag/v), today) - IPFS and libp2p on Mobile, with Gomobile
 - [berty/berty](https://github.com/berty/berty) ([v2.344.0](https://github.com/berty/berty/releases/tag/v2.344.0), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.10](https://github.com/moul/golang-repo-template/releases/tag/v1.36.10), 3 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/zapfilter](https://github.com/moul/zapfilter) ([v1.7.0](https://github.com/moul/zapfilter/releases/tag/v1.7.0), 1 week ago) - ⚡💊 advanced filtering for uber&#39;s zap logger
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1642605029.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1642606833.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
