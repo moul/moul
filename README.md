@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.14.0](https://github.com/berty/go-orbit-db/releases/tag/v1.14.0), today) - Go version of P2P Database on IPFS
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.19.0](https://github.com/moul/sshportal/releases/tag/v1.19.0), 1 day ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.6](https://github.com/moul/http2curl/releases/tag/v2.2.6), 1 day ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [ipfs-shipyard/gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) ([v1.3.2](https://github.com/ipfs-shipyard/gomobile-ipfs/releases/tag/v1.3.2), 2 days ago) - IPFS and libp2p on Mobile, with Gomobile
@@ -33,7 +34,6 @@
 - [ipfs/go-log](https://github.com/ipfs/go-log) ([v2.5.0](https://github.com/ipfs/go-log/releases/tag/v2.5.0), 1 week ago) - A logging library used by go-ipfs
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.20.0](https://github.com/uber-go/zap/releases/tag/v1.20.0), 2 weeks ago) - Blazing fast, structured, leveled logging in Go.
 - [moul/assh](https://github.com/moul/assh) ([v2.12.2](https://github.com/moul/assh/releases/tag/v2.12.2), 2 weeks ago) - :computer: make your ssh client smarter
-- [moul/progress](https://github.com/moul/progress) ([v1.4.1](https://github.com/moul/progress/releases/tag/v1.4.1), 3 weeks ago) - 🏗 progress, steps, completion patterns for golang
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1642781151.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1642783339.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
