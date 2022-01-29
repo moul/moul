@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [ipfs-shipyard/gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) ([v1.4.4](https://github.com/ipfs-shipyard/gomobile-ipfs/releases/tag/v1.4.4), 1 day ago) - IPFS and libp2p on Mobile, with Gomobile
+- [ipfs-shipyard/gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) ([v1.5.0](https://github.com/ipfs-shipyard/gomobile-ipfs/releases/tag/v1.5.0), today) - IPFS and libp2p on Mobile, with Gomobile
 - [berty/berty](https://github.com/berty/berty) ([v2.347.0](https://github.com/berty/berty/releases/tag/v2.347.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/zapgorm](https://github.com/moul/zapgorm) ([v1.1.4](https://github.com/moul/zapgorm/releases/tag/v1.1.4), 5 days ago) - ⚡ Zap logger for GORM (support v1 and v2)
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.2](https://github.com/moul/zapgorm2/releases/tag/v1.1.2), 5 days ago) - ⚡ zap logging driver for gorm v2
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1643456031.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1643458062.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
