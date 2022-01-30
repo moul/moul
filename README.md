@@ -24,6 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/sshportal](https://github.com/moul/sshportal) ([v1.19.1](https://github.com/moul/sshportal/releases/tag/v1.19.1), today) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [berty/berty](https://github.com/berty/berty) ([v2.348.0](https://github.com/berty/berty/releases/tag/v2.348.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [ipfs-shipyard/gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) ([v1.5.1](https://github.com/ipfs-shipyard/gomobile-ipfs/releases/tag/v1.5.1), today) - IPFS and libp2p on Mobile, with Gomobile
 - [moul/zapgorm](https://github.com/moul/zapgorm) ([v1.1.4](https://github.com/moul/zapgorm/releases/tag/v1.1.4), 6 days ago) - ⚡ Zap logger for GORM (support v1 and v2)
@@ -31,7 +32,6 @@
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.4](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.4), 6 days ago) - 🚧 useless Alfred workflow used as a test to find a good project structure
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.6](https://github.com/moul/repoman/releases/tag/v1.6.6), 6 days ago) - 📋 repo manager: some scripts I run against my repos
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.14.0](https://github.com/berty/go-orbit-db/releases/tag/v1.14.0), 1 week ago) - Go version of P2P Database on IPFS
-- [moul/sshportal](https://github.com/moul/sshportal) ([v1.19.0](https://github.com/moul/sshportal/releases/tag/v1.19.0), 1 week ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.6](https://github.com/moul/http2curl/releases/tag/v2.2.6), 1 week ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.10](https://github.com/moul/golang-repo-template/releases/tag/v1.36.10), 2 weeks ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1643571230.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1643573135.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
