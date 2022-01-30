@@ -24,8 +24,8 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [ipfs-shipyard/gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) ([v1.5.0](https://github.com/ipfs-shipyard/gomobile-ipfs/releases/tag/v1.5.0), 1 day ago) - IPFS and libp2p on Mobile, with Gomobile
-- [berty/berty](https://github.com/berty/berty) ([v2.347.0](https://github.com/berty/berty/releases/tag/v2.347.0), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/berty](https://github.com/berty/berty) ([v2.348.0](https://github.com/berty/berty/releases/tag/v2.348.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [ipfs-shipyard/gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) ([v1.5.1](https://github.com/ipfs-shipyard/gomobile-ipfs/releases/tag/v1.5.1), today) - IPFS and libp2p on Mobile, with Gomobile
 - [moul/zapgorm](https://github.com/moul/zapgorm) ([v1.1.4](https://github.com/moul/zapgorm/releases/tag/v1.1.4), 6 days ago) - ⚡ Zap logger for GORM (support v1 and v2)
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.2](https://github.com/moul/zapgorm2/releases/tag/v1.1.2), 6 days ago) - ⚡ zap logging driver for gorm v2
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.4](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.4), 6 days ago) - 🚧 useless Alfred workflow used as a test to find a good project structure
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1643542433.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1643544463.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
