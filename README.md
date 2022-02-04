@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/yolo](https://github.com/berty/yolo) ([v2.101.0](https://github.com/berty/yolo/releases/tag/v2.101.0), 1 day ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
+- [berty/yolo](https://github.com/berty/yolo) ([v2.102.0](https://github.com/berty/yolo/releases/tag/v2.102.0), today) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 - [ipfs-shipyard/gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) ([v1.5.2](https://github.com/ipfs-shipyard/gomobile-ipfs/releases/tag/v1.5.2), 3 days ago) - IPFS and libp2p on Mobile, with Gomobile
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.19.1](https://github.com/moul/sshportal/releases/tag/v1.19.1), 5 days ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [berty/berty](https://github.com/berty/berty) ([v2.348.0](https://github.com/berty/berty/releases/tag/v2.348.0), 5 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1643963631.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1643965502.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
