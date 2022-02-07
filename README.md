@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/labs](https://github.com/berty/labs) ([v1.12.0](https://github.com/berty/labs/releases/tag/v1.12.0), today) - Berty Labs is a mobile app to explore IPFS on mobile
+- [berty/labs](https://github.com/berty/labs) ([v1.12.1](https://github.com/berty/labs/releases/tag/v1.12.1), today) - Berty Labs is a mobile app to explore IPFS on mobile
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.7](https://github.com/moul/repoman/releases/tag/v1.6.7), 1 day ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.19.2](https://github.com/moul/sshportal/releases/tag/v1.19.2), 1 day ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.5](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.5), 1 day ago) - 🚧 useless Alfred workflow used as a test to find a good project structure
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1644250183.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1644252283.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
