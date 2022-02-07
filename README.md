@@ -24,7 +24,8 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/labs](https://github.com/berty/labs) ([v1.12.1](https://github.com/berty/labs/releases/tag/v1.12.1), today) - Berty Labs is a mobile app to explore IPFS on mobile
+- [berty/labs](https://github.com/berty/labs) ([v1.12.2](https://github.com/berty/labs/releases/tag/v1.12.2), today) - Berty Labs is a mobile app to explore IPFS on mobile
+- [uber-go/zap](https://github.com/uber-go/zap) ([v1.21.0](https://github.com/uber-go/zap/releases/tag/v1.21.0), today) - Blazing fast, structured, leveled logging in Go.
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.7](https://github.com/moul/repoman/releases/tag/v1.6.7), 1 day ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.19.2](https://github.com/moul/sshportal/releases/tag/v1.19.2), 1 day ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.5](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.5), 1 day ago) - 🚧 useless Alfred workflow used as a test to find a good project structure
@@ -33,7 +34,6 @@
 - [berty/yolo](https://github.com/berty/yolo) ([v2.102.0](https://github.com/berty/yolo/releases/tag/v2.102.0), 3 days ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 - [ipfs-shipyard/gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) ([v1.5.2](https://github.com/ipfs-shipyard/gomobile-ipfs/releases/tag/v1.5.2), 6 days ago) - IPFS and libp2p on Mobile, with Gomobile
 - [moul/zapgorm](https://github.com/moul/zapgorm) ([v1.1.4](https://github.com/moul/zapgorm/releases/tag/v1.1.4), 2 weeks ago) - ⚡ Zap logger for GORM (support v1 and v2)
-- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.2](https://github.com/moul/zapgorm2/releases/tag/v1.1.2), 2 weeks ago) - ⚡ zap logging driver for gorm v2
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1644252283.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1644253890.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
