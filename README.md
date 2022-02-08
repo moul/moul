@@ -24,16 +24,16 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/junk](https://github.com/moul/junk) ([v1.1.2](https://github.com/moul/junk/releases/tag/v1.1.2), today) - :poop: Junk food :fist::frog::first_quarter_moon_with_face::squirrel::mega::mailbox::bulb::low_brightness::video_camera::calling::ski::dart::bikini::eggplant::barber::aquarius:
+- [moul/sshportal](https://github.com/moul/sshportal) ([v1.19.3](https://github.com/moul/sshportal/releases/tag/v1.19.3), today) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
+- [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.6](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.6), today) - 🚧 useless Alfred workflow used as a test to find a good project structure
+- [moul/repoman](https://github.com/moul/repoman) ([v1.6.8](https://github.com/moul/repoman/releases/tag/v1.6.8), today) - 📋 repo manager: some scripts I run against my repos
+- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.11](https://github.com/moul/golang-repo-template/releases/tag/v1.36.11), today) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
+- [moul/zapgorm](https://github.com/moul/zapgorm) ([v1.1.5](https://github.com/moul/zapgorm/releases/tag/v1.1.5), today) - ⚡ Zap logger for GORM (support v1 and v2)
 - [berty/labs](https://github.com/berty/labs) ([v1.12.2](https://github.com/berty/labs/releases/tag/v1.12.2), 1 day ago) - Berty Labs is a mobile app to explore IPFS on mobile
 - [uber-go/zap](https://github.com/uber-go/zap) ([v1.21.0](https://github.com/uber-go/zap/releases/tag/v1.21.0), 1 day ago) - Blazing fast, structured, leveled logging in Go.
-- [moul/repoman](https://github.com/moul/repoman) ([v1.6.7](https://github.com/moul/repoman/releases/tag/v1.6.7), 2 days ago) - 📋 repo manager: some scripts I run against my repos
-- [moul/sshportal](https://github.com/moul/sshportal) ([v1.19.2](https://github.com/moul/sshportal/releases/tag/v1.19.2), 2 days ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-- [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.5](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.5), 2 days ago) - 🚧 useless Alfred workflow used as a test to find a good project structure
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.74.1](https://github.com/pathwar/pathwar/releases/tag/v2.74.1), 4 days ago) - ☠️ The Pathwar Project ☠️
 - [berty/berty](https://github.com/berty/berty) ([v2.349.1](https://github.com/berty/berty/releases/tag/v2.349.1), 4 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [berty/yolo](https://github.com/berty/yolo) ([v2.102.0](https://github.com/berty/yolo/releases/tag/v2.102.0), 4 days ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
-- [ipfs-shipyard/gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) ([v1.5.2](https://github.com/ipfs-shipyard/gomobile-ipfs/releases/tag/v1.5.2), 1 week ago) - IPFS and libp2p on Mobile, with Gomobile
-- [moul/zapgorm](https://github.com/moul/zapgorm) ([v1.1.4](https://github.com/moul/zapgorm/releases/tag/v1.1.4), 2 weeks ago) - ⚡ Zap logger for GORM (support v1 and v2)
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1644318403.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1644320042.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
