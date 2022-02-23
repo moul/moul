@@ -24,15 +24,15 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.353.2](https://github.com/berty/berty/releases/tag/v2.353.2), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.3](https://github.com/moul/zapgorm2/releases/tag/v1.1.3), 3 days ago) - ⚡ zap logging driver for gorm v2
-- [berty/labs](https://github.com/berty/labs) ([v1.17.0](https://github.com/berty/labs/releases/tag/v1.17.0), 6 days ago) - Berty Labs is a mobile app to explore IPFS on mobile
+- [berty/berty](https://github.com/berty/berty) ([v2.353.2](https://github.com/berty/berty/releases/tag/v2.353.2), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.3](https://github.com/moul/zapgorm2/releases/tag/v1.1.3), 4 days ago) - ⚡ zap logging driver for gorm v2
+- [berty/labs](https://github.com/berty/labs) ([v1.17.0](https://github.com/berty/labs/releases/tag/v1.17.0), 1 week ago) - Berty Labs is a mobile app to explore IPFS on mobile
 - [moul/bot](https://github.com/moul/bot) ([v1.10.0](https://github.com/moul/bot/releases/tag/v1.10.0), 1 week ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [ultreme/camembert-au-lait-crew](https://github.com/ultreme/camembert-au-lait-crew) ([v1.1.0](https://github.com/ultreme/camembert-au-lait-crew/releases/tag/v1.1.0), 1 week ago) - :hamburger: Camembert au lait crew website &amp; API
 - [moul/junk](https://github.com/moul/junk) ([v1.1.3](https://github.com/moul/junk/releases/tag/v1.1.3), 1 week ago) - :poop: Junk food :fist::frog::first_quarter_moon_with_face::squirrel::mega::mailbox::bulb::low_brightness::video_camera::calling::ski::dart::bikini::eggplant::barber::aquarius:
 - [moul/alfred-workflow-u](https://github.com/moul/alfred-workflow-u) ([v1.5.7](https://github.com/moul/alfred-workflow-u/releases/tag/v1.5.7), 1 week ago) - 🚧 useless Alfred workflow used as a test to find a good project structure
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.78.0](https://github.com/pathwar/pathwar/releases/tag/v2.78.0), 1 week ago) - ☠️ The Pathwar Project ☠️
-- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.14.1](https://github.com/berty/go-orbit-db/releases/tag/v1.14.1), 1 week ago) - Go version of P2P Database on IPFS
+- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.14.1](https://github.com/berty/go-orbit-db/releases/tag/v1.14.1), 2 weeks ago) - Go version of P2P Database on IPFS
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.19.3](https://github.com/moul/sshportal/releases/tag/v1.19.3), 2 weeks ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 
 
@@ -55,7 +55,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   
   <li><a href="https://wip.co/@moul/todos/189179">💉  2nd pfizer #life</a> (8 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/189178">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (8 months ago)</li>
-  <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (9 months ago)</li>
+  <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (10 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (10 months ago)</li>
   <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (10 months ago)</li>
   </ul>
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1645572889.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1645575496.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
