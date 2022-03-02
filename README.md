@@ -24,10 +24,10 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.357.1](https://github.com/berty/berty/releases/tag/v2.357.1), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.14.2](https://github.com/berty/go-orbit-db/releases/tag/v1.14.2), today) - Go version of P2P Database on IPFS
-- [berty/labs](https://github.com/berty/labs) ([v1.17.1](https://github.com/berty/labs/releases/tag/v1.17.1), today) - Berty Labs is a mobile app to explore IPFS on mobile
-- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.78.1](https://github.com/pathwar/pathwar/releases/tag/v2.78.1), 1 day ago) - ☠️ The Pathwar Project ☠️
+- [berty/berty](https://github.com/berty/berty) ([v2.357.1](https://github.com/berty/berty/releases/tag/v2.357.1), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.14.2](https://github.com/berty/go-orbit-db/releases/tag/v1.14.2), 1 day ago) - Go version of P2P Database on IPFS
+- [berty/labs](https://github.com/berty/labs) ([v1.17.1](https://github.com/berty/labs/releases/tag/v1.17.1), 1 day ago) - Berty Labs is a mobile app to explore IPFS on mobile
+- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.78.1](https://github.com/pathwar/pathwar/releases/tag/v2.78.1), 2 days ago) - ☠️ The Pathwar Project ☠️
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.3](https://github.com/moul/zapgorm2/releases/tag/v1.1.3), 1 week ago) - ⚡ zap logging driver for gorm v2
 - [moul/bot](https://github.com/moul/bot) ([v1.10.0](https://github.com/moul/bot/releases/tag/v1.10.0), 2 weeks ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [ultreme/camembert-au-lait-crew](https://github.com/ultreme/camembert-au-lait-crew) ([v1.1.0](https://github.com/ultreme/camembert-au-lait-crew/releases/tag/v1.1.0), 2 weeks ago) - :hamburger: Camembert au lait crew website &amp; API
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1646177975.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1646180474.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
