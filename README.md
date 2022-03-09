@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.80.0](https://github.com/pathwar/pathwar/releases/tag/v2.80.0), 3 days ago) - ☠️ The Pathwar Project ☠️
+- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.80.0](https://github.com/pathwar/pathwar/releases/tag/v2.80.0), 4 days ago) - ☠️ The Pathwar Project ☠️
 - [berty/berty](https://github.com/berty/berty) ([v2.357.1](https://github.com/berty/berty/releases/tag/v2.357.1), 1 week ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.14.2](https://github.com/berty/go-orbit-db/releases/tag/v1.14.2), 1 week ago) - Go version of P2P Database on IPFS
 - [berty/labs](https://github.com/berty/labs) ([v1.17.1](https://github.com/berty/labs/releases/tag/v1.17.1), 1 week ago) - Berty Labs is a mobile app to explore IPFS on mobile
@@ -72,7 +72,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/1b538e6a49e3d5bce011987c62441eea">All Paths Lead to Roam</a> (6 days ago)</li>
+  <li><a href="https://gist.github.com/1b538e6a49e3d5bce011987c62441eea">All Paths Lead to Roam</a> (1 week ago)</li>
   <li><a href="https://gist.github.com/2dd66ce9133e6585040122d563afa039">github-other-repos.md</a> (2 years ago)</li>
   <li><a href="https://gist.github.com/3d9a81083861a2bb2a04b80dad79bb68">Yo! 👋👋</a> (2 years ago)</li>
   
@@ -115,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1646782491.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1646784995.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
