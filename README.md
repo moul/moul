@@ -42,25 +42,9 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 <details>
 
 
-  <h4>🚧 Things I did recently</h4>
-  <ul>
-  
-  <li><a href="https://wip.co/@moul/todos/189179">💉  2nd pfizer #life</a> (8 months ago)</li>
-  <li><a href="https://wip.co/@moul/todos/189178">📻 daily &#34;Hacker News Café&#34; on ClubHouse #life</a> (8 months ago)</li>
-  <li><a href="https://wip.co/@moul/todos/184389">🐙  yesterday on GitHub #oss</a> (10 months ago)</li>
-  <li><a href="https://wip.co/@moul/todos/183459">👥  weekly sync with #berty team</a> (10 months ago)</li>
-  <li><a href="https://wip.co/@moul/todos/183349">🐙  yesterday on GitHub #oss</a> (10 months ago)</li>
-  </ul>
 
-  <h4>📜 Recent blog posts</h4>
-  <ul>
-  
-  <li><a href="https://manfred.life/pp2p8-berty-news/">Paris P2P #8 - Last News from Berty</a> (2 years ago)</li>
-  <li><a href="https://manfred.life/feeling-lucky/">Feeling Lucky</a> (2 years ago)</li>
-  <li><a href="https://manfred.life/oss-challenges-slides/">Challenges of Open-Source (presentation)</a> (2 years ago)</li>
-  <li><a href="https://manfred.life/oss-challenges/">Challenges of Open-Source</a> (2 years ago)</li>
-  <li><a href="https://manfred.life/stay-flexible/">Flexibility in Project Development</a> (2 years ago)</li>
-  </ul>
+
+
 
   <h4>📓 Gists I wrote</h4>
   <ul>
@@ -107,7 +91,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1647193849.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1647194237.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
