@@ -3,9 +3,8 @@
 <img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
 :hammer: Founder of [Berty](https://github.com/berty)<br/>
-:scientist: Buidl Web3 ([moula.tech](https://moula.tech))
-:briefcase: Provide consulting for startups at [PMG](https://pmg.tools)
 :heart: P2P, Cryptography, POCs, CLIs<br/>
+:computer: Providing consultancy services for VCs and startups<br/> 
 :construction: I maintain a lot of OSS repos<br/>
 :octocat: Coding everyday :)<br/>
 
@@ -116,7 +115,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1647192871.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1647193762.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
