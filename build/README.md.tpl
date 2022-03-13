@@ -2,21 +2,23 @@
 
 <img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
+
 :hammer: Founder of [Berty](https://github.com/berty)<br/>
+:scientist: Buidl Web3 ([moula.tech](https://moula.tech))<br/>
+:briefcase: Provide consulting for startups at [PMG](https://pmg.tools)<br/>
 :heart: P2P, Cryptography, POCs, CLIs<br/>
-:computer: Providing consultancy services for VCs and startups<br/> <!-- FIXME: link to PMG -->
 :construction: I maintain a lot of OSS repos<br/>
 :octocat: Coding everyday :)<br/>
 
 #### 🌱 My latest projects
 
-{{range recentRepos 10}}
+{{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔭 Recent Releases I Worked On
 
-{{range recentReleases 10}}
+{{range recentReleases 5}}
 {{- if not (or (eq .Name "moul/skip") (eq .Name "moul/another-skip")) -}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{ end -}}
