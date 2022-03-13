@@ -42,19 +42,23 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   </ul>
 -->
 
+<!--
   <h4>🚧 Things I did recently</h4>
   <ul>
   {{range rss "https://makerinbox.com/provider-user/wipchat-user-1780/feed.xml" 5}}
   <li><a href="{{.URL}}">{{.Title}}</a> ({{humanize .PublishedAt}})</li>
   {{- end}}
   </ul>
+  -->
 
+<!--
   <h4>📜 Recent blog posts</h4>
   <ul>
   {{range rss "https://manfred.life/blog/index.xml" 5}}
   <li><a href="{{.URL}}">{{.Title}}</a> ({{humanize .PublishedAt}})</li>
   {{- end}}
   </ul>
+  -->
 
   <h4>📓 Gists I wrote</h4>
   <ul>
