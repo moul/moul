@@ -21,9 +21,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.83.2](https://github.com/pathwar/pathwar/releases/tag/v2.83.2), today) - ☠️ The Pathwar Project ☠️
 - [berty/berty](https://github.com/berty/berty) ([v2.364.0](https://github.com/berty/berty/releases/tag/v2.364.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.15.1](https://github.com/berty/go-orbit-db/releases/tag/v1.15.1), 1 day ago) - Go version of P2P Database on IPFS
-- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.83.1](https://github.com/pathwar/pathwar/releases/tag/v2.83.1), 4 days ago) - ☠️ The Pathwar Project ☠️
 - [berty/labs](https://github.com/berty/labs) ([v1.17.2](https://github.com/berty/labs/releases/tag/v1.17.2), 1 week ago) - Berty Labs is a mobile app to explore IPFS on mobile
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.3.0](https://github.com/moul/http2curl/releases/tag/v2.3.0), 1 week ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 
@@ -57,11 +57,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/quynhkhanh96">quynhkhanh96</a>
   <li><a href="https://github.com/YounesSalami">YounesSalami</a>
   <li><a href="https://github.com/devtooligan">devtooligan</a>
   <li><a href="https://github.com/X601169957911">X601169957911</a>
   <li><a href="https://github.com/tranquac">tranquac</a>
-  <li><a href="https://github.com/jasineri">jasineri</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -91,7 +91,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1648199127.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1648200912.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
