@@ -45,6 +45,21 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
 
 
+  
+  <h4>💪 Recent PRs</h4>
+  <ul>
+  
+  <li><a href="https://github.com/berty/berty">berty/berty</a><a href="https://github.com/berty/berty/pull/4019">fix(ci): fix goreleaser config for darwin</a> (MERGED, today) </li>
+  
+  <li><a href="https://github.com/berty/berty">berty/berty</a><a href="https://github.com/berty/berty/pull/4018">fix(ci): unshallow git before calling goreleaser</a> (MERGED, today) </li>
+  
+  <li><a href="https://github.com/berty/berty">berty/berty</a><a href="https://github.com/berty/berty/pull/4017">fix(ci): fix semantic-release output filtering</a> (MERGED, today) </li>
+  
+  <li><a href="https://github.com/berty/berty">berty/berty</a><a href="https://github.com/berty/berty/pull/4015">fix(ci): repair broken steps &#43; various improvements</a> (MERGED, today) </li>
+  
+  <li><a href="https://github.com/berty/berty">berty/berty</a><a href="https://github.com/berty/berty/pull/4008">fix: support more architectures with goreleaser</a> (MERGED, 2 days ago) </li>
+  
+  </ul>
 
   <h4>📓 Gists I wrote</h4>
   <ul>
@@ -91,7 +106,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1648332743.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1648332962.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
