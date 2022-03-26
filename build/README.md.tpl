@@ -3,12 +3,12 @@
 <img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
 
-:hammer: Founder of [Berty](https://github.com/berty)<br/>
-:scientist: Buidl Web3 ([moula.tech](https://moula.tech))<br/>
-:briefcase: Provide consulting for startups at [PMG](https://pmg.tools)<br/>
-:heart: P2P, Cryptography, POCs, CLIs<br/>
-:construction: I maintain a lot of OSS repos<br/>
-:octocat: Coding everyday :)<br/>
+:hammer: Founder of [**berty**.tech](https://berty.tech)<br/>
+:scientist: Buidl Web3 at [**moula**.tech](https://moula.tech)<br/>
+:briefcase: Consulting services at [**pmg**.tools](https://pmg.tools)<br/>
+:heart: P2P, Cryptography, POCs, CLIs at [manfred.life](https://manfred.life)<br/>
+:construction: I maintain a lot of OSS repos, here<br/>
+:octocat: Coding everyday :) :syringe:<br/>
 
 #### 🌱 My latest projects
 
