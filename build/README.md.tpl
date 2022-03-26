@@ -4,8 +4,8 @@
 
 
 :hammer: Founder of [**berty**.tech](https://berty.tech)<br/>
+:briefcase: Consulting & Coaching services at [**pmg**.tools](https://pmg.tools)<br/>
 :scientist: Buidl Web3 at [**moula**.tech](https://moula.tech)<br/>
-:briefcase: Consulting services at [**pmg**.tools](https://pmg.tools)<br/>
 :heart: P2P, Cryptography, POCs, CLIs at [manfred.life](https://manfred.life)<br/>
 :construction: I maintain a lot of OSS repos, here<br/>
 :octocat: Coding everyday :) :syringe:<br/>
@@ -63,7 +63,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   {{range recentPullRequests 5}}
-  <li><a href="{{.Repo.URL}}">{{.Repo.Name}}</a><a href="{{.URL}}">{{.Title}}</a> ({{.State}}, {{humanize .CreatedAt}}) </li>
+  <li><a href="{{.Repo.URL}}">{{.Repo.Name}}</a> - <a href="{{.URL}}">{{.Title}}</a> ({{humanize .CreatedAt}}) </li>
   {{end}}
   </ul>
 
