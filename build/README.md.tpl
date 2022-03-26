@@ -59,6 +59,13 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   {{- end}}
   </ul>
   -->
+  
+  <h4>💪 Recent PRs</h4>
+  <ul>
+  {{range recentPullRequests 5}}
+  <li><a href="{{.Repo.URL}}">{{.Repo.Name}}</a><a href="{{.URL}}">{{.Title}}</a> ({{.State}}, {{humanize .CreatedAt}}) </li>
+  {{end}}
+  </ul>
 
   <h4>📓 Gists I wrote</h4>
   <ul>
