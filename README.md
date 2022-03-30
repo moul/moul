@@ -21,9 +21,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.83.5](https://github.com/pathwar/pathwar/releases/tag/v2.83.5), today) - ☠️ The Pathwar Project ☠️
-- [berty/berty](https://github.com/berty/berty) ([v2.366.1](https://github.com/berty/berty/releases/tag/v2.366.1), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.16.0](https://github.com/berty/go-orbit-db/releases/tag/v1.16.0), 1 day ago) - Go version of P2P Database on IPFS
+- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.83.5](https://github.com/pathwar/pathwar/releases/tag/v2.83.5), 1 day ago) - ☠️ The Pathwar Project ☠️
+- [berty/berty](https://github.com/berty/berty) ([v2.366.1](https://github.com/berty/berty/releases/tag/v2.366.1), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.16.0](https://github.com/berty/go-orbit-db/releases/tag/v1.16.0), 2 days ago) - Go version of P2P Database on IPFS
 - [berty/labs](https://github.com/berty/labs) ([v1.17.2](https://github.com/berty/labs/releases/tag/v1.17.2), 2 weeks ago) - Berty Labs is a mobile app to explore IPFS on mobile
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.3.0](https://github.com/moul/http2curl/releases/tag/v2.3.0), 2 weeks ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 
@@ -49,21 +49,21 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - <a href="https://github.com/moul/golang-repo-template/pull/252">chore: do not fail if missing action&#39;s secret</a> (1 day ago) </li>
+  <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - <a href="https://github.com/moul/golang-repo-template/pull/252">chore: do not fail if missing action&#39;s secret</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/berty/npm-berty-cli">berty/npm-berty-cli</a> - <a href="https://github.com/berty/npm-berty-cli/pull/1">feat: port to Berty</a> (2 days ago) </li>
+  <li><a href="https://github.com/berty/npm-berty-cli">berty/npm-berty-cli</a> - <a href="https://github.com/berty/npm-berty-cli/pull/1">feat: port to Berty</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4019">fix(ci): fix goreleaser config for darwin</a> (3 days ago) </li>
+  <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4019">fix(ci): fix goreleaser config for darwin</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4018">fix(ci): unshallow git before calling goreleaser</a> (3 days ago) </li>
+  <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4018">fix(ci): unshallow git before calling goreleaser</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4017">fix(ci): fix semantic-release output filtering</a> (3 days ago) </li>
+  <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4017">fix(ci): fix semantic-release output filtering</a> (4 days ago) </li>
   
   </ul>
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/1b538e6a49e3d5bce011987c62441eea">All Paths Lead to Roam</a> (3 weeks ago)</li>
+  <li><a href="https://gist.github.com/1b538e6a49e3d5bce011987c62441eea">All Paths Lead to Roam</a> (4 weeks ago)</li>
   <li><a href="https://gist.github.com/2dd66ce9133e6585040122d563afa039">github-other-repos.md</a> (2 years ago)</li>
   <li><a href="https://gist.github.com/3d9a81083861a2bb2a04b80dad79bb68">Yo! 👋👋</a> (2 years ago)</li>
   
@@ -106,7 +106,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1648596913.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1648599423.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
