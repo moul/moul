@@ -49,15 +49,15 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/104">chore: support passing custom bind address on the website</a> (today) </li>
+  
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/103">chore: support passing custom bind address on the website</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/102">chore: exclude tests and examples dir from the main go package</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/101">chore: fix typos</a> (1 day ago) </li>
   
   <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - <a href="https://github.com/moul/golang-repo-template/pull/252">chore: do not fail if missing action&#39;s secret</a> (3 days ago) </li>
-  
-  <li><a href="https://github.com/berty/npm-berty-cli">berty/npm-berty-cli</a> - <a href="https://github.com/berty/npm-berty-cli/pull/1">feat: port to Berty</a> (4 days ago) </li>
-  
-  <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4019">fix(ci): fix goreleaser config for darwin</a> (5 days ago) </li>
   
   </ul>
 
@@ -106,7 +106,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1648685832.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1648687748.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
