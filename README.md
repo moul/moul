@@ -21,9 +21,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.83.8](https://github.com/pathwar/pathwar/releases/tag/v2.83.8), today) - ☠️ The Pathwar Project ☠️
-- [berty/berty](https://github.com/berty/berty) ([v2.370.0](https://github.com/berty/berty/releases/tag/v2.370.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.16.1](https://github.com/berty/go-orbit-db/releases/tag/v1.16.1), 1 day ago) - Go version of P2P Database on IPFS
+- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.83.8](https://github.com/pathwar/pathwar/releases/tag/v2.83.8), 1 day ago) - ☠️ The Pathwar Project ☠️
+- [berty/berty](https://github.com/berty/berty) ([v2.370.0](https://github.com/berty/berty/releases/tag/v2.370.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.16.1](https://github.com/berty/go-orbit-db/releases/tag/v1.16.1), 2 days ago) - Go version of P2P Database on IPFS
 - [berty/labs](https://github.com/berty/labs) ([v1.17.2](https://github.com/berty/labs/releases/tag/v1.17.2), 2 weeks ago) - Berty Labs is a mobile app to explore IPFS on mobile
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.3.0](https://github.com/moul/http2curl/releases/tag/v2.3.0), 2 weeks ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 
@@ -49,21 +49,21 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/106">chore: fix invalid generated documentation for realm funcs</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/106">chore: fix invalid generated documentation for realm funcs</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/104">chore: support passing custom bind address on the website</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/104">chore: support passing custom bind address on the website</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/103">chore: support passing custom bind address on the website</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/103">chore: support passing custom bind address on the website</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/102">chore: exclude tests and examples dir from the main go package</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/102">chore: exclude tests and examples dir from the main go package</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/101">chore: fix typos</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/101">chore: fix typos</a> (2 days ago) </li>
   
   </ul>
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/1b538e6a49e3d5bce011987c62441eea">All Paths Lead to Roam</a> (4 weeks ago)</li>
+  <li><a href="https://gist.github.com/1b538e6a49e3d5bce011987c62441eea">All Paths Lead to Roam</a> (1 month ago)</li>
   <li><a href="https://gist.github.com/2dd66ce9133e6585040122d563afa039">github-other-repos.md</a> (2 years ago)</li>
   <li><a href="https://gist.github.com/3d9a81083861a2bb2a04b80dad79bb68">Yo! 👋👋</a> (2 years ago)</li>
   
@@ -106,7 +106,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1648769731.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1648772393.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
