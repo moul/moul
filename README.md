@@ -13,11 +13,11 @@
 #### 🌱 My latest projects
 
 
-- [moul/gno-bounty-7](https://github.com/moul/gno-bounty-7) - 
 - [moul/3dprinter](https://github.com/moul/3dprinter) - 🖨 Personal configuration, scripts and tools for my 3d printers (Ender 3 V2, OctoPrint, AstroPrint, …)
 - [moul/colorscheme](https://github.com/moul/colorscheme) - 🌈 Personal color scheme for my terminals etc
 - [moul/uptime](https://github.com/moul/uptime) - 📈 Uptime monitor and status page for Manfred Touron, powered by @upptime
 - [moul/climan](https://github.com/moul/climan) - 🦪 Golang CLI manager
+- [moul/rrgc](https://github.com/moul/rrgc) - 🗑 round-robin garbage-collector
 
 #### 🔭 Recent Releases I Worked On
 
@@ -106,7 +106,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1649198102.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1649199929.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
