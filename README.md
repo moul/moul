@@ -21,9 +21,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.83.9](https://github.com/pathwar/pathwar/releases/tag/v2.83.9), today) - ☠️ The Pathwar Project ☠️
 - [berty/berty](https://github.com/berty/berty) ([v2.372.1](https://github.com/berty/berty/releases/tag/v2.372.1), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [ipfs/go-log](https://github.com/ipfs/go-log) ([v2.5.1](https://github.com/ipfs/go-log/releases/tag/v2.5.1), 4 days ago) - A logging library used by go-ipfs
-- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.83.8](https://github.com/pathwar/pathwar/releases/tag/v2.83.8), 5 days ago) - ☠️ The Pathwar Project ☠️
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.16.1](https://github.com/berty/go-orbit-db/releases/tag/v1.16.1), 6 days ago) - Go version of P2P Database on IPFS
 - [berty/labs](https://github.com/berty/labs) ([v1.17.2](https://github.com/berty/labs/releases/tag/v1.17.2), 3 weeks ago) - Berty Labs is a mobile app to explore IPFS on mobile
 
@@ -106,7 +106,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1649182228.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1649184146.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
