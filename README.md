@@ -21,7 +21,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.374.0](https://github.com/berty/berty/releases/tag/v2.374.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/berty](https://github.com/berty/berty) ([v2.374.1](https://github.com/berty/berty/releases/tag/v2.374.1), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.84.0](https://github.com/pathwar/pathwar/releases/tag/v2.84.0), 1 day ago) - ☠️ The Pathwar Project ☠️
 - [ipfs/go-log](https://github.com/ipfs/go-log) ([v2.5.1](https://github.com/ipfs/go-log/releases/tag/v2.5.1), 1 week ago) - A logging library used by go-ipfs
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.16.1](https://github.com/berty/go-orbit-db/releases/tag/v1.16.1), 2 weeks ago) - Go version of P2P Database on IPFS
@@ -106,7 +106,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1649842837.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1649844637.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
