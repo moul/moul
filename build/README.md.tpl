@@ -43,6 +43,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 -->
 
 <!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api/pin/?username=multiarch&repo=crossbuild
+-->
+
+<!--
   <h4>🚧 Things I did recently</h4>
   <ul>
   {{range rss "https://makerinbox.com/provider-user/wipchat-user-1780/feed.xml" 5}}
