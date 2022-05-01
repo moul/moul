@@ -21,9 +21,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.380.0](https://github.com/berty/berty/releases/tag/v2.380.0), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.85.0](https://github.com/pathwar/pathwar/releases/tag/v2.85.0), 5 days ago) - ☠️ The Pathwar Project ☠️
-- [ipfs/go-log](https://github.com/ipfs/go-log) ([v2.5.1](https://github.com/ipfs/go-log/releases/tag/v2.5.1), 4 weeks ago) - A logging library used by go-ipfs
+- [berty/berty](https://github.com/berty/berty) ([v2.380.0](https://github.com/berty/berty/releases/tag/v2.380.0), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.85.0](https://github.com/pathwar/pathwar/releases/tag/v2.85.0), 6 days ago) - ☠️ The Pathwar Project ☠️
+- [ipfs/go-log](https://github.com/ipfs/go-log) ([v2.5.1](https://github.com/ipfs/go-log/releases/tag/v2.5.1), 1 month ago) - A logging library used by go-ipfs
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.16.1](https://github.com/berty/go-orbit-db/releases/tag/v1.16.1), 1 month ago) - Go version of P2P Database on IPFS
 - [berty/labs](https://github.com/berty/labs) ([v1.17.2](https://github.com/berty/labs/releases/tag/v1.17.2), 1 month ago) - Berty Labs is a mobile app to explore IPFS on mobile
 
@@ -51,21 +51,21 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/149">WIP feat: add &#39;gnodev test&#39; command</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/149">WIP feat: add &#39;gnodev test&#39; command</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/148">WIP feat: add a /status.json handler on website</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/148">WIP feat: add a /status.json handler on website</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/147">ci: test gnodev {precompile,build} against ./examples/ on CI</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/147">ci: test gnodev {precompile,build} against ./examples/ on CI</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/145">chore(grc20): lazily resolve username in grc20 (and foo20)</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/145">chore(grc20): lazily resolve username in grc20 (and foo20)</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/144">chore: extract the grc20 implementation of foo20</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/144">chore: extract the grc20 implementation of foo20</a> (3 days ago) </li>
   
   </ul>
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/1b538e6a49e3d5bce011987c62441eea">All Paths Lead to Roam</a> (1 month ago)</li>
+  <li><a href="https://gist.github.com/1b538e6a49e3d5bce011987c62441eea">All Paths Lead to Roam</a> (2 months ago)</li>
   <li><a href="https://gist.github.com/2dd66ce9133e6585040122d563afa039">github-other-repos.md</a> (2 years ago)</li>
   <li><a href="https://gist.github.com/3d9a81083861a2bb2a04b80dad79bb68">Yo! 👋👋</a> (2 years ago)</li>
   
@@ -108,7 +108,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1651361710.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1651364729.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
