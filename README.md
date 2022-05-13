@@ -21,11 +21,11 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.37.0](https://github.com/moul/golang-repo-template/releases/tag/v1.37.0), today) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [berty/berty](https://github.com/berty/berty) ([v2.386.1](https://github.com/berty/berty/releases/tag/v2.386.1), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.86.0](https://github.com/pathwar/pathwar/releases/tag/v2.86.0), 3 days ago) - ☠️ The Pathwar Project ☠️
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.17.1](https://github.com/berty/go-orbit-db/releases/tag/v1.17.1), 1 week ago) - Go version of P2P Database on IPFS
 - [ipfs/go-log](https://github.com/ipfs/go-log) ([v2.5.1](https://github.com/ipfs/go-log/releases/tag/v2.5.1), 1 month ago) - A logging library used by go-ipfs
-- [berty/labs](https://github.com/berty/labs) ([v1.17.2](https://github.com/berty/labs/releases/tag/v1.17.2), 1 month ago) - Berty Labs is a mobile app to explore IPFS on mobile
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -51,6 +51,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/191">chore: silent the &#39;XXX save hash to ioavl&#39; comment</a> (today) </li>
+  
   <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - <a href="https://github.com/moul/golang-repo-template/pull/270">chore: fix is-sponsor-label</a> (today) </li>
   
   <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - <a href="https://github.com/moul/golang-repo-template/pull/269">feat: add bearer</a> (today) </li>
@@ -58,8 +60,6 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/190">chore: update discord link</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/3">chore: update README.md</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/2">chore: create CONTRIBUTING.md</a> (1 day ago) </li>
   
   </ul>
 
@@ -108,7 +108,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1652477717.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1652479525.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
