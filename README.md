@@ -21,8 +21,8 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.388.0](https://github.com/berty/berty/releases/tag/v2.388.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/retry](https://github.com/moul/retry) ([v0.7.1](https://github.com/moul/retry/releases/tag/v0.7.1), 2 days ago) - :shell: retry shell commands
+- [berty/berty](https://github.com/berty/berty) ([v2.388.0](https://github.com/berty/berty/releases/tag/v2.388.0), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/retry](https://github.com/moul/retry) ([v0.7.1](https://github.com/moul/retry/releases/tag/v0.7.1), 3 days ago) - :shell: retry shell commands
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.86.1](https://github.com/pathwar/pathwar/releases/tag/v2.86.1), 1 week ago) - ☠️ The Pathwar Project ☠️
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.37.0](https://github.com/moul/golang-repo-template/releases/tag/v1.37.0), 1 week ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [berty/go-orbit-db](https://github.com/berty/go-orbit-db) ([v1.17.1](https://github.com/berty/go-orbit-db/releases/tag/v1.17.1), 2 weeks ago) - Go version of P2P Database on IPFS
@@ -51,15 +51,15 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/212">chore: add &#39;make fmt&#39; &#43; update gitpod</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/212">chore: add &#39;make fmt&#39; &#43; update gitpod</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/211">chore: split biggest packages test suites in Makefile &#43; CI</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/211">chore: split biggest packages test suites in Makefile &#43; CI</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/206">chore: &#39;gnodev&#39; improvements</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/206">chore: &#39;gnodev&#39; improvements</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/205">chore: split biggest unit test suites in Makefile &#43; CI</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/205">chore: split biggest unit test suites in Makefile &#43; CI</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/204">chore: add gnoweb build in Makefile &#43; CI</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/204">chore: add gnoweb build in Makefile &#43; CI</a> (3 days ago) </li>
   
   </ul>
 
@@ -108,7 +108,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1653176142.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1653178800.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
