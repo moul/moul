@@ -7,8 +7,7 @@
 :briefcase: Consulting & Coaching services at [**pmg**.tools](https://pmg.tools)<br/>
 :scientist: Buidl Web3 at [**moula**.tech](https://moula.tech)<br/>
 :heart: P2P, Cryptography, POCs, CLIs at [manfred.life](https://manfred.life)<br/>
-:construction: I maintain a lot of OSS repos, here<br/>
-:octocat: Coding everyday :) :syringe:<br/>
+:octocat: Open-Source addict :syringe:<br/>
 :package: Other links [moul.link](https://www.moul.link/)<br/>
 
 #### 🌱 My latest projects
