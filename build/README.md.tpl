@@ -9,6 +9,7 @@
 :heart: P2P, Cryptography, POCs, CLIs at [manfred.life](https://manfred.life)<br/>
 :construction: I maintain a lot of OSS repos, here<br/>
 :octocat: Coding everyday :) :syringe:<br/>
+:package: Other links [moul.link](https://www.moul.link/)<br/>
 
 #### 🌱 My latest projects
 
