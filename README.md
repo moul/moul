@@ -15,7 +15,7 @@
 
 - [moul/adapterkit](https://github.com/moul/adapterkit) - multi-purpose, extensible mechanism for managing jobs and commands
 - [moul/poc-cmd-to-everything](https://github.com/moul/poc-cmd-to-everything) - PoC repo for one of my ideas 🤌
-- [moul/gno-hello-contract](https://github.com/moul/gno-hello-contract) - Hello world Gno contract
+- [moul/gno-hello](https://github.com/moul/gno-hello) - Hello world Gno contract
 - [moul/cosmos-snapshot](https://github.com/moul/cosmos-snapshot) - WIP
 - [moul/3dprinter](https://github.com/moul/3dprinter) - 🖨 Personal configuration, scripts and tools for my 3d printers (Ender 3 V2, OctoPrint, AstroPrint, …)
 
@@ -51,15 +51,15 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/gno-hello">moul/gno-hello</a> - <a href="https://github.com/moul/gno-hello/pull/8">feat: setup CI</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gno-hello">moul/gno-hello</a> - <a href="https://github.com/moul/gno-hello/pull/7">feat: add unit tests</a> (today) </li>
+  
   <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - <a href="https://github.com/moul/golang-repo-template/pull/282">chore: update ci&#39;s golang version</a> (5 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/230">chore: move tests/files2/zrealm_* into the implementation folders</a> (5 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/227">chore: optimize the generated docker image</a> (6 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/226">chore(ci): build and publish docker image</a> (6 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/225">chore(ci): reduce opaque dependencies</a> (6 days ago) </li>
   
   </ul>
 
@@ -108,7 +108,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1654407263.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1654409127.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
