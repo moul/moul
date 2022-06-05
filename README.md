@@ -21,7 +21,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.391.3](https://github.com/berty/berty/releases/tag/v2.391.3), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/berty](https://github.com/berty/berty) ([v2.391.3](https://github.com/berty/berty/releases/tag/v2.391.3), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/assh](https://github.com/moul/assh) ([v2.14.0](https://github.com/moul/assh/releases/tag/v2.14.0), 1 week ago) - :computer: make your ssh client smarter
 - [moul/retry](https://github.com/moul/retry) ([v0.7.1](https://github.com/moul/retry/releases/tag/v0.7.1), 2 weeks ago) - :shell: retry shell commands
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.86.1](https://github.com/pathwar/pathwar/releases/tag/v2.86.1), 3 weeks ago) - ☠️ The Pathwar Project ☠️
@@ -51,15 +51,15 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - <a href="https://github.com/moul/golang-repo-template/pull/282">chore: update ci&#39;s golang version</a> (4 days ago) </li>
+  <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - <a href="https://github.com/moul/golang-repo-template/pull/282">chore: update ci&#39;s golang version</a> (5 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/230">chore: move tests/files2/zrealm_* into the implementation folders</a> (4 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/230">chore: move tests/files2/zrealm_* into the implementation folders</a> (5 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/227">chore: optimize the generated docker image</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/227">chore: optimize the generated docker image</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/226">chore(ci): build and publish docker image</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/226">chore(ci): build and publish docker image</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/225">chore(ci): reduce opaque dependencies</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/225">chore(ci): reduce opaque dependencies</a> (6 days ago) </li>
   
   </ul>
 
@@ -108,7 +108,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1654385693.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1654388615.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
