@@ -4,6 +4,7 @@
 
 
 :hammer: Founder of [**berty**.tech](https://berty.tech)<br/>
+:wheel_of_dharma: Gnome at [**gno.land**](https://gno.land)<br/>
 :briefcase: Consulting & Coaching services at [**pmg**.tools](https://pmg.tools)<br/>
 :scientist: Buidl Web3 at [**moula**.tech](https://moula.tech)<br/>
 :heart: P2P, Cryptography, POCs, CLIs at [manfred.life](https://manfred.life)<br/>
