@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.407.1](https://github.com/berty/berty/releases/tag/v2.407.1), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/berty](https://github.com/berty/berty) ([v2.407.1](https://github.com/berty/berty/releases/tag/v2.407.1), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/assh](https://github.com/moul/assh) ([v2.14.0](https://github.com/moul/assh/releases/tag/v2.14.0), 4 weeks ago) - :computer: make your ssh client smarter
 - [moul/retry](https://github.com/moul/retry) ([v0.7.1](https://github.com/moul/retry/releases/tag/v0.7.1), 1 month ago) - :shell: retry shell commands
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.86.1](https://github.com/pathwar/pathwar/releases/tag/v2.86.1), 1 month ago) - ☠️ The Pathwar Project ☠️
@@ -32,7 +32,7 @@
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
-- [github](https://github.com/github) (1 day ago)
+- [github](https://github.com/github) (2 days ago)
 - [creack](https://github.com/creack) (2 years ago)
 - [shawnharmsen](https://github.com/shawnharmsen) (2 years ago)
 - [zxxma](https://github.com/zxxma) (2 years ago)
@@ -52,15 +52,15 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/263">chore: fix staging deployment</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/263">chore: fix staging deployment</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/262">chore: add misc/docker-build-stages</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/262">chore: add misc/docker-build-stages</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/levy9527/auto-add-label">levy9527/auto-add-label</a> - <a href="https://github.com/levy9527/auto-add-label/pull/24">WIP feat: won&#39;t create unexisting labels</a> (3 days ago) </li>
+  <li><a href="https://github.com/levy9527/auto-add-label">levy9527/auto-add-label</a> - <a href="https://github.com/levy9527/auto-add-label/pull/24">WIP feat: won&#39;t create unexisting labels</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/260">chore: setup multistage docker</a> (4 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/260">chore: setup multistage docker</a> (5 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/4">chore: history of txs on gno testnet1</a> (4 days ago) </li>
+  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/4">chore: history of txs on gno testnet1</a> (5 days ago) </li>
   
   </ul>
 
@@ -109,7 +109,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1656200089.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1656203119.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
