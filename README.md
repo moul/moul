@@ -22,8 +22,8 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.407.1](https://github.com/berty/berty/releases/tag/v2.407.1), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/assh](https://github.com/moul/assh) ([v2.14.0](https://github.com/moul/assh/releases/tag/v2.14.0), 4 weeks ago) - :computer: make your ssh client smarter
+- [berty/berty](https://github.com/berty/berty) ([v2.407.1](https://github.com/berty/berty/releases/tag/v2.407.1), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/assh](https://github.com/moul/assh) ([v2.14.0](https://github.com/moul/assh/releases/tag/v2.14.0), 1 month ago) - :computer: make your ssh client smarter
 - [moul/retry](https://github.com/moul/retry) ([v0.7.1](https://github.com/moul/retry/releases/tag/v0.7.1), 1 month ago) - :shell: retry shell commands
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.86.1](https://github.com/pathwar/pathwar/releases/tag/v2.86.1), 1 month ago) - ☠️ The Pathwar Project ☠️
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.37.0](https://github.com/moul/golang-repo-template/releases/tag/v1.37.0), 1 month ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
@@ -32,7 +32,7 @@
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
-- [github](https://github.com/github) (2 days ago)
+- [github](https://github.com/github) (3 days ago)
 - [creack](https://github.com/creack) (2 years ago)
 - [shawnharmsen](https://github.com/shawnharmsen) (2 years ago)
 - [zxxma](https://github.com/zxxma) (2 years ago)
@@ -52,15 +52,15 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/263">chore: fix staging deployment</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/263">chore: fix staging deployment</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/262">chore: add misc/docker-build-stages</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/262">chore: add misc/docker-build-stages</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/levy9527/auto-add-label">levy9527/auto-add-label</a> - <a href="https://github.com/levy9527/auto-add-label/pull/24">WIP feat: won&#39;t create unexisting labels</a> (4 days ago) </li>
+  <li><a href="https://github.com/levy9527/auto-add-label">levy9527/auto-add-label</a> - <a href="https://github.com/levy9527/auto-add-label/pull/24">WIP feat: won&#39;t create unexisting labels</a> (5 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/260">chore: setup multistage docker</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/260">chore: setup multistage docker</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/4">chore: history of txs on gno testnet1</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/4">chore: history of txs on gno testnet1</a> (6 days ago) </li>
   
   </ul>
 
@@ -75,11 +75,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/kube">kube</a>
   <li><a href="https://github.com/duxv">duxv</a>
   <li><a href="https://github.com/Jeongseup">Jeongseup</a>
   <li><a href="https://github.com/tdowg1">tdowg1</a>
   <li><a href="https://github.com/xieyuschen">xieyuschen</a>
-  <li><a href="https://github.com/jjnanthakumar">jjnanthakumar</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -109,7 +109,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1656286496.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1656289390.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
