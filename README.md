@@ -22,9 +22,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.411.0](https://github.com/berty/berty/releases/tag/v2.411.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) ([v1.0.0](https://github.com/moul/berty-discord-webhook/releases/tag/v1.0.0), 2 days ago) - A bot that sends Discord webhooks on new messages in a Berty group
-- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.37.1](https://github.com/moul/golang-repo-template/releases/tag/v1.37.1), 2 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
+- [berty/berty](https://github.com/berty/berty) ([v2.411.0](https://github.com/berty/berty/releases/tag/v2.411.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) ([v1.0.0](https://github.com/moul/berty-discord-webhook/releases/tag/v1.0.0), 3 days ago) - A bot that sends Discord webhooks on new messages in a Berty group
+- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.37.1](https://github.com/moul/golang-repo-template/releases/tag/v1.37.1), 3 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/assh](https://github.com/moul/assh) ([v2.14.0](https://github.com/moul/assh/releases/tag/v2.14.0), 1 month ago) - :computer: make your ssh client smarter
 - [moul/retry](https://github.com/moul/retry) ([v0.7.1](https://github.com/moul/retry/releases/tag/v0.7.1), 1 month ago) - :shell: retry shell commands
 
@@ -52,7 +52,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/berty-discord-webhook">moul/berty-discord-webhook</a> - <a href="https://github.com/moul/berty-discord-webhook/pull/3">feat: v1</a> (2 days ago) </li>
+  <li><a href="https://github.com/moul/berty-discord-webhook">moul/berty-discord-webhook</a> - <a href="https://github.com/moul/berty-discord-webhook/pull/3">feat: v1</a> (3 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/263">chore: fix staging deployment</a> (1 week ago) </li>
   
@@ -60,7 +60,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   
   <li><a href="https://github.com/levy9527/auto-add-label">levy9527/auto-add-label</a> - <a href="https://github.com/levy9527/auto-add-label/pull/24">WIP feat: won&#39;t create unexisting labels</a> (1 week ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/260">chore: setup multistage docker</a> (1 week ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/260">chore: setup multistage docker</a> (2 weeks ago) </li>
   
   </ul>
 
@@ -109,7 +109,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1656977722.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1656980412.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
