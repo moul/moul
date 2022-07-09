@@ -8,6 +8,7 @@
 :briefcase: Consulting & Coaching services at [**pmg**.tools](https://pmg.tools)<br/>
 :scientist: Buidl Web3 at [**moula**.tech](https://moula.tech)<br/>
 :heart: P2P, Cryptography, POCs, CLIs at [manfred.life](https://manfred.life)<br/>
+:speaking_head: Meetups at [Paris P2P](https://p2p.paris) and [Web3 Normandy](https://web3normandy.com)<br/>
 :octocat: Open-Source addict :syringe:<br/>
 :package: Other links [moul.link](https://www.moul.link/)<br/>
 
