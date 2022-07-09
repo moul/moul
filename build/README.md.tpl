@@ -3,12 +3,12 @@
 <img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
 
-:hammer: Founder of [**berty**.tech](https://berty.tech)<br/>
-:wheel_of_dharma: Gnome at [**gno.land**](https://gno.land)<br/>
-:briefcase: Consulting & Coaching services at [**pmg**.tools](https://pmg.tools)<br/>
-:scientist: Buidl Web3 at [**moula**.tech](https://moula.tech)<br/>
-:heart: P2P, Cryptography, POCs, CLIs at [manfred.life](https://manfred.life)<br/>
-:speaking_head: Meetups at [Paris P2P](https://p2p.paris) and [Web3 Normandy](https://web3normandy.com)<br/>
+:hammer: Founder of [**berty**.tech](https://berty.tech "Berty Technologies")<br/>
+:wheel_of_dharma: Gnome at [**gno**.land](https://gno.land "Gno Land")<br/>
+:briefcase: Consulting & Coaching services at [**pmg**.tools](https://pmg.tools "PMG Consulting")<br/>
+:scientist: Buidl Web3 at [**moula**.tech](https://moula.tech "$MOULA")<br/>
+:heart: P2P, Cryptography, POCs, CLIs at [**manfred.life**](https://manfred.life "Manfred.Life")<br/>
+:speaking_head: Meetups at [**p2p.paris**](https://p2p.paris "Paris P2P") and [**web3normandy**.com](https://web3normandy.com "Web3 Normandy")<br/>
 :octocat: Open-Source addict :syringe:<br/>
 :package: Other links [moul.link](https://www.moul.link/)<br/>
 
