@@ -3,12 +3,12 @@
 <img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
 
-:hammer: Founder of [**berty**.tech](https://berty.tech)<br/>
-:wheel_of_dharma: Gnome at [**gno.land**](https://gno.land)<br/>
-:briefcase: Consulting & Coaching services at [**pmg**.tools](https://pmg.tools)<br/>
-:scientist: Buidl Web3 at [**moula**.tech](https://moula.tech)<br/>
-:heart: P2P, Cryptography, POCs, CLIs at [manfred.life](https://manfred.life)<br/>
-:speaking_head: Meetups at [Paris P2P](https://p2p.paris) and [Web3 Normandy](https://web3normandy.com)<br/>
+:hammer: Founder of [**berty**.tech](https://berty.tech "Berty Technologies")<br/>
+:wheel_of_dharma: Gnome at [**gno**.land](https://gno.land "Gno Land")<br/>
+:briefcase: Consulting & Coaching services at [**pmg**.tools](https://pmg.tools "PMG Consulting")<br/>
+:scientist: Buidl Web3 at [**moula**.tech](https://moula.tech "$MOULA")<br/>
+:heart: P2P, Cryptography, POCs, CLIs at [**manfred.life**](https://manfred.life "Manfred.Life")<br/>
+:speaking_head: Meetups at [**p2p.paris**](https://p2p.paris "Paris P2P") and [**web3normandy**.com](https://web3normandy.com "Web3 Normandy")<br/>
 :octocat: Open-Source addict :syringe:<br/>
 :package: Other links [moul.link](https://www.moul.link/)<br/>
 
@@ -110,7 +110,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1657344857.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1657345049.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
