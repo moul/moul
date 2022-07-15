@@ -15,7 +15,7 @@
 #### 🌱 My latest projects
 
 
-- [moul/gno-basics](https://github.com/moul/gno-basics) - gno examples
+- [moul/gno-basics](https://github.com/moul/gno-basics) - Gnolang smart contract examples
 - [moul/gno-stuff](https://github.com/moul/gno-stuff) - various gno things
 - [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) - A bot that sends Discord webhooks on new messages in a Berty group
 - [moul/.gno](https://github.com/moul/.gno) - gno metadata
@@ -53,15 +53,15 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/12">chore: add gno-basics</a> (today) </li>
+  
+  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/11">chore: add test1</a> (today) </li>
+  
   <li><a href="https://github.com/moul/gno-basics">moul/gno-basics</a> - <a href="https://github.com/moul/gno-basics/pull/3">feat: v1</a> (today) </li>
   
   <li><a href="https://github.com/moul/nixpkgs">moul/nixpkgs</a> - <a href="https://github.com/moul/nixpkgs/pull/59">WIP: feat: refactor for fwrz, based on malob</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/296">chore: increase verbosity of `gnotxport`</a> (2 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/294">chore(test2): setup CORS headers</a> (2 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/293">chore(test2): setup TLS on rpc 36657</a> (2 days ago) </li>
   
   </ul>
 
@@ -110,7 +110,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1657924525.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1657926353.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
