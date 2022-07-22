@@ -23,7 +23,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.422.1](https://github.com/berty/berty/releases/tag/v2.422.1), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/berty](https://github.com/berty/berty) ([v2.422.1](https://github.com/berty/berty/releases/tag/v2.422.1), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [gnolang/gno](https://github.com/gnolang/gno) ([chain/test2.0](https://github.com/gnolang/gno/releases/tag/chain%2Ftest2.0), 1 week ago) - Gno language
 - [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) ([v1.0.0](https://github.com/moul/berty-discord-webhook/releases/tag/v1.0.0), 2 weeks ago) - A bot that sends Discord webhooks on new messages in a Berty group
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.37.1](https://github.com/moul/golang-repo-template/releases/tag/v1.37.1), 2 weeks ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
@@ -33,7 +33,7 @@
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
-- [github](https://github.com/github) (3 weeks ago)
+- [github](https://github.com/github) (4 weeks ago)
 - [creack](https://github.com/creack) (2 years ago)
 - [shawnharmsen](https://github.com/shawnharmsen) (2 years ago)
 - [zxxma](https://github.com/zxxma) (2 years ago)
@@ -53,11 +53,11 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/12">chore: add gno-basics</a> (6 days ago) </li>
+  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/12">chore: add gno-basics</a> (1 week ago) </li>
   
-  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/11">chore: add test1</a> (6 days ago) </li>
+  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/11">chore: add test1</a> (1 week ago) </li>
   
-  <li><a href="https://github.com/moul/gno-basics">moul/gno-basics</a> - <a href="https://github.com/moul/gno-basics/pull/3">feat: v1</a> (6 days ago) </li>
+  <li><a href="https://github.com/moul/gno-basics">moul/gno-basics</a> - <a href="https://github.com/moul/gno-basics/pull/3">feat: v1</a> (1 week ago) </li>
   
   <li><a href="https://github.com/moul/nixpkgs">moul/nixpkgs</a> - <a href="https://github.com/moul/nixpkgs/pull/59">WIP: feat: refactor for fwrz, based on malob</a> (1 week ago) </li>
   
@@ -67,7 +67,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/6653f870ce167ffccebd5372349e7516">ERC20 Token One File</a> (5 days ago)</li>
+  <li><a href="https://gist.github.com/6653f870ce167ffccebd5372349e7516">ERC20 Token One File</a> (6 days ago)</li>
   <li><a href="https://gist.github.com/1b538e6a49e3d5bce011987c62441eea">All Paths Lead to Roam</a> (4 months ago)</li>
   <li><a href="https://gist.github.com/2dd66ce9133e6585040122d563afa039">github-other-repos.md</a> (2 years ago)</li>
   <li><a href="https://gist.github.com/3d9a81083861a2bb2a04b80dad79bb68">Yo! 👋👋</a> (2 years ago)</li>
@@ -111,7 +111,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1658446627.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1658449539.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
