@@ -33,11 +33,11 @@
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
-- [github](https://github.com/github) (4 weeks ago)
 - [creack](https://github.com/creack) (2 years ago)
 - [shawnharmsen](https://github.com/shawnharmsen) (2 years ago)
 - [zxxma](https://github.com/zxxma) (2 years ago)
 - [le-du6](https://github.com/le-du6) (2 years ago)
+- [Z-a-r-a-k-i](https://github.com/Z-a-r-a-k-i) (2 years ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/moul/).
 
@@ -53,6 +53,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/537">chore: fix JS based on @doozers&#39; work in #533</a> (today) </li>
+  
   <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/531">chore: small fixes</a> (today) </li>
   
   <li><a href="https://github.com/WasmJuicer/ceremony">WasmJuicer/ceremony</a> - <a href="https://github.com/WasmJuicer/ceremony/pull/36">chore: add @moul</a> (1 day ago) </li>
@@ -60,8 +62,6 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/12">chore: add gno-basics</a> (1 week ago) </li>
   
   <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/11">chore: add test1</a> (1 week ago) </li>
-  
-  <li><a href="https://github.com/moul/gno-basics">moul/gno-basics</a> - <a href="https://github.com/moul/gno-basics/pull/3">feat: v1</a> (1 week ago) </li>
   
   </ul>
 
@@ -111,7 +111,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1658612102.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1658613912.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
