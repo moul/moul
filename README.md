@@ -23,8 +23,8 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.424.1](https://github.com/berty/berty/releases/tag/v2.424.1), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/depviz](https://github.com/moul/depviz) ([v3.12.2](https://github.com/moul/depviz/releases/tag/v3.12.2), 4 days ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)
+- [berty/berty](https://github.com/berty/berty) ([v2.424.1](https://github.com/berty/berty/releases/tag/v2.424.1), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/depviz](https://github.com/moul/depviz) ([v3.12.2](https://github.com/moul/depviz/releases/tag/v3.12.2), 5 days ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)
 - [gnolang/gno](https://github.com/gnolang/gno) ([chain/test2.0](https://github.com/gnolang/gno/releases/tag/chain%2Ftest2.0), 2 weeks ago) - Gno language
 - [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) ([v1.0.0](https://github.com/moul/berty-discord-webhook/releases/tag/v1.0.0), 3 weeks ago) - A bot that sends Discord webhooks on new messages in a Berty group
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.37.1](https://github.com/moul/golang-repo-template/releases/tag/v1.37.1), 3 weeks ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
@@ -53,15 +53,15 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/537">chore: fix JS based on @doozers&#39; work in #533</a> (5 days ago) </li>
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/537">chore: fix JS based on @doozers&#39; work in #533</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/531">chore: small fixes</a> (5 days ago) </li>
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/531">chore: small fixes</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/WasmJuicer/ceremony">WasmJuicer/ceremony</a> - <a href="https://github.com/WasmJuicer/ceremony/pull/36">chore: add @moul</a> (6 days ago) </li>
+  <li><a href="https://github.com/WasmJuicer/ceremony">WasmJuicer/ceremony</a> - <a href="https://github.com/WasmJuicer/ceremony/pull/36">chore: add @moul</a> (1 week ago) </li>
   
-  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/12">chore: add gno-basics</a> (1 week ago) </li>
+  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/12">chore: add gno-basics</a> (2 weeks ago) </li>
   
-  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/11">chore: add test1</a> (1 week ago) </li>
+  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/11">chore: add test1</a> (2 weeks ago) </li>
   
   </ul>
 
@@ -111,7 +111,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1659051385.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1659054142.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
