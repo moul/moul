@@ -15,11 +15,11 @@
 #### 🌱 My latest projects
 
 
+- [moul/assets.moul.io](https://github.com/moul/assets.moul.io) - 
 - [moul/gno-basics](https://github.com/moul/gno-basics) - Gnolang smart contract examples
 - [moul/gno-stuff](https://github.com/moul/gno-stuff) - various gno things
 - [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) - A bot that sends Discord webhooks on new messages in a Berty group
 - [moul/.gno](https://github.com/moul/.gno) - gno metadata
-- [moul/adapterkit](https://github.com/moul/adapterkit) - multi-purpose, extensible mechanism for managing jobs and commands
 
 #### 🔭 Recent Releases I Worked On
 
@@ -60,8 +60,6 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <li><a href="https://github.com/WasmJuicer/ceremony">WasmJuicer/ceremony</a> - <a href="https://github.com/WasmJuicer/ceremony/pull/36">chore: add @moul</a> (1 week ago) </li>
   
   <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/12">chore: add gno-basics</a> (2 weeks ago) </li>
-  
-  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/11">chore: add test1</a> (2 weeks ago) </li>
   
   </ul>
 
@@ -111,7 +109,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1659351936.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1659353678.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
