@@ -53,6 +53,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/PoCInnovation/DagViz">PoCInnovation/DagViz</a> - <a href="https://github.com/PoCInnovation/DagViz/pull/19">chore: various go improvements</a> (today) </li>
+  
   <li><a href="https://github.com/PoCInnovation/DagViz">PoCInnovation/DagViz</a> - <a href="https://github.com/PoCInnovation/DagViz/pull/18">chore: improve markdown styling</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/308">chore: add GRC20 tests</a> (1 day ago) </li>
@@ -109,7 +111,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1659521127.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1659523054.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
