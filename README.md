@@ -23,9 +23,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [moul/depviz](https://github.com/moul/depviz) ([v3.14.0](https://github.com/moul/depviz/releases/tag/v3.14.0), today) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)
-- [berty/berty](https://github.com/berty/berty) ([v2.425.3](https://github.com/berty/berty/releases/tag/v2.425.3), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [PoCInnovation/DagViz](https://github.com/PoCInnovation/DagViz) ([v1.0.0](https://github.com/PoCInnovation/DagViz/releases/tag/v1.0.0), 1 week ago) - Visualize your Cue DAG
+- [moul/depviz](https://github.com/moul/depviz) ([v3.14.0](https://github.com/moul/depviz/releases/tag/v3.14.0), 1 day ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)
+- [berty/berty](https://github.com/berty/berty) ([v2.425.3](https://github.com/berty/berty/releases/tag/v2.425.3), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [PoCInnovation/DagViz](https://github.com/PoCInnovation/DagViz) ([v1.0.0](https://github.com/PoCInnovation/DagViz/releases/tag/v1.0.0), 2 weeks ago) - Visualize your Cue DAG
 - [gnolang/gno](https://github.com/gnolang/gno) ([chain/test2.0](https://github.com/gnolang/gno/releases/tag/chain%2Ftest2.0), 3 weeks ago) - Gno language &amp; gno.land chain
 - [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) ([v1.0.0](https://github.com/moul/berty-discord-webhook/releases/tag/v1.0.0), 1 month ago) - A bot that sends Discord webhooks on new messages in a Berty group
 
@@ -53,15 +53,15 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - <a href="https://github.com/moul/golang-repo-template/pull/297">chore: bump go1.19</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/310">chore: bump go1.19</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/PoCInnovation/DagViz">PoCInnovation/DagViz</a> - <a href="https://github.com/PoCInnovation/DagViz/pull/19">chore: various go improvements</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/309">chore: refactor gno.land/p/grc structure</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/PoCInnovation/DagViz">PoCInnovation/DagViz</a> - <a href="https://github.com/PoCInnovation/DagViz/pull/18">chore: improve markdown styling</a> (today) </li>
+  <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - <a href="https://github.com/moul/golang-repo-template/pull/297">chore: bump go1.19</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/308">chore: add GRC20 tests</a> (1 day ago) </li>
+  <li><a href="https://github.com/PoCInnovation/DagViz">PoCInnovation/DagViz</a> - <a href="https://github.com/PoCInnovation/DagViz/pull/19">chore: various go improvements</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/307">chore: add GRC777 interface</a> (1 day ago) </li>
+  <li><a href="https://github.com/PoCInnovation/DagViz">PoCInnovation/DagViz</a> - <a href="https://github.com/PoCInnovation/DagViz/pull/18">chore: improve markdown styling</a> (1 day ago) </li>
   
   </ul>
 
@@ -111,7 +111,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1659569766.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1659572618.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
