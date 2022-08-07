@@ -23,10 +23,10 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.426.0](https://github.com/berty/berty/releases/tag/v2.426.0), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/depviz](https://github.com/moul/depviz) ([v3.15.0](https://github.com/moul/depviz/releases/tag/v3.15.0), 2 days ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)
+- [berty/berty](https://github.com/berty/berty) ([v2.426.0](https://github.com/berty/berty/releases/tag/v2.426.0), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/depviz](https://github.com/moul/depviz) ([v3.15.0](https://github.com/moul/depviz/releases/tag/v3.15.0), 3 days ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)
 - [PoCInnovation/DagViz](https://github.com/PoCInnovation/DagViz) ([v1.0.0](https://github.com/PoCInnovation/DagViz/releases/tag/v1.0.0), 2 weeks ago) - Visualize your Cue DAG
-- [gnolang/gno](https://github.com/gnolang/gno) ([chain/test2.0](https://github.com/gnolang/gno/releases/tag/chain%2Ftest2.0), 3 weeks ago) - Gno language &amp; gno.land chain
+- [gnolang/gno](https://github.com/gnolang/gno) ([chain/test2.0](https://github.com/gnolang/gno/releases/tag/chain%2Ftest2.0), 4 weeks ago) - Gno language &amp; gno.land chain
 - [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) ([v1.0.0](https://github.com/moul/berty-discord-webhook/releases/tag/v1.0.0), 1 month ago) - A bot that sends Discord webhooks on new messages in a Berty group
 
 
@@ -53,15 +53,15 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4335">chore: reduce noisy logs</a> (1 day ago) </li>
+  <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4335">chore: reduce noisy logs</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/pmg-tools/berty-bot-experiments">pmg-tools/berty-bot-experiments</a> - <a href="https://github.com/pmg-tools/berty-bot-experiments/pull/5">feat: add 4-bot-custom-sdk</a> (2 days ago) </li>
+  <li><a href="https://github.com/pmg-tools/berty-bot-experiments">pmg-tools/berty-bot-experiments</a> - <a href="https://github.com/pmg-tools/berty-bot-experiments/pull/5">feat: add 4-bot-custom-sdk</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/pmg-tools/berty-bot-experiments">pmg-tools/berty-bot-experiments</a> - <a href="https://github.com/pmg-tools/berty-bot-experiments/pull/4">feat: add 3-bot-rel-clone-go-dep</a> (2 days ago) </li>
+  <li><a href="https://github.com/pmg-tools/berty-bot-experiments">pmg-tools/berty-bot-experiments</a> - <a href="https://github.com/pmg-tools/berty-bot-experiments/pull/4">feat: add 3-bot-rel-clone-go-dep</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/pmg-tools/berty-bot-experiments">pmg-tools/berty-bot-experiments</a> - <a href="https://github.com/pmg-tools/berty-bot-experiments/pull/3">feat: add 2-bot-fork-go-dep</a> (2 days ago) </li>
+  <li><a href="https://github.com/pmg-tools/berty-bot-experiments">pmg-tools/berty-bot-experiments</a> - <a href="https://github.com/pmg-tools/berty-bot-experiments/pull/3">feat: add 2-bot-fork-go-dep</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/556">V2 bkp</a> (2 days ago) </li>
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/556">V2 bkp</a> (3 days ago) </li>
   
   </ul>
 
@@ -111,7 +111,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1659828926.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1659831972.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
