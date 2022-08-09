@@ -2,13 +2,13 @@
 
 <img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
-
 :hammer: Founder of [**berty**.tech](https://berty.tech "Berty Technologies")<br/>
 :wheel_of_dharma: Gnome at [**gno**.land](https://gno.land "Gno Land")<br/>
-:briefcase: Consulting & Coaching services at [**pmg**.tools](https://pmg.tools "PMG Consulting")<br/>
-:scientist: Buidl Web3 at [**moula**.tech](https://moula.tech "$MOULA")<br/>
+:briefcase: Consulting at [**pmg**.tools](https://pmg.tools "PMG Consulting")<br/>
 :heart: P2P, Cryptography, POCs, CLIs at [**manfred.life**](https://manfred.life "Manfred.Life")<br/>
 :speaking_head: Meetups at [**p2p.paris**](https://p2p.paris "Paris P2P") and [**web3normandy**.com](https://web3normandy.com "Web3 Normandy")<br/>
+:handshake: Advisor at [@scaleway](https://github.com/scaleway), [@kilnfi](https://github.com/kilnfi), [@teritori](https://github.com/teritori), [@progressive-identity](https://github.com/progressive-identity), ...<br/>
+:scientist: BUILDing Web3 Experiments at [**moula**.tech](https://moula.tech "$MOULA") and [@xplrz](https://github.com/xplrz)<br/>
 :octocat: Open-Source addict :syringe:<br/>
 :package: Other links [moul.link](https://www.moul.link/)<br/>
 
