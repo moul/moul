@@ -15,19 +15,19 @@
 #### 🌱 My latest projects
 
 
+- [moul/asanaman](https://github.com/moul/asanaman) - 
 - [moul/gno-basics](https://github.com/moul/gno-basics) - Gnolang smart contract examples
 - [moul/gno-stuff](https://github.com/moul/gno-stuff) - various gno things
 - [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) - A bot that sends Discord webhooks on new messages in a Berty group
 - [moul/.gno](https://github.com/moul/.gno) - gno metadata
-- [moul/adapterkit](https://github.com/moul/adapterkit) - multi-purpose, extensible mechanism for managing jobs and commands
 
 #### 🔭 Recent Releases I Worked On
 
+- [moul/asanaman](https://github.com/moul/asanaman) ([v1.0.0](https://github.com/moul/asanaman/releases/tag/v1.0.0), today) - 
 - [berty/berty](https://github.com/berty/berty) ([v2.427.1](https://github.com/berty/berty/releases/tag/v2.427.1), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/depviz](https://github.com/moul/depviz) ([v3.15.0](https://github.com/moul/depviz/releases/tag/v3.15.0), 6 days ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)
 - [PoCInnovation/DagViz](https://github.com/PoCInnovation/DagViz) ([v1.0.0](https://github.com/PoCInnovation/DagViz/releases/tag/v1.0.0), 2 weeks ago) - Visualize your Cue DAG
 - [gnolang/gno](https://github.com/gnolang/gno) ([chain/test2.0](https://github.com/gnolang/gno/releases/tag/chain%2Ftest2.0), 1 month ago) - Gno language &amp; gno.land chain
-- [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) ([v1.0.0](https://github.com/moul/berty-discord-webhook/releases/tag/v1.0.0), 1 month ago) - A bot that sends Discord webhooks on new messages in a Berty group
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -53,6 +53,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - <a href="https://github.com/moul/asanaman/pull/4">feat: v1</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/315">chore: bump test2&#39;s faucet to 50M</a> (1 day ago) </li>
   
   <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4352">chore: update valist release tag</a> (1 day ago) </li>
@@ -60,8 +62,6 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4347">wip: berty bot experiments</a> (2 days ago) </li>
   
   <li><a href="https://github.com/pmg-tools/berty-bot-experiments">pmg-tools/berty-bot-experiments</a> - <a href="https://github.com/pmg-tools/berty-bot-experiments/pull/6">chore: update doc</a> (2 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/314">chore: add a helper to drop grc20 privileges</a> (3 days ago) </li>
   
   </ul>
 
@@ -111,7 +111,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1660122337.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1660124186.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
