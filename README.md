@@ -53,6 +53,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - <a href="https://github.com/moul/asanaman/pull/10">feat: add &#39;team-list&#39;</a> (today) </li>
+  
   <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - <a href="https://github.com/moul/asanaman/pull/8">feat: setup tablewriter ascii renderer</a> (1 day ago) </li>
   
   <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - <a href="https://github.com/moul/asanaman/pull/7">feat: add &#39;workspace-list&#39;</a> (1 day ago) </li>
@@ -60,8 +62,6 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - <a href="https://github.com/moul/asanaman/pull/6">feat: add &#39;project-list --filter-*&#39;</a> (1 day ago) </li>
   
   <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - <a href="https://github.com/moul/asanaman/pull/4">feat: v1</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/315">chore: bump test2&#39;s faucet to 50M</a> (2 days ago) </li>
   
   </ul>
 
@@ -111,7 +111,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1660199974.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1660201518.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
