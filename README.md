@@ -23,9 +23,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/berty](https://github.com/berty/berty) ([v2.428.0](https://github.com/berty/berty/releases/tag/v2.428.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/asanaman](https://github.com/moul/asanaman) ([v1.4.0](https://github.com/moul/asanaman/releases/tag/v1.4.0), today) - 
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.7.3](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.7.3), 1 day ago) - OpenZeppelin Contracts is a library for secure smart contract development.
-- [berty/berty](https://github.com/berty/berty) ([v2.427.1](https://github.com/berty/berty/releases/tag/v2.427.1), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/depviz](https://github.com/moul/depviz) ([v3.15.0](https://github.com/moul/depviz/releases/tag/v3.15.0), 1 week ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)
 - [PoCInnovation/DagViz](https://github.com/PoCInnovation/DagViz) ([v1.0.0](https://github.com/PoCInnovation/DagViz/releases/tag/v1.0.0), 3 weeks ago) - Visualize your Cue DAG
 
@@ -111,7 +111,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1660225542.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1660226725.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
