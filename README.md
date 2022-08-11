@@ -23,11 +23,11 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.7.3](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.7.3), today) - OpenZeppelin Contracts is a library for secure smart contract development.
-- [moul/asanaman](https://github.com/moul/asanaman) ([v1.3.0](https://github.com/moul/asanaman/releases/tag/v1.3.0), today) - 
-- [berty/berty](https://github.com/berty/berty) ([v2.427.1](https://github.com/berty/berty/releases/tag/v2.427.1), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/depviz](https://github.com/moul/depviz) ([v3.15.0](https://github.com/moul/depviz/releases/tag/v3.15.0), 6 days ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)
-- [PoCInnovation/DagViz](https://github.com/PoCInnovation/DagViz) ([v1.0.0](https://github.com/PoCInnovation/DagViz/releases/tag/v1.0.0), 2 weeks ago) - Visualize your Cue DAG
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.7.3](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.7.3), 1 day ago) - OpenZeppelin Contracts is a library for secure smart contract development.
+- [moul/asanaman](https://github.com/moul/asanaman) ([v1.3.0](https://github.com/moul/asanaman/releases/tag/v1.3.0), 1 day ago) - 
+- [berty/berty](https://github.com/berty/berty) ([v2.427.1](https://github.com/berty/berty/releases/tag/v2.427.1), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/depviz](https://github.com/moul/depviz) ([v3.15.0](https://github.com/moul/depviz/releases/tag/v3.15.0), 1 week ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)
+- [PoCInnovation/DagViz](https://github.com/PoCInnovation/DagViz) ([v1.0.0](https://github.com/PoCInnovation/DagViz/releases/tag/v1.0.0), 3 weeks ago) - Visualize your Cue DAG
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -53,15 +53,15 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - <a href="https://github.com/moul/asanaman/pull/8">feat: setup tablewriter ascii renderer</a> (today) </li>
+  <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - <a href="https://github.com/moul/asanaman/pull/8">feat: setup tablewriter ascii renderer</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - <a href="https://github.com/moul/asanaman/pull/7">feat: add &#39;workspace-list&#39;</a> (today) </li>
+  <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - <a href="https://github.com/moul/asanaman/pull/7">feat: add &#39;workspace-list&#39;</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - <a href="https://github.com/moul/asanaman/pull/6">feat: add &#39;project-list --filter-*&#39;</a> (today) </li>
+  <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - <a href="https://github.com/moul/asanaman/pull/6">feat: add &#39;project-list --filter-*&#39;</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - <a href="https://github.com/moul/asanaman/pull/4">feat: v1</a> (today) </li>
+  <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - <a href="https://github.com/moul/asanaman/pull/4">feat: v1</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/315">chore: bump test2&#39;s faucet to 50M</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/315">chore: bump test2&#39;s faucet to 50M</a> (2 days ago) </li>
   
   </ul>
 
@@ -111,7 +111,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1660174527.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1660177411.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
