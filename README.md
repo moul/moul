@@ -33,11 +33,11 @@
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
-- [creack](https://github.com/creack) (2 years ago)
-- [shawnharmsen](https://github.com/shawnharmsen) (2 years ago)
-- [zxxma](https://github.com/zxxma) (2 years ago)
-- [le-du6](https://github.com/le-du6) (2 years ago)
-- [Z-a-r-a-k-i](https://github.com/Z-a-r-a-k-i) (2 years ago)
+- [creack](https://github.com/creack)
+- [shawnharmsen](https://github.com/shawnharmsen)
+- [zxxma](https://github.com/zxxma)
+- [le-du6](https://github.com/le-du6)
+- [Z-a-r-a-k-i](https://github.com/Z-a-r-a-k-i)
 
 For more information, see [the sponsors page](https://github.com/sponsors/moul/).
 
@@ -111,7 +111,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1660819153.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1660820714.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
