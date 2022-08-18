@@ -29,7 +29,7 @@
 #### ❤️ These awesome people sponsor me (thank you!)
 
 {{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
+- [{{.User.Login}}]({{.User.URL}})
 {{- end}}
 
 For more information, see [the sponsors page](https://github.com/sponsors/moul/).
