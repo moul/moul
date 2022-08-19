@@ -33,7 +33,7 @@
 {{range sponsors 5}}
 - [{{.User.Login}}]({{.User.URL}})
 {{- end}}
-- [...](https://github.com/sponsors/moul/) ({{ len (sponsors 100) }})
+- [...](https://github.com/sponsors/moul/)
 
 <details>
 <!--
