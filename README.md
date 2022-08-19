@@ -20,7 +20,8 @@
 - [moul/gno-stuff](https://github.com/moul/gno-stuff) - various gno things
 - [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) - A bot that sends Discord webhooks on new messages in a Berty group
 - [moul/.gno](https://github.com/moul/.gno) - gno metadata
-- [...](https://github.com/search?q=user%3Amoul+user%3Amoul)
+- [...](https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories)
+
 
 #### 🔭 Recent Releases I Worked On
 
@@ -96,7 +97,7 @@
   <h4>📫 How to reach me</h4>
   <ul>
     <li>Twitter: <a href="https://twitter.com/moul">https://twitter.com/moul</a></li>
-    <li>Blog: <a href="https://manfred.life/">https://manfred.life/</a></li>
+    <li>Blog: <a href="https://manfred.life/">(https://manfred.life/</a></li>
   </ul>
 
   <hr />
@@ -112,7 +113,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1660917718.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1660917948.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
