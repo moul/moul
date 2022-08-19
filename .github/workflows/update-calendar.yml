@@ -3,7 +3,7 @@ name: Update Calendar
 on:
   push:
   schedule:
-    - cron: "15 */2 * * *"
+    - cron: "21 */2 * * *"
 
 jobs:
   githubchart:
