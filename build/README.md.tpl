@@ -17,7 +17,7 @@
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
-- [...](https://github.com/search?q=user%3Amoul+user%3Amoul) ({{ len (recentRepos 10000) }})
+- [...](https://github.com/search?q=user%3Amoul+user%3Amoul)
 
 #### 🔭 Recent Releases I Worked On
 
@@ -33,7 +33,7 @@
 {{range sponsors 5}}
 - [{{.User.Login}}]({{.User.URL}})
 {{- end}}
-- [...](https://github.com/sponsors/moul/)
+- [...](https://github.com/sponsors/moul/) ({{ len (sponsors 100) }})
 
 <details>
 <!--
@@ -66,7 +66,7 @@
   {{- end}}
   </ul>
   -->
-  
+
   <h4>💪 Recent PRs</h4>
   <ul>
   {{range recentPullRequests 5}}
