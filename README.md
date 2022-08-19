@@ -20,6 +20,7 @@
 - [moul/gno-stuff](https://github.com/moul/gno-stuff) - various gno things
 - [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) - A bot that sends Discord webhooks on new messages in a Berty group
 - [moul/.gno](https://github.com/moul/.gno) - gno metadata
+- [...](https://github.com/search?q=user%3Amoul+user%3Amoul)
 
 #### 🔭 Recent Releases I Worked On
 
@@ -29,6 +30,7 @@
 - [moul/depviz](https://github.com/moul/depviz) ([v3.15.0](https://github.com/moul/depviz/releases/tag/v3.15.0), 2 weeks ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)
 - [PoCInnovation/DagViz](https://github.com/PoCInnovation/DagViz) ([v1.0.0](https://github.com/PoCInnovation/DagViz/releases/tag/v1.0.0), 4 weeks ago) - Visualize your Cue DAG
 
+- [...](https://github.com/pulls?q=is%3Apr+author%3Amoul+is%3Amerged+)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -38,8 +40,7 @@
 - [zxxma](https://github.com/zxxma)
 - [le-du6](https://github.com/le-du6)
 - [Z-a-r-a-k-i](https://github.com/Z-a-r-a-k-i)
-
-For more information, see [the sponsors page](https://github.com/sponsors/moul/).
+- [...](https://github.com/sponsors/moul/) (7)
 
 <details>
 
@@ -49,7 +50,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
 
 
-  
+
   <h4>💪 Recent PRs</h4>
   <ul>
   
@@ -111,7 +112,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1660917185.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1660917630.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
