@@ -6,7 +6,7 @@
 :wheel_of_dharma: Core Gnome at [**gno**.land](https://gno.land "Gno Land")<br/>
 :briefcase: Consulting at [**pmg**.tools](https://pmg.tools "PMG Consulting")<br/>
 :speaking_head: Meetups at [**p2p.paris**](https://p2p.paris "Paris P2P") and [**web3normandy**.com](https://web3normandy.com "Web3 Normandy")<br/>
-:handshake: Advisor at [**Scaleway**.com](https://scaleway.com), [**Kiln**.fi](https://kiln.fi), [**TERITORI**.com](https://teritori.com), [**NXTPOP**](https://nxtpop.com) [**Alias**.dev](https://alias.dev), [**Zenlaw**.io](https://zenlaw.io/), ...<br/>
+:handshake: Advisor at [**Scaleway**.com](https://scaleway.com), [**Kiln**.fi](https://kiln.fi), [**Teritori**.com](https://teritori.com), [**NXT POP**](https://nxtpop.com), [**Alias**.dev](https://alias.dev), [**Zenlaw**.io](https://zenlaw.io/), ...<br/>
 :scientist: BUILD (experiments) [**moula**.tech](https://moula.tech "$MOULA"), [**XPLRZ**.com](https://xplrz.com), [**Pathwar**.land](https://pathwar.land)<br/>
 :octocat: Open-Source addict :syringe:<br/>
 :heart: P2P, Cryptography, POCs, CLIs at [**manfred.life**](https://manfred.life "Manfred.Life")<br/>
