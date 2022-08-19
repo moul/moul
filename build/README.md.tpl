@@ -17,6 +17,7 @@
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
+- [...](https://github.com/search?q=user%3Amoul+user%3Amoul) ({{ len (recentRepos 10000) }})
 
 #### 🔭 Recent Releases I Worked On
 
@@ -25,14 +26,14 @@
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{ end -}}
 {{- end}}
+- [...](https://github.com/pulls?q=is%3Apr+author%3Amoul+is%3Amerged+)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
 {{range sponsors 5}}
 - [{{.User.Login}}]({{.User.URL}})
 {{- end}}
-
-For more information, see [the sponsors page](https://github.com/sponsors/moul/).
+- [...](https://github.com/sponsors/moul/)
 
 <details>
 <!--
