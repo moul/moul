@@ -3,13 +3,13 @@
 <img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
 :hammer: Founder of [**berty**.tech](https://berty.tech "Berty Technologies")<br/>
-:wheel_of_dharma: Gnome at [**gno**.land](https://gno.land "Gno Land")<br/>
+:wheel_of_dharma: Core Gnome at [**gno**.land](https://gno.land "Gno Land")<br/>
 :briefcase: Consulting at [**pmg**.tools](https://pmg.tools "PMG Consulting")<br/>
-:heart: P2P, Cryptography, POCs, CLIs at [**manfred.life**](https://manfred.life "Manfred.Life")<br/>
 :speaking_head: Meetups at [**p2p.paris**](https://p2p.paris "Paris P2P") and [**web3normandy**.com](https://web3normandy.com "Web3 Normandy")<br/>
-:handshake: Advisor at [@scaleway](https://github.com/scaleway), [@kilnfi](https://github.com/kilnfi), [@teritori](https://github.com/teritori), [@progressive-identity](https://github.com/progressive-identity), ...<br/>
-:scientist: BUILDing Web3 Experiments at [**moula**.tech](https://moula.tech "$MOULA") and [@xplrz](https://github.com/xplrz)<br/>
+:handshake: Advisor at [@scaleway](https://github.com/scaleway), [@kilnfi](https://github.com/kilnfi), [@teritori](https://github.com/teritori), [@nxtpop](https://github.com/nxtpop) [@progressive-identity](https://github.com/progressive-identity), ...<br/>
+:scientist: BUILD (experiments) [**moula**.tech](https://moula.tech "$MOULA"), [@xplrz](https://github.com/xplrz), [@pathwar](https://github.com/pathwar)<br/>
 :octocat: Open-Source addict :syringe:<br/>
+:heart: P2P, Cryptography, POCs, CLIs at [**manfred.life**](https://manfred.life "Manfred.Life")<br/>
 :package: Other links [moul.link](https://www.moul.link/)<br/>
 
 #### 🌱 My latest projects
@@ -53,6 +53,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> - <a href="https://github.com/pathwar/pathwar/pull/767">chore: support custom agent port</a> (today) </li>
+  
   <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> - <a href="https://github.com/pathwar/pathwar/pull/766">chore: use binary with docker-compose-dab for agent</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/321">chore: test broken genesis/configuration</a> (4 days ago) </li>
@@ -60,8 +62,6 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
   <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - <a href="https://github.com/moul/asanaman/pull/10">feat: add &#39;team-list&#39;</a> (1 week ago) </li>
   
   <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - <a href="https://github.com/moul/asanaman/pull/8">feat: setup tablewriter ascii renderer</a> (1 week ago) </li>
-  
-  <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - <a href="https://github.com/moul/asanaman/pull/7">feat: add &#39;workspace-list&#39;</a> (1 week ago) </li>
   
   </ul>
 
@@ -111,7 +111,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/moul/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1660914993.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1660916463.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
