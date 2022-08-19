@@ -17,7 +17,8 @@
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
-- [...](https://github.com/search?q=user%3Amoul+user%3Amoul)
+- [...](https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories)
+<!--- [...](https://github.com/search?q=user%3Amoul+user%3Amoul)-->
 
 #### 🔭 Recent Releases I Worked On
 
@@ -101,7 +102,7 @@
   <h4>📫 How to reach me</h4>
   <ul>
     <li>Twitter: <a href="https://twitter.com/moul">https://twitter.com/moul</a></li>
-    <li>Blog: <a href="https://manfred.life/">https://manfred.life/</a></li>
+    <li>Blog: <a href="https://manfred.life/">(https://manfred.life/</a></li>
   </ul>
 
   <hr />
