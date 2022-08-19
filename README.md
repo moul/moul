@@ -9,7 +9,7 @@
 :handshake: Advisor at [Scaleway](https://scaleway.com), [Kiln](https://kiln.fi), [Teritori](https://teritori.com), [NxtPop](https://nxtpop.com), [Alias](https://alias.dev), [Zenlaw](https://zenlaw.io/), ...<br/>
 :scientist: BUILD (experiments) [$MOULA](https://moula.tech), [Xplrz](https://xplrz.com), [Pathwar](https://pathwar.land)<br/>
 :octocat: Open-Source addict :syringe:<br/>
-:heart: Blogging (outdated) at [manfred.life]https://manfred.life)<br/>
+:heart: Blogging (outdated) at [manfred.life](https://manfred.life)<br/>
 :package: Other links on [moul.link](https://www.moul.link/)<br/>
 
 #### 🌱 My latest projects
@@ -97,7 +97,7 @@
   <h4>📫 How to reach me</h4>
   <ul>
     <li>Twitter: <a href="https://twitter.com/moul">https://twitter.com/moul</a></li>
-    <li>Blog: <a href="https://manfred.life/">(https://manfred.life/</a></li>
+    <li>Blog: <a href="https://manfred.life/">https://manfred.life/</a></li>
   </ul>
 
   <hr />
@@ -113,7 +113,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1660917948.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1660918219.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
