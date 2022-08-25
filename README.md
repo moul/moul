@@ -25,10 +25,10 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.429.3](https://github.com/berty/berty/releases/tag/v2.429.3), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/asanaman](https://github.com/moul/asanaman) ([v1.4.0](https://github.com/moul/asanaman/releases/tag/v1.4.0), 1 week ago) - Asana tools and golang libs.
+- [berty/berty](https://github.com/berty/berty) ([v2.429.3](https://github.com/berty/berty/releases/tag/v2.429.3), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/asanaman](https://github.com/moul/asanaman) ([v1.4.0](https://github.com/moul/asanaman/releases/tag/v1.4.0), 2 weeks ago) - Asana tools and golang libs.
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.7.3](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.7.3), 2 weeks ago) - OpenZeppelin Contracts is a library for secure smart contract development.
-- [moul/depviz](https://github.com/moul/depviz) ([v3.15.0](https://github.com/moul/depviz/releases/tag/v3.15.0), 2 weeks ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)
+- [moul/depviz](https://github.com/moul/depviz) ([v3.15.0](https://github.com/moul/depviz/releases/tag/v3.15.0), 3 weeks ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)
 - [PoCInnovation/DagViz](https://github.com/PoCInnovation/DagViz) ([v1.0.0](https://github.com/PoCInnovation/DagViz/releases/tag/v1.0.0), 1 month ago) - Visualize your Cue DAG
 
 - [...](https://github.com/pulls?q=is%3Apr+author%3Amoul+is%3Amerged+)
@@ -55,13 +55,13 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4374">chore: configure GitHub Actions’ concurrency</a> (3 days ago) </li>
+  <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4374">chore: configure GitHub Actions’ concurrency</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - <a href="https://github.com/moul/golang-repo-template/pull/305">Update go.yml</a> (3 days ago) </li>
+  <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - <a href="https://github.com/moul/golang-repo-template/pull/305">Update go.yml</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> - <a href="https://github.com/pathwar/pathwar/pull/767">chore: support custom agent port</a> (5 days ago) </li>
+  <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> - <a href="https://github.com/pathwar/pathwar/pull/767">chore: support custom agent port</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> - <a href="https://github.com/pathwar/pathwar/pull/766">chore: use binary with docker-compose-dab for agent</a> (5 days ago) </li>
+  <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> - <a href="https://github.com/pathwar/pathwar/pull/766">chore: use binary with docker-compose-dab for agent</a> (6 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/321">chore: test broken genesis/configuration</a> (1 week ago) </li>
   
@@ -113,7 +113,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1661384739.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1661389489.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
