@@ -55,6 +55,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/berty/.github">berty/.github</a> - <a href="https://github.com/berty/.github/pull/1">chore: gen teams, authorized_keys</a> (today) </li>
+  
   <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4383">chore(ci): add runners&#39; lambda</a> (1 day ago) </li>
   
   <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4374">chore: configure GitHub Actions’ concurrency</a> (5 days ago) </li>
@@ -62,8 +64,6 @@
   <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - <a href="https://github.com/moul/golang-repo-template/pull/305">Update go.yml</a> (5 days ago) </li>
   
   <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> - <a href="https://github.com/pathwar/pathwar/pull/767">chore: support custom agent port</a> (1 week ago) </li>
-  
-  <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> - <a href="https://github.com/pathwar/pathwar/pull/766">chore: use binary with docker-compose-dab for agent</a> (1 week ago) </li>
   
   </ul>
 
@@ -79,11 +79,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/tom7zi">tom7zi</a>
   <li><a href="https://github.com/mattnix4">mattnix4</a>
   <li><a href="https://github.com/Yangus-W">Yangus-W</a>
   <li><a href="https://github.com/jjramon1699-ai">jjramon1699-ai</a>
   <li><a href="https://github.com/aliesbelik">aliesbelik</a>
-  <li><a href="https://github.com/SterlingChin">SterlingChin</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -113,7 +113,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1661499894.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1661503650.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
