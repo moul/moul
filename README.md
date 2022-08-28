@@ -55,6 +55,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/325">chore: allow passing password as stdin</a> (today) </li>
+  
   <li><a href="https://github.com/berty/berty-bot-metamask-connect">berty/berty-bot-metamask-connect</a> - <a href="https://github.com/berty/berty-bot-metamask-connect/pull/2">chore: update gomodule path</a> (2 days ago) </li>
   
   <li><a href="https://github.com/berty/.github">berty/.github</a> - <a href="https://github.com/berty/.github/pull/1">chore: gen teams, authorized_keys</a> (2 days ago) </li>
@@ -62,8 +64,6 @@
   <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4383">chore(ci): add runners&#39; lambda</a> (3 days ago) </li>
   
   <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4374">chore: configure GitHub Actions’ concurrency</a> (1 week ago) </li>
-  
-  <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - <a href="https://github.com/moul/golang-repo-template/pull/305">Update go.yml</a> (1 week ago) </li>
   
   </ul>
 
@@ -113,7 +113,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1661676402.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1661679890.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
