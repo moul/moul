@@ -25,7 +25,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.431.1](https://github.com/berty/berty/releases/tag/v2.431.1), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/berty](https://github.com/berty/berty) ([v2.431.1](https://github.com/berty/berty/releases/tag/v2.431.1), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/asanaman](https://github.com/moul/asanaman) ([v1.4.0](https://github.com/moul/asanaman/releases/tag/v1.4.0), 2 weeks ago) - Asana tools and golang libs.
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.7.3](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.7.3), 2 weeks ago) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [moul/depviz](https://github.com/moul/depviz) ([v3.15.0](https://github.com/moul/depviz/releases/tag/v3.15.0), 3 weeks ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)
@@ -55,13 +55,13 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/325">chore: allow passing password as stdin</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/325">chore: allow passing password as stdin</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/berty/berty-bot-metamask-connect">berty/berty-bot-metamask-connect</a> - <a href="https://github.com/berty/berty-bot-metamask-connect/pull/2">chore: update gomodule path</a> (2 days ago) </li>
+  <li><a href="https://github.com/berty/berty-bot-metamask-connect">berty/berty-bot-metamask-connect</a> - <a href="https://github.com/berty/berty-bot-metamask-connect/pull/2">chore: update gomodule path</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/berty/.github">berty/.github</a> - <a href="https://github.com/berty/.github/pull/1">chore: gen teams, authorized_keys</a> (2 days ago) </li>
+  <li><a href="https://github.com/berty/.github">berty/.github</a> - <a href="https://github.com/berty/.github/pull/1">chore: gen teams, authorized_keys</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4383">chore(ci): add runners&#39; lambda</a> (3 days ago) </li>
+  <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4383">chore(ci): add runners&#39; lambda</a> (4 days ago) </li>
   
   <li><a href="https://github.com/berty/berty">berty/berty</a> - <a href="https://github.com/berty/berty/pull/4374">chore: configure GitHub Actions’ concurrency</a> (1 week ago) </li>
   
@@ -70,7 +70,7 @@
   <h4>📓 Gists I wrote</h4>
   <ul>
   <li><a href="https://gist.github.com/6653f870ce167ffccebd5372349e7516">ERC20 Token One File</a> (1 month ago)</li>
-  <li><a href="https://gist.github.com/1b538e6a49e3d5bce011987c62441eea">All Paths Lead to Roam</a> (5 months ago)</li>
+  <li><a href="https://gist.github.com/1b538e6a49e3d5bce011987c62441eea">All Paths Lead to Roam</a> (6 months ago)</li>
   <li><a href="https://gist.github.com/2dd66ce9133e6585040122d563afa039">github-other-repos.md</a> (2 years ago)</li>
   <li><a href="https://gist.github.com/3d9a81083861a2bb2a04b80dad79bb68">Yo! 👋👋</a> (2 years ago)</li>
   
@@ -113,7 +113,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1661730331.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1661735080.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
