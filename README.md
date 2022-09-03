@@ -25,11 +25,11 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/yolo](https://github.com/berty/yolo) ([v2.103.0](https://github.com/berty/yolo/releases/tag/v2.103.0), today) - over-the-air installation and testing of mobile applications (TestFlight alternative)
-- [berty/berty](https://github.com/berty/berty) ([v2.432.0](https://github.com/berty/berty/releases/tag/v2.432.0), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/yolo](https://github.com/berty/yolo) ([v2.103.0](https://github.com/berty/yolo/releases/tag/v2.103.0), 1 day ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
+- [berty/berty](https://github.com/berty/berty) ([v2.432.0](https://github.com/berty/berty/releases/tag/v2.432.0), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/asanaman](https://github.com/moul/asanaman) ([v1.4.0](https://github.com/moul/asanaman/releases/tag/v1.4.0), 3 weeks ago) - Asana tools and golang libs.
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.7.3](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.7.3), 3 weeks ago) - OpenZeppelin Contracts is a library for secure smart contract development.
-- [moul/depviz](https://github.com/moul/depviz) ([v3.15.0](https://github.com/moul/depviz/releases/tag/v3.15.0), 4 weeks ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)
+- [moul/depviz](https://github.com/moul/depviz) ([v3.15.0](https://github.com/moul/depviz/releases/tag/v3.15.0), 1 month ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)
 
 - [...](https://github.com/pulls?q=is%3Apr+author%3Amoul+is%3Amerged+)
 
@@ -55,9 +55,9 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/326">chore: fix faucet on test2</a> (4 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/326">chore: fix faucet on test2</a> (5 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/325">chore: allow passing password as stdin</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/325">chore: allow passing password as stdin</a> (6 days ago) </li>
   
   <li><a href="https://github.com/berty/berty-bot-metamask-connect">berty/berty-bot-metamask-connect</a> - <a href="https://github.com/berty/berty-bot-metamask-connect/pull/2">chore: update gomodule path</a> (1 week ago) </li>
   
@@ -113,7 +113,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1662162389.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1662167042.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
