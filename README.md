@@ -25,9 +25,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.87.0](https://github.com/pathwar/pathwar/releases/tag/v2.87.0), 1 day ago) - ☠️ The Pathwar Project ☠️
-- [berty/yolo](https://github.com/berty/yolo) ([v2.103.0](https://github.com/berty/yolo/releases/tag/v2.103.0), 3 days ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
-- [berty/berty](https://github.com/berty/berty) ([v2.432.0](https://github.com/berty/berty/releases/tag/v2.432.0), 5 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.87.0](https://github.com/pathwar/pathwar/releases/tag/v2.87.0), 2 days ago) - ☠️ The Pathwar Project ☠️
+- [berty/yolo](https://github.com/berty/yolo) ([v2.103.0](https://github.com/berty/yolo/releases/tag/v2.103.0), 4 days ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
+- [berty/berty](https://github.com/berty/berty) ([v2.432.0](https://github.com/berty/berty/releases/tag/v2.432.0), 6 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/asanaman](https://github.com/moul/asanaman) ([v1.4.0](https://github.com/moul/asanaman/releases/tag/v1.4.0), 3 weeks ago) - Asana tools and golang libs.
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.7.3](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.7.3), 3 weeks ago) - OpenZeppelin Contracts is a library for secure smart contract development.
 
@@ -55,15 +55,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/16">WIP: manfred-recheck</a> (today) </li>
+  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/16">WIP: manfred-recheck</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/berty/yolo">berty/yolo</a> - <a href="https://github.com/berty/yolo/pull/445">chore: update golangci-lint</a> (today) </li>
+  <li><a href="https://github.com/berty/yolo">berty/yolo</a> - <a href="https://github.com/berty/yolo/pull/445">chore: update golangci-lint</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/berty/yolo">berty/yolo</a> - <a href="https://github.com/berty/yolo/pull/444">chore: alternative way to embed override</a> (today) </li>
+  <li><a href="https://github.com/berty/yolo">berty/yolo</a> - <a href="https://github.com/berty/yolo/pull/444">chore: alternative way to embed override</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/berty/yolo">berty/yolo</a> - <a href="https://github.com/berty/yolo/pull/443">chore: example metadata manual copy</a> (today) </li>
+  <li><a href="https://github.com/berty/yolo">berty/yolo</a> - <a href="https://github.com/berty/yolo/pull/443">chore: example metadata manual copy</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> - <a href="https://github.com/pathwar/pathwar/pull/771">chore: update PULL_REQUEST_TEMPLATE.md</a> (1 day ago) </li>
+  <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> - <a href="https://github.com/pathwar/pathwar/pull/771">chore: update PULL_REQUEST_TEMPLATE.md</a> (2 days ago) </li>
   
   </ul>
 
@@ -113,7 +113,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1662421618.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1662426305.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
