@@ -25,10 +25,10 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/yolo](https://github.com/berty/yolo) ([v2.103.1](https://github.com/berty/yolo/releases/tag/v2.103.1), today) - over-the-air installation and testing of mobile applications (TestFlight alternative)
-- [berty/berty](https://github.com/berty/berty) ([v2.434.0](https://github.com/berty/berty/releases/tag/v2.434.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.87.0](https://github.com/pathwar/pathwar/releases/tag/v2.87.0), 3 days ago) - ☠️ The Pathwar Project ☠️
-- [moul/asanaman](https://github.com/moul/asanaman) ([v1.4.0](https://github.com/moul/asanaman/releases/tag/v1.4.0), 3 weeks ago) - Asana tools and golang libs.
+- [berty/yolo](https://github.com/berty/yolo) ([v2.103.1](https://github.com/berty/yolo/releases/tag/v2.103.1), 1 day ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
+- [berty/berty](https://github.com/berty/berty) ([v2.434.0](https://github.com/berty/berty/releases/tag/v2.434.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.87.0](https://github.com/pathwar/pathwar/releases/tag/v2.87.0), 4 days ago) - ☠️ The Pathwar Project ☠️
+- [moul/asanaman](https://github.com/moul/asanaman) ([v1.4.0](https://github.com/moul/asanaman/releases/tag/v1.4.0), 4 weeks ago) - Asana tools and golang libs.
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.7.3](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.7.3), 4 weeks ago) - OpenZeppelin Contracts is a library for secure smart contract development.
 
 - [...](https://github.com/pulls?q=is%3Apr+author%3Amoul+is%3Amerged+)
@@ -55,15 +55,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/328">chore: move root package to pkgs/gnolang</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/328">chore: move root package to pkgs/gnolang</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/327">chore: add docker-integration test</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/327">chore: add docker-integration test</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/16">WIP: manfred-recheck</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/16">WIP: manfred-recheck</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/berty/yolo">berty/yolo</a> - <a href="https://github.com/berty/yolo/pull/445">chore: update golangci-lint</a> (2 days ago) </li>
+  <li><a href="https://github.com/berty/yolo">berty/yolo</a> - <a href="https://github.com/berty/yolo/pull/445">chore: update golangci-lint</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/berty/yolo">berty/yolo</a> - <a href="https://github.com/berty/yolo/pull/444">chore: alternative way to embed override</a> (2 days ago) </li>
+  <li><a href="https://github.com/berty/yolo">berty/yolo</a> - <a href="https://github.com/berty/yolo/pull/444">chore: alternative way to embed override</a> (3 days ago) </li>
   
   </ul>
 
@@ -113,7 +113,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1662594452.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1662599100.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
