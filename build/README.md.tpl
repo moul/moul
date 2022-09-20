@@ -14,7 +14,7 @@
 
 #### 🌱 My latest projects
 
-{{range recentRepos 5}}
+{{range recentRepos 9}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 - [...](https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories)
