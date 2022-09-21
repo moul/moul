@@ -3,10 +3,11 @@
 <img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
 :hammer: Founder of [Berty Technologies](https://berty.tech)<br/>
-:wheel_of_dharma: Core Gnome at [Gno.land](https://gno.land)<br/>
+:wheel_of_dharma: Core Contributor at [Gno.land](https://gno.land)<br/>
 :briefcase: Consulting at [PMG Consulting](https://pmg.tools)<br/>
+:cloud: Web3 & R&D Advisor at Advisor at [Scaleway](https://scaleway.com)<br/>
 :speaking_head: Meetups at [Paris P2P](https://p2p.paris) and [Web3 Normandy](https://web3normandy.com)<br/>
-:handshake: Advisor at [Scaleway](https://scaleway.com), [Kiln](https://kiln.fi), [Teritori](https://teritori.com), [NxtPop](https://nxtpop.com), [Alias](https://alias.dev), [Zenlaw](https://zenlaw.io/), ...<br/>
+:handshake: [Kiln](https://kiln.fi), [Teritori](https://teritori.com), [NxtPop](https://nxtpop.com), [Alias](https://alias.dev), [Zenlaw](https://zenlaw.io/), ...<br/>
 :scientist: BUILD (experiments) [$MOULA](https://moula.tech), [Xplrz](https://xplrz.com), [Pathwar](https://pathwar.land)<br/>
 :octocat: Open-Source addict :syringe:<br/>
 :heart: Blogging (outdated) at [manfred.life](https://manfred.life)<br/>
