@@ -29,8 +29,8 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/yolo](https://github.com/berty/yolo) ([v2.110.0](https://github.com/berty/yolo/releases/tag/v2.110.0), 5 days ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
-- [berty/berty](https://github.com/berty/berty) ([v2.434.1](https://github.com/berty/berty/releases/tag/v2.434.1), 6 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/yolo](https://github.com/berty/yolo) ([v2.110.0](https://github.com/berty/yolo/releases/tag/v2.110.0), 6 days ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
+- [berty/berty](https://github.com/berty/berty) ([v2.434.1](https://github.com/berty/berty/releases/tag/v2.434.1), 1 week ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.8.0-rc.0](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.0-rc.0), 1 week ago) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.87.0](https://github.com/pathwar/pathwar/releases/tag/v2.87.0), 2 weeks ago) - ☠️ The Pathwar Project ☠️
 - [moul/asanaman](https://github.com/moul/asanaman) ([v1.4.0](https://github.com/moul/asanaman/releases/tag/v1.4.0), 1 month ago) - Asana tools and golang libs.
@@ -84,11 +84,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/samwang3">samwang3</a>
   <li><a href="https://github.com/fl64">fl64</a>
   <li><a href="https://github.com/Mekuleyi">Mekuleyi</a>
   <li><a href="https://github.com/xaocon">xaocon</a>
   <li><a href="https://github.com/githubsands">githubsands</a>
-  <li><a href="https://github.com/Josh-D18">Josh-D18</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -118,7 +118,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1663717656.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1663722359.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
