@@ -13,7 +13,7 @@
 :heart: Blogging (outdated) at [manfred.life](https://manfred.life)<br/>
 :package: Other links on [moul.link](https://www.moul.link/)<br/>
 
-#### 🌱 My latest projects
+#### 🌱 Last projects
 
 
 - [moul/renovate-config](https://github.com/moul/renovate-config) - Custom renovate config.
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1664016408.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1664018049.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
