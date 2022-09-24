@@ -30,7 +30,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.8.0-rc.1](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.0-rc.1), today) - OpenZeppelin Contracts is a library for secure smart contract development.
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.8.0-rc.1](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.0-rc.1), 1 day ago) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [berty/yolo](https://github.com/berty/yolo) ([v2.110.0](https://github.com/berty/yolo/releases/tag/v2.110.0), 1 week ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 - [berty/berty](https://github.com/berty/berty) ([v2.434.1](https://github.com/berty/berty/releases/tag/v2.434.1), 1 week ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.87.0](https://github.com/pathwar/pathwar/releases/tag/v2.87.0), 2 weeks ago) - ☠️ The Pathwar Project ☠️
@@ -60,7 +60,7 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/TERITORI/teritori-mainnet-genesis">TERITORI/teritori-mainnet-genesis</a> - <a href="https://github.com/TERITORI/teritori-mainnet-genesis/pull/67">Add Berty</a> (2 days ago) </li>
+  <li><a href="https://github.com/TERITORI/teritori-mainnet-genesis">TERITORI/teritori-mainnet-genesis</a> - <a href="https://github.com/TERITORI/teritori-mainnet-genesis/pull/67">Add Berty</a> (3 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/336">feat: namespaces support</a> (1 week ago) </li>
   
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1663976856.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1663981506.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
