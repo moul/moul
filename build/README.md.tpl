@@ -13,7 +13,7 @@
 :heart: Blogging (outdated) at [manfred.life](https://manfred.life)<br/>
 :package: Other links on [moul.link](https://www.moul.link/)<br/>
 
-#### 🌱 My latest projects
+#### 🌱 Last projects
 
 {{range recentRepos 9}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
