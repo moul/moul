@@ -60,6 +60,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/342">feat(gnotxport): support stdout &#43; add --follow</a> (today) </li>
+  
   <li><a href="https://github.com/moul/banner">moul/banner</a> - <a href="https://github.com/moul/banner/pull/16">chore: improve tests</a> (today) </li>
   
   <li><a href="https://github.com/moul/retry">moul/retry</a> - <a href="https://github.com/moul/retry/pull/92">fix: invalid urfave/cli config</a> (today) </li>
@@ -67,8 +69,6 @@
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/341">chore: gnodev test --timeout</a> (today) </li>
   
   <li><a href="https://github.com/TERITORI/teritori-mainnet-genesis">TERITORI/teritori-mainnet-genesis</a> - <a href="https://github.com/TERITORI/teritori-mainnet-genesis/pull/67">Add Berty</a> (4 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/336">feat: namespaces support</a> (1 week ago) </li>
   
   </ul>
 
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1664088587.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1664091903.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
