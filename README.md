@@ -60,15 +60,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/banner">moul/banner</a> - <a href="https://github.com/moul/banner/pull/16">chore: improve tests</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/retry">moul/retry</a> - <a href="https://github.com/moul/retry/pull/92">fix: invalid urfave/cli config</a> (today) </li>
+  
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/341">chore: gnodev test --timeout</a> (today) </li>
+  
   <li><a href="https://github.com/TERITORI/teritori-mainnet-genesis">TERITORI/teritori-mainnet-genesis</a> - <a href="https://github.com/TERITORI/teritori-mainnet-genesis/pull/67">Add Berty</a> (4 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/336">feat: namespaces support</a> (1 week ago) </li>
-  
-  <li><a href="https://github.com/moul/gno-basics">moul/gno-basics</a> - <a href="https://github.com/moul/gno-basics/pull/9">feat: add 007-vault</a> (1 week ago) </li>
-  
-  <li><a href="https://github.com/moul/gno-basics">moul/gno-basics</a> - <a href="https://github.com/moul/gno-basics/pull/8">feat: add 006-grc20</a> (1 week ago) </li>
-  
-  <li><a href="https://github.com/moul/gno-basics">moul/gno-basics</a> - <a href="https://github.com/moul/gno-basics/pull/7">chore: bump deps</a> (1 week ago) </li>
   
   </ul>
 
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1664067900.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1664073150.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
