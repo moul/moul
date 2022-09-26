@@ -30,7 +30,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.8.0-rc.1](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.0-rc.1), 2 days ago) - OpenZeppelin Contracts is a library for secure smart contract development.
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.8.0-rc.1](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.0-rc.1), 3 days ago) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [berty/yolo](https://github.com/berty/yolo) ([v2.110.0](https://github.com/berty/yolo/releases/tag/v2.110.0), 1 week ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 - [berty/berty](https://github.com/berty/berty) ([v2.434.1](https://github.com/berty/berty/releases/tag/v2.434.1), 1 week ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.87.0](https://github.com/pathwar/pathwar/releases/tag/v2.87.0), 3 weeks ago) - ☠️ The Pathwar Project ☠️
@@ -60,15 +60,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/nixpkgs">moul/nixpkgs</a> - <a href="https://github.com/moul/nixpkgs/pull/61">feat: massive refactor</a> (today) </li>
+  <li><a href="https://github.com/moul/nixpkgs">moul/nixpkgs</a> - <a href="https://github.com/moul/nixpkgs/pull/61">feat: massive refactor</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/344">feat: gno.mod file support</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/344">feat: gno.mod file support</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/343">chore: make txport retry blocks for reliability</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/343">chore: make txport retry blocks for reliability</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/342">feat(gnotxport): support stdout &#43; add --follow</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/342">feat(gnotxport): support stdout &#43; add --follow</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/moul/banner">moul/banner</a> - <a href="https://github.com/moul/banner/pull/16">chore: improve tests</a> (today) </li>
+  <li><a href="https://github.com/moul/banner">moul/banner</a> - <a href="https://github.com/moul/banner/pull/16">chore: improve tests</a> (1 day ago) </li>
   
   </ul>
 
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1664149643.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1664154269.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
