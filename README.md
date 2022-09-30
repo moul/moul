@@ -30,9 +30,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.434.3](https://github.com/berty/berty/releases/tag/v2.434.3), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [PoCInnovation/DagViz](https://github.com/PoCInnovation/DagViz) ([v1.1.0](https://github.com/PoCInnovation/DagViz/releases/tag/v1.1.0), 2 days ago) - Visualize your Cue DAG
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.8.0-rc.1](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.0-rc.1), 6 days ago) - OpenZeppelin Contracts is a library for secure smart contract development.
+- [berty/berty](https://github.com/berty/berty) ([v2.434.3](https://github.com/berty/berty/releases/tag/v2.434.3), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [PoCInnovation/DagViz](https://github.com/PoCInnovation/DagViz) ([v1.1.0](https://github.com/PoCInnovation/DagViz/releases/tag/v1.1.0), 3 days ago) - Visualize your Cue DAG
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.8.0-rc.1](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.0-rc.1), 1 week ago) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [berty/yolo](https://github.com/berty/yolo) ([v2.110.0](https://github.com/berty/yolo/releases/tag/v2.110.0), 2 weeks ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.87.0](https://github.com/pathwar/pathwar/releases/tag/v2.87.0), 3 weeks ago) - ☠️ The Pathwar Project ☠️
 
@@ -60,21 +60,21 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/347">chore: add std.DerivePkgAddr helper</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/347">chore: add std.DerivePkgAddr helper</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/346">feat: add an optional Constructor that can be call at contract creation</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/346">feat: add an optional Constructor that can be call at contract creation</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/xplrz/gnoland-workshop">xplrz/gnoland-workshop</a> - <a href="https://github.com/xplrz/gnoland-workshop/pull/1">feat: add go.mod-based gno install</a> (2 days ago) </li>
+  <li><a href="https://github.com/xplrz/gnoland-workshop">xplrz/gnoland-workshop</a> - <a href="https://github.com/xplrz/gnoland-workshop/pull/1">feat: add go.mod-based gno install</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/moul/nixpkgs">moul/nixpkgs</a> - <a href="https://github.com/moul/nixpkgs/pull/61">feat: massive refactor</a> (4 days ago) </li>
+  <li><a href="https://github.com/moul/nixpkgs">moul/nixpkgs</a> - <a href="https://github.com/moul/nixpkgs/pull/61">feat: massive refactor</a> (5 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/344">feat: gno.mod file support</a> (4 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/344">feat: gno.mod file support</a> (5 days ago) </li>
   
   </ul>
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/29c0df4055df019a91440521a02dc23e">top1k cosmos (liquid &#43; staked &#43; unbounding), snapshot 2022-05-22.</a> (2 weeks ago)</li>
+  <li><a href="https://gist.github.com/29c0df4055df019a91440521a02dc23e">top1k cosmos (liquid &#43; staked &#43; unbounding), snapshot 2022-05-22.</a> (3 weeks ago)</li>
   <li><a href="https://gist.github.com/6653f870ce167ffccebd5372349e7516">ERC20 Token One File</a> (2 months ago)</li>
   <li><a href="https://gist.github.com/1b538e6a49e3d5bce011987c62441eea">All Paths Lead to Roam</a> (7 months ago)</li>
   <li><a href="https://gist.github.com/2dd66ce9133e6585040122d563afa039">github-other-repos.md</a> (2 years ago)</li>
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1664495412.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1664499922.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
