@@ -30,9 +30,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.434.6](https://github.com/berty/berty/releases/tag/v2.434.6), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/berty](https://github.com/berty/berty) ([v2.434.6](https://github.com/berty/berty/releases/tag/v2.434.6), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [PoCInnovation/DagViz](https://github.com/PoCInnovation/DagViz) ([v1.1.0](https://github.com/PoCInnovation/DagViz/releases/tag/v1.1.0), 2 weeks ago) - Visualize your Cue DAG
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.8.0-rc.1](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.0-rc.1), 2 weeks ago) - OpenZeppelin Contracts is a library for secure smart contract development.
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.8.0-rc.1](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.0-rc.1), 3 weeks ago) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [berty/yolo](https://github.com/berty/yolo) ([v2.110.0](https://github.com/berty/yolo/releases/tag/v2.110.0), 4 weeks ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.87.0](https://github.com/pathwar/pathwar/releases/tag/v2.87.0), 1 month ago) - ☠️ The Pathwar Project ☠️
 
@@ -60,11 +60,11 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/eco-stake/validator-registry">eco-stake/validator-registry</a> - <a href="https://github.com/eco-stake/validator-registry/pull/1226">Add Berty</a> (today) </li>
+  <li><a href="https://github.com/eco-stake/validator-registry">eco-stake/validator-registry</a> - <a href="https://github.com/eco-stake/validator-registry/pull/1226">Add Berty</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/354">chore: update docs and license</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/354">chore: update docs and license</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/352">chore: move gnoview and logos in misc/</a> (3 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/352">chore: move gnoview and logos in misc/</a> (4 days ago) </li>
   
   <li><a href="https://github.com/osmosis-labs/docs">osmosis-labs/docs</a> - <a href="https://github.com/osmosis-labs/docs/pull/167">chore: update lp example with suggested fees</a> (1 week ago) </li>
   
@@ -75,7 +75,7 @@
   <h4>📓 Gists I wrote</h4>
   <ul>
   <li><a href="https://gist.github.com/29c0df4055df019a91440521a02dc23e">top1k cosmos (liquid &#43; staked &#43; unbounding), snapshot 2022-05-22.</a> (1 month ago)</li>
-  <li><a href="https://gist.github.com/6653f870ce167ffccebd5372349e7516">ERC20 Token One File</a> (2 months ago)</li>
+  <li><a href="https://gist.github.com/6653f870ce167ffccebd5372349e7516">ERC20 Token One File</a> (3 months ago)</li>
   <li><a href="https://gist.github.com/1b538e6a49e3d5bce011987c62441eea">All Paths Lead to Roam</a> (7 months ago)</li>
   <li><a href="https://gist.github.com/2dd66ce9133e6585040122d563afa039">github-other-repos.md</a> (2 years ago)</li>
   <li><a href="https://gist.github.com/3d9a81083861a2bb2a04b80dad79bb68">Yo! 👋👋</a> (2 years ago)</li>
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1665704956.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1665709481.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
