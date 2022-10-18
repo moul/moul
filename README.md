@@ -60,15 +60,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/gno-basics">moul/gno-basics</a> - <a href="https://github.com/moul/gno-basics/pull/15">feat: add 900-wikipedia-coin example</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gno-basics">moul/gno-basics</a> - <a href="https://github.com/moul/gno-basics/pull/14">chore: enable more CI/CD tests</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/356">chore: cleanup debug</a> (3 days ago) </li>
   
   <li><a href="https://github.com/tendermint/atom_one">tendermint/atom_one</a> - <a href="https://github.com/tendermint/atom_one/pull/2">Increase error tolerance and flexibility with redelegation</a> (4 days ago) </li>
   
   <li><a href="https://github.com/eco-stake/validator-registry">eco-stake/validator-registry</a> - <a href="https://github.com/eco-stake/validator-registry/pull/1226">Add Berty</a> (5 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/354">chore: update docs and license</a> (6 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/352">chore: move gnoview and logos in misc/</a> (1 week ago) </li>
   
   </ul>
 
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1666129638.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1666133296.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
