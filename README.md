@@ -30,9 +30,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.434.8](https://github.com/berty/berty/releases/tag/v2.434.8), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [berty/berty](https://github.com/berty/berty) ([v2.434.8](https://github.com/berty/berty/releases/tag/v2.434.8), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/assh](https://github.com/moul/assh) ([v2.15.0](https://github.com/moul/assh/releases/tag/v2.15.0), 1 week ago) - :computer: make your ssh client smarter
-- [PoCInnovation/DagViz](https://github.com/PoCInnovation/DagViz) ([v1.1.0](https://github.com/PoCInnovation/DagViz/releases/tag/v1.1.0), 3 weeks ago) - Visualize your Cue DAG
+- [PoCInnovation/DagViz](https://github.com/PoCInnovation/DagViz) ([v1.1.0](https://github.com/PoCInnovation/DagViz/releases/tag/v1.1.0), 4 weeks ago) - Visualize your Cue DAG
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.8.0-rc.1](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.0-rc.1), 1 month ago) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [berty/yolo](https://github.com/berty/yolo) ([v2.110.0](https://github.com/berty/yolo/releases/tag/v2.110.0), 1 month ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 
@@ -60,15 +60,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/adapterkit-module-demo">moul/adapterkit-module-demo</a> - <a href="https://github.com/moul/adapterkit-module-demo/pull/5">Create LICENSE</a> (3 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/370">chore: add p/blog and r/gnoland/blog</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/pathfindertools/ipfs-camp-2022">pathfindertools/ipfs-camp-2022</a> - <a href="https://github.com/pathfindertools/ipfs-camp-2022/pull/108">Update my talk’s info</a> (5 days ago) </li>
+  <li><a href="https://github.com/moul/adapterkit-module-demo">moul/adapterkit-module-demo</a> - <a href="https://github.com/moul/adapterkit-module-demo/pull/5">Create LICENSE</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/359">chore: disable auto precompile on gnodev test</a> (5 days ago) </li>
+  <li><a href="https://github.com/pathfindertools/ipfs-camp-2022">pathfindertools/ipfs-camp-2022</a> - <a href="https://github.com/pathfindertools/ipfs-camp-2022/pull/108">Update my talk’s info</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/moul/gno-basics">moul/gno-basics</a> - <a href="https://github.com/moul/gno-basics/pull/15">feat: add 900-wikipedia-coin example</a> (6 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/359">chore: disable auto precompile on gnodev test</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/moul/gno-basics">moul/gno-basics</a> - <a href="https://github.com/moul/gno-basics/pull/14">chore: enable more CI/CD tests</a> (6 days ago) </li>
+  <li><a href="https://github.com/moul/gno-basics">moul/gno-basics</a> - <a href="https://github.com/moul/gno-basics/pull/15">feat: add 900-wikipedia-coin example</a> (1 week ago) </li>
   
   </ul>
 
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1666655353.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1666659880.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
