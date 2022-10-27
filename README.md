@@ -60,6 +60,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/374">chore: `make fmt`</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/373">chore(foo20): add faucet</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/370">chore: add p/blog and r/gnoland/blog</a> (3 days ago) </li>
@@ -67,8 +69,6 @@
   <li><a href="https://github.com/moul/adapterkit-module-demo">moul/adapterkit-module-demo</a> - <a href="https://github.com/moul/adapterkit-module-demo/pull/5">Create LICENSE</a> (6 days ago) </li>
   
   <li><a href="https://github.com/pathfindertools/ipfs-camp-2022">pathfindertools/ipfs-camp-2022</a> - <a href="https://github.com/pathfindertools/ipfs-camp-2022/pull/108">Update my talk’s info</a> (1 week ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/359">chore: disable auto precompile on gnodev test</a> (1 week ago) </li>
   
   </ul>
 
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1666867625.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1666871051.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
