@@ -30,7 +30,7 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [gnolang/gno](https://github.com/gnolang/gno) ([chain/test3.0](https://github.com/gnolang/gno/releases/tag/chain%2Ftest3.0), today) - Gno language &amp; gno.land chain
+- [gnolang/gno](https://github.com/gnolang/gno) ([chain/test3.0](https://github.com/gnolang/gno/releases/tag/chain%2Ftest3.0), 1 day ago) - Gno language &amp; gno.land chain
 - [berty/berty](https://github.com/berty/berty) ([v2.435.0](https://github.com/berty/berty/releases/tag/v2.435.0), 1 week ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [moul/assh](https://github.com/moul/assh) ([v2.15.0](https://github.com/moul/assh/releases/tag/v2.15.0), 2 weeks ago) - :computer: make your ssh client smarter
 - [PoCInnovation/DagViz](https://github.com/PoCInnovation/DagViz) ([v1.1.0](https://github.com/PoCInnovation/DagViz/releases/tag/v1.1.0), 1 month ago) - Visualize your Cue DAG
@@ -60,15 +60,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/www.gno.land">gnolang/www.gno.land</a> - <a href="https://github.com/gnolang/www.gno.land/pull/2">chore: update content</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/www.gno.land">gnolang/www.gno.land</a> - <a href="https://github.com/gnolang/www.gno.land/pull/2">chore: update content</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/385">feat: test3</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/385">feat: test3</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/383">chore: various web fixes and improvements</a> (4 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/383">chore: various web fixes and improvements</a> (5 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/381">chore: improve blog realm</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/381">chore: improve blog realm</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/380">chore: various changes for test3</a> (6 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/380">chore: various changes for test3</a> (1 week ago) </li>
   
   </ul>
 
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1667519129.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1667523905.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
