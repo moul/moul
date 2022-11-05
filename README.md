@@ -30,9 +30,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.436.0](https://github.com/berty/berty/releases/tag/v2.436.0), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [gnolang/gno](https://github.com/gnolang/gno) ([chain/test3.0](https://github.com/gnolang/gno/releases/tag/chain%2Ftest3.0), 1 day ago) - Gno language &amp; gno.land chain
-- [moul/assh](https://github.com/moul/assh) ([v2.15.0](https://github.com/moul/assh/releases/tag/v2.15.0), 2 weeks ago) - :computer: make your ssh client smarter
+- [berty/berty](https://github.com/berty/berty) ([v2.436.0](https://github.com/berty/berty/releases/tag/v2.436.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [gnolang/gno](https://github.com/gnolang/gno) ([chain/test3.0](https://github.com/gnolang/gno/releases/tag/chain%2Ftest3.0), 2 days ago) - Gno language &amp; gno.land chain
+- [moul/assh](https://github.com/moul/assh) ([v2.15.0](https://github.com/moul/assh/releases/tag/v2.15.0), 3 weeks ago) - :computer: make your ssh client smarter
 - [PoCInnovation/DagViz](https://github.com/PoCInnovation/DagViz) ([v1.1.0](https://github.com/PoCInnovation/DagViz/releases/tag/v1.1.0), 1 month ago) - Visualize your Cue DAG
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.8.0-rc.1](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.0-rc.1), 1 month ago) - OpenZeppelin Contracts is a library for secure smart contract development.
 
@@ -60,15 +60,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/386">chore: fix blog realm rendering</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/386">chore: fix blog realm rendering</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/www.gno.land">gnolang/www.gno.land</a> - <a href="https://github.com/gnolang/www.gno.land/pull/2">chore: update content</a> (3 days ago) </li>
+  <li><a href="https://github.com/gnolang/www.gno.land">gnolang/www.gno.land</a> - <a href="https://github.com/gnolang/www.gno.land/pull/2">chore: update content</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/385">feat: test3</a> (3 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/385">feat: test3</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/383">chore: various web fixes and improvements</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/383">chore: various web fixes and improvements</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/381">chore: improve blog realm</a> (6 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/381">chore: improve blog realm</a> (1 week ago) </li>
   
   </ul>
 
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1667605541.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1667610306.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
