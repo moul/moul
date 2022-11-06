@@ -16,6 +16,7 @@
 #### 🌱 Last projects
 
 
+- [moul/cosmos-scripts](https://github.com/moul/cosmos-scripts) - 
 - [moul/adapterkit-module-demo](https://github.com/moul/adapterkit-module-demo) - simple adapterkit module demo
 - [moul/renovate-config](https://github.com/moul/renovate-config) - Custom renovate config.
 - [moul/asanaman](https://github.com/moul/asanaman) - Asana tools and golang libs.
@@ -24,7 +25,6 @@
 - [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) - A bot that sends Discord webhooks on new messages in a Berty group
 - [moul/.gno](https://github.com/moul/.gno) - gno metadata
 - [moul/adapterkit](https://github.com/moul/adapterkit) - multi-purpose, extensible mechanism for managing jobs and commands
-- [moul/poc-cmd-to-everything](https://github.com/moul/poc-cmd-to-everything) - PoC repo for one of my ideas 🤌
 - [...](https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories)
 
 
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1667710156.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1667713428.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
