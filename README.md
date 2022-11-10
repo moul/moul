@@ -30,9 +30,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
+- [berty/berty](https://github.com/berty/berty) ([v2.436.1](https://github.com/berty/berty/releases/tag/v2.436.1), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.89.0](https://github.com/pathwar/pathwar/releases/tag/v2.89.0), 1 day ago) - ☠️ The Pathwar Project ☠️
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.8.0](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.0), 2 days ago) - OpenZeppelin Contracts is a library for secure smart contract development.
-- [berty/berty](https://github.com/berty/berty) ([v2.436.0](https://github.com/berty/berty/releases/tag/v2.436.0), 6 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [gnolang/gno](https://github.com/gnolang/gno) ([chain/test3.0](https://github.com/gnolang/gno/releases/tag/chain%2Ftest3.0), 1 week ago) - Gno language &amp; gno.land chain
 - [moul/assh](https://github.com/moul/assh) ([v2.15.0](https://github.com/moul/assh/releases/tag/v2.15.0), 3 weeks ago) - :computer: make your ssh client smarter
 
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1668116694.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1668120336.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
