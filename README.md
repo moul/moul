@@ -30,9 +30,9 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.436.1](https://github.com/berty/berty/releases/tag/v2.436.1), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.89.0](https://github.com/pathwar/pathwar/releases/tag/v2.89.0), 3 days ago) - ☠️ The Pathwar Project ☠️
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.8.0](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.0), 4 days ago) - OpenZeppelin Contracts is a library for secure smart contract development.
+- [berty/berty](https://github.com/berty/berty) ([v2.436.1](https://github.com/berty/berty/releases/tag/v2.436.1), 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.89.0](https://github.com/pathwar/pathwar/releases/tag/v2.89.0), 4 days ago) - ☠️ The Pathwar Project ☠️
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.8.0](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.0), 5 days ago) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [gnolang/gno](https://github.com/gnolang/gno) ([chain/test3.0](https://github.com/gnolang/gno/releases/tag/chain%2Ftest3.0), 1 week ago) - Gno language &amp; gno.land chain
 - [moul/assh](https://github.com/moul/assh) ([v2.15.0](https://github.com/moul/assh/releases/tag/v2.15.0), 4 weeks ago) - :computer: make your ssh client smarter
 
@@ -60,9 +60,9 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/gno-basics">moul/gno-basics</a> - <a href="https://github.com/moul/gno-basics/pull/18">chore: bump gno</a> (5 days ago) </li>
+  <li><a href="https://github.com/moul/gno-basics">moul/gno-basics</a> - <a href="https://github.com/moul/gno-basics/pull/18">chore: bump gno</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/www.gno.land">gnolang/www.gno.land</a> - <a href="https://github.com/gnolang/www.gno.land/pull/4">chore: new batch of improvements</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnolang/www.gno.land">gnolang/www.gno.land</a> - <a href="https://github.com/gnolang/www.gno.land/pull/4">chore: new batch of improvements</a> (6 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/386">chore: fix blog realm rendering</a> (1 week ago) </li>
   
@@ -75,7 +75,7 @@
   <h4>📓 Gists I wrote</h4>
   <ul>
   <li><a href="https://gist.github.com/29c0df4055df019a91440521a02dc23e">top1k cosmos (liquid &#43; staked &#43; unbounding), snapshot 2022-05-22.</a> (2 months ago)</li>
-  <li><a href="https://gist.github.com/6653f870ce167ffccebd5372349e7516">ERC20 Token One File</a> (3 months ago)</li>
+  <li><a href="https://gist.github.com/6653f870ce167ffccebd5372349e7516">ERC20 Token One File</a> (4 months ago)</li>
   <li><a href="https://gist.github.com/1b538e6a49e3d5bce011987c62441eea">All Paths Lead to Roam</a> (8 months ago)</li>
   <li><a href="https://gist.github.com/2dd66ce9133e6585040122d563afa039">github-other-repos.md</a> (2 years ago)</li>
   <li><a href="https://gist.github.com/3d9a81083861a2bb2a04b80dad79bb68">Yo! 👋👋</a> (2 years ago)</li>
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1668296720.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1668301457.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
