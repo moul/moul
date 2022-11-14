@@ -33,7 +33,7 @@
 - [berty/berty](https://github.com/berty/berty) ([v2.436.1](https://github.com/berty/berty/releases/tag/v2.436.1), 4 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.89.0](https://github.com/pathwar/pathwar/releases/tag/v2.89.0), 5 days ago) - ☠️ The Pathwar Project ☠️
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.8.0](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.0), 6 days ago) - OpenZeppelin Contracts is a library for secure smart contract development.
-- [gnolang/gno](https://github.com/gnolang/gno) ([chain/test3.0](https://github.com/gnolang/gno/releases/tag/chain%2Ftest3.0), 1 week ago) - Gno language &amp; gno.land chain
+- [gnolang/gno](https://github.com/gnolang/gno) ([chain/test3.0](https://github.com/gnolang/gno/releases/tag/chain/test3.0), 1 week ago) - Gno language &amp; gno.land chain
 - [moul/assh](https://github.com/moul/assh) ([v2.15.0](https://github.com/moul/assh/releases/tag/v2.15.0), 1 month ago) - :computer: make your ssh client smarter
 
 - [...](https://github.com/pulls?q=is%3Apr+author%3Amoul+is%3Amerged+)
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1668451672.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1668455037.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
