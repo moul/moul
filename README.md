@@ -30,10 +30,10 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.439.1](https://github.com/berty/berty/releases/tag/v2.439.1), today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/adapterkit](https://github.com/moul/adapterkit) ([v1.3.0](https://github.com/moul/adapterkit/releases/tag/v1.3.0), 1 day ago) - multi-purpose, extensible mechanism for managing jobs and commands
-- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.37.2](https://github.com/moul/golang-repo-template/releases/tag/v1.37.2), 4 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
-- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.89.0](https://github.com/pathwar/pathwar/releases/tag/v2.89.0), 1 week ago) - ☠️ The Pathwar Project ☠️
+- [berty/berty](https://github.com/berty/berty) ([v2.439.1](https://github.com/berty/berty/releases/tag/v2.439.1), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [moul/adapterkit](https://github.com/moul/adapterkit) ([v1.3.0](https://github.com/moul/adapterkit/releases/tag/v1.3.0), 2 days ago) - multi-purpose, extensible mechanism for managing jobs and commands
+- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.37.2](https://github.com/moul/golang-repo-template/releases/tag/v1.37.2), 5 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
+- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.89.0](https://github.com/pathwar/pathwar/releases/tag/v2.89.0), 2 weeks ago) - ☠️ The Pathwar Project ☠️
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.8.0](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.0), 2 weeks ago) - OpenZeppelin Contracts is a library for secure smart contract development.
 
 - [...](https://github.com/pulls?q=is%3Apr+author%3Amoul+is%3Amerged+)
@@ -60,15 +60,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/399">chore: remove fancy design from homepage</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/399">chore: remove fancy design from homepage</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/396">chore(test3): update homepage &#43; update genesis</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/396">chore(test3): update homepage &#43; update genesis</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/392">feat: new design</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/392">feat: new design</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/391">chore: refactor blog</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/391">chore: refactor blog</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/389">chore: documentation refactor</a> (6 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/389">chore: documentation refactor</a> (1 week ago) </li>
   
   </ul>
 
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1669160626.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1669165435.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
