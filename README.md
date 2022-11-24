@@ -17,21 +17,21 @@
 
 
 - [moul/cosmos-scripts](https://github.com/moul/cosmos-scripts) - 
-- [moul/adapterkit-module-demo](https://github.com/moul/adapterkit-module-demo) - simple adapterkit module demo
 - [moul/renovate-config](https://github.com/moul/renovate-config) - Custom renovate config.
 - [moul/asanaman](https://github.com/moul/asanaman) - Asana tools and golang libs.
 - [moul/gno-basics](https://github.com/moul/gno-basics) - Gnolang smart contract examples
 - [moul/gno-stuff](https://github.com/moul/gno-stuff) - various gno things
 - [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) - A bot that sends Discord webhooks on new messages in a Berty group
 - [moul/.gno](https://github.com/moul/.gno) - gno metadata
-- [moul/adapterkit](https://github.com/moul/adapterkit) - multi-purpose, extensible mechanism for managing jobs and commands
+- [moul/poc-cmd-to-everything](https://github.com/moul/poc-cmd-to-everything) - PoC repo for one of my ideas 🤌
+- [moul/gno-hello](https://github.com/moul/gno-hello) - Hello world Gno contract
 - [...](https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories)
 
 
 #### 🔭 Recent Releases I Worked On
 
 - [berty/berty](https://github.com/berty/berty) ([v2.439.1](https://github.com/berty/berty/releases/tag/v2.439.1), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [moul/adapterkit](https://github.com/moul/adapterkit) ([v1.3.0](https://github.com/moul/adapterkit/releases/tag/v1.3.0), 3 days ago) - multi-purpose, extensible mechanism for managing jobs and commands
+- [adapterkit/adapterkit](https://github.com/adapterkit/adapterkit) ([v1.3.0](https://github.com/adapterkit/adapterkit/releases/tag/v1.3.0), 3 days ago) - multi-purpose, extensible mechanism for managing jobs and commands
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.37.2](https://github.com/moul/golang-repo-template/releases/tag/v1.37.2), 6 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.89.0](https://github.com/pathwar/pathwar/releases/tag/v2.89.0), 2 weeks ago) - ☠️ The Pathwar Project ☠️
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.8.0](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.0), 2 weeks ago) - OpenZeppelin Contracts is a library for secure smart contract development.
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1669311824.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1669315541.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
