@@ -46,6 +46,8 @@
 - [zxxma](https://github.com/zxxma)
 - [le-du6](https://github.com/le-du6)
 - [Z-a-r-a-k-i](https://github.com/Z-a-r-a-k-i)
+- [bipbip42](https://github.com/bipbip42)
+- [cerisier](https://github.com/cerisier)
 - [...](https://github.com/sponsors/moul/)
 
 <details>
@@ -119,7 +121,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1669376630.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1669379098.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
