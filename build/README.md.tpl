@@ -32,7 +32,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-{{range sponsors 5}}
+{{range sponsors 10}}
 - [{{.User.Login}}]({{.User.URL}})
 {{- end}}
 - [...](https://github.com/sponsors/moul/)
