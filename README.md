@@ -30,8 +30,8 @@
 
 #### 🔭 Recent Releases I Worked On
 
-- [berty/berty](https://github.com/berty/berty) ([v2.440.0](https://github.com/berty/berty/releases/tag/v2.440.0), 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [adapterkit/adapterkit](https://github.com/adapterkit/adapterkit) ([v1.4.0](https://github.com/adapterkit/adapterkit/releases/tag/v1.4.0), 4 days ago) - multi-purpose, extensible mechanism for managing jobs and commands
+- [berty/berty](https://github.com/berty/berty) ([v2.440.0](https://github.com/berty/berty/releases/tag/v2.440.0), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [adapterkit/adapterkit](https://github.com/adapterkit/adapterkit) ([v1.4.0](https://github.com/adapterkit/adapterkit/releases/tag/v1.4.0), 5 days ago) - multi-purpose, extensible mechanism for managing jobs and commands
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.37.2](https://github.com/moul/golang-repo-template/releases/tag/v1.37.2), 2 weeks ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.89.0](https://github.com/pathwar/pathwar/releases/tag/v2.89.0), 3 weeks ago) - ☠️ The Pathwar Project ☠️
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.8.0](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.0), 3 weeks ago) - OpenZeppelin Contracts is a library for secure smart contract development.
@@ -62,7 +62,7 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/tendermint/tendermint2">tendermint/tendermint2</a> - <a href="https://github.com/tendermint/tendermint2/pull/1">chore: post-split cleanups</a> (2 days ago) </li>
+  <li><a href="https://github.com/tendermint/tendermint2">tendermint/tendermint2</a> - <a href="https://github.com/tendermint/tendermint2/pull/1">chore: post-split cleanups</a> (3 days ago) </li>
   
   <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - <a href="https://github.com/moul/asanaman/pull/36">chore: WIP</a> (1 week ago) </li>
   
@@ -121,7 +121,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1670024627.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1670029409.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
