@@ -13,31 +13,36 @@
 <!--:heart: Blogging (outdated) at [manfred.life](https://manfred.life)<br/>-->
 :package: Other links on [moul.link](https://www.moul.link/)<br/>
 
-#### 🌱 Last projects
-
-{{range recentRepos 9}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-- [...](https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories)
-<!--- [...](https://github.com/search?q=user%3Amoul+user%3Amoul)-->
-
-#### 🔭 Recent Releases I Worked On
-
-{{range recentReleases 5}}
-{{- if not (or (eq .Name "moul/skip") (eq .Name "moul/another-skip")) -}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{ end -}}
-{{- end}}
-- [...](https://github.com/pulls?q=is%3Apr+author%3Amoul+is%3Amerged+)
-
-#### ❤️ These awesome people sponsor me (thank you!)
-
-{{range sponsors 10}}
-- [{{.User.Login}}]({{.User.URL}})
-{{- end}}
-- [...](https://github.com/sponsors/moul/)
 
 <details>
+
+<h4>🌱 Last projects</h4>
+<ul>
+{{range recentRepos 9}}
+<li><a href="{{.URL}}">{{.Name}}</a> - {{.Description}}</li>
+{{- end}}
+<li><a href="https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories">...</a></li>
+<!--- [...](https://github.com/search?q=user%3Amoul+user%3Amoul)-->
+</ul>
+
+<h4>🔭 Recent Releases I Worked On</h4>
+<ul>
+{{range recentReleases 5}}
+{{- if not (or (eq .Name "moul/skip") (eq .Name "moul/another-skip")) -}}
+<li><a href="{{.URL}}">{{.Name}}</a> (<a href="{{.LastRelease.URL}}">{{.LastRelease.TagName}}</a>, {{humanize .LastRelease.PublishedAt}}) - {{.Description}}</li>
+{{ end -}}
+{{- end}}
+<li><a href="https://github.com/pulls?q=is%3Apr+author%3Amoul+is%3Amerged+">...</a></li>
+</ul>
+
+<h4>❤️ These awesome people sponsor me (thank you!)</h4>
+<ul>
+{{range sponsors 10}}
+<li><a href="{{.User.URL}}">{{.User.Login}}</a></li>
+{{- end}}
+<li><a href="https://github.com/sponsors/moul/">...</a></li>
+</ul>
+
 <!--
   <h4>👷 Check out what I'm currently working on</h4>
   <ul>
@@ -51,6 +56,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+{{if eq 1 2}}
 <!--
   <h4>🚧 Things I did recently</h4>
   <ul>
@@ -59,6 +65,7 @@
   {{- end}}
   </ul>
   -->
+{{end}}
 
 <!--
   <h4>📜 Recent blog posts</h4>
