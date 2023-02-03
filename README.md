@@ -3,7 +3,7 @@
 <img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
 :hammer: Founder of [Berty Technologies](https://berty.tech), censorship resistant messaging<br/>
-:atom_symbol: VP Eng. at [Gno.land](https://gno.land), censorship resistant communication<br/>
+:atom_symbol: VP Eng. at [Gno.land](https://gno.land), censorship resistant social coordination<br/>
 
 
 
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1675433101.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1675435141.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
