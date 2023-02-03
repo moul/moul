@@ -2,13 +2,13 @@
 
 <img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
-:hammer: Founder of [Berty Technologies](https://berty.tech)<br/>
-:wheel_of_dharma: Core Team at [Gno.land](https://gno.land)<br/>
-:cloud: Ex-creator, now Web3 advisor at [Scaleway](https://scaleway.com)<br/>
-:briefcase: Consulting at [PMG Consulting](https://pmg.tools)<br/>
-:speaking_head: Meetups at [Paris P2P](https://p2p.paris) and [Web3 Normandy](https://web3normandy.com)<br/>
-:handshake: Advisor @ [Kiln](https://kiln.fi), [Teritori](https://teritori.com), [Alias](https://alias.dev), [NxtPop](https://nxtpop.com), [Zenlaw](https://zenlaw.io/), ...<br/>
-:scientist: BUILD & explos [$MOULA](https://moula.tech), [Xplrz](https://xplrz.com), [Pathwar](https://pathwar.land)<br/>
+:hammer: Founder of [Berty Technologies](https://berty.tech), censorship resistant messaging<br/>
+:atom_symbol: VP Eng. at [Gno.land](https://gno.land), censorship resistant communication<br/>
+<!--:cloud: Ex-creator, now Web3 advisor at [Scaleway](https://scaleway.com)<br/>-->
+<!--:briefcase: Consulting at [PMG Consulting](https://pmg.tools)<br/>-->
+<!--:speaking_head: Meetups at [Paris P2P](https://p2p.paris) and [Web3 Normandy](https://web3normandy.com)<br/>-->
+<!--:handshake: Advisor @ [Kiln](https://kiln.fi), [Teritori](https://teritori.com), [Alias](https://alias.dev), [NxtPop](https://nxtpop.com), [Zenlaw](https://zenlaw.io/), ...<br/>-->
+<!--:scientist: BUILD & explos [$MOULA](https://moula.tech), [Xplrz](https://xplrz.com), [Pathwar](https://pathwar.land)<br/>-->
 <!--:octocat: Open-Source addict :syringe:<br/>-->
 <!--:heart: Blogging (outdated) at [manfred.life](https://manfred.life)<br/>-->
 :package: Other links on [moul.link](https://www.moul.link/)<br/>
