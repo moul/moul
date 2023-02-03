@@ -2,55 +2,59 @@
 
 <img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
-:hammer: Founder of [Berty Technologies](https://berty.tech)<br/>
-:wheel_of_dharma: Core Team at [Gno.land](https://gno.land)<br/>
-:cloud: Ex-creator, now Web3 advisor at [Scaleway](https://scaleway.com)<br/>
-:briefcase: Consulting at [PMG Consulting](https://pmg.tools)<br/>
-:speaking_head: Meetups at [Paris P2P](https://p2p.paris) and [Web3 Normandy](https://web3normandy.com)<br/>
-:handshake: Advisor @ [Kiln](https://kiln.fi), [Teritori](https://teritori.com), [Alias](https://alias.dev), [NxtPop](https://nxtpop.com), [Zenlaw](https://zenlaw.io/), ...<br/>
-:scientist: BUILD & explos [$MOULA](https://moula.tech), [Xplrz](https://xplrz.com), [Pathwar](https://pathwar.land)<br/>
+:hammer: Founder of [Berty Technologies](https://berty.tech), censorship resistant messaging<br/>
+:atom_symbol: VP Eng. at [Gno.land](https://gno.land), censorship resistant communication<br/>
+
+
+
+
+
 
 
 :package: Other links on [moul.link](https://www.moul.link/)<br/>
 
-#### 🌱 Last projects
-
-
-- [moul/cosmos-scripts](https://github.com/moul/cosmos-scripts) - 
-- [moul/renovate-config](https://github.com/moul/renovate-config) - Custom renovate config.
-- [moul/asanaman](https://github.com/moul/asanaman) - Asana tools and golang libs.
-- [moul/gno-basics](https://github.com/moul/gno-basics) - Gnolang smart contract examples
-- [moul/gno-stuff](https://github.com/moul/gno-stuff) - various gno things
-- [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) - A bot that sends Discord webhooks on new messages in a Berty group
-- [moul/.gno](https://github.com/moul/.gno) - gno metadata
-- [moul/poc-cmd-to-everything](https://github.com/moul/poc-cmd-to-everything) - PoC repo for one of my ideas 🤌
-- [moul/gno-hello](https://github.com/moul/gno-hello) - Hello world Gno contract
-- [...](https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories)
-
-
-#### 🔭 Recent Releases I Worked On
-
-- [berty/berty](https://github.com/berty/berty) ([v2.440.0](https://github.com/berty/berty/releases/tag/v2.440.0), 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [adapterkit/adapterkit](https://github.com/adapterkit/adapterkit) ([v1.4.0](https://github.com/adapterkit/adapterkit/releases/tag/v1.4.0), 5 days ago) - multi-purpose, extensible mechanism for managing jobs and commands
-- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.37.2](https://github.com/moul/golang-repo-template/releases/tag/v1.37.2), 2 weeks ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
-- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.89.0](https://github.com/pathwar/pathwar/releases/tag/v2.89.0), 3 weeks ago) - ☠️ The Pathwar Project ☠️
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ([v4.8.0](https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.0), 3 weeks ago) - OpenZeppelin Contracts is a library for secure smart contract development.
-
-- [...](https://github.com/pulls?q=is%3Apr+author%3Amoul+is%3Amerged+)
-
-#### ❤️ These awesome people sponsor me (thank you!)
-
-
-- [creack](https://github.com/creack)
-- [shawnharmsen](https://github.com/shawnharmsen)
-- [zxxma](https://github.com/zxxma)
-- [le-du6](https://github.com/le-du6)
-- [Z-a-r-a-k-i](https://github.com/Z-a-r-a-k-i)
-- [bipbip42](https://github.com/bipbip42)
-- [cerisier](https://github.com/cerisier)
-- [...](https://github.com/sponsors/moul/)
 
 <details>
+
+<h4>🌱 Last projects</h4>
+<ul>
+
+<li><a href="https://github.com/moul/cosmos-scripts">moul/cosmos-scripts</a> - </li>
+<li><a href="https://github.com/moul/renovate-config">moul/renovate-config</a> - Custom renovate config.</li>
+<li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - Asana tools and golang libs.</li>
+<li><a href="https://github.com/moul/gno-basics">moul/gno-basics</a> - Gnolang smart contract examples</li>
+<li><a href="https://github.com/moul/gno-stuff">moul/gno-stuff</a> - various gno things</li>
+<li><a href="https://github.com/moul/berty-discord-webhook">moul/berty-discord-webhook</a> - A bot that sends Discord webhooks on new messages in a Berty group</li>
+<li><a href="https://github.com/moul/.gno">moul/.gno</a> - gno metadata</li>
+<li><a href="https://github.com/moul/poc-cmd-to-everything">moul/poc-cmd-to-everything</a> - PoC repo for one of my ideas 🤌</li>
+<li><a href="https://github.com/moul/gno-hello">moul/gno-hello</a> - Hello world Gno contract</li>
+<li><a href="https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories">...</a></li>
+
+</ul>
+
+<h4>🔭 Recent Releases I Worked On</h4>
+<ul>
+<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.452.0">v2.452.0</a>, 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
+<li><a href="https://github.com/OpenZeppelin/openzeppelin-contracts">OpenZeppelin/openzeppelin-contracts</a> (<a href="https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.1">v4.8.1</a>, 3 weeks ago) - OpenZeppelin Contracts is a library for secure smart contract development.</li>
+<li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.92.0">v2.92.0</a>, 4 weeks ago) - ☠️ The Pathwar Project ☠️</li>
+<li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> (<a href="https://github.com/moul/zapgorm2/releases/tag/v1.2.0">v1.2.0</a>, 1 month ago) - ⚡ zap logging driver for gorm v2</li>
+<li><a href="https://github.com/adapterkit/adapterkit">adapterkit/adapterkit</a> (<a href="https://github.com/adapterkit/adapterkit/releases/tag/v1.5.2">v1.5.2</a>, 1 month ago) - multi-purpose, extensible mechanism for managing jobs and commands</li>
+
+<li><a href="https://github.com/pulls?q=is%3Apr+author%3Amoul+is%3Amerged+">...</a></li>
+</ul>
+
+<h4>❤️ These awesome people sponsor me (thank you!)</h4>
+<ul>
+
+<li><a href="https://github.com/creack">creack</a></li>
+<li><a href="https://github.com/shawnharmsen">shawnharmsen</a></li>
+<li><a href="https://github.com/le-du6">le-du6</a></li>
+<li><a href="https://github.com/Z-a-r-a-k-i">Z-a-r-a-k-i</a></li>
+<li><a href="https://github.com/bipbip42">bipbip42</a></li>
+<li><a href="https://github.com/cerisier">cerisier</a></li>
+<li><a href="https://github.com/sponsors/moul/">...</a></li>
+</ul>
+
 
 
 
@@ -62,23 +66,21 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/tendermint/tendermint2">tendermint/tendermint2</a> - <a href="https://github.com/tendermint/tendermint2/pull/1">chore: post-split cleanups</a> (3 days ago) </li>
+  <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/9">feat: gnoblog-cli</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - <a href="https://github.com/moul/asanaman/pull/36">chore: WIP</a> (1 week ago) </li>
+  <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/8">chore: create CODEOWNERS</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/399">chore: remove fancy design from homepage</a> (1 week ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/493">chore: remove legacy introduction_wip.md file</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/396">chore(test3): update homepage &#43; update genesis</a> (1 week ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/392">feat: new design</a> (2 weeks ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/491">feat: gnodev run</a> (4 days ago) </li>
   
   </ul>
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/29c0df4055df019a91440521a02dc23e">top1k cosmos (liquid &#43; staked &#43; unbounding), snapshot 2022-05-22.</a> (2 months ago)</li>
-  <li><a href="https://gist.github.com/6653f870ce167ffccebd5372349e7516">ERC20 Token One File</a> (4 months ago)</li>
-  <li><a href="https://gist.github.com/1b538e6a49e3d5bce011987c62441eea">All Paths Lead to Roam</a> (9 months ago)</li>
+  <li><a href="https://gist.github.com/29c0df4055df019a91440521a02dc23e">top1k cosmos (liquid &#43; staked &#43; unbounding), snapshot 2022-05-22.</a> (4 months ago)</li>
+  <li><a href="https://gist.github.com/6653f870ce167ffccebd5372349e7516">ERC20 Token One File</a> (6 months ago)</li>
+  <li><a href="https://gist.github.com/1b538e6a49e3d5bce011987c62441eea">All Paths Lead to Roam</a> (11 months ago)</li>
   <li><a href="https://gist.github.com/2dd66ce9133e6585040122d563afa039">github-other-repos.md</a> (2 years ago)</li>
   <li><a href="https://gist.github.com/3d9a81083861a2bb2a04b80dad79bb68">Yo! 👋👋</a> (2 years ago)</li>
   
@@ -87,11 +89,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
-  <li><a href="https://github.com/Nokimalos">Nokimalos</a>
-  <li><a href="https://github.com/projectdp">projectdp</a>
-  <li><a href="https://github.com/wenceslas-sanchez">wenceslas-sanchez</a>
-  <li><a href="https://github.com/clementmikulacompass">clementmikulacompass</a>
-  <li><a href="https://github.com/chronicnuna">chronicnuna</a>
+  <li><a href="https://github.com/maolonglong">maolonglong</a>
+  <li><a href="https://github.com/hadi-ilies">hadi-ilies</a>
+  <li><a href="https://github.com/Sindou-dedv">Sindou-dedv</a>
+  <li><a href="https://github.com/VGA777">VGA777</a>
+  <li><a href="https://github.com/keepyourlightson">keepyourlightson</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -121,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1670029409.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1675433101.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
