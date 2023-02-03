@@ -3,7 +3,7 @@
 <img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
 :hammer: Founder of [Berty Technologies](https://berty.tech), censorship resistant messaging<br/>
-:atom_symbol: VP Eng. at [Gno.land](https://gno.land), censorship resistant communication<br/>
+:atom_symbol: VP Eng. at [Gno.land](https://gno.land), censorship resistant social coordination<br/>
 <!--:cloud: Ex-creator, now Web3 advisor at [Scaleway](https://scaleway.com)<br/>-->
 <!--:briefcase: Consulting at [PMG Consulting](https://pmg.tools)<br/>-->
 <!--:speaking_head: Meetups at [Paris P2P](https://p2p.paris) and [Web3 Normandy](https://web3normandy.com)<br/>-->
