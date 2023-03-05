@@ -34,11 +34,11 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> (<a href="https://github.com/moul/zapgorm2/releases/tag/v1.3.0">v1.3.0</a>, 1 day ago) - ⚡ zap logging driver for gorm v2</li>
-<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.459.0">v2.459.0</a>, 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
-<li><a href="https://github.com/OpenZeppelin/openzeppelin-contracts">OpenZeppelin/openzeppelin-contracts</a> (<a href="https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.2">v4.8.2</a>, 2 days ago) - OpenZeppelin Contracts is a library for secure smart contract development.</li>
-<li><a href="https://github.com/berty/weshnet">berty/weshnet</a> (<a href="https://github.com/berty/weshnet/releases/tag/v1.1.1">v1.1.1</a>, 2 days ago) - Decentralized extreme communication protocol</li>
-<li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.92.1">v2.92.1</a>, 2 days ago) - ☠️ The Pathwar Project ☠️</li>
+<li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> (<a href="https://github.com/moul/zapgorm2/releases/tag/v1.3.0">v1.3.0</a>, 2 days ago) - ⚡ zap logging driver for gorm v2</li>
+<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.459.0">v2.459.0</a>, 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
+<li><a href="https://github.com/OpenZeppelin/openzeppelin-contracts">OpenZeppelin/openzeppelin-contracts</a> (<a href="https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.2">v4.8.2</a>, 3 days ago) - OpenZeppelin Contracts is a library for secure smart contract development.</li>
+<li><a href="https://github.com/berty/weshnet">berty/weshnet</a> (<a href="https://github.com/berty/weshnet/releases/tag/v1.1.1">v1.1.1</a>, 3 days ago) - Decentralized extreme communication protocol</li>
+<li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.92.1">v2.92.1</a>, 3 days ago) - ☠️ The Pathwar Project ☠️</li>
 
 <li><a href="https://github.com/pulls?q=is%3Apr+author%3Amoul+is%3Amerged+">...</a></li>
 </ul>
@@ -65,15 +65,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> - <a href="https://github.com/pathwar/pathwar/pull/830">chore: update golangci-lint config</a> (1 day ago) </li>
+  <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> - <a href="https://github.com/pathwar/pathwar/pull/830">chore: update golangci-lint config</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/27">feat: add gnolang/workshops</a> (3 days ago) </li>
+  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/27">feat: add gnolang/workshops</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/4">feat: new slides</a> (3 days ago) </li>
+  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/4">feat: new slides</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/3">feat: add 2022-10-18--cosmoverse</a> (3 days ago) </li>
+  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/3">feat: add 2022-10-18--cosmoverse</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/2">feat: add 2022-09-13--berlin</a> (3 days ago) </li>
+  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/2">feat: add 2022-09-13--berlin</a> (4 days ago) </li>
   
   </ul>
 
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1677973426.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1677978291.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
