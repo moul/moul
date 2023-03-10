@@ -65,15 +65,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/585">chore: move tendermint2 pkgs into tendermint2/</a> (today) </li>
+  
+  <li><a href="https://github.com/tendermint/tendermint2">tendermint/tendermint2</a> - <a href="https://github.com/tendermint/tendermint2/pull/9">chore: update LICENSE.md</a> (today) </li>
+  
   <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> - <a href="https://github.com/pathwar/pathwar/pull/830">chore: update golangci-lint config</a> (1 week ago) </li>
   
   <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/27">feat: add gnolang/workshops</a> (1 week ago) </li>
   
   <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/4">feat: new slides</a> (1 week ago) </li>
-  
-  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/3">feat: add 2022-10-18--cosmoverse</a> (1 week ago) </li>
-  
-  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/2">feat: add 2022-09-13--berlin</a> (1 week ago) </li>
   
   </ul>
 
@@ -90,11 +90,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/3mp8r3">3mp8r3</a>
   <li><a href="https://github.com/Die-Antwoord">Die-Antwoord</a>
   <li><a href="https://github.com/fund-raiser">fund-raiser</a>
   <li><a href="https://github.com/powerslider">powerslider</a>
   <li><a href="https://github.com/LeslieOA">LeslieOA</a>
-  <li><a href="https://github.com/Hermosagds">Hermosagds</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1678437913.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1678441424.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
