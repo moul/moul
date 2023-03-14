@@ -34,8 +34,8 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
+<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.460.1">v2.460.1</a>, today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
 <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.94.0">v2.94.0</a>, 4 days ago) - ☠️ The Pathwar Project ☠️</li>
-<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.460.0">v2.460.0</a>, 1 week ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
 <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> (<a href="https://github.com/moul/zapgorm2/releases/tag/v1.3.0">v1.3.0</a>, 1 week ago) - ⚡ zap logging driver for gorm v2</li>
 <li><a href="https://github.com/OpenZeppelin/openzeppelin-contracts">OpenZeppelin/openzeppelin-contracts</a> (<a href="https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.8.2">v4.8.2</a>, 1 week ago) - OpenZeppelin Contracts is a library for secure smart contract development.</li>
 <li><a href="https://github.com/berty/weshnet">berty/weshnet</a> (<a href="https://github.com/berty/weshnet/releases/tag/v1.1.1">v1.1.1</a>, 1 week ago) - Decentralized extreme communication protocol</li>
@@ -50,7 +50,6 @@
 <li><a href="https://github.com/shawnharmsen">shawnharmsen</a></li>
 <li><a href="https://github.com/le-du6">le-du6</a></li>
 <li><a href="https://github.com/Z-a-r-a-k-i">Z-a-r-a-k-i</a></li>
-<li><a href="https://github.com/cerisier">cerisier</a></li>
 <li><a href="https://github.com/sponsors/moul/">...</a></li>
 </ul>
 
@@ -124,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1678783555.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1678787026.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
