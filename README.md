@@ -64,6 +64,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/meetings">gnolang/meetings</a> - <a href="https://github.com/gnolang/meetings/pull/2">Create 2023_02_28_office-hours-transcript.md</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/meetings">gnolang/meetings</a> - <a href="https://github.com/gnolang/meetings/pull/1">Create notes/2023_03_15_dev_call_notes.md</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/11">feat: add 4-gor-phase1.md</a> (5 days ago) </li>
@@ -71,8 +73,6 @@
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/585">chore: move tendermint2 pkgs into tendermint2/</a> (1 week ago) </li>
   
   <li><a href="https://github.com/tendermint/tendermint2">tendermint/tendermint2</a> - <a href="https://github.com/tendermint/tendermint2/pull/9">chore: update LICENSE.md</a> (1 week ago) </li>
-  
-  <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> - <a href="https://github.com/pathwar/pathwar/pull/830">chore: update golangci-lint config</a> (2 weeks ago) </li>
   
   </ul>
 
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1679049824.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1679053423.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
