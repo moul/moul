@@ -34,7 +34,7 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.96.0">v2.96.0</a>, 1 day ago) - ☠️ The Pathwar Project ☠️</li>
+<li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.97.0">v2.97.0</a>, today) - ☠️ The Pathwar Project ☠️</li>
 <li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.462.0">v2.462.0</a>, 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
 <li><a href="https://github.com/berty/weshnet">berty/weshnet</a> (<a href="https://github.com/berty/weshnet/releases/tag/v1.2.4">v1.2.4</a>, 2 days ago) - Decentralized extreme communication protocol</li>
 <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> (<a href="https://github.com/moul/zapgorm2/releases/tag/v1.3.0">v1.3.0</a>, 2 weeks ago) - ⚡ zap logging driver for gorm v2</li>
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1679564621.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1679568226.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
