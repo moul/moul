@@ -64,6 +64,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/730">feat: p/demo/pm, basic project-management</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/roadmap">gnolang/roadmap</a> - <a href="https://github.com/gnolang/roadmap/pull/16">feat: gen-graph</a> (2 days ago) </li>
   
   <li><a href="https://github.com/gnolang/roadmap">gnolang/roadmap</a> - <a href="https://github.com/gnolang/roadmap/pull/15">build: setup github-actions</a> (2 days ago) </li>
@@ -71,8 +73,6 @@
   <li><a href="https://github.com/gnolang/roadmap">gnolang/roadmap</a> - <a href="https://github.com/gnolang/roadmap/pull/14">chore: refactor depviz</a> (2 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/716">feat: add tm2demod a nd tm2democ</a> (3 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/714">docs: what is Gno?</a> (4 days ago) </li>
   
   </ul>
 
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1681231440.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1681235024.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
