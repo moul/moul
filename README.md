@@ -34,9 +34,9 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.101.1">v2.101.1</a>, today) - ☠️ The Pathwar Project ☠️</li>
-<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.464.0">v2.464.0</a>, 5 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
-<li><a href="https://github.com/berty/weshnet">berty/weshnet</a> (<a href="https://github.com/berty/weshnet/releases/tag/v1.4.1">v1.4.1</a>, 5 days ago) - Async Mesh Network Protocol for Extreme Communication -- Innovative, Resilient, and Decentralized</li>
+<li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.101.1">v2.101.1</a>, 1 day ago) - ☠️ The Pathwar Project ☠️</li>
+<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.464.0">v2.464.0</a>, 6 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
+<li><a href="https://github.com/berty/weshnet">berty/weshnet</a> (<a href="https://github.com/berty/weshnet/releases/tag/v1.4.1">v1.4.1</a>, 6 days ago) - Async Mesh Network Protocol for Extreme Communication -- Innovative, Resilient, and Decentralized</li>
 <li><a href="https://github.com/moul/depviz">moul/depviz</a> (<a href="https://github.com/moul/depviz/releases/tag/v3.16.0">v3.16.0</a>, 2 weeks ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)</li>
 <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> (<a href="https://github.com/moul/zapgorm2/releases/tag/v1.3.0">v1.3.0</a>, 1 month ago) - ⚡ zap logging driver for gorm v2</li>
 
@@ -64,22 +64,22 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/35">chore: replace broken roadmap with the new one</a> (today) </li>
+  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/35">chore: replace broken roadmap with the new one</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/34">chore: depreciate legacy bounty system</a> (today) </li>
+  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/34">chore: depreciate legacy bounty system</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/roadmap">gnolang/roadmap</a> - <a href="https://github.com/gnolang/roadmap/pull/18">chore: embed generated roadmap in top-level README.md</a> (today) </li>
+  <li><a href="https://github.com/gnolang/roadmap">gnolang/roadmap</a> - <a href="https://github.com/gnolang/roadmap/pull/18">chore: embed generated roadmap in top-level README.md</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/roadmap">gnolang/roadmap</a> - <a href="https://github.com/gnolang/roadmap/pull/17">chore: generate graph and commit from CI</a> (today) </li>
+  <li><a href="https://github.com/gnolang/roadmap">gnolang/roadmap</a> - <a href="https://github.com/gnolang/roadmap/pull/17">chore: generate graph and commit from CI</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/730">feat: p/demo/pm, basic project-management</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/730">feat: p/demo/pm, basic project-management</a> (1 day ago) </li>
   
   </ul>
 
   <h4>📓 Gists I wrote</h4>
   <ul>
   <li><a href="https://gist.github.com/29c0df4055df019a91440521a02dc23e">top1k cosmos (liquid &#43; staked &#43; unbounding), snapshot 2022-05-22.</a> (7 months ago)</li>
-  <li><a href="https://gist.github.com/6653f870ce167ffccebd5372349e7516">ERC20 Token One File</a> (8 months ago)</li>
+  <li><a href="https://gist.github.com/6653f870ce167ffccebd5372349e7516">ERC20 Token One File</a> (9 months ago)</li>
   <li><a href="https://gist.github.com/1b538e6a49e3d5bce011987c62441eea">All Paths Lead to Roam</a> (1 year ago)</li>
   <li><a href="https://gist.github.com/2dd66ce9133e6585040122d563afa039">github-other-repos.md</a> (2 years ago)</li>
   <li><a href="https://gist.github.com/3d9a81083861a2bb2a04b80dad79bb68">Yo! 👋👋</a> (2 years ago)</li>
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1681256620.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1681261381.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
