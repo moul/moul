@@ -34,10 +34,10 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
+<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.465.1">v2.465.1</a>, today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
+<li><a href="https://github.com/moul/depviz">moul/depviz</a> (<a href="https://github.com/moul/depviz/releases/tag/v3.17.0">v3.17.0</a>, today) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)</li>
 <li><a href="https://github.com/berty/weshnet">berty/weshnet</a> (<a href="https://github.com/berty/weshnet/releases/tag/v1.5.1">v1.5.1</a>, today) - Async Mesh Network Protocol for Extreme Communication -- Innovative, Resilient, and Decentralized</li>
-<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.465.0">v2.465.0</a>, 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
 <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.101.1">v2.101.1</a>, 2 days ago) - ☠️ The Pathwar Project ☠️</li>
-<li><a href="https://github.com/moul/depviz">moul/depviz</a> (<a href="https://github.com/moul/depviz/releases/tag/v3.16.0">v3.16.0</a>, 2 weeks ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)</li>
 <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> (<a href="https://github.com/moul/zapgorm2/releases/tag/v1.3.0">v1.3.0</a>, 1 month ago) - ⚡ zap logging driver for gorm v2</li>
 
 <li><a href="https://github.com/pulls?q=is%3Apr+author%3Amoul+is%3Amerged+">...</a></li>
@@ -64,15 +64,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/656">chore: bump deps</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/655">feat: return rich json with &#39;gen json&#39;</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/654">chore: internal/ -&gt; pkg/</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/roadmap">gnolang/roadmap</a> - <a href="https://github.com/gnolang/roadmap/pull/23">feat: add support for milestones</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/roadmap">gnolang/roadmap</a> - <a href="https://github.com/gnolang/roadmap/pull/22">chore: better graphs &#43; debug &#43; contributing</a> (today) </li>
-  
-  <li><a href="https://github.com/gnolang/roadmap">gnolang/roadmap</a> - <a href="https://github.com/gnolang/roadmap/pull/21">chore: better dev flow &#43; links to generated outputs</a> (today) </li>
-  
-  <li><a href="https://github.com/gnolang/roadmap">gnolang/roadmap</a> - <a href="https://github.com/gnolang/roadmap/pull/20">chore: improve CI cache</a> (today) </li>
-  
-  <li><a href="https://github.com/gnolang/roadmap">gnolang/roadmap</a> - <a href="https://github.com/gnolang/roadmap/pull/19">chore: trigger github actions on issue update</a> (today) </li>
   
   </ul>
 
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1681386220.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1681390211.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
