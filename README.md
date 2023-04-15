@@ -64,6 +64,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/19">chore: small fix</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/18">chore: optimize CI</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/17">fix: use new URLs</a> (today) </li>
@@ -71,8 +73,6 @@
   <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/16">chore: add deploy CI</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/15">chore: add basic go CI</a> (today) </li>
-  
-  <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/13">chore: import github.com/gnolang/blog-assets</a> (today) </li>
   
   </ul>
 
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1681573423.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1681577022.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
