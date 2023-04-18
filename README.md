@@ -64,6 +64,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/753">chore: add a tm2/errors.Panic wrapper to panic()</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/roadmap">gnolang/roadmap</a> - <a href="https://github.com/gnolang/roadmap/pull/28">chore: add WIP-watermark</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/19">chore: small fix</a> (3 days ago) </li>
@@ -71,8 +73,6 @@
   <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/18">chore: optimize CI</a> (3 days ago) </li>
   
   <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/17">fix: use new URLs</a> (3 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/16">chore: add deploy CI</a> (3 days ago) </li>
   
   </ul>
 
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1681847019.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1681850624.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
