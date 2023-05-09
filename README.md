@@ -34,7 +34,7 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/moul/depviz">moul/depviz</a> (<a href="https://github.com/moul/depviz/releases/tag/v3.19.0">v3.19.0</a>, today) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)</li>
+<li><a href="https://github.com/moul/depviz">moul/depviz</a> (<a href="https://github.com/moul/depviz/releases/tag/v3.19.1">v3.19.1</a>, today) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)</li>
 <li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.468.0">v2.468.0</a>, 5 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
 <li><a href="https://github.com/berty/weshnet">berty/weshnet</a> (<a href="https://github.com/berty/weshnet/releases/tag/v1.8.0">v1.8.0</a>, 5 days ago) - Async Mesh Network Protocol for Extreme Communication -- Innovative, Resilient, and Decentralized</li>
 <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.101.2">v2.101.2</a>, 3 weeks ago) - ☠️ The Pathwar Project ☠️</li>
@@ -89,11 +89,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/VedantKhairnar">VedantKhairnar</a>
   <li><a href="https://github.com/0xbeny">0xbeny</a>
   <li><a href="https://github.com/2woongjae">2woongjae</a>
   <li><a href="https://github.com/pushthat">pushthat</a>
   <li><a href="https://github.com/parthpower">parthpower</a>
-  <li><a href="https://github.com/Yegorov">Yegorov</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1683618232.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1683621828.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
