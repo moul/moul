@@ -34,10 +34,10 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.468.1">v2.468.1</a>, 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
-<li><a href="https://github.com/moul/retry">moul/retry</a> (<a href="https://github.com/moul/retry/releases/tag/v0.7.2">v0.7.2</a>, 3 days ago) - :shell: retry shell commands</li>
-<li><a href="https://github.com/OpenZeppelin/openzeppelin-contracts">OpenZeppelin/openzeppelin-contracts</a> (<a href="https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.9.0-rc.0">v4.9.0-rc.0</a>, 5 days ago) - OpenZeppelin Contracts is a library for secure smart contract development.</li>
-<li><a href="https://github.com/moul/depviz">moul/depviz</a> (<a href="https://github.com/moul/depviz/releases/tag/v3.19.1">v3.19.1</a>, 5 days ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)</li>
+<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.468.1">v2.468.1</a>, 4 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
+<li><a href="https://github.com/moul/retry">moul/retry</a> (<a href="https://github.com/moul/retry/releases/tag/v0.7.2">v0.7.2</a>, 4 days ago) - :shell: retry shell commands</li>
+<li><a href="https://github.com/OpenZeppelin/openzeppelin-contracts">OpenZeppelin/openzeppelin-contracts</a> (<a href="https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.9.0-rc.0">v4.9.0-rc.0</a>, 6 days ago) - OpenZeppelin Contracts is a library for secure smart contract development.</li>
+<li><a href="https://github.com/moul/depviz">moul/depviz</a> (<a href="https://github.com/moul/depviz/releases/tag/v3.19.1">v3.19.1</a>, 6 days ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)</li>
 <li><a href="https://github.com/berty/weshnet">berty/weshnet</a> (<a href="https://github.com/berty/weshnet/releases/tag/v1.8.0">v1.8.0</a>, 1 week ago) - Async Mesh Network Protocol for Extreme Communication -- Innovative, Resilient, and Decentralized</li>
 
 <li><a href="https://github.com/pulls?q=is%3Apr+author%3Amoul+is%3Amerged+">...</a></li>
@@ -64,7 +64,7 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/819">test: set up Codecov</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/819">test: set up Codecov</a> (3 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/806">chore(gnokey): print verbose errors in CLI</a> (1 week ago) </li>
   
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1684107833.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1684112668.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
