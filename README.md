@@ -34,9 +34,9 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/OpenZeppelin/openzeppelin-contracts">OpenZeppelin/openzeppelin-contracts</a> (<a href="https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.9.0-rc.1">v4.9.0-rc.1</a>, 1 day ago) - OpenZeppelin Contracts is a library for secure smart contract development.</li>
-<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.468.2">v2.468.2</a>, 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
-<li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.101.3">v2.101.3</a>, 2 days ago) - ☠️ The Pathwar Project ☠️</li>
+<li><a href="https://github.com/OpenZeppelin/openzeppelin-contracts">OpenZeppelin/openzeppelin-contracts</a> (<a href="https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.9.0-rc.1">v4.9.0-rc.1</a>, 2 days ago) - OpenZeppelin Contracts is a library for secure smart contract development.</li>
+<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.468.2">v2.468.2</a>, 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
+<li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.101.3">v2.101.3</a>, 3 days ago) - ☠️ The Pathwar Project ☠️</li>
 <li><a href="https://github.com/moul/retry">moul/retry</a> (<a href="https://github.com/moul/retry/releases/tag/v0.7.2">v0.7.2</a>, 1 week ago) - :shell: retry shell commands</li>
 <li><a href="https://github.com/moul/depviz">moul/depviz</a> (<a href="https://github.com/moul/depviz/releases/tag/v3.19.1">v3.19.1</a>, 1 week ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)</li>
 
@@ -64,13 +64,13 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/github-linguist/linguist">github-linguist/linguist</a> - <a href="https://github.com/github-linguist/linguist/pull/6414">Add Gnolang (smart-contracts)</a> (3 days ago) </li>
+  <li><a href="https://github.com/github-linguist/linguist">github-linguist/linguist</a> - <a href="https://github.com/github-linguist/linguist/pull/6414">Add Gnolang (smart-contracts)</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/819">test: set up Codecov</a> (6 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/819">test: set up Codecov</a> (1 week ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/806">chore(gnokey): print verbose errors in CLI</a> (1 week ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/798">chore: update CODEOWNERS</a> (1 week ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/798">chore: update CODEOWNERS</a> (2 weeks ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/797">chore: more concise and actionable PR template</a> (2 weeks ago) </li>
   
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1684453425.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1684458208.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
