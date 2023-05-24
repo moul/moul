@@ -64,13 +64,13 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/decentralists/DAO">decentralists/DAO</a> - <a href="https://github.com/decentralists/DAO/pull/17">chore: unify contributions in the readme</a> (today) </li>
+  
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/848">refactor: improve the `std` API</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/meetings">gnolang/meetings</a> - <a href="https://github.com/gnolang/meetings/pull/11">Agenda 7 (TBD)</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/meetings">gnolang/meetings</a> - <a href="https://github.com/gnolang/meetings/pull/10">Create Agenda {17.05.2023}_#6.md</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/berty/.github">berty/.github</a> - <a href="https://github.com/berty/.github/pull/2">chore: update org&#39;s readme</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/berty/www.berty.tech">berty/www.berty.tech</a> - <a href="https://github.com/berty/www.berty.tech/pull/382">chore: update NGO&#39;s headline</a> (1 day ago) </li>
   
   </ul>
 
@@ -121,7 +121,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1684946625.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1684950225.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
