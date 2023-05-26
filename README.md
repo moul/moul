@@ -34,10 +34,10 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/OpenZeppelin/openzeppelin-contracts">OpenZeppelin/openzeppelin-contracts</a> (<a href="https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.9.0">v4.9.0</a>, 2 days ago) - OpenZeppelin Contracts is a library for secure smart contract development.</li>
-<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.468.3">v2.468.3</a>, 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
-<li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.102.0">v2.102.0</a>, 2 days ago) - ☠️ The Pathwar Project ☠️</li>
-<li><a href="https://github.com/moul/sshportal">moul/sshportal</a> (<a href="https://github.com/moul/sshportal/releases/tag/v1.19.5">v1.19.5</a>, 5 days ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server</li>
+<li><a href="https://github.com/OpenZeppelin/openzeppelin-contracts">OpenZeppelin/openzeppelin-contracts</a> (<a href="https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.9.0">v4.9.0</a>, 3 days ago) - OpenZeppelin Contracts is a library for secure smart contract development.</li>
+<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.468.3">v2.468.3</a>, 3 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
+<li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.102.0">v2.102.0</a>, 3 days ago) - ☠️ The Pathwar Project ☠️</li>
+<li><a href="https://github.com/moul/sshportal">moul/sshportal</a> (<a href="https://github.com/moul/sshportal/releases/tag/v1.19.5">v1.19.5</a>, 6 days ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server</li>
 <li><a href="https://github.com/moul/retry">moul/retry</a> (<a href="https://github.com/moul/retry/releases/tag/v0.7.2">v0.7.2</a>, 2 weeks ago) - :shell: retry shell commands</li>
 
 <li><a href="https://github.com/pulls?q=is%3Apr+author%3Amoul+is%3Amerged+">...</a></li>
@@ -64,15 +64,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/849">chore: add gnovm/tests/challenges/print_ref.gno</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/849">chore: add gnovm/tests/challenges/print_ref.gno</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/decentralists/DAO">decentralists/DAO</a> - <a href="https://github.com/decentralists/DAO/pull/17">chore: unify contributions in the readme</a> (1 day ago) </li>
+  <li><a href="https://github.com/decentralists/DAO">decentralists/DAO</a> - <a href="https://github.com/decentralists/DAO/pull/17">chore: unify contributions in the readme</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/848">refactor: improve the `std` API</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/848">refactor: improve the `std` API</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/meetings">gnolang/meetings</a> - <a href="https://github.com/gnolang/meetings/pull/11">Agenda 7 (TBD)</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/meetings">gnolang/meetings</a> - <a href="https://github.com/gnolang/meetings/pull/11">Agenda 7 (TBD)</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/meetings">gnolang/meetings</a> - <a href="https://github.com/gnolang/meetings/pull/10">Create Agenda {17.05.2023}_#6.md</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/meetings">gnolang/meetings</a> - <a href="https://github.com/gnolang/meetings/pull/10">Create Agenda {17.05.2023}_#6.md</a> (3 days ago) </li>
   
   </ul>
 
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1685058224.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1685062990.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
