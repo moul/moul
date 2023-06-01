@@ -64,15 +64,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/15">feat: add getting to gno slides</a> (today) </li>
+  
+  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/14">feat: adding buidl asia slides</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/11">feat: add ETH Seoul slides</a> (4 days ago) </li>
   
   <li><a href="https://github.com/gnolang/benchmarks">gnolang/benchmarks</a> - <a href="https://github.com/gnolang/benchmarks/pull/6">chore: add codecov</a> (4 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/854">test: improve codecov support on gnovm and gno.land</a> (4 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/22">feat: add 2023-05-26_myg-2</a> (6 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/21">chore: bump gno</a> (6 days ago) </li>
   
   </ul>
 
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1685634219.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1685637837.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
