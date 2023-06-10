@@ -63,6 +63,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/884">feat(docs): script to gen godoc and publish on gh-pages</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/882">feat: add p/demo/mux</a> (2 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/879">feat: add p/demo/administrable</a> (2 days ago) </li>
@@ -70,8 +72,6 @@
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/880">feat: add p/demo/access (administrable contracts)</a> (2 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/874">feat: add r/gnoland/pages</a> (3 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/871">WIP chore: guidelines for multinode testnet experimentation</a> (4 days ago) </li>
   
   </ul>
 
@@ -88,11 +88,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/bugbounted">bugbounted</a>
   <li><a href="https://github.com/tooldesktop">tooldesktop</a>
   <li><a href="https://github.com/clockworkgr">clockworkgr</a>
   <li><a href="https://github.com/DarleneC">DarleneC</a>
   <li><a href="https://github.com/murluki">murluki</a>
-  <li><a href="https://github.com/loicalleyne">loicalleyne</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -122,7 +122,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1686383023.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1686386622.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
