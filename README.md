@@ -63,15 +63,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/40">feat: add link to schollz&#39;s presentation</a> (today) </li>
+  
+  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/20">chore: update readme&#39;s tutorial link</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/935">chore: bootstrap a from-go-to-gno.md documentation</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/23">feat: add funding program blogpost</a> (2 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno-by-example">gnolang/gno-by-example</a> - <a href="https://github.com/gnolang/gno-by-example/pull/32">chore: add analytics</a> (2 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/www.gno.land">gnolang/www.gno.land</a> - <a href="https://github.com/gnolang/www.gno.land/pull/11">feat: add simpleanalytics</a> (2 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/931">WIP feat: add r/demo/foo20_lp</a> (3 days ago) </li>
   
   </ul>
 
@@ -122,7 +122,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1688049822.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1688053422.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
