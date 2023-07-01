@@ -34,7 +34,7 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/berty/weshnet">berty/weshnet</a> (<a href="https://github.com/berty/weshnet/releases/tag/v1.12.1">v1.12.1</a>, 3 days ago) - Async Mesh Network Protocol for Extreme Communication -- Innovative, Resilient, and Decentralized</li>
+<li><a href="https://github.com/berty/weshnet">berty/weshnet</a> (<a href="https://github.com/berty/weshnet/releases/tag/v1.12.1">v1.12.1</a>, 4 days ago) - Async Mesh Network Protocol for Extreme Communication -- Innovative, Resilient, and Decentralized</li>
 <li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.468.12">v2.468.12</a>, 1 week ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
 <li><a href="https://github.com/OpenZeppelin/openzeppelin-contracts">OpenZeppelin/openzeppelin-contracts</a> (<a href="https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.9.2">v4.9.2</a>, 2 weeks ago) - OpenZeppelin Contracts is a library for secure smart contract development.</li>
 <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.102.4">v2.102.4</a>, 1 month ago) - ☠️ The Pathwar Project ☠️</li>
@@ -63,15 +63,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/938">WIP feat: add r/demo/dynamic_call_closure</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/938">WIP feat: add r/demo/dynamic_call_closure</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/937">refactor(gnoland): add subcommands support</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/937">refactor(gnoland): add subcommands support</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/40">feat: add link to schollz&#39;s presentation</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/awesome-gno">gnolang/awesome-gno</a> - <a href="https://github.com/gnolang/awesome-gno/pull/40">feat: add link to schollz&#39;s presentation</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/20">chore: update readme&#39;s tutorial link</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/20">chore: update readme&#39;s tutorial link</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/935">chore: bootstrap a from-go-to-gno.md documentation</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/935">chore: bootstrap a from-go-to-gno.md documentation</a> (2 days ago) </li>
   
   </ul>
 
@@ -122,7 +122,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1688168617.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1688173499.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
