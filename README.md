@@ -63,13 +63,13 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/979">feat: go-based advanced testing for contracts</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/979">feat: go-based advanced testing for contracts</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/meetings">gnolang/meetings</a> - <a href="https://github.com/gnolang/meetings/pull/19">chore: update instructions for weekly gh reviews</a> (4 days ago) </li>
+  <li><a href="https://github.com/gnolang/meetings">gnolang/meetings</a> - <a href="https://github.com/gnolang/meetings/pull/19">chore: update instructions for weekly gh reviews</a> (5 days ago) </li>
   
-  <li><a href="https://github.com/DemoSeine/talks">DemoSeine/talks</a> - <a href="https://github.com/DemoSeine/talks/pull/1">Talk proposal: Demystifying Cryptography for Developers</a> (5 days ago) </li>
+  <li><a href="https://github.com/DemoSeine/talks">DemoSeine/talks</a> - <a href="https://github.com/DemoSeine/talks/pull/1">Talk proposal: Demystifying Cryptography for Developers</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/24">feat: add myg3</a> (6 days ago) </li>
+  <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/24">feat: add myg3</a> (1 week ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/954">docs(proof-of-contribution): bootstrap document</a> (1 week ago) </li>
   
@@ -77,7 +77,7 @@
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/b3b9f9d09be766b1a9199ff14eb199ee">perf gno cli</a> (1 week ago)</li>
+  <li><a href="https://gist.github.com/b3b9f9d09be766b1a9199ff14eb199ee">perf gno cli</a> (2 weeks ago)</li>
   <li><a href="https://gist.github.com/d9ec000a568ed80a6a44cb7a4c619232">compilation of links related to go improvements (gno)</a> (3 weeks ago)</li>
   <li><a href="https://gist.github.com/d78e03ed271145eb342391ddf5398865">svg demo for https://github.com/gnolang/gno/pull/905</a> (1 month ago)</li>
   <li><a href="https://gist.github.com/29c0df4055df019a91440521a02dc23e">top1k cosmos (liquid &#43; staked &#43; unbounding), snapshot 2022-05-22.</a> (10 months ago)</li>
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1689637423.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1689642312.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
