@@ -63,6 +63,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/1">feat: add initial gitpod file</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/987">chore: update gitpod configuration</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/21">feat: add missing workshop from cosmoverse</a> (1 day ago) </li>
@@ -70,8 +72,6 @@
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/985">chore: remove reviewers checklist from PR template</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/984">chore: add @devrels as co-codeowners of examples and docs</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/981">feat: initial &#39;gno lint&#39;</a> (2 days ago) </li>
   
   </ul>
 
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1690011830.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1690015418.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
