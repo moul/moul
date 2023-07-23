@@ -63,15 +63,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/18">dev/moul/gnomod bug</a> (today) </li>
+  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/21">feat: add initial version of 005</a> (today) </li>
+  
+  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/20">feat: add 006_become_contributor</a> (today) </li>
+  
+  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/18">gnomod bug demo</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/16">chore: bump deps</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/15">chore: reorganize repo</a> (today) </li>
-  
-  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/12">feat: add 002-gnokey</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/10">chore: setup vscode extension</a> (1 day ago) </li>
   
   </ul>
 
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1690116472.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1690119820.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
