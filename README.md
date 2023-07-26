@@ -34,8 +34,8 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.468.16">v2.468.16</a>, today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
-<li><a href="https://github.com/berty/weshnet">berty/weshnet</a> (<a href="https://github.com/berty/weshnet/releases/tag/v1.13.0">v1.13.0</a>, 4 days ago) - Async Mesh Network Protocol for Extreme Communication -- Innovative, Resilient, and Decentralized</li>
+<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.468.16">v2.468.16</a>, 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
+<li><a href="https://github.com/berty/weshnet">berty/weshnet</a> (<a href="https://github.com/berty/weshnet/releases/tag/v1.13.0">v1.13.0</a>, 5 days ago) - Async Mesh Network Protocol for Extreme Communication -- Innovative, Resilient, and Decentralized</li>
 <li><a href="https://github.com/OpenZeppelin/openzeppelin-contracts">OpenZeppelin/openzeppelin-contracts</a> (<a href="https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.9.2">v4.9.2</a>, 1 month ago) - OpenZeppelin Contracts is a library for secure smart contract development.</li>
 <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.102.4">v2.102.4</a>, 1 month ago) - ☠️ The Pathwar Project ☠️</li>
 <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> (<a href="https://github.com/moul/sshportal/releases/tag/v1.19.5">v1.19.5</a>, 2 months ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server</li>
@@ -63,15 +63,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/993">WIP docs: add contributors manifesto</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/993">WIP docs: add contributors manifesto</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/22">feat: add nebular slides</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/22">feat: add nebular slides</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/21">feat: add initial version of 005</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/21">feat: add initial version of 005</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/20">feat: add 006_become_contributor</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/20">feat: add 006_become_contributor</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/18">gnomod bug demo</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/18">gnomod bug demo</a> (3 days ago) </li>
   
   </ul>
 
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1690328624.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1690333501.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
