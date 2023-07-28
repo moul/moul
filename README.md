@@ -63,15 +63,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/.github">gnolang/.github</a> - <a href="https://github.com/gnolang/.github/pull/2">chore: update links</a> (today) </li>
+  
+  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/22">chore: more explicit link to gno-by-example.com</a> (today) </li>
+  
+  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/23">chore: bootstrap the drafts/ folder</a> (today) </li>
+  
   <li><a href="https://github.com/allinbits/carmel">allinbits/carmel</a> - <a href="https://github.com/allinbits/carmel/pull/5">feat: create lighthouse.md</a> (today) </li>
   
   <li><a href="https://github.com/allinbits/carmel">allinbits/carmel</a> - <a href="https://github.com/allinbits/carmel/pull/4">fix: increase max penalty for deliberate falsehoods</a> (today) </li>
-  
-  <li><a href="https://github.com/allinbits/carmel">allinbits/carmel</a> - <a href="https://github.com/allinbits/carmel/pull/3">fix: sealing reasons should be transparent</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/995">chore: update labels.json</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/gnolang/hackerspace">gnolang/hackerspace</a> - <a href="https://github.com/gnolang/hackerspace/pull/20">feat: create ascii-gno.txt</a> (1 day ago) </li>
   
   </ul>
 
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1690537426.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1690541022.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
