@@ -63,6 +63,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/998">chore: more concise PR template</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/25">feat: initial draft for github-of-contracts</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/benchmarks">gnolang/benchmarks</a> - <a href="https://github.com/gnolang/benchmarks/pull/11">ci: add workflow_dispatch for supernova &#43; specific runner</a> (1 day ago) </li>
@@ -70,8 +72,6 @@
   <li><a href="https://github.com/gnolang/.github">gnolang/.github</a> - <a href="https://github.com/gnolang/.github/pull/2">chore: update links</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/22">chore: more explicit link to gno-by-example.com</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/23">chore: bootstrap the drafts/ folder</a> (1 day ago) </li>
   
   </ul>
 
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1690631017.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1690634842.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
