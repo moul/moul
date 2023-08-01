@@ -34,11 +34,11 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
+<li><a href="https://github.com/moul/mdtable">moul/mdtable</a> (<a href="https://github.com/moul/mdtable/releases/tag/v1.0.0">v1.0.0</a>, today) - csv/json to markdown tables with customizable format</li>
 <li><a href="https://github.com/OpenZeppelin/openzeppelin-contracts">OpenZeppelin/openzeppelin-contracts</a> (<a href="https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.9.3">v4.9.3</a>, 4 days ago) - OpenZeppelin Contracts is a library for secure smart contract development.</li>
 <li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.468.16">v2.468.16</a>, 1 week ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
 <li><a href="https://github.com/berty/weshnet">berty/weshnet</a> (<a href="https://github.com/berty/weshnet/releases/tag/v1.13.0">v1.13.0</a>, 1 week ago) - Async Mesh Network Protocol for Extreme Communication -- Innovative, Resilient, and Decentralized</li>
 <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.102.4">v2.102.4</a>, 2 months ago) - ☠️ The Pathwar Project ☠️</li>
-<li><a href="https://github.com/moul/sshportal">moul/sshportal</a> (<a href="https://github.com/moul/sshportal/releases/tag/v1.19.5">v1.19.5</a>, 2 months ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server</li>
 
 <li><a href="https://github.com/pulls?q=is%3Apr+author%3Amoul+is%3Amerged+">...</a></li>
 </ul>
@@ -82,18 +82,17 @@
   <li><a href="https://gist.github.com/d78e03ed271145eb342391ddf5398865">svg demo for https://github.com/gnolang/gno/pull/905</a> (1 month ago)</li>
   <li><a href="https://gist.github.com/29c0df4055df019a91440521a02dc23e">top1k cosmos (liquid &#43; staked &#43; unbounding), snapshot 2022-05-22.</a> (10 months ago)</li>
   <li><a href="https://gist.github.com/6653f870ce167ffccebd5372349e7516">ERC20 Token One File</a> (1 year ago)</li>
-  <li><a href="https://gist.github.com/1b538e6a49e3d5bce011987c62441eea">All Paths Lead to Roam</a> (1 year ago)</li>
   
   </ul>
 
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/EdmondFrank">EdmondFrank</a>
   <li><a href="https://github.com/diop">diop</a>
   <li><a href="https://github.com/adrianbiro">adrianbiro</a>
   <li><a href="https://github.com/fzdwx">fzdwx</a>
   <li><a href="https://github.com/This-Is-Prince">This-Is-Prince</a>
-  <li><a href="https://github.com/zivkovicmilos">zivkovicmilos</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -123,7 +122,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1690851474.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1690855361.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
