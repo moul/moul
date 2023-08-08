@@ -34,9 +34,9 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.469.1">v2.469.1</a>, today) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
-<li><a href="https://github.com/berty/weshnet">berty/weshnet</a> (<a href="https://github.com/berty/weshnet/releases/tag/v1.14.0">v1.14.0</a>, 6 days ago) - Async Mesh Network Protocol for Extreme Communication -- Innovative, Resilient, and Decentralized</li>
-<li><a href="https://github.com/moul/mdtable">moul/mdtable</a> (<a href="https://github.com/moul/mdtable/releases/tag/v1.0.0">v1.0.0</a>, 6 days ago) - csv/json to markdown tables with customizable format</li>
+<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.469.1">v2.469.1</a>, 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
+<li><a href="https://github.com/berty/weshnet">berty/weshnet</a> (<a href="https://github.com/berty/weshnet/releases/tag/v1.14.0">v1.14.0</a>, 1 week ago) - Async Mesh Network Protocol for Extreme Communication -- Innovative, Resilient, and Decentralized</li>
+<li><a href="https://github.com/moul/mdtable">moul/mdtable</a> (<a href="https://github.com/moul/mdtable/releases/tag/v1.0.0">v1.0.0</a>, 1 week ago) - csv/json to markdown tables with customizable format</li>
 <li><a href="https://github.com/OpenZeppelin/openzeppelin-contracts">OpenZeppelin/openzeppelin-contracts</a> (<a href="https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v4.9.3">v4.9.3</a>, 1 week ago) - OpenZeppelin Contracts is a library for secure smart contract development.</li>
 <li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.102.4">v2.102.4</a>, 2 months ago) - ☠️ The Pathwar Project ☠️</li>
 
@@ -63,13 +63,13 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1025">feat: p/demo/subscription</a> (3 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1025">feat: p/demo/subscription</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/hackerspace">gnolang/hackerspace</a> - <a href="https://github.com/gnolang/hackerspace/pull/25">chore: add disclaimer</a> (4 days ago) </li>
+  <li><a href="https://github.com/gnolang/hackerspace">gnolang/hackerspace</a> - <a href="https://github.com/gnolang/hackerspace/pull/25">chore: add disclaimer</a> (5 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1016">feat: gnoverse, a sandbox system around gnovm</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1016">feat: gnoverse, a sandbox system around gnovm</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1012">feat: make gnovm wasm-friendly</a> (6 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1012">feat: make gnovm wasm-friendly</a> (1 week ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1009">chore: adding grocksdb to the db-tests.yml</a> (1 week ago) </li>
   
@@ -122,7 +122,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1691451818.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1691455889.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
