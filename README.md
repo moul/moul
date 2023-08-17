@@ -19,7 +19,7 @@
 <h4>🌱 Last projects</h4>
 <ul>
 
-<li><a href="https://github.com/moul/mdencode">moul/mdencode</a> - convert Go structures to and from readable Markdown (codec).</li>
+<li><a href="https://github.com/moul/mdcodec">moul/mdcodec</a> - convert Go structures to and from readable Markdown (codec).</li>
 <li><a href="https://github.com/moul/mdtable">moul/mdtable</a> - csv/json to markdown tables with customizable format</li>
 <li><a href="https://github.com/moul/sandbox">moul/sandbox</a> - a repo to try things wihtout caring.</li>
 <li><a href="https://github.com/moul/assets">moul/assets</a> - </li>
@@ -63,7 +63,7 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/mdencode">moul/mdencode</a> - <a href="https://github.com/moul/mdencode/pull/2">feat: PoC</a> (today) </li>
+  <li><a href="https://github.com/moul/mdcodec">moul/mdcodec</a> - <a href="https://github.com/moul/mdcodec/pull/2">feat: PoC</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/branding">gnolang/branding</a> - <a href="https://github.com/gnolang/branding/pull/5">chore: add link to download archive &#43; refactor content</a> (1 day ago) </li>
   
@@ -122,7 +122,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1692305030.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1692308639.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
