@@ -63,15 +63,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/4">feat: add Spellcheck CI</a> (today) </li>
+  
+  <li><a href="https://github.com/thingsym/hugo-theme-techdoc">thingsym/hugo-theme-techdoc</a> - <a href="https://github.com/thingsym/hugo-theme-techdoc/pull/64">feat: allow to set custom branch (i.e., ‘main’)</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/hugo-theme-techdoc">moul/hugo-theme-techdoc</a> - <a href="https://github.com/moul/hugo-theme-techdoc/pull/1">feat: allow to set custom branch (i.e., ‘main’)</a> (today) </li>
+  
   <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/2">feat: add hugo</a> (today) </li>
   
   <li><a href="https://github.com/moul/mdcodec">moul/mdcodec</a> - <a href="https://github.com/moul/mdcodec/pull/4">feat: better format</a> (2 days ago) </li>
-  
-  <li><a href="https://github.com/moul/mdcodec">moul/mdcodec</a> - <a href="https://github.com/moul/mdcodec/pull/2">feat: PoC</a> (2 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/branding">gnolang/branding</a> - <a href="https://github.com/gnolang/branding/pull/5">chore: add link to download archive &#43; refactor content</a> (3 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1050">chore: add gnoland init</a> (6 days ago) </li>
   
   </ul>
 
@@ -122,7 +122,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1692459823.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1692463423.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
