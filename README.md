@@ -63,15 +63,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/12">chore: rename openbar to open-bar</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/11">feat(article): Open-Source Culture Beyond Code</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/10">chore: configure permalinks</a> (today) </li>
+  
   <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/6">feat: Open Source is not Open Bar</a> (today) </li>
   
   <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/5">chore: add basic pages</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/4">feat: add Spellcheck CI</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/thingsym/hugo-theme-techdoc">thingsym/hugo-theme-techdoc</a> - <a href="https://github.com/thingsym/hugo-theme-techdoc/pull/64">feat: allow to set custom branch (i.e., ‘main’)</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/moul/hugo-theme-techdoc">moul/hugo-theme-techdoc</a> - <a href="https://github.com/moul/hugo-theme-techdoc/pull/1">feat: allow to set custom branch (i.e., ‘main’)</a> (1 day ago) </li>
   
   </ul>
 
@@ -122,7 +122,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1692524622.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1692528231.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
