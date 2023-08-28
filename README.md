@@ -34,11 +34,11 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.469.3">v2.469.3</a>, 4 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
-<li><a href="https://github.com/thingsym/hugo-theme-techdoc">thingsym/hugo-theme-techdoc</a> (<a href="https://github.com/thingsym/hugo-theme-techdoc/releases/tag/v1.0.0">v1.0.0</a>, 5 days ago) - The Techdoc is a Hugo Theme for technical documentation.</li>
+<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.469.3">v2.469.3</a>, 5 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
+<li><a href="https://github.com/thingsym/hugo-theme-techdoc">thingsym/hugo-theme-techdoc</a> (<a href="https://github.com/thingsym/hugo-theme-techdoc/releases/tag/v1.0.0">v1.0.0</a>, 6 days ago) - The Techdoc is a Hugo Theme for technical documentation.</li>
 <li><a href="https://github.com/berty/weshnet">berty/weshnet</a> (<a href="https://github.com/berty/weshnet/releases/tag/v1.14.0">v1.14.0</a>, 3 weeks ago) - Async Mesh Network Protocol for Extreme Communication -- Innovative, Resilient, and Decentralized</li>
 <li><a href="https://github.com/moul/mdtable">moul/mdtable</a> (<a href="https://github.com/moul/mdtable/releases/tag/v1.0.0">v1.0.0</a>, 3 weeks ago) - csv/json to markdown tables with customizable format</li>
-<li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.102.4">v2.102.4</a>, 2 months ago) - ☠️ The Pathwar Project ☠️</li>
+<li><a href="https://github.com/pathwar/pathwar">pathwar/pathwar</a> (<a href="https://github.com/pathwar/pathwar/releases/tag/v2.102.4">v2.102.4</a>, 3 months ago) - ☠️ The Pathwar Project ☠️</li>
 
 <li><a href="https://github.com/pulls?q=is%3Apr+author%3Amoul+is%3Amerged+">...</a></li>
 </ul>
@@ -63,15 +63,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/38">chore: update open-everything metadata</a> (1 day ago) </li>
+  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/38">chore: update open-everything metadata</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/37">chore: update and rename planning-unplanned.md</a> (2 days ago) </li>
+  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/37">chore: update and rename planning-unplanned.md</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/36">chore: update truth-or-conspiracy</a> (2 days ago) </li>
+  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/36">chore: update truth-or-conspiracy</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/35">feat: Open-Society, chapter 1</a> (2 days ago) </li>
+  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/35">feat: Open-Society, chapter 1</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/34">feat: update open-everything</a> (2 days ago) </li>
+  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/34">feat: update open-everything</a> (3 days ago) </li>
   
   </ul>
 
@@ -122,7 +122,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1693179833.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1693184560.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
