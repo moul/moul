@@ -63,6 +63,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/52">feat: create WorldDAO</a> (today) </li>
+  
   <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/51">feat: create &#34;good blockchains&#34;</a> (today) </li>
   
   <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/50">feat: relaxed tension</a> (1 day ago) </li>
@@ -70,8 +72,6 @@
   <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/49">feat: picture-poc</a> (1 day ago) </li>
   
   <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/48">feat: add simple-complex</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/47">feat: entrepreneurial dance</a> (3 days ago) </li>
   
   </ul>
 
@@ -122,7 +122,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1693647833.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1693651420.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
