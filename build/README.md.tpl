@@ -4,6 +4,9 @@
 
 :hammer: Founder of [Berty Technologies](https://berty.tech), censorship resistant messaging<br/>
 :atom_symbol: VP Eng. at [Gno.land](https://gno.land), censorship resistant social coordination<br/>
+:writing_hand: Writing at [bits.manfred.life](https://bits.manfred.life)<br/>
+:package: Other links on [moul.link](https://www.moul.link/)<br/>
+
 <!--:cloud: Ex-creator, now Web3 advisor at [Scaleway](https://scaleway.com)<br/>-->
 <!--:briefcase: Consulting at [PMG Consulting](https://pmg.tools)<br/>-->
 <!--:speaking_head: Meetups at [Paris P2P](https://p2p.paris) and [Web3 Normandy](https://web3normandy.com)<br/>-->
@@ -11,7 +14,6 @@
 <!--:scientist: BUILD & explos [$MOULA](https://moula.tech), [Xplrz](https://xplrz.com), [Pathwar](https://pathwar.land)<br/>-->
 <!--:octocat: Open-Source addict :syringe:<br/>-->
 <!--:heart: Blogging (outdated) at [manfred.life](https://manfred.life)<br/>-->
-:package: Other links on [moul.link](https://www.moul.link/)<br/>
 
 
 <details>
