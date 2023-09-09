@@ -21,7 +21,7 @@
 <h4>🌱 Last projects</h4>
 <ul>
 
-<li><a href="https://github.com/moul/life-in-weeks">moul/life-in-weeks</a> - </li>
+<li><a href="https://github.com/moul/life-in-weeks">moul/life-in-weeks</a> - Life in weeks</li>
 <li><a href="https://github.com/moul/txtar">moul/txtar</a> - Generate txtar from CLI</li>
 <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - Manfred’s Life. Bit by Bit.</li>
 <li><a href="https://github.com/moul/mdcodec">moul/mdcodec</a> - convert Go structures to and from readable Markdown (codec).</li>
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1694281432.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1694285024.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
