@@ -21,6 +21,7 @@
 <h4>🌱 Last projects</h4>
 <ul>
 
+<li><a href="https://github.com/moul/life-in-weeks">moul/life-in-weeks</a> - </li>
 <li><a href="https://github.com/moul/txtar">moul/txtar</a> - Generate txtar from CLI</li>
 <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - Manfred’s Life. Bit by Bit.</li>
 <li><a href="https://github.com/moul/mdcodec">moul/mdcodec</a> - convert Go structures to and from readable Markdown (codec).</li>
@@ -29,7 +30,6 @@
 <li><a href="https://github.com/moul/assets">moul/assets</a> - </li>
 <li><a href="https://github.com/moul/idearium">moul/idearium</a> - 💡 portfolio of imaginings</li>
 <li><a href="https://github.com/moul/depviz-action">moul/depviz-action</a> - GitHub action for moul.io/depviz</li>
-<li><a href="https://github.com/moul/gno.land-r-manfred">moul/gno.land-r-manfred</a> - Collection of contracts published under gno.land/r/manfred/...</li>
 <li><a href="https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories">...</a></li>
 
 </ul>
@@ -79,6 +79,7 @@
 
   <h4>📓 Gists I wrote</h4>
   <ul>
+  <li><a href="https://gist.github.com/108c498d99542aae3d5fe6623f1e7638">Life in Weeks - Dev</a> (today)</li>
   <li><a href="https://gist.github.com/b3b9f9d09be766b1a9199ff14eb199ee">perf gno cli</a> (2 months ago)</li>
   <li><a href="https://gist.github.com/d9ec000a568ed80a6a44cb7a4c619232">compilation of links related to go improvements (gno)</a> (2 months ago)</li>
   <li><a href="https://gist.github.com/d78e03ed271145eb342391ddf5398865">svg demo for https://github.com/gnolang/gno/pull/905</a> (2 months ago)</li>
@@ -124,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1694277826.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1694281432.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
