@@ -65,6 +65,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1120">chore: update codecov.yml</a> (today) </li>
+  
   <li><a href="https://github.com/DemoSeine/talks">DemoSeine/talks</a> - <a href="https://github.com/DemoSeine/talks/pull/9">Create manfred-multiuser-programming.md</a> (1 day ago) </li>
   
   <li><a href="https://github.com/DemoSeine/talks">DemoSeine/talks</a> - <a href="https://github.com/DemoSeine/talks/pull/8">chore: improve instructions</a> (1 day ago) </li>
@@ -72,8 +74,6 @@
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1111">chore: update PHILOSOPHY.md</a> (3 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gnoffee">gnolang/gnoffee</a> - <a href="https://github.com/gnolang/gnoffee/pull/1">feat: v1</a> (4 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/28">feat: dappcon, key to perpetual transparency</a> (5 days ago) </li>
   
   </ul>
 
@@ -91,11 +91,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/axelbgds">axelbgds</a>
   <li><a href="https://github.com/arcane4096">arcane4096</a>
   <li><a href="https://github.com/f1ynn-zhan9">f1ynn-zhan9</a>
   <li><a href="https://github.com/amirmalekian">amirmalekian</a>
   <li><a href="https://github.com/mu5md">mu5md</a>
-  <li><a href="https://github.com/arshamalh">arshamalh</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1694702630.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1694706228.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
