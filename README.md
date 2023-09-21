@@ -65,15 +65,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gnochess">gnolang/gnochess</a> - <a href="https://github.com/gnolang/gnochess/pull/52">chore: fix typos</a> (today) </li>
+  <li><a href="https://github.com/moul/gno">moul/gno</a> - <a href="https://github.com/moul/gno/pull/15">test: update codecov.yml</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno">moul/gno</a> - <a href="https://github.com/moul/gno/pull/11">test: Update alloc.go (DO NOT MERGE)</a> (today) </li>
+  <li><a href="https://github.com/moul/gno">moul/gno</a> - <a href="https://github.com/moul/gno/pull/14">chore: Update codecov.yml</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno">moul/gno</a> - <a href="https://github.com/moul/gno/pull/10">test: Update glossary.md DO NOT MERGE</a> (today) </li>
+  <li><a href="https://github.com/moul/gno">moul/gno</a> - <a href="https://github.com/moul/gno/pull/13">test: update codecov.yml</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno">moul/gno</a> - <a href="https://github.com/moul/gno/pull/9">test: Update types.go DO NOT MERGE</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1163">Update codecov.yml</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno">moul/gno</a> - <a href="https://github.com/moul/gno/pull/8">test: Update key.go DO NOT MERGE</a> (today) </li>
+  <li><a href="https://github.com/moul/gno">moul/gno</a> - <a href="https://github.com/moul/gno/pull/12">test: update codecov.yml</a> (today) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1695314747.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1695318232.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
