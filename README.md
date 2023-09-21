@@ -65,15 +65,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/gno">moul/gno</a> - <a href="https://github.com/moul/gno/pull/7">test: Create test.gno DO NOT MERGE</a> (today) </li>
+  <li><a href="https://github.com/moul/gno">moul/gno</a> - <a href="https://github.com/moul/gno/pull/11">test: Update alloc.go (DO NOT MERGE)</a> (today) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1159">Moul patch 1</a> (today) </li>
+  <li><a href="https://github.com/moul/gno">moul/gno</a> - <a href="https://github.com/moul/gno/pull/10">test: Update glossary.md DO NOT MERGE</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno">moul/gno</a> - <a href="https://github.com/moul/gno/pull/6">test: Create tmp.go DO NOT MERGE</a> (today) </li>
+  <li><a href="https://github.com/moul/gno">moul/gno</a> - <a href="https://github.com/moul/gno/pull/9">test: Update types.go DO NOT MERGE</a> (today) </li>
   
-  <li><a href="https://github.com/moul/nixpkgs">moul/nixpkgs</a> - <a href="https://github.com/moul/nixpkgs/pull/93">feat: huge refacto</a> (2 days ago) </li>
+  <li><a href="https://github.com/moul/gno">moul/gno</a> - <a href="https://github.com/moul/gno/pull/8">test: Update key.go DO NOT MERGE</a> (today) </li>
   
-  <li><a href="https://github.com/gnolang/supernova">gnolang/supernova</a> - <a href="https://github.com/gnolang/supernova/pull/15">chore: add link to the benchmarks repo</a> (3 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1160">ci: tell codecov to wait_for_ci to avoid flappy reports</a> (today) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1695300560.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1695304607.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
