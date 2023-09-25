@@ -21,6 +21,7 @@
 <h4>🌱 Last projects</h4>
 <ul>
 
+<li><a href="https://github.com/moul/gno-sync-examples">moul/gno-sync-examples</a> - </li>
 <li><a href="https://github.com/moul/life-in-weeks">moul/life-in-weeks</a> - Life in weeks</li>
 <li><a href="https://github.com/moul/txtar">moul/txtar</a> - Generate txtar from CLI</li>
 <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - Manfred’s Life. Bit by Bit.</li>
@@ -29,7 +30,6 @@
 <li><a href="https://github.com/moul/sandbox">moul/sandbox</a> - a repo to try things wihtout caring.</li>
 <li><a href="https://github.com/moul/assets">moul/assets</a> - </li>
 <li><a href="https://github.com/moul/idearium">moul/idearium</a> - 💡 portfolio of imaginings</li>
-<li><a href="https://github.com/moul/depviz-action">moul/depviz-action</a> - GitHub action for moul.io/depviz</li>
 <li><a href="https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories">...</a></li>
 
 </ul>
@@ -65,6 +65,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/gno-sync-examples">moul/gno-sync-examples</a> - <a href="https://github.com/moul/gno-sync-examples/pull/1">feat: V1</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gnochess">gnolang/gnochess</a> - <a href="https://github.com/gnolang/gnochess/pull/108">chore: increase CI timeout</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/gnochess">gnolang/gnochess</a> - <a href="https://github.com/gnolang/gnochess/pull/107">ci: set up realm testing on CI</a> (1 day ago) </li>
@@ -72,8 +74,6 @@
   <li><a href="https://github.com/gnolang/gnochess">gnolang/gnochess</a> - <a href="https://github.com/gnolang/gnochess/pull/106">chore: go improvements</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/gnochess">gnolang/gnochess</a> - <a href="https://github.com/gnolang/gnochess/pull/91">chore: setup simpleanalytics</a> (2 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gnochess">gnolang/gnochess</a> - <a href="https://github.com/gnolang/gnochess/pull/88">chore: add additional tokens for bigger testing sessions</a> (2 days ago) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1695607085.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1695609821.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
