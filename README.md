@@ -36,7 +36,7 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.469.4">v2.469.4</a>, 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
+<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.469.4">v2.469.4</a>, 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
 <li><a href="https://github.com/moul/depviz">moul/depviz</a> (<a href="https://github.com/moul/depviz/releases/tag/v3.20.0">v3.20.0</a>, 2 weeks ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)</li>
 <li><a href="https://github.com/moul/depviz-action">moul/depviz-action</a> (<a href="https://github.com/moul/depviz-action/releases/tag/v1">v1</a>, 2 weeks ago) - GitHub action for moul.io/depviz</li>
 <li><a href="https://github.com/thingsym/hugo-theme-techdoc">thingsym/hugo-theme-techdoc</a> (<a href="https://github.com/thingsym/hugo-theme-techdoc/releases/tag/v1.0.0">v1.0.0</a>, 1 month ago) - The Techdoc is a Hugo Theme for technical documentation.</li>
@@ -65,15 +65,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/guide">gnolang/guide</a> - <a href="https://github.com/gnolang/guide/pull/29">feat: create rigorous-and-deliberate workflow</a> (today) </li>
+  <li><a href="https://github.com/gnolang/guide">gnolang/guide</a> - <a href="https://github.com/gnolang/guide/pull/29">feat: create rigorous-and-deliberate workflow</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/guide">gnolang/guide</a> - <a href="https://github.com/gnolang/guide/pull/27">feat: bootstrap the engineering workflows page</a> (today) </li>
+  <li><a href="https://github.com/gnolang/guide">gnolang/guide</a> - <a href="https://github.com/gnolang/guide/pull/27">feat: bootstrap the engineering workflows page</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gnochess">gnolang/gnochess</a> - <a href="https://github.com/gnolang/gnochess/pull/189">chore: add &#39;make z_poormans_dashboard&#39;</a> (3 days ago) </li>
+  <li><a href="https://github.com/gnolang/gnochess">gnolang/gnochess</a> - <a href="https://github.com/gnolang/gnochess/pull/189">chore: add &#39;make z_poormans_dashboard&#39;</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1176">dev/moul/home</a> (3 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1176">dev/moul/home</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gnochess">gnolang/gnochess</a> - <a href="https://github.com/gnolang/gnochess/pull/173">feat: add player stats for raffle</a> (4 days ago) </li>
+  <li><a href="https://github.com/gnolang/gnochess">gnolang/gnochess</a> - <a href="https://github.com/gnolang/gnochess/pull/173">feat: add player stats for raffle</a> (5 days ago) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1696117440.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1696122185.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
