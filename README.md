@@ -65,15 +65,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/guide">gnolang/guide</a> - <a href="https://github.com/gnolang/guide/pull/31">feat: create rapid-prototyping.md</a> (today) </li>
+  
+  <li><a href="https://github.com/gnolang/guide">gnolang/guide</a> - <a href="https://github.com/gnolang/guide/pull/30">feat: workflows/criteria-based.md</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/guide">gnolang/guide</a> - <a href="https://github.com/gnolang/guide/pull/29">feat: create rigorous-and-deliberate workflow</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/guide">gnolang/guide</a> - <a href="https://github.com/gnolang/guide/pull/27">feat: bootstrap the engineering workflows page</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/gnochess">gnolang/gnochess</a> - <a href="https://github.com/gnolang/gnochess/pull/189">chore: add &#39;make z_poormans_dashboard&#39;</a> (4 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1176">dev/moul/home</a> (4 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gnochess">gnolang/gnochess</a> - <a href="https://github.com/gnolang/gnochess/pull/173">feat: add player stats for raffle</a> (5 days ago) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1696146222.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1696149820.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
