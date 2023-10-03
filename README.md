@@ -65,6 +65,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1192">chore: fix fossa action</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/tx-exports">gnolang/tx-exports</a> - <a href="https://github.com/gnolang/tx-exports/pull/4">chore: switch to go mod for deps</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/tx-exports">gnolang/tx-exports</a> - <a href="https://github.com/gnolang/tx-exports/pull/3">chore: use the new binary</a> (1 day ago) </li>
@@ -72,8 +74,6 @@
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1184">chore: update fossa config</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1183">chore: configure fossa license detector</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/gnolang/guide">gnolang/guide</a> - <a href="https://github.com/gnolang/guide/pull/33">feat: create taskforce-warzone.md</a> (2 days ago) </li>
   
   </ul>
 
@@ -91,11 +91,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/mohammadhasanii">mohammadhasanii</a>
   <li><a href="https://github.com/jamestiotio">jamestiotio</a>
   <li><a href="https://github.com/galadd">galadd</a>
   <li><a href="https://github.com/GallFox99">GallFox99</a>
   <li><a href="https://github.com/axelbgds">axelbgds</a>
-  <li><a href="https://github.com/f1ynn-zhan9">f1ynn-zhan9</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1696358621.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1696362233.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
