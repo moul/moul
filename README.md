@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/62">feat: create outdated-captcha</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/61">feat: create cognitive-shortcuts</a> (today) </li>
+  
   <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/60">feat: create vital-truth</a> (today) </li>
   
   <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/59">Create .gitkeep</a> (today) </li>
   
   <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/58">feat: create apis-language</a> (today) </li>
-  
-  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/57">chore: update hello-world</a> (today) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1192">chore: fix fossa action</a> (5 days ago) </li>
   
   </ul>
 
@@ -126,7 +126,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1696801433.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1696805027.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
