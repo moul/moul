@@ -36,7 +36,7 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.469.5">v2.469.5</a>, 6 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
+<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.469.5">v2.469.5</a>, 1 week ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
 <li><a href="https://github.com/moul/assh">moul/assh</a> (<a href="https://github.com/moul/assh/releases/tag/v2.16.0">v2.16.0</a>, 1 week ago) - :computer: make your ssh client smarter</li>
 <li><a href="https://github.com/moul/depviz">moul/depviz</a> (<a href="https://github.com/moul/depviz/releases/tag/v3.20.0">v3.20.0</a>, 3 weeks ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)</li>
 <li><a href="https://github.com/moul/depviz-action">moul/depviz-action</a> (<a href="https://github.com/moul/depviz-action/releases/tag/v1">v1</a>, 3 weeks ago) - GitHub action for moul.io/depviz</li>
@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/63">feat: update multi-path blogpost</a> (today) </li>
+  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/63">feat: update multi-path blogpost</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/62">feat: create outdated-captcha</a> (1 day ago) </li>
+  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/62">feat: create outdated-captcha</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/61">feat: create cognitive-shortcuts</a> (1 day ago) </li>
+  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/61">feat: create cognitive-shortcuts</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/60">feat: create vital-truth</a> (1 day ago) </li>
+  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/60">feat: create vital-truth</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/59">Create .gitkeep</a> (1 day ago) </li>
+  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/59">Create .gitkeep</a> (2 days ago) </li>
   
   </ul>
 
@@ -126,7 +126,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1696895022.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1696899759.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
