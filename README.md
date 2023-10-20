@@ -66,6 +66,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1268">chore: repair-staging</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1265">chore: add misc/list-gnophers and .mailmap</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1262">chore: add contract-contract interation with ownership example</a> (1 day ago) </li>
@@ -74,16 +76,14 @@
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1244">feat: add p/demo/authctx</a> (5 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/game-of-realms">gnolang/game-of-realms</a> - <a href="https://github.com/gnolang/game-of-realms/pull/9">add notable contribution for @thehowl</a> (6 days ago) </li>
-  
   </ul>
 
   <h4>📓 Gists I wrote</h4>
   <ul>
+  <li><a href="https://gist.github.com/113c2cc8bb27ce80969995192ddb4c7f">txtar linguist mode comparison</a> (today)</li>
   <li><a href="https://gist.github.com/108c498d99542aae3d5fe6623f1e7638">Life in Weeks - Dev</a> (1 month ago)</li>
   <li><a href="https://gist.github.com/b3b9f9d09be766b1a9199ff14eb199ee">perf gno cli</a> (3 months ago)</li>
   <li><a href="https://gist.github.com/d9ec000a568ed80a6a44cb7a4c619232">compilation of links related to go improvements (gno)</a> (3 months ago)</li>
-  <li><a href="https://gist.github.com/d78e03ed271145eb342391ddf5398865">svg demo for https://github.com/gnolang/gno/pull/905</a> (4 months ago)</li>
   
   </ul>
 
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1697816620.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1697820226.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
