@@ -66,6 +66,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1356">feat: wugnot (wrapped uGNOT)</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1340">chore(staging): expose rpc endpoint on https://rpc.staging.gno.land</a> (3 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1337">chore(ci): update tm2 timeout on CI</a> (4 days ago) </li>
@@ -73,8 +75,6 @@
   <li><a href="https://github.com/gnolang/game-of-realms">gnolang/game-of-realms</a> - <a href="https://github.com/gnolang/game-of-realms/pull/12">add notable contribution for @jaekwon</a> (2 weeks ago) </li>
   
   <li><a href="https://github.com/gnolang/game-of-realms">gnolang/game-of-realms</a> - <a href="https://github.com/gnolang/game-of-realms/pull/11">feat: add scripts/update-contributors-readme.sh script &#43; run it</a> (2 weeks ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1296">feat: add std.DerivePkgObject</a> (2 weeks ago) </li>
   
   </ul>
 
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1699649020.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1699652620.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
