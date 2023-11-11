@@ -66,11 +66,11 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1356">feat(examples): wugnot (grc20’s wrapped ugnot)</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1356">feat(examples): wugnot (grc20’s wrapped ugnot)</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1340">chore(staging): expose rpc endpoint on https://rpc.staging.gno.land</a> (3 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1340">chore(staging): expose rpc endpoint on https://rpc.staging.gno.land</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1337">chore(ci): update tm2 timeout on CI</a> (4 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1337">chore(ci): update tm2 timeout on CI</a> (5 days ago) </li>
   
   <li><a href="https://github.com/gnolang/game-of-realms">gnolang/game-of-realms</a> - <a href="https://github.com/gnolang/game-of-realms/pull/12">add notable contribution for @jaekwon</a> (2 weeks ago) </li>
   
@@ -90,11 +90,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/irreverentsimplicity">irreverentsimplicity</a>
   <li><a href="https://github.com/BKMNathan">BKMNathan</a>
   <li><a href="https://github.com/senthil28">senthil28</a>
   <li><a href="https://github.com/felipetruman">felipetruman</a>
   <li><a href="https://github.com/eagleusb">eagleusb</a>
-  <li><a href="https://github.com/legovaer">legovaer</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1699659826.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1699668463.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
