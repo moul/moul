@@ -21,6 +21,7 @@
 <h4>🌱 Last projects</h4>
 <ul>
 
+<li><a href="https://github.com/moul/sapin.gno">moul/sapin.gno</a> - 🎄 christmas tree in gno</li>
 <li><a href="https://github.com/moul/plz">moul/plz</a> - personal adaptation of github.com/m1guelpf/plz-cli</li>
 <li><a href="https://github.com/moul/gno-sync-examples">moul/gno-sync-examples</a> - </li>
 <li><a href="https://github.com/moul/life-in-weeks">moul/life-in-weeks</a> - Life in weeks</li>
@@ -29,7 +30,6 @@
 <li><a href="https://github.com/moul/mdcodec">moul/mdcodec</a> - convert Go structures to and from readable Markdown (codec).</li>
 <li><a href="https://github.com/moul/mdtable">moul/mdtable</a> - csv/json to markdown tables with customizable format</li>
 <li><a href="https://github.com/moul/sandbox">moul/sandbox</a> - a repo to try things wihtout caring.</li>
-<li><a href="https://github.com/moul/assets">moul/assets</a> - </li>
 <li><a href="https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories">...</a></li>
 
 </ul>
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1700081033.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1700084629.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
