@@ -36,7 +36,7 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.469.6">v2.469.6</a>, 1 day ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
+<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.469.6">v2.469.6</a>, 2 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
 <li><a href="https://github.com/moul/assh">moul/assh</a> (<a href="https://github.com/moul/assh/releases/tag/v2.16.0">v2.16.0</a>, 1 month ago) - :computer: make your ssh client smarter</li>
 <li><a href="https://github.com/moul/depviz">moul/depviz</a> (<a href="https://github.com/moul/depviz/releases/tag/v3.20.0">v3.20.0</a>, 2 months ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)</li>
 <li><a href="https://github.com/moul/depviz-action">moul/depviz-action</a> (<a href="https://github.com/moul/depviz-action/releases/tag/v1">v1</a>, 2 months ago) - GitHub action for moul.io/depviz</li>
@@ -66,13 +66,13 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/64">feat: create forkability blogpost</a> (today) </li>
+  <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/64">feat: create forkability blogpost</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/atomone-hub/genesis">atomone-hub/genesis</a> - <a href="https://github.com/atomone-hub/genesis/pull/4">chore: experimentation on the edges (first)</a> (3 days ago) </li>
+  <li><a href="https://github.com/atomone-hub/genesis">atomone-hub/genesis</a> - <a href="https://github.com/atomone-hub/genesis/pull/4">chore: experimentation on the edges (first)</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/atomone-hub/genesis">atomone-hub/genesis</a> - <a href="https://github.com/atomone-hub/genesis/pull/1">chore: updates</a> (4 days ago) </li>
+  <li><a href="https://github.com/atomone-hub/genesis">atomone-hub/genesis</a> - <a href="https://github.com/atomone-hub/genesis/pull/1">chore: updates</a> (5 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1373">chore: fix link in readme</a> (4 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1373">chore: fix link in readme</a> (5 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1359">feat(examples): add demo/tamagotchi</a> (1 week ago) </li>
   
@@ -80,7 +80,7 @@
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/113c2cc8bb27ce80969995192ddb4c7f">txtar linguist mode comparison</a> (4 weeks ago)</li>
+  <li><a href="https://gist.github.com/113c2cc8bb27ce80969995192ddb4c7f">txtar linguist mode comparison</a> (1 month ago)</li>
   <li><a href="https://gist.github.com/108c498d99542aae3d5fe6623f1e7638">Life in Weeks - Dev</a> (2 months ago)</li>
   <li><a href="https://gist.github.com/b3b9f9d09be766b1a9199ff14eb199ee">perf gno cli</a> (4 months ago)</li>
   <li><a href="https://gist.github.com/d9ec000a568ed80a6a44cb7a4c619232">compilation of links related to go improvements (gno)</a> (4 months ago)</li>
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1700351031.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1700355792.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
