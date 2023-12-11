@@ -70,7 +70,7 @@
   
   <li><a href="https://github.com/atomone-hub/genesis">atomone-hub/genesis</a> - <a href="https://github.com/atomone-hub/genesis/pull/67">chore: ATOM1 -&gt; ATONE</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/atomone-hub/genesis">atomone-hub/genesis</a> - <a href="https://github.com/atomone-hub/genesis/pull/62">WIP chore: improve wording consistency</a> (5 days ago) </li>
+  <li><a href="https://github.com/atomone-hub/genesis">atomone-hub/genesis</a> - <a href="https://github.com/atomone-hub/genesis/pull/62">Chore: improve wording consistency</a> (5 days ago) </li>
   
   <li><a href="https://github.com/gnolang/guide">gnolang/guide</a> - <a href="https://github.com/gnolang/guide/pull/37">feat: proposal for international meetings</a> (6 days ago) </li>
   
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1702323832.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1702327424.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
