@@ -66,6 +66,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1440">chore: portal loop&#39;s homepage update</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/44">feat: add w3n rouen slides</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1436">chore: update top-level README.md</a> (2 days ago) </li>
@@ -73,8 +75,6 @@
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1435">feat: mix/gnolandtray</a> (3 days ago) </li>
   
   <li><a href="https://github.com/atomone-hub/genesis">atomone-hub/genesis</a> - <a href="https://github.com/atomone-hub/genesis/pull/69">feat: add FORKING.md</a> (1 week ago) </li>
-  
-  <li><a href="https://github.com/atomone-hub/genesis">atomone-hub/genesis</a> - <a href="https://github.com/atomone-hub/genesis/pull/67">chore: ATOM1 -&gt; ATONE</a> (1 week ago) </li>
   
   </ul>
 
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1702629828.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1702633425.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
