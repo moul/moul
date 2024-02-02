@@ -72,7 +72,7 @@
   
   <li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - <a href="https://github.com/moul/bits.manfred.life/pull/76">feat: web3 society</a> (2 weeks ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1531">chore: make gnokeykc use gnokey&#39;s basecfg</a> (2 weeks ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/1531">chore: make gnokeykc use gnokey&#39;s basecfg</a> (3 weeks ago) </li>
   
   <li><a href="https://github.com/gnolang/tx-archive">gnolang/tx-archive</a> - <a href="https://github.com/gnolang/tx-archive/pull/18">feat: export sdk context</a> (3 weeks ago) </li>
   
@@ -80,7 +80,7 @@
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/9e84a65f92a030baf5818260ded914ef">1789.ascii</a> (2 days ago)</li>
+  <li><a href="https://gist.github.com/9e84a65f92a030baf5818260ded914ef">1789.ascii</a> (3 days ago)</li>
   <li><a href="https://gist.github.com/113c2cc8bb27ce80969995192ddb4c7f">txtar linguist mode comparison</a> (3 months ago)</li>
   <li><a href="https://gist.github.com/ccf1e2aff64e7a1f0c5ca5e2d98d7e9a">gnokey maketx run</a> (3 months ago)</li>
   <li><a href="https://gist.github.com/108c498d99542aae3d5fe6623f1e7638">Life in Weeks - Dev</a> (4 months ago)</li>
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1706831103.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1706837667.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
