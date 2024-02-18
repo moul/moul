@@ -40,7 +40,7 @@
 <li><a href="https://github.com/moul/assh">moul/assh</a> (<a href="https://github.com/moul/assh/releases/tag/v2.16.0">v2.16.0</a>, 4 months ago) - :computer: make your ssh client smarter</li>
 <li><a href="https://github.com/moul/depviz">moul/depviz</a> (<a href="https://github.com/moul/depviz/releases/tag/v3.20.0">v3.20.0</a>, 5 months ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)</li>
 <li><a href="https://github.com/moul/depviz-action">moul/depviz-action</a> (<a href="https://github.com/moul/depviz-action/releases/tag/v1">v1</a>, 5 months ago) - GitHub action for moul.io/depviz</li>
-<li><a href="https://github.com/thingsym/hugo-theme-techdoc">thingsym/hugo-theme-techdoc</a> (<a href="https://github.com/thingsym/hugo-theme-techdoc/releases/tag/v1.0.0">v1.0.0</a>, 5 months ago) - The Techdoc is a Hugo Theme for technical documentation.</li>
+<li><a href="https://github.com/thingsym/hugo-theme-techdoc">thingsym/hugo-theme-techdoc</a> (<a href="https://github.com/thingsym/hugo-theme-techdoc/releases/tag/v1.0.0">v1.0.0</a>, 6 months ago) - The Techdoc is a Hugo Theme for technical documentation.</li>
 
 <li><a href="https://github.com/pulls?q=is%3Apr+author%3Amoul+is%3Amerged+">...</a></li>
 </ul>
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1708213419.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1708218169.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
