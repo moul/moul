@@ -36,8 +36,8 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.470.0">v2.470.0</a>, 4 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
-<li><a href="https://github.com/gnolang/faucet">gnolang/faucet</a> (<a href="https://github.com/gnolang/faucet/releases/tag/v0.1.3">v0.1.3</a>, 1 week ago) - A minimal and configurable Gno.land / TM2 faucet</li>
+<li><a href="https://github.com/berty/berty">berty/berty</a> (<a href="https://github.com/berty/berty/releases/tag/v2.470.0">v2.470.0</a>, 5 days ago) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network</li>
+<li><a href="https://github.com/gnolang/faucet">gnolang/faucet</a> (<a href="https://github.com/gnolang/faucet/releases/tag/v0.1.3">v0.1.3</a>, 2 weeks ago) - A minimal and configurable Gno.land / TM2 faucet</li>
 <li><a href="https://github.com/moul/assh">moul/assh</a> (<a href="https://github.com/moul/assh/releases/tag/v2.16.0">v2.16.0</a>, 5 months ago) - :computer: make your ssh client smarter</li>
 <li><a href="https://github.com/moul/depviz">moul/depviz</a> (<a href="https://github.com/moul/depviz/releases/tag/v3.20.0">v3.20.0</a>, 6 months ago) - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;)</li>
 <li><a href="https://github.com/moul/depviz-action">moul/depviz-action</a> (<a href="https://github.com/moul/depviz-action/releases/tag/v1">v1</a>, 6 months ago) - GitHub action for moul.io/depviz</li>
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1711496623.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1711501350.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
