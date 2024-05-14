@@ -36,7 +36,7 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/gnolang/gnonative">gnolang/gnonative</a> (<a href="https://github.com/gnolang/gnonative/releases/tag/v1.1.1">v1.1.1</a>, today) - Develop for Gno using your app&#39;s native language</li>
+<li><a href="https://github.com/gnolang/gnonative">gnolang/gnonative</a> (<a href="https://github.com/gnolang/gnonative/releases/tag/v1.2.0">v1.2.0</a>, today) - Develop for Gno using your app&#39;s native language</li>
 <li><a href="https://github.com/gnolang/supernova">gnolang/supernova</a> (<a href="https://github.com/gnolang/supernova/releases/tag/v1.2.0">v1.2.0</a>, 1 day ago) - A small and simple stress testing tool for the Gno Tendermint2 blockchain ⚛️</li>
 <li><a href="https://github.com/gnolang/faucet">gnolang/faucet</a> (<a href="https://github.com/gnolang/faucet/releases/tag/v0.2.1">v0.2.1</a>, 2 weeks ago) - A minimal and configurable Gno.land / TM2 faucet</li>
 <li><a href="https://github.com/moul/assh">moul/assh</a> (<a href="https://github.com/moul/assh/releases/tag/v2.16.0">v2.16.0</a>, 7 months ago) - :computer: make your ssh client smarter</li>
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1715697825.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1715701420.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
