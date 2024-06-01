@@ -36,7 +36,7 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/gnolang/dsocial">gnolang/dsocial</a> (<a href="https://github.com/gnolang/dsocial/releases/tag/v1.0.2">v1.0.2</a>, 1 day ago) - Experimental: Social apps, tools, researchs and dApps on Gno.land</li>
+<li><a href="https://github.com/gnolang/dsocial">gnolang/dsocial</a> (<a href="https://github.com/gnolang/dsocial/releases/tag/v1.0.2">v1.0.2</a>, 2 days ago) - Experimental: Social apps, tools, researchs and dApps on Gno.land</li>
 <li><a href="https://github.com/gnolang/gnonative">gnolang/gnonative</a> (<a href="https://github.com/gnolang/gnonative/releases/tag/v1.2.2">v1.2.2</a>, 1 week ago) - Develop for Gno using your app&#39;s native language</li>
 <li><a href="https://github.com/gnolang/supernova">gnolang/supernova</a> (<a href="https://github.com/gnolang/supernova/releases/tag/v1.2.0">v1.2.0</a>, 2 weeks ago) - A small and simple stress testing tool for the Gno Tendermint2 blockchain ⚛️</li>
 <li><a href="https://github.com/gnolang/faucet">gnolang/faucet</a> (<a href="https://github.com/gnolang/faucet/releases/tag/v0.2.1">v0.2.1</a>, 1 month ago) - A minimal and configurable Gno.land / TM2 faucet</li>
@@ -66,7 +66,7 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/91">chore: fix serbia post</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/blog">gnolang/blog</a> - <a href="https://github.com/gnolang/blog/pull/91">chore: fix serbia post</a> (2 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2184">feat: add r/sys/teams</a> (1 week ago) </li>
   
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1717199028.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1717203786.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
