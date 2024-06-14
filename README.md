@@ -36,7 +36,7 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/gnolang/dsocial">gnolang/dsocial</a> (<a href="https://github.com/gnolang/dsocial/releases/tag/v1.3.0">v1.3.0</a>, today) - Experimental: Social apps, tools, researchs and dApps on Gno.land</li>
+<li><a href="https://github.com/gnolang/dsocial">gnolang/dsocial</a> (<a href="https://github.com/gnolang/dsocial/releases/tag/v1.3.0">v1.3.0</a>, 1 day ago) - Experimental: Social apps, tools, researchs and dApps on Gno.land</li>
 <li><a href="https://github.com/gnolang/gnonative">gnolang/gnonative</a> (<a href="https://github.com/gnolang/gnonative/releases/tag/v1.2.2">v1.2.2</a>, 3 weeks ago) - Develop for Gno using your app&#39;s native language</li>
 <li><a href="https://github.com/gnolang/supernova">gnolang/supernova</a> (<a href="https://github.com/gnolang/supernova/releases/tag/v1.2.0">v1.2.0</a>, 1 month ago) - A small and simple stress testing tool for the Gno Tendermint2 blockchain ⚛️</li>
 <li><a href="https://github.com/gnolang/faucet">gnolang/faucet</a> (<a href="https://github.com/gnolang/faucet/releases/tag/v0.2.1">v0.2.1</a>, 1 month ago) - A minimal and configurable Gno.land / TM2 faucet</li>
@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2344">feat: govdao mvp improvement</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2344">feat: govdao mvp improvement</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2343">test: new txtar test for non-regression</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2343">test: new txtar test for non-regression</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2342">feat: add p/nestedpkg</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2342">feat: add p/nestedpkg</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2335">WIP dev/moul/upgrade g</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2335">WIP dev/moul/upgrade g</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2334">chore: add two new upgrade examples &#43; refactor existing ones</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2334">chore: add two new upgrade examples &#43; refactor existing ones</a> (2 days ago) </li>
   
   </ul>
 
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1718322221.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1718326977.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
