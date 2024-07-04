@@ -36,8 +36,8 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/gnolang/dsocial">gnolang/dsocial</a> (<a href="https://github.com/gnolang/dsocial/releases/tag/v1.7.0">v1.7.0</a>, 1 day ago) - Experimental: Social apps, tools, researchs and dApps on Gno.land</li>
-<li><a href="https://github.com/gnolang/gnonative">gnolang/gnonative</a> (<a href="https://github.com/gnolang/gnonative/releases/tag/v1.3.0">v1.3.0</a>, 6 days ago) - Develop for Gno using your app&#39;s native language</li>
+<li><a href="https://github.com/gnolang/dsocial">gnolang/dsocial</a> (<a href="https://github.com/gnolang/dsocial/releases/tag/v1.7.0">v1.7.0</a>, 2 days ago) - Experimental: Social apps, tools, researchs and dApps on Gno.land</li>
+<li><a href="https://github.com/gnolang/gnonative">gnolang/gnonative</a> (<a href="https://github.com/gnolang/gnonative/releases/tag/v1.3.0">v1.3.0</a>, 1 week ago) - Develop for Gno using your app&#39;s native language</li>
 <li><a href="https://github.com/gnolang/supernova">gnolang/supernova</a> (<a href="https://github.com/gnolang/supernova/releases/tag/v1.2.0">v1.2.0</a>, 1 month ago) - A small and simple stress testing tool for the Gno Tendermint2 blockchain ⚛️</li>
 <li><a href="https://github.com/gnolang/faucet">gnolang/faucet</a> (<a href="https://github.com/gnolang/faucet/releases/tag/v0.2.1">v0.2.1</a>, 2 months ago) - A minimal and configurable Gno.land / TM2 faucet</li>
 <li><a href="https://github.com/moul/assh">moul/assh</a> (<a href="https://github.com/moul/assh/releases/tag/v2.16.0">v2.16.0</a>, 9 months ago) - :computer: make your ssh client smarter</li>
@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2488">feat: add p/sys/boot &#43; codegen system for contracts</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2488">feat: add p/sys/boot &#43; codegen system for contracts</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2487">feat: add p/demo/entropy</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2487">feat: add p/demo/entropy</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2486">feat: add r/demo/users.ClaimRandomName</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2486">feat: add r/demo/users.ClaimRandomName</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2485">feat: add &#39;gno mod tidy -v --recursive&#39; flags</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2485">feat: add &#39;gno mod tidy -v --recursive&#39; flags</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2473">WIP dao pattern 3</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2473">WIP dao pattern 3</a> (3 days ago) </li>
   
   </ul>
 
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1720050227.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1720054981.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
