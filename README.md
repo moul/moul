@@ -66,6 +66,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2526">test(gnovm): add test for bounding issue</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2516">feat: add r/grc20reg &#43; p/fqname</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/54">feat: add slides for Nebular Summit 2024</a> (1 day ago) </li>
@@ -73,8 +75,6 @@
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2510">feat: add r/demo/atomicswap</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2488">feat: add p/sys/boot &#43; codegen system for contracts</a> (3 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2487">feat: add p/demo/entropy</a> (3 days ago) </li>
   
   </ul>
 
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1720280619.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1720284222.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
