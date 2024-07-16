@@ -36,7 +36,7 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/gnolang/dsocial">gnolang/dsocial</a> (<a href="https://github.com/gnolang/dsocial/releases/tag/v1.7.1">v1.7.1</a>, 4 days ago) - Experimental: Social apps, tools, researchs and dApps on Gno.land</li>
+<li><a href="https://github.com/gnolang/dsocial">gnolang/dsocial</a> (<a href="https://github.com/gnolang/dsocial/releases/tag/v1.7.1">v1.7.1</a>, 5 days ago) - Experimental: Social apps, tools, researchs and dApps on Gno.land</li>
 <li><a href="https://github.com/gnolang/faucet">gnolang/faucet</a> (<a href="https://github.com/gnolang/faucet/releases/tag/v0.3.0">v0.3.0</a>, 1 week ago) - A minimal and configurable Gno.land / TM2 faucet</li>
 <li><a href="https://github.com/gnolang/gnonative">gnolang/gnonative</a> (<a href="https://github.com/gnolang/gnonative/releases/tag/v1.3.0">v1.3.0</a>, 2 weeks ago) - Develop for Gno using your app&#39;s native language</li>
 <li><a href="https://github.com/gnolang/supernova">gnolang/supernova</a> (<a href="https://github.com/gnolang/supernova/releases/tag/v1.2.0">v1.2.0</a>, 2 months ago) - A small and simple stress testing tool for the Gno Tendermint2 blockchain ⚛️</li>
@@ -66,22 +66,22 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2588">chore: trigger gnoland CI when updating examples/</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2588">chore: trigger gnoland CI when updating examples/</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2587">chore: fix ci</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2587">chore: fix ci</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2584">feat: add p/avl/pager</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2584">feat: add p/avl/pager</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2583">feat(r/gnoland/home): add AdminSetOverride</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2583">feat(r/gnoland/home): add AdminSetOverride</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gfanton/workshop-nebular">gfanton/workshop-nebular</a> - <a href="https://github.com/gfanton/workshop-nebular/pull/1">chore: update README.md</a> (3 days ago) </li>
+  <li><a href="https://github.com/gfanton/workshop-nebular">gfanton/workshop-nebular</a> - <a href="https://github.com/gfanton/workshop-nebular/pull/1">chore: update README.md</a> (4 days ago) </li>
   
   </ul>
 
   <h4>📓 Gists I wrote</h4>
   <ul>
   <li><a href="https://gist.github.com/9e84a65f92a030baf5818260ded914ef">1789.ascii</a> (5 months ago)</li>
-  <li><a href="https://gist.github.com/113c2cc8bb27ce80969995192ddb4c7f">txtar linguist mode comparison</a> (8 months ago)</li>
+  <li><a href="https://gist.github.com/113c2cc8bb27ce80969995192ddb4c7f">txtar linguist mode comparison</a> (9 months ago)</li>
   <li><a href="https://gist.github.com/ccf1e2aff64e7a1f0c5ca5e2d98d7e9a">gnokey maketx run</a> (9 months ago)</li>
   <li><a href="https://gist.github.com/108c498d99542aae3d5fe6623f1e7638">Life in Weeks - Dev</a> (10 months ago)</li>
   
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1721087020.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1721091796.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
