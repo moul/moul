@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
-:atom_symbol: VP Eng. at [Gno.land](https://gno.land), censorship resistant social coordination<br/>
+:atom_symbol: CTO & Gnome at [Gno.land](https://gno.land), censorship resistant social coordination<br/>
 :hammer: Founder of [Berty Technologies](https://berty.tech), censorship resistant messaging<br/>
 :writing_hand: Writing at [bits.manfred.life](https://bits.manfred.life)<br/>
 :package: Other links on [moul.link](https://www.moul.link/)<br/>
