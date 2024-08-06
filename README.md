@@ -36,7 +36,7 @@
 
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
-<li><a href="https://github.com/gnolang/dsocial">gnolang/dsocial</a> (<a href="https://github.com/gnolang/dsocial/releases/tag/v1.10.1">v1.10.1</a>, today) - Experimental: Social apps, tools, researchs and dApps on Gno.land</li>
+<li><a href="https://github.com/gnolang/dsocial">gnolang/dsocial</a> (<a href="https://github.com/gnolang/dsocial/releases/tag/v1.10.1">v1.10.1</a>, 1 day ago) - Experimental: Social apps, tools, researchs and dApps on Gno.land</li>
 <li><a href="https://github.com/gnolang/supernova">gnolang/supernova</a> (<a href="https://github.com/gnolang/supernova/releases/tag/v1.3.1">v1.3.1</a>, 1 week ago) - A small and simple stress testing tool for the Gno Tendermint2 blockchain ⚛️</li>
 <li><a href="https://github.com/gnolang/faucet">gnolang/faucet</a> (<a href="https://github.com/gnolang/faucet/releases/tag/v0.3.0">v0.3.0</a>, 1 month ago) - A minimal and configurable Gno.land / TM2 faucet</li>
 <li><a href="https://github.com/moul/assh">moul/assh</a> (<a href="https://github.com/moul/assh/releases/tag/v2.16.0">v2.16.0</a>, 10 months ago) - :computer: make your ssh client smarter</li>
@@ -66,9 +66,9 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2617">WIP feat: contribs/gnolive poc</a> (1 week ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2617">WIP feat: contribs/gnolive poc</a> (2 weeks ago) </li>
   
-  <li><a href="https://github.com/gnolang/hackerspace">gnolang/hackerspace</a> - <a href="https://github.com/gnolang/hackerspace/pull/74">chore: add ansi by beatscribe</a> (1 week ago) </li>
+  <li><a href="https://github.com/gnolang/hackerspace">gnolang/hackerspace</a> - <a href="https://github.com/gnolang/hackerspace/pull/74">chore: add ansi by beatscribe</a> (2 weeks ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2588">chore: trigger gnoland CI when updating examples/</a> (3 weeks ago) </li>
   
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1722901424.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1722906191.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
