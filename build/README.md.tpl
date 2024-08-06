@@ -2,8 +2,8 @@
 
 <img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
-:atom_symbol: CTO & Gnome at [Gno.land](https://gno.land), censorship resistant social coordination<br/>
-:hammer: Founder of [Berty Technologies](https://berty.tech), censorship resistant messaging<br/>
+:atom_symbol: Gnome & CTO at [Gno.land](https://gno.land), Resistance Infrastructure for Societal Evolution and Social Coordination<br/>
+:hammer: Founder of [Berty Technologies](https://berty.tech), Unstoppable, Censorship-Resistant P2P Communication<br/>
 :writing_hand: Writing at [bits.manfred.life](https://bits.manfred.life)<br/>
 :package: Other links on [moul.link](https://www.moul.link/)<br/>
 
@@ -20,13 +20,14 @@
 
 <h4>🌱 Last projects</h4>
 <ul>
-{{range recentRepos 9}}
+{{range recentRepos 19}}
 <li><a href="{{.URL}}">{{.Name}}</a> - {{.Description}}</li>
 {{- end}}
 <li><a href="https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories">...</a></li>
 <!--- [...](https://github.com/search?q=user%3Amoul+user%3Amoul)-->
 </ul>
 
+<!--
 <h4>🔭 Recent Releases I Worked On</h4>
 <ul>
 {{range recentReleases 5}}
@@ -36,6 +37,7 @@
 {{- end}}
 <li><a href="https://github.com/pulls?q=is%3Apr+author%3Amoul+is%3Amerged+">...</a></li>
 </ul>
+-->
 
 <h4>❤️ These awesome people sponsor me (thank you!)</h4>
 <ul>
