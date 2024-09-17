@@ -91,11 +91,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/omoghaoghenemano">omoghaoghenemano</a>
   <li><a href="https://github.com/juliofleitas">juliofleitas</a>
   <li><a href="https://github.com/mmeents">mmeents</a>
   <li><a href="https://github.com/Connor9994">Connor9994</a>
   <li><a href="https://github.com/marou9916">marou9916</a>
-  <li><a href="https://github.com/eplord">eplord</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1726562713.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1726566220.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
