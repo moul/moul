@@ -67,7 +67,7 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2865">Revert &#34;chore: rename r/manfred -&gt; r/moul (#2820)&#34;</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2865">fix(portal-loop): hotfix revert &#34;chore: rename r/manfred -&gt; r/moul (#2820)&#34;</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2844">feat(examples/moul): ownable, entity, safe</a> (3 days ago) </li>
   
@@ -91,11 +91,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/eust-w">eust-w</a>
   <li><a href="https://github.com/Khalilheyrani6367">Khalilheyrani6367</a>
   <li><a href="https://github.com/iamoeg">iamoeg</a>
   <li><a href="https://github.com/cattle2002">cattle2002</a>
   <li><a href="https://github.com/juliofleitas">juliofleitas</a>
-  <li><a href="https://github.com/mmeents">mmeents</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1727448228.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1727451817.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
