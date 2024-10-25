@@ -67,6 +67,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3024">chore: revert &#34;fix(portal-loop): hotfix revert &#34;chore: rename r/manfred -&gt; r/moul (#2820)&#34; (#2865)&#34;</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3003">feat: add r/sys/params &#43; params genesis support</a> (3 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2998">chore(codecov): ignore generated files</a> (3 days ago) </li>
@@ -74,8 +76,6 @@
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2993">chore: remove vmkeeper.maxcycles</a> (4 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2991">chore(cmd/gnoland): disable --flag-config-path</a> (4 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/2990">chore: remove unused flag</a> (4 days ago) </li>
   
   </ul>
 
@@ -92,10 +92,10 @@
   <ul>
   
   <li><a href="https://github.com/thaewrapt">thaewrapt</a>
-  <li><a href="https://github.com/DarmorGamz">DarmorGamz</a>
   <li><a href="https://github.com/alkhachatryan">alkhachatryan</a>
   <li><a href="https://github.com/thanhhaudev">thanhhaudev</a>
   <li><a href="https://github.com/trinhminhtriet">trinhminhtriet</a>
+  <li><a href="https://github.com/Mmagkooo">Mmagkooo</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1729860788.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1729863836.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
