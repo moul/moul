@@ -67,6 +67,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3090">test: disable codecov blocking PRs until it understands coverage</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3088">test(ci): coverpkg=gno.land/... for txtar tests</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/.github">gnolang/.github</a> - <a href="https://github.com/gnolang/.github/pull/5">chore: readme refacto</a> (4 days ago) </li>
@@ -74,8 +76,6 @@
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3055">chore(gno): intended json on filetests&#39;s Events: directives</a> (1 week ago) </li>
   
   <li><a href="https://github.com/gnolang/tx-exports">gnolang/tx-exports</a> - <a href="https://github.com/gnolang/tx-exports/pull/23">chore: fixes for https://github.com/gnolang/gno/pull/3024</a> (2 weeks ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3024">chore: revert &#34;fix(portal-loop): hotfix revert &#34;chore: rename r/manfred -&gt; r/moul (#2820)&#34; (#2865)&#34;</a> (2 weeks ago) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1731059019.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1731062640.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
