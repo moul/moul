@@ -66,21 +66,21 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3120">feat(x/params): add lru caching</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3120">feat(x/params): add lru caching</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3100">feat: add p/moul/mdtable</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3100">feat: add p/moul/mdtable</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/gnoverse/.github">gnoverse/.github</a> - <a href="https://github.com/gnoverse/.github/pull/1">chore: Gno.land &gt; gno.land</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnoverse/.github">gnoverse/.github</a> - <a href="https://github.com/gnoverse/.github/pull/1">chore: Gno.land &gt; gno.land</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3094">feat: add p/moul/realmpath</a> (6 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3094">feat: add p/moul/realmpath</a> (1 week ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3091">ci: add go caching</a> (6 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3091">ci: add go caching</a> (1 week ago) </li>
   
   </ul>
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/f28f4b12864fd40a2ca6b6c20294da27">std.gno</a> (2 weeks ago)</li>
+  <li><a href="https://gist.github.com/f28f4b12864fd40a2ca6b6c20294da27">std.gno</a> (3 weeks ago)</li>
   <li><a href="https://gist.github.com/9e84a65f92a030baf5818260ded914ef">1789.ascii</a> (9 months ago)</li>
   <li><a href="https://gist.github.com/113c2cc8bb27ce80969995192ddb4c7f">txtar linguist mode comparison</a> (1 year ago)</li>
   <li><a href="https://gist.github.com/ccf1e2aff64e7a1f0c5ca5e2d98d7e9a">gnokey maketx run</a> (1 year ago)</li>
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1731627838.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1731636742.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
