@@ -67,11 +67,11 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3175">feat: r/docs/home -&gt; r/docs</a> (3 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3175">feat: r/docs/home -&gt; r/docs</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3169">feat(examples): p/moul/xdao, composable DAO framework</a> (4 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3169">feat(examples): p/moul/xdao, composable DAO framework</a> (5 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3160">feat: add r/docs/home</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3160">feat: add r/docs/home</a> (6 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3135">feat: add grc20reg that works... today</a> (1 week ago) </li>
   
@@ -82,7 +82,7 @@
   <h4>📓 Gists I wrote</h4>
   <ul>
   <li><a href="https://gist.github.com/f28f4b12864fd40a2ca6b6c20294da27">std.gno</a> (1 month ago)</li>
-  <li><a href="https://gist.github.com/9e84a65f92a030baf5818260ded914ef">1789.ascii</a> (9 months ago)</li>
+  <li><a href="https://gist.github.com/9e84a65f92a030baf5818260ded914ef">1789.ascii</a> (10 months ago)</li>
   <li><a href="https://gist.github.com/113c2cc8bb27ce80969995192ddb4c7f">txtar linguist mode comparison</a> (1 year ago)</li>
   <li><a href="https://gist.github.com/ccf1e2aff64e7a1f0c5ca5e2d98d7e9a">gnokey maketx run</a> (1 year ago)</li>
   
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1732491817.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1732496635.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
