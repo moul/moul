@@ -74,7 +74,7 @@
 <!--
   <h4>📜 Recent blog posts</h4>
   <ul>
-  {{range rss "https://manfred.life/blog/index.xml" 5}}
+  {{range rss "https://bits.manfred.life/index.xml" 5}}
   <li><a href="{{.URL}}">{{.Title}}</a> ({{humanize .PublishedAt}})</li>
   {{- end}}
   </ul>
