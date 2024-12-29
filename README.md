@@ -21,6 +21,7 @@
 <h4>🌱 Last projects</h4>
 <ul>
 
+<li><a href="https://github.com/moul/gno-moul-home-web25">moul/gno-moul-home-web25</a> - </li>
 <li><a href="https://github.com/moul/ansicat">moul/ansicat</a> - display ANSI files in terminal</li>
 <li><a href="https://github.com/moul/vanitycal">moul/vanitycal</a> - generates iCal files with anniversary dates</li>
 <li><a href="https://github.com/moul/talks">moul/talks</a> - sources for my talks and workshops</li>
@@ -30,7 +31,6 @@
 <li><a href="https://github.com/moul/gno-sync-examples">moul/gno-sync-examples</a> - </li>
 <li><a href="https://github.com/moul/life-in-weeks">moul/life-in-weeks</a> - Life in weeks</li>
 <li><a href="https://github.com/moul/txtar">moul/txtar</a> - Generate txtar from CLI</li>
-<li><a href="https://github.com/moul/bits.manfred.life">moul/bits.manfred.life</a> - Manfred’s Life. Bit by Bit.</li>
 <li><a href="https://github.com/moul/mdcodec">moul/mdcodec</a> - convert Go structures to and from readable Markdown (codec).</li>
 <li><a href="https://github.com/moul/mdtable">moul/mdtable</a> - csv/json to markdown tables with customizable format</li>
 <li><a href="https://github.com/moul/sandbox">moul/sandbox</a> - a repo to try things wihtout caring.</li>
@@ -67,20 +67,16 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3175">feat: r/docs/home -&gt; r/docs</a> (6 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3422">feat(examples): add p/moul/memo(ize)</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3169">feat(examples): p/moul/xdao, composable DAO framework</a> (1 week ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3160">feat: add r/docs/home</a> (1 week ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3135">feat: add grc20reg that works... today</a> (1 week ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/3419">feat(examples): add p/moul/fp</a> (1 day ago) </li>
   
   </ul>
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/f28f4b12864fd40a2ca6b6c20294da27">std.gno</a> (1 month ago)</li>
-  <li><a href="https://gist.github.com/9e84a65f92a030baf5818260ded914ef">1789.ascii</a> (10 months ago)</li>
+  <li><a href="https://gist.github.com/f28f4b12864fd40a2ca6b6c20294da27">std.gno</a> (2 months ago)</li>
+  <li><a href="https://gist.github.com/9e84a65f92a030baf5818260ded914ef">1789.ascii</a> (11 months ago)</li>
   <li><a href="https://gist.github.com/113c2cc8bb27ce80969995192ddb4c7f">txtar linguist mode comparison</a> (1 year ago)</li>
   <li><a href="https://gist.github.com/ccf1e2aff64e7a1f0c5ca5e2d98d7e9a">gnokey maketx run</a> (1 year ago)</li>
   
@@ -89,11 +85,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
-  <li><a href="https://github.com/luopengift">luopengift</a>
-  <li><a href="https://github.com/Kevindevstar">Kevindevstar</a>
-  <li><a href="https://github.com/cpu-ram">cpu-ram</a>
-  <li><a href="https://github.com/boosterl">boosterl</a>
-  <li><a href="https://github.com/jelspace">jelspace</a>
+  <li><a href="https://github.com/reed6868">reed6868</a>
+  <li><a href="https://github.com/rqoq">rqoq</a>
+  <li><a href="https://github.com/thegithubmenace">thegithubmenace</a>
+  <li><a href="https://github.com/sakul-budhathoki">sakul-budhathoki</a>
+  <li><a href="https://github.com/hecola">hecola</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -123,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1732733239.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1735486618.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
