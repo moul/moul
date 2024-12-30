@@ -86,10 +86,10 @@
   <ul>
   
   <li><a href="https://github.com/reed6868">reed6868</a>
-  <li><a href="https://github.com/rqoq">rqoq</a>
   <li><a href="https://github.com/thegithubmenace">thegithubmenace</a>
   <li><a href="https://github.com/sakul-budhathoki">sakul-budhathoki</a>
   <li><a href="https://github.com/hecola">hecola</a>
+  <li><a href="https://github.com/izikdepth">izikdepth</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1735548312.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1735551822.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
