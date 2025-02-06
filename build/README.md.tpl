@@ -1,12 +1,12 @@
-## Greetings from France 🇫🇷👋, and Interwebs 🚀⚛️
+## greetings from France 🇫🇷👋
 
 <img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
-:atom_symbol: Gnome & CTO at [Gno.land](https://gno.land), Resistance Infrastructure for Societal Evolution and Social Coordination<br/>
-:hammer: Founder of [Berty Technologies](https://berty.tech), Unstoppable, Censorship-Resistant P2P Communication<br/>
-:writing_hand: Writing at [bits.manfred.life](https://bits.manfred.life)<br/>
-:package: Other links on [moul.link](https://www.moul.link/)<br/>
+:atom_symbol: gnome at [gno.land](https://gno.land), resistance infrastructure<br/>
+:hammer: founder of [berty technologies](https://berty.tech), unstoppable communication<br/>
+:writing_hand: Writing at [manfred.life](https://manfred.life)<br/>
 
+<!--:package: Other links on [moul.link](https://www.moul.link/)<br/>-->
 <!--:cloud: Ex-creator, now Web3 advisor at [Scaleway](https://scaleway.com)<br/>-->
 <!--:briefcase: Consulting at [PMG Consulting](https://pmg.tools)<br/>-->
 <!--:speaking_head: Meetups at [Paris P2P](https://p2p.paris) and [Web3 Normandy](https://web3normandy.com)<br/>-->
