@@ -1,11 +1,11 @@
-## Greetings from France 🇫🇷👋, and Interwebs 🚀⚛️
+## greetings from France 🇫🇷👋
 
 <img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
-:atom_symbol: Gnome & CTO at [Gno.land](https://gno.land), Resistance Infrastructure for Societal Evolution and Social Coordination<br/>
-:hammer: Founder of [Berty Technologies](https://berty.tech), Unstoppable, Censorship-Resistant P2P Communication<br/>
-:writing_hand: Writing at [bits.manfred.life](https://bits.manfred.life)<br/>
-:package: Other links on [moul.link](https://www.moul.link/)<br/>
+:atom_symbol: gnome at [gno.land](https://gno.land), resistance infrastructure<br/>
+:hammer: founder of [berty technologies](https://berty.tech), unstoppable communication<br/>
+:writing_hand: Writing at [manfred.life](https://manfred.life)<br/>
+
 
 
 
@@ -121,7 +121,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1738878221.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1738880391.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
