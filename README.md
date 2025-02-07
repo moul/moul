@@ -4,7 +4,7 @@
 
 :atom_symbol: gnome at [gno.land](https://gno.land), resistance infrastructure<br/>
 :hammer: founder of [berty technologies](https://berty.tech), unstoppable communication<br/>
-:writing_hand: Writing at [manfred.life](https://manfred.life)<br/>
+:writing_hand: writing at [manfred.life](https://manfred.life)<br/>
 
 
 
@@ -18,7 +18,7 @@
 
 <details>
 
-<h4>🌱 Last projects</h4>
+<h4>🌱 last projects</h4>
 <ul>
 
 <li><a href="https://github.com/moul/revbro">moul/revbro</a> - </li>
@@ -46,7 +46,7 @@
 
 
 
-<h4>❤️ These awesome people sponsor me (thank you!)</h4>
+<h4>❤️ these awesome people sponsor me (thank you!)</h4>
 <ul>
 
 <li><a href="https://github.com/mingcheng">mingcheng</a></li>
@@ -117,7 +117,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1738917878.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1738919698.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
