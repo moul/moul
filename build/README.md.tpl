@@ -4,7 +4,7 @@
 
 :atom_symbol: gnome at [gno.land](https://gno.land), resistance infrastructure<br/>
 :hammer: founder of [berty technologies](https://berty.tech), unstoppable communication<br/>
-:writing_hand: Writing at [manfred.life](https://manfred.life)<br/>
+:writing_hand: writing at [manfred.life](https://manfred.life)<br/>
 
 <!--:package: Other links on [moul.link](https://www.moul.link/)<br/>-->
 <!--:cloud: Ex-creator, now Web3 advisor at [Scaleway](https://scaleway.com)<br/>-->
@@ -18,7 +18,7 @@
 
 <details>
 
-<h4>🌱 Last projects</h4>
+<h4>🌱 last projects</h4>
 <ul>
 {{range recentRepos 19}}
 <li><a href="{{.URL}}">{{.Name}}</a> - {{.Description}}</li>
@@ -28,7 +28,7 @@
 </ul>
 
 <!--
-<h4>🔭 Recent Releases I Worked On</h4>
+<h4>🔭 recent releases i worked on</h4>
 <ul>
 {{range recentReleases 5}}
 {{- if not (or (eq .Name "moul/skip") (eq .Name "moul/another-skip")) -}}
@@ -39,7 +39,7 @@
 </ul>
 -->
 
-<h4>❤️ These awesome people sponsor me (thank you!)</h4>
+<h4>❤️ these awesome people sponsor me (thank you!)</h4>
 <ul>
 {{range sponsors 10}}
 <li><a href="{{.User.URL}}">{{.User.Login}}</a></li>
