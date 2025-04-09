@@ -52,7 +52,6 @@
 <li><a href="https://github.com/mingcheng">mingcheng</a></li>
 <li><a href="https://github.com/creack">creack</a></li>
 <li><a href="https://github.com/shawnharmsen">shawnharmsen</a></li>
-<li><a href="https://github.com/Z-a-r-a-k-i">Z-a-r-a-k-i</a></li>
 <li><a href="https://github.com/sponsors/moul/">...</a></li>
 </ul>
 
@@ -125,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1744195642.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1744199021.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
