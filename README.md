@@ -66,11 +66,11 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/nixpkgs">moul/nixpkgs</a> - <a href="https://github.com/moul/nixpkgs/pull/109">feat: bump</a> (2 days ago) </li>
+  <li><a href="https://github.com/moul/nixpkgs">moul/nixpkgs</a> - <a href="https://github.com/moul/nixpkgs/pull/109">feat: bump</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4091">chore(docs): depriorize awesome-gno &#43; update desc</a> (4 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4091">chore(docs): depriorize awesome-gno &#43; update desc</a> (5 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno-by-example">gnolang/gno-by-example</a> - <a href="https://github.com/gnolang/gno-by-example/pull/204">chore: disable gno-by-example</a> (4 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno-by-example">gnolang/gno-by-example</a> - <a href="https://github.com/gnolang/gno-by-example/pull/204">chore: disable gno-by-example</a> (5 days ago) </li>
   
   <li><a href="https://github.com/gnolang/docs.gno.land">gnolang/docs.gno.land</a> - <a href="https://github.com/gnolang/docs.gno.land/pull/64">chore: update CODEOWNERS</a> (1 week ago) </li>
   
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1744587863.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1744592646.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
