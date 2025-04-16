@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4140">chore: move &#39;gno tool lint&#39; to &#39;gno lint&#39;</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4140">chore: move &#39;gno tool lint&#39; to &#39;gno lint&#39;</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4132">chore(examples): update users&#39; preregister explanations</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4132">chore(examples): update users&#39; preregister explanations</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/moul/nixpkgs">moul/nixpkgs</a> - <a href="https://github.com/moul/nixpkgs/pull/109">feat: bump</a> (4 days ago) </li>
+  <li><a href="https://github.com/moul/nixpkgs">moul/nixpkgs</a> - <a href="https://github.com/moul/nixpkgs/pull/109">feat: bump</a> (5 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4091">chore(docs): depriorize awesome-gno &#43; update desc</a> (6 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4091">chore(docs): depriorize awesome-gno &#43; update desc</a> (1 week ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno-by-example">gnolang/gno-by-example</a> - <a href="https://github.com/gnolang/gno-by-example/pull/204">chore: disable gno-by-example</a> (6 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno-by-example">gnolang/gno-by-example</a> - <a href="https://github.com/gnolang/gno-by-example/pull/204">chore: disable gno-by-example</a> (1 week ago) </li>
   
   </ul>
 
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1744760620.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1744765445.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
