@@ -4,8 +4,8 @@
 
 :atom_symbol: gnome at [gno.land](https://gno.land), resistance infrastructure<br/>
 :hammer: founder of [berty technologies](https://berty.tech), unstoppable communication<br/>
-:writing_hand: writing at [manfred.life](https://manfred.life)<br/>
 
+<!--:writing_hand: writing at [manfred.life](https://manfred.life)<br/>-->
 <!--:package: Other links on [moul.link](https://www.moul.link/)<br/>-->
 <!--:cloud: Ex-creator, now Web3 advisor at [Scaleway](https://scaleway.com)<br/>-->
 <!--:briefcase: Consulting at [PMG Consulting](https://pmg.tools)<br/>-->
