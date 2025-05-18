@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4291">feat(examples): add p/sys/genesis</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4291">feat(examples): add p/sys/genesis</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/3">chore: fix markdown syntax</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/3">chore: fix markdown syntax</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/allinbits/labs">allinbits/labs</a> - <a href="https://github.com/allinbits/labs/pull/3">direction for not competing with gnodev</a> (2 days ago) </li>
+  <li><a href="https://github.com/allinbits/labs">allinbits/labs</a> - <a href="https://github.com/allinbits/labs/pull/3">direction for not competing with gnodev</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4284">feat: add misc/install.sh oneline install script</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4284">feat: add misc/install.sh oneline install script</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/2">feat: v1</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/2">feat: v1</a> (3 days ago) </li>
   
   </ul>
 
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1747525414.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1747530265.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
