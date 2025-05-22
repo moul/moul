@@ -66,13 +66,13 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/.github">gnolang/.github</a> - <a href="https://github.com/gnolang/.github/pull/7">chore: update README.md</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/.github">gnolang/.github</a> - <a href="https://github.com/gnolang/.github/pull/7">chore: update README.md</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnoverse/gnopls">gnoverse/gnopls</a> - <a href="https://github.com/gnoverse/gnopls/pull/33">chore: create CODEOWNERS</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnoverse/gnopls">gnoverse/gnopls</a> - <a href="https://github.com/gnoverse/gnopls/pull/33">chore: create CODEOWNERS</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnoverse/gnopls">gnoverse/gnopls</a> - <a href="https://github.com/gnoverse/gnopls/pull/25">chore: fix link</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnoverse/gnopls">gnoverse/gnopls</a> - <a href="https://github.com/gnoverse/gnopls/pull/25">chore: fix link</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/4">chore: update make install</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/4">chore: update make install</a> (2 days ago) </li>
   
   </ul>
 
@@ -122,7 +122,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1747871051.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1747875849.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
