@@ -66,6 +66,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4503">feat: split gnobro from gnodev</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4499">feat: add r/docs/moul_md</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4496">feat: add r/docs/mdpack</a> (1 day ago) </li>
@@ -118,7 +120,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1752223715.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1752227162.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
