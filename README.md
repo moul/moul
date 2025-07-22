@@ -90,7 +90,7 @@
   <li><a href="https://github.com/XiaomingX">XiaomingX</a>
   <li><a href="https://github.com/Abbas004tech">Abbas004tech</a>
   <li><a href="https://github.com/YusufCaymazZ">YusufCaymazZ</a>
-  <li><a href="https://github.com/oluiscabral">oluiscabral</a>
+  <li><a href="https://github.com/f-maury">f-maury</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -120,7 +120,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1753170345.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1753174170.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
