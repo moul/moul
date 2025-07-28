@@ -68,7 +68,7 @@
   
   <li><a href="https://github.com/gnolang/genesis">gnolang/genesis</a> - <a href="https://github.com/gnolang/genesis/pull/54">feat: minimal constitution (extension)</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/genesis">gnolang/genesis</a> - <a href="https://github.com/gnolang/genesis/pull/53">feat: minimal constitution</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/genesis">gnolang/genesis</a> - <a href="https://github.com/gnolang/genesis/pull/53">feat: minimal constitution (replacement)</a> (1 day ago) </li>
   
   <li><a href="https://github.com/moul/prefix">moul/prefix</a> - <a href="https://github.com/moul/prefix/pull/208">feat: various improvements</a> (1 day ago) </li>
   
@@ -122,7 +122,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1753678560.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1753681781.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
