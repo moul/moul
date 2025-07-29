@@ -66,13 +66,13 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4586">feat: add &#39;gnokey add -entropy&#39;</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4585">test(vmkeeper): add determinism unit test</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4584">fix(gnovm): prevent cross-realm privilege escalation</a> (1 day ago) </li>
   
   <li><a href="https://github.com/gnolang/genesis">gnolang/genesis</a> - <a href="https://github.com/gnolang/genesis/pull/54">feat: minimal constitution (extension)</a> (2 days ago) </li>
-  
-  <li><a href="https://github.com/gnolang/genesis">gnolang/genesis</a> - <a href="https://github.com/gnolang/genesis/pull/53">feat: minimal constitution (replacement)</a> (2 days ago) </li>
   
   </ul>
 
@@ -88,11 +88,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/24601">24601</a>
   <li><a href="https://github.com/haunt98">haunt98</a>
   <li><a href="https://github.com/thebeyond6789">thebeyond6789</a>
   <li><a href="https://github.com/RedLKB">RedLKB</a>
   <li><a href="https://github.com/XiaomingX">XiaomingX</a>
-  <li><a href="https://github.com/Abbas004tech">Abbas004tech</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -122,7 +122,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1753751081.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1753756294.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
