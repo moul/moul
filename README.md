@@ -66,9 +66,9 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4594">test(gnovm): proof that ephemeral packages (maketx run) should share private package behaviors</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4594">test(gnovm): proof that ephemeral packages (maketx run) should share private package behaviors</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4586">feat: add &#39;gnokey add -entropy&#39;</a> (6 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4586">feat: add &#39;gnokey add -entropy&#39;</a> (1 week ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4585">test(vmkeeper): add determinism unit test</a> (1 week ago) </li>
   
@@ -88,11 +88,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
-  <li><a href="https://github.com/sarkarshuvojit">sarkarshuvojit</a>
   <li><a href="https://github.com/elysee-01">elysee-01</a>
   <li><a href="https://github.com/CODERPP10">CODERPP10</a>
   <li><a href="https://github.com/hybertrob">hybertrob</a>
   <li><a href="https://github.com/24601">24601</a>
+  <li><a href="https://github.com/haunt98">haunt98</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -122,7 +122,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1754351151.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1754355872.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
