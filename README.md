@@ -66,13 +66,13 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/jaekwon/openpgp">jaekwon/openpgp</a> - <a href="https://github.com/jaekwon/openpgp/pull/5">refactor: replace XOR folding with SHA256 hashing</a> (5 days ago) </li>
+  <li><a href="https://github.com/jaekwon/openpgp">jaekwon/openpgp</a> - <a href="https://github.com/jaekwon/openpgp/pull/5">refactor: replace XOR folding with SHA256 hashing</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/jaekwon/openpgp">jaekwon/openpgp</a> - <a href="https://github.com/jaekwon/openpgp/pull/4">WIP fix: make RSA key generation deterministic</a> (5 days ago) </li>
+  <li><a href="https://github.com/jaekwon/openpgp">jaekwon/openpgp</a> - <a href="https://github.com/jaekwon/openpgp/pull/4">WIP fix: make RSA key generation deterministic</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/jaekwon/openpgp">jaekwon/openpgp</a> - <a href="https://github.com/jaekwon/openpgp/pull/3">feat: add entropy parser for lossless dice and card format conversion</a> (6 days ago) </li>
+  <li><a href="https://github.com/jaekwon/openpgp">jaekwon/openpgp</a> - <a href="https://github.com/jaekwon/openpgp/pull/3">feat: add entropy parser for lossless dice and card format conversion</a> (1 week ago) </li>
   
-  <li><a href="https://github.com/jaekwon/openpgp">jaekwon/openpgp</a> - <a href="https://github.com/jaekwon/openpgp/pull/2">chore: add CLI flags &#43; debug output</a> (6 days ago) </li>
+  <li><a href="https://github.com/jaekwon/openpgp">jaekwon/openpgp</a> - <a href="https://github.com/jaekwon/openpgp/pull/2">chore: add CLI flags &#43; debug output</a> (1 week ago) </li>
   
   <li><a href="https://github.com/jaekwon/openpgp">jaekwon/openpgp</a> - <a href="https://github.com/jaekwon/openpgp/pull/1">chore: go mod init &#43; extract tests</a> (1 week ago) </li>
   
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1758753818.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1758762236.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
