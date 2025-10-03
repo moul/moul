@@ -22,6 +22,7 @@
 <ul>
 
 <li><a href="https://github.com/moul/shortcuts-if-false">moul/shortcuts-if-false</a> - Apple Shortcuts custom if-false control flow block</li>
+<li><a href="https://github.com/moul/gno-1">moul/gno-1</a> - gno dev stuff</li>
 <li><a href="https://github.com/moul/revbro">moul/revbro</a> - </li>
 <li><a href="https://github.com/moul/gno-moul-home-web25">moul/gno-moul-home-web25</a> - </li>
 <li><a href="https://github.com/moul/ansicat">moul/ansicat</a> - display ANSI files in terminal</li>
@@ -39,7 +40,6 @@
 <li><a href="https://github.com/moul/assets">moul/assets</a> - </li>
 <li><a href="https://github.com/moul/idearium">moul/idearium</a> - 💡 portfolio of imaginings</li>
 <li><a href="https://github.com/moul/depviz-action">moul/depviz-action</a> - GitHub action for moul.io/depviz</li>
-<li><a href="https://github.com/moul/gno.land-r-manfred">moul/gno.land-r-manfred</a> - Collection of contracts published under gno.land/r/manfred/...</li>
 <li><a href="https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories">...</a></li>
 
 </ul>
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1759502673.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1759506242.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
