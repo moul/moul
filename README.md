@@ -66,9 +66,9 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/jaekwon/openpgp">jaekwon/openpgp</a> - <a href="https://github.com/jaekwon/openpgp/pull/5">refactor: replace XOR folding with SHA256 hashing</a> (1 week ago) </li>
+  <li><a href="https://github.com/jaekwon/openpgp">jaekwon/openpgp</a> - <a href="https://github.com/jaekwon/openpgp/pull/5">refactor: replace XOR folding with SHA256 hashing</a> (2 weeks ago) </li>
   
-  <li><a href="https://github.com/jaekwon/openpgp">jaekwon/openpgp</a> - <a href="https://github.com/jaekwon/openpgp/pull/4">WIP fix: make RSA key generation deterministic</a> (1 week ago) </li>
+  <li><a href="https://github.com/jaekwon/openpgp">jaekwon/openpgp</a> - <a href="https://github.com/jaekwon/openpgp/pull/4">WIP fix: make RSA key generation deterministic</a> (2 weeks ago) </li>
   
   <li><a href="https://github.com/jaekwon/openpgp">jaekwon/openpgp</a> - <a href="https://github.com/jaekwon/openpgp/pull/3">feat: add entropy parser for lossless dice and card format conversion</a> (2 weeks ago) </li>
   
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1759448615.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1759453434.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
