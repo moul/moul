@@ -66,19 +66,19 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/allinbits/dither.chat">allinbits/dither.chat</a> - <a href="https://github.com/allinbits/dither.chat/pull/382">fix: cast quantity to numeric for correct minQuantity filtering (#366)</a> (today) </li>
+  <li><a href="https://github.com/allinbits/dither.chat">allinbits/dither.chat</a> - <a href="https://github.com/allinbits/dither.chat/pull/382">fix: cast quantity to numeric for correct minQuantity filtering (#366)</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/allinbits/dither.chat">allinbits/dither.chat</a> - <a href="https://github.com/allinbits/dither.chat/pull/381">ci: add CI for unit tests</a> (today) </li>
+  <li><a href="https://github.com/allinbits/dither.chat">allinbits/dither.chat</a> - <a href="https://github.com/allinbits/dither.chat/pull/381">ci: add CI for unit tests</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/allinbits/dither.chat">allinbits/dither.chat</a> - <a href="https://github.com/allinbits/dither.chat/pull/380">fix: make test suite run properly</a> (today) </li>
+  <li><a href="https://github.com/allinbits/dither.chat">allinbits/dither.chat</a> - <a href="https://github.com/allinbits/dither.chat/pull/380">fix: make test suite run properly</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/allinbits/dither">allinbits/dither</a> - <a href="https://github.com/allinbits/dither/pull/57">docs: add deprecation notice and redirect to the new repository</a> (today) </li>
+  <li><a href="https://github.com/allinbits/dither">allinbits/dither</a> - <a href="https://github.com/allinbits/dither/pull/57">docs: add deprecation notice and redirect to the new repository</a> (1 day ago) </li>
   
   </ul>
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/f28f4b12864fd40a2ca6b6c20294da27">std.gno</a> (11 months ago)</li>
+  <li><a href="https://gist.github.com/f28f4b12864fd40a2ca6b6c20294da27">std.gno</a> (1 year ago)</li>
   <li><a href="https://gist.github.com/9e84a65f92a030baf5818260ded914ef">1789.ascii</a> (2 years ago)</li>
   <li><a href="https://gist.github.com/113c2cc8bb27ce80969995192ddb4c7f">txtar linguist mode comparison</a> (2 years ago)</li>
   <li><a href="https://gist.github.com/ccf1e2aff64e7a1f0c5ca5e2d98d7e9a">gnokey maketx run</a> (2 years ago)</li>
@@ -122,7 +122,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1760917425.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1760922258.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
