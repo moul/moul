@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/moul/moul/main/contribute.gif">
 
-:atom_symbol: gnome at [gno.land](https://gno.land), resistance infrastructure<br/>
+:atom_symbol: co-founder and vp engineering at [gno.land](https://gno.land), resistance infrastructure<br/>
 :hammer: founder of [berty technologies](https://berty.tech), unstoppable communication<br/>
 
 <!--:writing_hand: writing at [manfred.life](https://manfred.life)<br/>-->
