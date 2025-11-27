@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GitHub Profile Analytics</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    h1, h2 { color: #333; }
+    .repo { border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; }
+    .status-green { color: green; }
+    .status-red { color: red; }
+    .status-unknown { color: gray; }
+    .calendar, .graph { margin-top: 20px; }
+    .achievement {
+      border: 1px solid #aaa;
+      padding: 8px;
+      margin-bottom: 8px;
+      background-color: #f9f9f9;
+    }
+  </style>
+</head>
+<body>
+  <h1>GitHub Profile Analytics</h1>
+  <section id="repos">
+    <h2>Repositories</h2>
+    <div id="repo-list">
+      <!-- Repos will be dynamically inserted here -->
+    </div>
+  </section>
+
+  <section id="calendars">
+    <h2>Activity Calendars</h2>
+    <div id="calendar-container" style="display: flex; flex-wrap: wrap; width: 700px;">
+      <!-- Simple calendar heatmap -->
+    </div>
+    <div id="calendar-container-2" style="display: flex; flex-wrap: wrap; width: 700px; margin-top: 20px;"></div>
+    <div id="calendar-container-3" style="display: flex; flex-wrap: wrap; width: 700px; margin-top: 20px;"></div>
+  </section>
+
+  <script>
+    // Generate a simple calendar heatmap for the past 30 days with random data
+    function generateCalendarHeatmap(containerId, days = 30) {
+      const container = document.getElementById(containerId);
+      const today = new Date();
+      for (let i = days - 1; i >= 0; i--) {
+        const day = new Date(today);
+        day.setDate(today.getDate() - i);
+        const count = Math.floor(Math.random() * 5); // Random activity count
+        const div = document.createElement('div');
+        div.title = day.toDateString() + ': ' + count + ' activities';
+        div.style.width = '20px';
+        div.style.height = '20px';
+        div.style.margin = '2px';
+        div.style.backgroundColor = count === 0 ? '#eee' :
+                                count <= 1 ? '#c6e48b' :
+                                count <= 3 ? '#7bc96f' : '#239a3b';
+        container.appendChild(div);
+      }
+    }
+    generateCalendarHeatmap('calendar-container', 30);
+    generateCalendarHeatmap('calendar-container-2', 60); // 60 days
+    generateCalendarHeatmap('calendar-container-3', 90); // 90 days
+  </script>
+
+  <section id="achievements">
+    <h2>Achievements</h2>
+    <div id="achievements-list">
+      <!-- Achievements will be dynamically inserted here -->
+    </div>
+  </section>
+  <script>
+    // Sample achievements data - in real use, this could be fetched or generated
+    const achievements = [
+      { title: "Top Contributor", description: "Contributed to 10+ repositories" },
+      { title: "Issue Closer", description: "Closed 50+ issues" },
+      { title: "PR Master", description: "Merged 30+ pull requests" }
+    ];
+
+    function loadAchievements() {
+      const container = document.getElementById('achievements-list');
+      achievements.forEach(ach => {
+        const div = document.createElement('div');
+        div.className = 'achievement';
+        div.innerHTML = `<h4>${ach.title}</h4><p>${ach.description}</p>`;
+        container.appendChild(div);
+      });
+    }
+    loadAchievements();
+  </script>
+
+  <section id="linkedin">
+    <h2>LinkedIn Sections</h2>
+    <div id="linkedin-content" contenteditable="true" style="border: 1px solid #ccc; padding: 10px; min-height: 100px;">
+      <!-- You can paste or type your LinkedIn sections here -->
+      <p>Paste your LinkedIn summary, experience, or other sections here.</p>
+    </div>
+  </section>
+
+  <section id="graphs">
+    <h2>Graphs</h2>
+    <div id="graphs-container">
+      <canvas id="supportersGraph" width="600" height="300" style="border:1px solid #ccc;"></canvas>
+      <canvas id="ktnGraph" width="600" height="300" style="border:1px solid #ccc; margin-top: 20px;"></canvas>
+    </div>
+  </section>
+
+  <script>
+    // Sample data for supporters graph
+    const supportersData = {
+      labels: ['Alice', 'Bob', 'Charlie', 'David', 'Eve'],
+      values: [5, 3, 8, 2, 7]
+    };
+
+    // Sample data for KTN graph
+    const ktnData = {
+      nodes: [
+        { id: 'A', label: 'Node A' },
+        { id: 'B', label: 'Node B' },
+        { id: 'C', label: 'Node C' },
+        { id: 'D', label: 'Node D' }
+      ],
+      edges: [
+        { from: 'A', to: 'B' },
+        { from: 'A', to: 'C' },
+        { from: 'B', to: 'D' }
+      ]
+    };
+
+    function drawBarGraph(canvasId, data) {
+      const canvas = document.getElementById(canvasId);
+      if (!canvas.getContext) return;
+      const ctx = canvas.getContext('2d');
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+      const maxVal = Math.max(...data.values);
+      const barWidth = 40;
+      const gap = 20;
+      const baseY = canvas.height - 30;
+
+      ctx.fillStyle = '#007bff';
+      data.values.forEach((val, i) => {
+        const barHeight = (val / maxVal) * (canvas.height - 50);
+        const x = i * (barWidth + gap) + 50;
+        const y = baseY - barHeight;
+        ctx.fillRect(x, y, barWidth, barHeight);
+        ctx.fillStyle = '#000';
+        ctx.fillText(data.labels[i], x, baseY + 15);
+        ctx.fillStyle = '#007bff';
+      });
+    }
+
+    function drawKTNGraph(canvasId, data) {
+      const canvas = document.getElementById(canvasId);
+      if (!canvas.getContext) return;
+      const ctx = canvas.getContext('2d');
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+      // Simple node positions
+      const positions = {
+        'A': { x: 100, y: 50 },
+        'B': { x: 200, y: 150 },
+        'C': { x: 100, y: 250 },
+        'D': { x: 300, y: 250 }
+      };
+
+      // Draw edges
+      ctx.strokeStyle = '#555';
+      ctx.lineWidth = 2;
+      data.edges.forEach(edge => {
+        const from = positions[edge.from];
+        const to = positions[edge.to];
+        ctx.beginPath();
+        ctx.moveTo(from.x, from.y);
+        ctx.lineTo(to.x, to.y);
+        ctx.stroke();
+      });
+
+      // Draw nodes
+      ctx.fillStyle = '#007bff';
+      ctx.font = '14px Arial';
+      Object.entries(positions).forEach(([id, pos]) => {
+        ctx.beginPath();
+        ctx.arc(pos.x, pos.y, 20, 0, 2 * Math.PI);
+        ctx.fill();
+        ctx.fillStyle = '#fff';
+        ctx.textAlign = 'center';
+        ctx.textBaseline = 'middle';
+        ctx.fillText(id, pos.x, pos.y);
+        ctx.fillStyle = '#007bff';
+      });
+    }
+
+    drawBarGraph('supportersGraph', supportersData);
+    drawKTNGraph('ktnGraph', ktnData);
+  </script>
+
+  <script>
+    async function loadData() {
+      const response = await fetch('repos.json');
+      const repos = await response.json();
+      const repoList = document.getElementById('repo-list');
+      repos.forEach(repo => {
+        const div = document.createElement('div');
+        div.className = 'repo';
+        const statusClass = repo.main_branch_status === 'success' ? 'status-green' :
+                            repo.main_branch_status === 'failure' ? 'status-red' : 'status-unknown';
+        div.innerHTML = `
+          <h3><a href="${repo.html_url}" target="_blank">${repo.name}</a></h3>
+          <p>${repo.description || ''}</p>
+          <p>Open Issues: ${repo.open_issues_count}</p>
+          <p>Open PRs - Bot: ${repo.pr_count_bot}, Me: ${repo.pr_count_me}, Friends: ${repo.pr_count_friends}, External: ${repo.pr_count_external}</p>
+          <p>Main Branch Status: <span class="${statusClass}">${repo.main_branch_status}</span></p>
+        `;
+        repoList.appendChild(div);
+      });
+    }
+    loadData();
+  </script>
+
+  <section id="rss-feed">
+    <h2>RSS Feed</h2>
+    <div id="rss-content" style="border: 1px solid #ccc; padding: 10px; min-height: 50px;">
+      <em>RSS feed loading...</em>
+    </div>
+  </section>
+  <script>
+    // Placeholder for RSS fetching with fallback
+    async function loadRSS() {
+      const container = document.getElementById('rss-content');
+      try {
+        // Simulate RSS fetch (replace with real fetch in production)
+        throw new Error('RSS feed broken'); // Simulate broken RSS
+      } catch (e) {
+        container.innerHTML = '<span style="color: red;">Failed to load RSS feed. Showing fallback content.</span>';
+        // Fallback content
+        const fallback = document.createElement('div');
+        fallback.innerHTML = '<ul><li>Fallback item 1</li><li>Fallback item 2</li></ul>';
+        container.appendChild(fallback);
+      }
+    }
+    loadRSS();
+  </script>
+</body>
+</html>
