@@ -68,10 +68,6 @@
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4926">fix(params): SetBytes should not alter the value bytes (alternative)</a> (2 weeks ago) </li>
   
-  <li><a href="https://github.com/allinbits/gno-realms">allinbits/gno-realms</a> - <a href="https://github.com/allinbits/gno-realms/pull/2">chore: configure gno on github</a> (3 weeks ago) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/4895">feat(examples): add p/moul/deque</a> (3 weeks ago) </li>
-  
   </ul>
 
   <h4>📓 Gists I wrote</h4>
@@ -120,7 +116,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1765608560.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1765611831.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
