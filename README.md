@@ -83,7 +83,7 @@
   <ul>
   
   <li><a href="https://github.com/aayush-kumar-codes">aayush-kumar-codes</a>
-  <li><a href="https://github.com/jafari-mohammad-reza">jafari-mohammad-reza</a>
+  <li><a href="https://github.com/v4g4b0nd-0x76">v4g4b0nd-0x76</a>
   <li><a href="https://github.com/Khrakor">Khrakor</a>
   <li><a href="https://github.com/moddeyargid">moddeyargid</a>
   <li><a href="https://github.com/Datawitch-Programmer">Datawitch-Programmer</a>
@@ -116,7 +116,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1769370250.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1769374007.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
