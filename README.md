@@ -66,11 +66,11 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5107">feat: add CLA signing support</a> (4 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5107">feat: add CLA signing support</a> (5 days ago) </li>
   
-  <li><a href="https://github.com/moul/assh">moul/assh</a> - <a href="https://github.com/moul/assh/pull/702">fix: exec hook for git bash (rebased from #691)</a> (4 days ago) </li>
+  <li><a href="https://github.com/moul/assh">moul/assh</a> - <a href="https://github.com/moul/assh/pull/702">fix: exec hook for git bash (rebased from #691)</a> (5 days ago) </li>
   
-  <li><a href="https://github.com/moul/assh">moul/assh</a> - <a href="https://github.com/moul/assh/pull/699">chore: bump deps</a> (4 days ago) </li>
+  <li><a href="https://github.com/moul/assh">moul/assh</a> - <a href="https://github.com/moul/assh/pull/699">chore: bump deps</a> (5 days ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5075">fix(govdao): make Tiers private to prevent external modification</a> (2 weeks ago) </li>
   
@@ -88,11 +88,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/kishan-kumar-codes">kishan-kumar-codes</a>
   <li><a href="https://github.com/yuvraj-singh-codes">yuvraj-singh-codes</a>
   <li><a href="https://github.com/vikasexcel">vikasexcel</a>
   <li><a href="https://github.com/Rahul-Khera-Codes">Rahul-Khera-Codes</a>
   <li><a href="https://github.com/gopal-prakash-codes">gopal-prakash-codes</a>
-  <li><a href="https://github.com/nodeexcel">nodeexcel</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -122,7 +122,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1770162553.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1770167096.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
