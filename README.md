@@ -66,13 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5351">fix: add static content pages for dead gno.land links</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5375">feat: add new govdao-scripts</a> (today) </li>
   
-  <li><a href="https://github.com/gnolang/tx-exports">gnolang/tx-exports</a> - <a href="https://github.com/gnolang/tx-exports/pull/46">fix: use correct path for existing tx count</a> (4 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5373">feat(govdao): add script to set valoper registration fee to 0</a> (today) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5334">feat(node): add --halt-height flag for coordinated chain upgrades</a> (4 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5371">feat(contribs): add playground — web IDE for Gno</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/tx-exports">gnolang/tx-exports</a> - <a href="https://github.com/gnolang/tx-exports/pull/45">fix: use line-count diff instead of content diff to avoid full rewrites</a> (6 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5369">feat(contribs): add gnoupgrade chain upgrade testing toolkit</a> (1 day ago) </li>
+  
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5368">feat(node): add GovDAO-based chain halt via r/sys/params</a> (1 day ago) </li>
   
   </ul>
 
@@ -88,11 +90,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/onlydegen">onlydegen</a>
+  <li><a href="https://github.com/Cdayz">Cdayz</a>
   <li><a href="https://github.com/Ben-Scr">Ben-Scr</a>
   <li><a href="https://github.com/sanualam325-code">sanualam325-code</a>
   <li><a href="https://github.com/OliverMuller100">OliverMuller100</a>
-  <li><a href="https://github.com/PhysShell">PhysShell</a>
-  <li><a href="https://github.com/ramaro">ramaro</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -122,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1774371754.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1774605634.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
