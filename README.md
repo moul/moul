@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5396">fix(gnovm): replace probabilistic ristretto amino cache with deterministic map</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5396">fix(gnovm): replace probabilistic ristretto amino cache with deterministic map</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/tx-archive">gnolang/tx-archive</a> - <a href="https://github.com/gnolang/tx-archive/pull/70">feat: add block_height/chain_id to backup &#43; genesis-assemble cmd</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/tx-archive">gnolang/tx-archive</a> - <a href="https://github.com/gnolang/tx-archive/pull/70">feat: add block_height/chain_id to backup &#43; genesis-assemble cmd</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5390">feat(gnoland): add block_height and chain_id to GnoTxMetadata</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5390">feat(gnoland): add block_height and chain_id to GnoTxMetadata</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5377">feat(gnoland): in-place block-replay migration (--migrate flag)</a> (4 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5377">feat(gnoland): in-place block-replay migration (--migrate flag)</a> (5 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5376">feat(deployments): add gnoland-1 chain config and migration script stub</a> (4 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5376">feat(deployments): add gnoland-1 chain config and migration script stub</a> (5 days ago) </li>
   
   </ul>
 
@@ -90,11 +90,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
-  <li><a href="https://github.com/rasidi3112">rasidi3112</a>
   <li><a href="https://github.com/Cdayz">Cdayz</a>
   <li><a href="https://github.com/onlydegen">onlydegen</a>
   <li><a href="https://github.com/Ben-Scr">Ben-Scr</a>
   <li><a href="https://github.com/sanualam325-code">sanualam325-code</a>
+  <li><a href="https://github.com/OliverMuller100">OliverMuller100</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1775001122.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1775015316.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
