@@ -21,6 +21,7 @@
 <h4>🌱 last projects</h4>
 <ul>
 
+<li><a href="https://github.com/moul/mygnoscan">moul/mygnoscan</a> - </li>
 <li><a href="https://github.com/moul/mnemos-strava">moul/mnemos-strava</a> - </li>
 <li><a href="https://github.com/moul/shortcuts-if-false">moul/shortcuts-if-false</a> - Apple Shortcuts custom if-false control flow block</li>
 <li><a href="https://github.com/moul/gno-1">moul/gno-1</a> - gno dev stuff</li>
@@ -39,7 +40,6 @@
 <li><a href="https://github.com/moul/mdtable">moul/mdtable</a> - csv/json to markdown tables with customizable format</li>
 <li><a href="https://github.com/moul/sandbox">moul/sandbox</a> - a repo to try things wihtout caring.</li>
 <li><a href="https://github.com/moul/assets">moul/assets</a> - </li>
-<li><a href="https://github.com/moul/idearium">moul/idearium</a> - 💡 portfolio of imaginings</li>
 <li><a href="https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories">...</a></li>
 
 </ul>
@@ -90,11 +90,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
-  <li><a href="https://github.com/procerezo">procerezo</a>
   <li><a href="https://github.com/0xhustlerr">0xhustlerr</a>
   <li><a href="https://github.com/Cdayz">Cdayz</a>
   <li><a href="https://github.com/onlydegen">onlydegen</a>
   <li><a href="https://github.com/Ben-Scr">Ben-Scr</a>
+  <li><a href="https://github.com/sanualam325-code">sanualam325-code</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1775256841.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1775260318.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
