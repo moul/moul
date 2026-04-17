@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5534">chore(tm2): fold libtm into main module (scaffolding for consensus integration)</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5535">chore(contribs/tx-archive): register chain stdlib amino types</a> (today) </li>
+  
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5534">chore(tm2): remove libtm — analysis shows integration not viable</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/tx-exports">gnolang/tx-exports</a> - <a href="https://github.com/gnolang/tx-exports/pull/49">chore: switch to in-repo tx-archive (gnolang/gno monorepo)</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/tx-archive">gnolang/tx-archive</a> - <a href="https://github.com/gnolang/tx-archive/pull/72">chore: archive repo — moved to gnolang/gno monorepo</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5533">feat(contribs/tx-archive): populate hardfork replay metadata</a> (today) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5511">feat(gnoland): chain hardfork mechanism v3</a> (2 days ago) </li>
   
   </ul>
 
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1776434934.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1776438100.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
