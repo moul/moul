@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5606">fix(gnovm): survive partial mempackage writes on restart</a> (3 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5606">fix(gnovm): survive partial mempackage writes on restart</a> (4 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5605">fix(gnovm/store): body-first AddMemPackage ordering &#43; fail-fast IterMemPackage</a> (3 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5605">fix(gnovm/store): body-first AddMemPackage ordering &#43; fail-fast IterMemPackage</a> (4 days ago) </li>
   
   </ul>
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/736f84e2655a456d444e40dac6813f5e">gnoland1 post-initial-genesis activity report (halt @ 703411)</a> (1 week ago)</li>
+  <li><a href="https://gist.github.com/736f84e2655a456d444e40dac6813f5e">gnoland1 post-initial-genesis activity report (halt @ 703411)</a> (2 weeks ago)</li>
   <li><a href="https://gist.github.com/f28f4b12864fd40a2ca6b6c20294da27">std.gno</a> (2 years ago)</li>
   <li><a href="https://gist.github.com/9e84a65f92a030baf5818260ded914ef">1789.ascii</a> (2 years ago)</li>
   
@@ -117,7 +117,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1777593584.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1777598372.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
