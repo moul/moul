@@ -22,7 +22,6 @@
 <ul>
 
 <li><a href="https://github.com/moul/maintainer-ping-workflow">moul/maintainer-ping-workflow</a> - </li>
-<li><a href="https://github.com/moul/gno-mcp">moul/gno-mcp</a> - </li>
 <li><a href="https://github.com/moul/mnemos-strava">moul/mnemos-strava</a> - </li>
 <li><a href="https://github.com/moul/shortcuts-if-false">moul/shortcuts-if-false</a> - Apple Shortcuts custom if-false control flow block</li>
 <li><a href="https://github.com/moul/gno-1">moul/gno-1</a> - gno dev stuff</li>
@@ -40,6 +39,7 @@
 <li><a href="https://github.com/moul/mdcodec">moul/mdcodec</a> - convert Go structures to and from readable Markdown (codec).</li>
 <li><a href="https://github.com/moul/mdtable">moul/mdtable</a> - csv/json to markdown tables with customizable format</li>
 <li><a href="https://github.com/moul/assets">moul/assets</a> - </li>
+<li><a href="https://github.com/moul/idearium">moul/idearium</a> - 💡 portfolio of imaginings</li>
 <li><a href="https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories">...</a></li>
 
 </ul>
@@ -66,9 +66,11 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/3">feat(session): OAuth-style session auth — MCP owns its own key, user authorizes by funding</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5658">feat(govdao-scripts): normalize v2 scripts &#43; add v3/namereg/valoper-register</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/moul/gno-mcp">moul/gno-mcp</a> - <a href="https://github.com/moul/gno-mcp/pull/2">docs: README overhaul &#43; security/tools/skills supplementary docs</a> (1 week ago) </li>
+  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/2">docs: README overhaul &#43; security/tools/skills supplementary docs</a> (1 week ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5606">fix(gnovm): survive partial mempackage writes on restart</a> (3 weeks ago) </li>
   
@@ -121,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1779112679.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1779125508.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
