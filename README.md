@@ -66,9 +66,9 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/3">feat(session): OAuth-style session auth — MCP owns its own key, user authorizes by funding</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/3">feat(session): OAuth-style session auth — MCP owns its own key, user authorizes by funding</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5658">feat(govdao-scripts): normalize v2 scripts &#43; add v3/namereg/valoper-register</a> (6 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5658">feat(govdao-scripts): normalize v2 scripts &#43; add v3/namereg/valoper-register</a> (1 week ago) </li>
   
   <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/2">docs: README overhaul &#43; security/tools/skills supplementary docs</a> (1 week ago) </li>
   
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1779145358.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1779148998.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
