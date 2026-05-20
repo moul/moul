@@ -1,0 +1,29 @@
+name: One Branch Per Cron
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Git user
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Create or update cron-data branch
+        run: |
+          git checkout -B cron-data
+          # Place your data update/generation commands here
+          # For example: npm run build-data
+          git add .
+          git commit -m "Update data from cron" || echo "No changes to commit"
+          git push origin cron-data --force
