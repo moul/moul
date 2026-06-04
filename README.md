@@ -66,13 +66,13 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5760">feat(gnoweb): serve embedded repository docs under /docs</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5760">feat(gnoweb): serve embedded repository docs under /docs</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5747">feat(gnovm)!: remove N_Readonly provenance taint, fix cross-realm /p/-type arithmetic</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5747">feat(gnovm)!: remove N_Readonly provenance taint, fix cross-realm /p/-type arithmetic</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5735">ci(multiarch-determinism): bytes-out parity across CPU architectures</a> (6 days ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5735">ci(multiarch-determinism): bytes-out parity across CPU architectures</a> (1 week ago) </li>
   
-  <li><a href="https://github.com/Cloud-Temple/live-memory">Cloud-Temple/live-memory</a> - <a href="https://github.com/Cloud-Temple/live-memory/pull/23">feat(ui): persist selected space in URL query string</a> (6 days ago) </li>
+  <li><a href="https://github.com/Cloud-Temple/live-memory">Cloud-Temple/live-memory</a> - <a href="https://github.com/Cloud-Temple/live-memory/pull/23">feat(ui): persist selected space in URL query string</a> (1 week ago) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5725">feat(gnovm/stdlibs): IBC crypto stdlibs (bn254, cometbls, keccak256, merkle, modexp)</a> (1 week ago) </li>
   
@@ -80,7 +80,7 @@
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/a885bbf60592db441ae102a43cca9d47">Investigation: gnoswap tainted-readonly fix in PR #5747 — necessary or codebase-fixable?</a> (1 day ago)</li>
+  <li><a href="https://gist.github.com/a885bbf60592db441ae102a43cca9d47">Investigation: gnoswap tainted-readonly fix in PR #5747 — necessary or codebase-fixable?</a> (2 days ago)</li>
   <li><a href="https://gist.github.com/32675996ca746a2e8367aafcf0461717">Cross-platform host probe — emits a TOML report identifying the machine. Source: github.com/moul/nixpkgs/inventory/probe.sh</a> (1 week ago)</li>
   <li><a href="https://gist.github.com/736f84e2655a456d444e40dac6813f5e">gnoland1 post-initial-genesis activity report (halt @ 703411)</a> (1 month ago)</li>
   <li><a href="https://gist.github.com/f28f4b12864fd40a2ca6b6c20294da27">std.gno</a> (2 years ago)</li>
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1780528630.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1780532089.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
