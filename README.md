@@ -66,21 +66,21 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/684">feat: add click GitHub auth flow</a> (today) </li>
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/684">feat: add click GitHub auth flow</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/683">chore: bump dependencies</a> (today) </li>
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/683">chore: bump dependencies</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/682">feat: hydrate live GitHub refs</a> (today) </li>
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/682">feat: hydrate live GitHub refs</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/679">feat: bootstrap depviz v4</a> (1 day ago) </li>
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/679">feat: bootstrap depviz v4</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/678">feat: add depviz v4 board brief poc</a> (1 day ago) </li>
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/678">feat: add depviz v4 board brief poc</a> (2 days ago) </li>
   
   </ul>
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/a885bbf60592db441ae102a43cca9d47">Investigation: gnoswap tainted-readonly fix in PR #5747 — necessary or codebase-fixable?</a> (4 days ago)</li>
+  <li><a href="https://gist.github.com/a885bbf60592db441ae102a43cca9d47">Investigation: gnoswap tainted-readonly fix in PR #5747 — necessary or codebase-fixable?</a> (5 days ago)</li>
   <li><a href="https://gist.github.com/32675996ca746a2e8367aafcf0461717">Cross-platform host probe — emits a TOML report identifying the machine. Source: github.com/moul/nixpkgs/inventory/probe.sh</a> (1 week ago)</li>
   <li><a href="https://gist.github.com/736f84e2655a456d444e40dac6813f5e">gnoland1 post-initial-genesis activity report (halt @ 703411)</a> (1 month ago)</li>
   <li><a href="https://gist.github.com/f28f4b12864fd40a2ca6b6c20294da27">std.gno</a> (2 years ago)</li>
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1780786981.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1780790580.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
