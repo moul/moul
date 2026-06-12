@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/690">feat: add live edge inspector workflow</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/689">feat: show selected edge inspector</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/688">feat: make graph edges selectable</a> (today) </li>
+  
   <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/687">feat: improve live graph layout</a> (today) </li>
   
   <li><a href="https://github.com/Cloud-Temple/graph-memory">Cloud-Temple/graph-memory</a> - <a href="https://github.com/Cloud-Temple/graph-memory/pull/26">ci: add static checks workflow</a> (today) </li>
-  
-  <li><a href="https://github.com/Cloud-Temple/graph-memory">Cloud-Temple/graph-memory</a> - <a href="https://github.com/Cloud-Temple/graph-memory/pull/25">fix: gate extractor debug logging</a> (today) </li>
-  
-  <li><a href="https://github.com/Cloud-Temple/graph-memory">Cloud-Temple/graph-memory</a> - <a href="https://github.com/Cloud-Temple/graph-memory/pull/24">chore: add developer make targets</a> (today) </li>
-  
-  <li><a href="https://github.com/Cloud-Temple/live-memory">Cloud-Temple/live-memory</a> - <a href="https://github.com/Cloud-Temple/live-memory/pull/29">fix: guard graph push volatile bank files</a> (2 days ago) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1781271988.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1781279212.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
