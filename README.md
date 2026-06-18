@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5830">chore: let CLAUDE.md stay local</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5830">chore: let CLAUDE.md stay local</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/gnoswap-labs/gnoswap">gnoswap-labs/gnoswap</a> - <a href="https://github.com/gnoswap-labs/gnoswap/pull/1339">fix(interrealm-v2): close mutable-reference and ACL bypass issues</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnoswap-labs/gnoswap">gnoswap-labs/gnoswap</a> - <a href="https://github.com/gnoswap-labs/gnoswap/pull/1339">fix(interrealm-v2): close mutable-reference and ACL bypass issues</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/690">feat: add live edge inspector workflow</a> (5 days ago) </li>
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/690">feat: add live edge inspector workflow</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/689">feat: show selected edge inspector</a> (5 days ago) </li>
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/689">feat: show selected edge inspector</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/688">feat: make graph edges selectable</a> (5 days ago) </li>
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/688">feat: make graph edges selectable</a> (6 days ago) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1781737729.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1781741112.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
