@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/33">[codexparse gnoweb paths during discovery</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/33">[codexparse gnoweb paths during discovery</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/32">feat: add gno_namereg tool for name registration</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/32">feat: add gno_namereg tool for name registration</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/31">fix: raise gas simulation ceiling to 200M</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/31">fix: raise gas simulation ceiling to 200M</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/30">feat: add gno_cla_sign tool with user confirmation</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/30">feat: add gno_cla_sign tool with user confirmation</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/29">feat: address-first deploy path expansion in gno_addpkg</a> (2 days ago) </li>
+  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/29">feat: address-first deploy path expansion in gno_addpkg</a> (3 days ago) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1782684148.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1782691434.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
