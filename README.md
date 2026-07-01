@@ -78,6 +78,7 @@
 
   <h4>📓 Gists I wrote</h4>
   <ul>
+  <li><a href="https://gist.github.com/34315e569f35c40aca8fc8e0e7ae372d">BRIEF-09 · grenier deep audit vs paperasse &#43; full implementation plan (1789.tech)</a> (today)</li>
   <li><a href="https://gist.github.com/e63f58bbf209b6e872714ed0546160bf">1789 BRIEF-07 — Market analysis: indie/solo builders (Levels, Marc Lou, Romain Simon &#43;others) &#43; startup-idea scan, dual goal money&#43;meta-portfolio</a> (today)</li>
   <li><a href="https://gist.github.com/47edc74eb026d52c113510e0daf99ad0">gno changelog: chain/test12 → test13 (master HEAD) — full PR-linked changelog</a> (3 weeks ago)</li>
   <li><a href="https://gist.github.com/a885bbf60592db441ae102a43cca9d47">Investigation: gnoswap tainted-readonly fix in PR #5747 — necessary or codebase-fixable?</a> (4 weeks ago)</li>
@@ -123,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1782926604.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1782930000.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
