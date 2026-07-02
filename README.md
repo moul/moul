@@ -66,22 +66,22 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/33">[codexparse gnoweb paths during discovery</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/33">[codexparse gnoweb paths during discovery</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/32">feat: add gno_namereg tool for name registration</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/32">feat: add gno_namereg tool for name registration</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/31">fix: raise gas simulation ceiling to 200M</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/31">fix: raise gas simulation ceiling to 200M</a> (6 days ago) </li>
   
-  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/30">feat: add gno_cla_sign tool with user confirmation</a> (5 days ago) </li>
+  <li><a href="https://github.com/gnoverse/gno-mcp">gnoverse/gno-mcp</a> - <a href="https://github.com/gnoverse/gno-mcp/pull/30">feat: add gno_cla_sign tool with user confirmation</a> (6 days ago) </li>
   
   </ul>
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/34315e569f35c40aca8fc8e0e7ae372d">BRIEF-09 · grenier deep audit vs paperasse &#43; full implementation plan (1789.tech)</a> (today)</li>
-  <li><a href="https://gist.github.com/e63f58bbf209b6e872714ed0546160bf">1789 BRIEF-07 — Market analysis: indie/solo builders (Levels, Marc Lou, Romain Simon &#43;others) &#43; startup-idea scan, dual goal money&#43;meta-portfolio</a> (today)</li>
+  <li><a href="https://gist.github.com/34315e569f35c40aca8fc8e0e7ae372d">BRIEF-09 · grenier deep audit vs paperasse &#43; full implementation plan (1789.tech)</a> (1 day ago)</li>
+  <li><a href="https://gist.github.com/e63f58bbf209b6e872714ed0546160bf">1789 BRIEF-07 — Market analysis: indie/solo builders (Levels, Marc Lou, Romain Simon &#43;others) &#43; startup-idea scan, dual goal money&#43;meta-portfolio</a> (1 day ago)</li>
   <li><a href="https://gist.github.com/47edc74eb026d52c113510e0daf99ad0">gno changelog: chain/test12 → test13 (master HEAD) — full PR-linked changelog</a> (3 weeks ago)</li>
-  <li><a href="https://gist.github.com/a885bbf60592db441ae102a43cca9d47">Investigation: gnoswap tainted-readonly fix in PR #5747 — necessary or codebase-fixable?</a> (4 weeks ago)</li>
+  <li><a href="https://gist.github.com/a885bbf60592db441ae102a43cca9d47">Investigation: gnoswap tainted-readonly fix in PR #5747 — necessary or codebase-fixable?</a> (1 month ago)</li>
   <li><a href="https://gist.github.com/32675996ca746a2e8367aafcf0461717">Cross-platform host probe — emits a TOML report identifying the machine. Source: github.com/moul/nixpkgs/inventory/probe.sh</a> (1 month ago)</li>
   <li><a href="https://gist.github.com/736f84e2655a456d444e40dac6813f5e">gnoland1 post-initial-genesis activity report (halt @ 703411)</a> (2 months ago)</li>
   
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1782947062.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1782950604.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
