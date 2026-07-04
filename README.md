@@ -70,8 +70,6 @@
   
   <li><a href="https://github.com/1789-tech/grenier-www">1789-tech/grenier-www</a> - <a href="https://github.com/1789-tech/grenier-www/pull/1">[codex] refresh grenier landing page</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/1789-tech/grenier">1789-tech/grenier</a> - <a href="https://github.com/1789-tech/grenier/pull/1">[codex] implement grenier build track</a> (2 days ago) </li>
-  
   </ul>
 
   <h4>📓 Gists I wrote</h4>
@@ -121,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1783160704.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1783163424.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
