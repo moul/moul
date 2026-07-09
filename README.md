@@ -68,8 +68,6 @@
   
   <li><a href="https://github.com/1789-tech/grenier">1789-tech/grenier</a> - <a href="https://github.com/1789-tech/grenier/pull/8">docs: remove stale feedback mcp guidance</a> (2 days ago) </li>
   
-  <li><a href="https://github.com/1789-tech/grenier">1789-tech/grenier</a> - <a href="https://github.com/1789-tech/grenier/pull/7">feat: add grenier net-exit method</a> (3 days ago) </li>
-  
   </ul>
 
   <h4>📓 Gists I wrote</h4>
@@ -119,7 +117,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1783590967.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1783597070.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
