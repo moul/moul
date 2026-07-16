@@ -70,8 +70,6 @@
   
   <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/717">fix: SQLite WAL &#43; busy_timeout so live server and sync stop racing (BRIEF-105)</a> (today) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/5966">feat(gnoweb): open render on package-name click, add Browse link in explorer</a> (1 day ago) </li>
-  
   </ul>
 
   <h4>📓 Gists I wrote</h4>
@@ -87,11 +85,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
-  <li><a href="https://github.com/zerohost-bot">zerohost-bot</a>
   <li><a href="https://github.com/chrisipanaque">chrisipanaque</a>
   <li><a href="https://github.com/nadir-ali-khan">nadir-ali-khan</a>
   <li><a href="https://github.com/IrshadChanna">IrshadChanna</a>
   <li><a href="https://github.com/LeBovin">LeBovin</a>
+  <li><a href="https://github.com/wwwattention">wwwattention</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -121,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1784217942.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1784225008.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
