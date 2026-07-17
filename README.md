@@ -66,6 +66,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/722">feat: load private demo board behind auth (BRIEF-112)</a> (today) </li>
+  
   <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/721">fix: cold open renders the sample board instead of an empty stateful canvas (BRIEF-112)</a> (today) </li>
   
   <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/719">feat: landing page at / presenting DepViz, app moves to /app/</a> (1 day ago) </li>
@@ -121,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1784280170.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1784283460.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
