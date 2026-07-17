@@ -66,11 +66,11 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/1789-tech/grenier">1789-tech/grenier</a> - <a href="https://github.com/1789-tech/grenier/pull/11">docs: cold vague-start eval (BRIEF-102) — the loyal missing test</a> (today) </li>
+  
+  <li><a href="https://github.com/1789-tech/grenier">1789-tech/grenier</a> - <a href="https://github.com/1789-tech/grenier/pull/10">docs: define marketplace driver v1 contract</a> (today) </li>
+  
   <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/723">fix: count demo-board done rows as closed</a> (today) </li>
-  
-  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/722">feat: load private demo board behind auth (BRIEF-112)</a> (today) </li>
-  
-  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/721">fix: cold open renders the sample board instead of an empty stateful canvas (BRIEF-112)</a> (today) </li>
   
   </ul>
 
@@ -121,7 +121,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1784300698.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1784304313.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
