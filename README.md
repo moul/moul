@@ -70,8 +70,6 @@
   
   <li><a href="https://github.com/1789-tech/grenier">1789-tech/grenier</a> - <a href="https://github.com/1789-tech/grenier/pull/10">docs: define marketplace driver v1 contract</a> (3 days ago) </li>
   
-  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/723">fix: count demo-board done rows as closed</a> (3 days ago) </li>
-  
   </ul>
 
   <h4>📓 Gists I wrote</h4>
@@ -87,11 +85,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/Y-nexus330">Y-nexus330</a>
   <li><a href="https://github.com/Laeeth">Laeeth</a>
   <li><a href="https://github.com/ddrayko">ddrayko</a>
   <li><a href="https://github.com/chrisipanaque">chrisipanaque</a>
   <li><a href="https://github.com/nadir-ali-khan">nadir-ali-khan</a>
-  <li><a href="https://github.com/IrshadChanna">IrshadChanna</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -121,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1784533399.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1784540606.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
