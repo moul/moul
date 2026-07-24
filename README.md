@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/27">Embed third-party tools inline; add a general Report a bug button</a> (today) </li>
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/36">Add a &#34;My apps &amp; scripts&#34; section to Browser home</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/26">Fix update banner reload, changelog, and a severe window-placement bug</a> (today) </li>
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/35">Add Fork (realm source → Editor) and Duplicate script buttons</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/awesome-gno">gnoverse/awesome-gno</a> - <a href="https://github.com/gnoverse/awesome-gno/pull/98">ci: make CI resilient — merge=union for README &#43; ignore ephemeral testnet URLs</a> (today) </li>
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/32">Push Cypherpunk and Minimal themes further from recolored variants</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/25">Give Cypherpunk and Minimal themes their own distinct chrome</a> (today) </li>
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/31">Settings: Bug report and Changelog become tabs, emoji dropdown</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/24">Add custom network support</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/41">feat: import art demos (gnoface, millipede) &#43; entropy</a> (today) </li>
   
   </ul>
 
@@ -91,11 +91,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/TestSubjectJohnDoe">TestSubjectJohnDoe</a>
   <li><a href="https://github.com/Y-nexus330">Y-nexus330</a>
   <li><a href="https://github.com/Laeeth">Laeeth</a>
   <li><a href="https://github.com/ddrayko">ddrayko</a>
   <li><a href="https://github.com/chrisipanaque">chrisipanaque</a>
-  <li><a href="https://github.com/IrshadChanna">IrshadChanna</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1784923545.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1784926978.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
