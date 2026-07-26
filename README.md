@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/58">fix(gnopublish): print plain package URL, not Markdown (CLI)</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/58">fix(gnopublish): print plain package URL, not Markdown (CLI)</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/57">fix(gnopublish): comment-style command prefix, clickable pkg link, full tx hash</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/57">fix(gnopublish): comment-style command prefix, clickable pkg link, full tx hash</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/76">feat(theme): push Cypherpunk further with more animation</a> (today) </li>
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/76">feat(theme): push Cypherpunk further with more animation</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/75">feat(search): match /p/ packages by substring anywhere in the path</a> (today) </li>
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/75">feat(search): match /p/ packages by substring anywhere in the path</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/74">fix(resources): scope the Docs tree fetch to docs/, not the whole repo</a> (today) </li>
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/74">fix(resources): scope the Docs tree fetch to docs/, not the whole repo</a> (1 day ago) </li>
   
   </ul>
 
@@ -82,7 +82,7 @@
   <ul>
   <li><a href="https://gist.github.com/47edc74eb026d52c113510e0daf99ad0">gno changelog: chain/test12 → test13 (master HEAD) — full PR-linked changelog</a> (1 month ago)</li>
   <li><a href="https://gist.github.com/a885bbf60592db441ae102a43cca9d47">Investigation: gnoswap tainted-readonly fix in PR #5747 — necessary or codebase-fixable?</a> (1 month ago)</li>
-  <li><a href="https://gist.github.com/32675996ca746a2e8367aafcf0461717">Cross-platform host probe — emits a TOML report identifying the machine. Source: github.com/moul/nixpkgs/inventory/probe.sh</a> (1 month ago)</li>
+  <li><a href="https://gist.github.com/32675996ca746a2e8367aafcf0461717">Cross-platform host probe — emits a TOML report identifying the machine. Source: github.com/moul/nixpkgs/inventory/probe.sh</a> (2 months ago)</li>
   <li><a href="https://gist.github.com/736f84e2655a456d444e40dac6813f5e">gnoland1 post-initial-genesis activity report (halt @ 703411)</a> (3 months ago)</li>
   <li><a href="https://gist.github.com/f28f4b12864fd40a2ca6b6c20294da27">std.gno</a> (2 years ago)</li>
   
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1785020510.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1785024126.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
