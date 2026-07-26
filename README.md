@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/61">docs(agents): p/ lib &#43; r/ demo split convention</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/62">feat(readme): Package column links to repo folder (no gno.land/ prefix)</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/61">docs(agents): p/ lib &#43; r/ demo split &#43; PRs carry only source</a> (today) </li>
   
   <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/78">fix(status-dot): blink on RPC error, not just full offline</a> (today) </li>
   
   <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/60">fix(gnopublish): one-line publish status (name — url — hash gas)</a> (today) </li>
   
   <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/77">fix(settings): theme grid&#39;s last row broke the light-left/dark-right order</a> (today) </li>
-  
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/59">chore(readme): slim contracts table (drop description/kind, emoji kind, topaz/betanet/staging)</a> (today) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1785054728.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1785057861.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
