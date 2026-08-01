@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/105">perf: load each app&#39;s code only when its window opens</a> (today) </li>
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/120">fix(a11y): keyboard control for moving, resizing and maximizing windows</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/64">docs(agents): every realm tests its Render (gno filetest)</a> (today) </li>
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/119">fix(a11y): restore the document outline and fix icon-button names</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/104">fix(css): repair broken rules; add real narrow-screen layout</a> (today) </li>
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/117">perf: page the package list instead of rendering 500 rows</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/103">fix(persistence): don&#39;t lose settings when reloading right after a change</a> (today) </li>
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/116">perf(pwa): precache the app shell, not every chunk</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/102">feat(safety): route signing through a reviewable TransactionIntent</a> (today) </li>
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/115">fix(mobile): fit restored window layouts to the viewport</a> (today) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1785614683.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1785618102.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
