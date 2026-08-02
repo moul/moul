@@ -70,7 +70,7 @@
   
   <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/169">build: consume the two dependency forks instead of a vendored tarball</a> (today) </li>
   
-  <li><a href="https://github.com/gnoswap-labs/gnoswap">gnoswap-labs/gnoswap</a> - <a href="https://github.com/gnoswap-labs/gnoswap/pull/1367">test(position): pay swap-callback mock via native token transfer</a> (today) </li>
+  <li><a href="https://github.com/gnoswap-labs/gnoswap">gnoswap-labs/gnoswap</a> - <a href="https://github.com/gnoswap-labs/gnoswap/pull/1367">test: pay tokens via native transfers instead of the grc20 registry hub</a> (today) </li>
   
   <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/68">ci: make CI reflect reality for example tests (toolcheck &#43; no-Output guard)</a> (today) </li>
   
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1785682956.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1785686538.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
