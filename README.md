@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/168">feat: adopt gno-js-client&#39;s typed ABCI errors for the render query</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/167">fix: stop dropping the network from the URL when navigating</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/166">feat: adopt gno-js-client&#39;s typed ABCI errors for the render query</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno-js-client">gnolang/gno-js-client</a> - <a href="https://github.com/gnolang/gno-js-client/pull/251">fix: surface the node&#39;s ABCI error instead of &#34;ABCI response is not initialized&#34;</a> (today) </li>
   
   <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/165">fix(a11y): the ASCII Dark theme was never contrast-checked, and failed</a> (today) </li>
-  
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/164">docs: rewrite the README around what the app actually looks like</a> (today) </li>
-  
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/163">fix: stop the recovery screen promising to keep data that cannot exist</a> (today) </li>
-  
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/162">perf: count trail steps in one pass instead of one query per trail</a> (today) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1785665739.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1785668834.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
