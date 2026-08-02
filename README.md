@@ -66,15 +66,13 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/168">feat: adopt gno-js-client&#39;s typed ABCI errors for the render query</a> (today) </li>
+  <li><a href="https://github.com/gnolang/tm2-js-client">gnolang/tm2-js-client</a> - <a href="https://github.com/gnolang/tm2-js-client/pull/281">fix: make the repo installable as a git dependency on pnpm 9</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/167">fix: stop dropping the network from the URL when navigating</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno-js-client">gnolang/gno-js-client</a> - <a href="https://github.com/gnolang/gno-js-client/pull/253">fix: make the repo installable as a git dependency on pnpm 9</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/166">feat: adopt gno-js-client&#39;s typed ABCI errors for the render query</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6030">feat(tm2/bptree): add fast-index consistency audit and gnoland fastindex verify</a> (today) </li>
   
-  <li><a href="https://github.com/gnolang/gno-js-client">gnolang/gno-js-client</a> - <a href="https://github.com/gnolang/gno-js-client/pull/251">fix: surface the node&#39;s ABCI error instead of &#34;ABCI response is not initialized&#34;</a> (today) </li>
-  
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/165">fix(a11y): the ASCII Dark theme was never contrast-checked, and failed</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/67">fix(ci): status/regen bots race &#43; conflict on generated files (status refresh stalled)</a> (today) </li>
   
   </ul>
 
@@ -125,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1785668834.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1785672164.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
