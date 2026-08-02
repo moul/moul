@@ -66,13 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/170">docs: add a recorded demo video and the harness that regenerates it</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/169">build: consume the two dependency forks instead of a vendored tarball</a> (today) </li>
+  
+  <li><a href="https://github.com/gnoswap-labs/gnoswap">gnoswap-labs/gnoswap</a> - <a href="https://github.com/gnoswap-labs/gnoswap/pull/1367">test(position): pay swap-callback mock via native token transfer</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/68">ci: make CI reflect reality for example tests (toolcheck &#43; no-Output guard)</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/tm2-js-client">gnolang/tm2-js-client</a> - <a href="https://github.com/gnolang/tm2-js-client/pull/281">fix: make the repo installable as a git dependency on pnpm 9</a> (today) </li>
-  
-  <li><a href="https://github.com/gnolang/gno-js-client">gnolang/gno-js-client</a> - <a href="https://github.com/gnolang/gno-js-client/pull/253">fix: make the repo installable as a git dependency on pnpm 9</a> (today) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6030">feat(tm2/bptree): add fast-index consistency audit and gnoland fastindex verify</a> (today) </li>
-  
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/67">fix(ci): status/regen bots race &#43; conflict on generated files (status refresh stalled)</a> (today) </li>
   
   </ul>
 
@@ -123,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1785672164.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1785675858.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
