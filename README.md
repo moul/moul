@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/136">feat(a11y): arrow-key navigation for the island menus</a> (today) </li>
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/145">perf: fetch a realm&#39;s Render output once, not twice</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/135">feat: state the first-run promise, and assert it</a> (today) </li>
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/144">ci: extract the shared setup into a composite action</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/134">fix(security): sandbox embedded pages and add a content security policy</a> (today) </li>
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/143">build: enforce a size budget on the first-visit payload</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/133">feat(a11y): arrow-key navigation for the island menus</a> (today) </li>
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/142">fix: survive one corrupt row in the query cache</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/132">fix(security): sandbox embedded pages and add a content security policy</a> (today) </li>
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/141">fix: make a restored window layout fit the screen it is restored on</a> (1 day ago) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1785625307.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1785628905.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
