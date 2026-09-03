@@ -66,13 +66,13 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/49">fix: remove the test1 and test2 rows — both are published mnemonics</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6131">chore: update GovDAO T1 multisig address</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/48">chore: point the Contributions bucket at the new GovDAO T1 multisig</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/47">fix: reconcile the shipped genesis file to the finalized 1.333B</a> (today) </li>
-  
-  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/46">refactor: reorganise into pipeline order, document every level, revive the cross-check</a> (1 day ago) </li>
   
   </ul>
 
@@ -123,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1788471827.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1788475429.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
