@@ -66,13 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/58">conformance: everything, stacked — preview of a Constitution-conforming genesis</a> (today) </li>
+  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/219">feat: add a Help app that onboards, then suggests what to try</a> (today) </li>
   
-  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/57">feat: split NT1 into Investors and NT,LLC, and carve the §136 tranche [PLACEHOLDERS]</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/120">feat(x/daily/countminsketch): Count–Min Sketch (p/ lib &#43; r/ demo)</a> (today) </li>
   
-  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/56">feat: split the 120M into Core / Ecosystem / Validator treasuries [PLACEHOLDERS]</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/119">feat(x/daily/cliffvesting): Cliff Vesting Calculator (p/ lib &#43; r/ demo)</a> (today) </li>
   
-  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/55">fix: enforce the IBC escrow skip — 34.17M GNOT to 106 keyless accounts</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/118">feat(x/daily/commitreveal): Commit–Reveal (p/ lib &#43; r/ demo)</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/117">feat(x/daily/pullpayment): Pull Payment (anti-reentrancy escrow ledger) (p/ lib &#43; r/ demo)</a> (today) </li>
   
   </ul>
 
@@ -89,11 +91,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/poormikey80-create">poormikey80-create</a>
   <li><a href="https://github.com/TCQ391">TCQ391</a>
   <li><a href="https://github.com/akshaywritescode">akshaywritescode</a>
   <li><a href="https://github.com/Lxcardoza993">Lxcardoza993</a>
   <li><a href="https://github.com/HuckleR2003">HuckleR2003</a>
-  <li><a href="https://github.com/dioptx">dioptx</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -123,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1788529426.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1788533025.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
