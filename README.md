@@ -66,13 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/136">perf: stop deduplicating the same rows twice</a> (today) </li>
+  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/58">conformance: everything, stacked — preview of a Constitution-conforming genesis</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/217">fix: make the Browser home&#39;s lists readable on a user-deployed chain</a> (today) </li>
+  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/57">feat: split NT1 into Investors and NT,LLC, and carve the §136 tranche [PLACEHOLDERS]</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/110">test(p/moul): cover nine untested packages; archive the empty bertydao realm</a> (today) </li>
+  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/56">feat: split the 120M into Core / Ecosystem / Validator treasuries [PLACEHOLDERS]</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - <a href="https://github.com/moul/gnomputer/pull/216">fix: stop the island reporting a frozen block height as live</a> (today) </li>
+  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/55">fix: enforce the IBC escrow skip — 34.17M GNOT to 106 keyless accounts</a> (today) </li>
+  
+  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/54">fix: match excluded.txt on the 20-byte key, not the bech32 string</a> (today) </li>
   
   </ul>
 
@@ -123,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1788522237.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1788526260.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
