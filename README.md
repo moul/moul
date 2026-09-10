@@ -66,9 +66,7 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6155">feat(mainnet): apply the Constitution §126 transfer lock and exemption list</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/67">feat: generate the Constitution §126 unrestricted-address list</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/69">chore: replace ray with aeddi in govdaoFounders</a> (today) </li>
   
   </ul>
 
@@ -119,7 +117,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1789019021.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1789023312.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
