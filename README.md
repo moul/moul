@@ -66,13 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6169">chore(mainnet): re-pin the allocation sheet to independence-day 0108ede</a> (today) </li>
+  
+  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/81">feat: fund the GovDAO multisig with a 5,000 GNOT realm-operation float</a> (today) </li>
+  
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6168">fix(deployments/mainnet): seed the sole GovDAO T1 member with 9 invitation points</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/80">feat: raise the chain-service float to 5,000 GNOT</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/79">feat: fund the inert-package approvals oracle with a 1,000 GNOT gas float</a> (today) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6167">chore(examples): replace the @devx address with the GovDAO T1 multisig</a> (today) </li>
-  
-  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/78">feat: fund the founding validator set with a 1,000 GNOT gas float</a> (today) </li>
   
   </ul>
 
@@ -123,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1789145121.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1789148627.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
