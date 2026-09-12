@@ -66,11 +66,11 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6172">chore(examples)!: renumber boards2 and namereg to /v0</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6172">chore(examples)!: renumber boards2 and namereg to /v0</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/82">feat: move the §132 vesting window to the gnoland-1 ceremony time</a> (today) </li>
+  <li><a href="https://github.com/gnolang/independence-day">gnolang/independence-day</a> - <a href="https://github.com/gnolang/independence-day/pull/82">feat: move the §132 vesting window to the gnoland-1 ceremony time</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/124">chore(authz): re-sync the v0 mirror and re-derive v1 from gnolang/gno#6171</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/124">chore(authz): re-sync the v0 mirror and re-derive v1 from gnolang/gno#6171</a> (1 day ago) </li>
   
   </ul>
 
@@ -121,7 +121,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1789170221.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1789175207.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
