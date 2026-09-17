@@ -66,11 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/tx-exports">gnolang/tx-exports</a> - <a href="https://github.com/gnolang/tx-exports/pull/58">feat: add mainnet.gno.land (gnoland-1) export &#43; CI, retire betanet</a> (today) </li>
+  <li><a href="https://github.com/gnolang/hackerspace">gnolang/hackerspace</a> - <a href="https://github.com/gnolang/hackerspace/pull/130">docs: orient readers post-mainnet, flag the retired testnets this repo targets</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno-preview-lab">moul/gno-preview-lab</a> - <a href="https://github.com/moul/gno-preview-lab/pull/3">test: package-dependency change</a> (today) </li>
+  <li><a href="https://github.com/gnolang/old-getting-started-workshop">gnolang/old-getting-started-workshop</a> - <a href="https://github.com/gnolang/old-getting-started-workshop/pull/26">docs: mark superseded by gnolang/getting-started, fix stale network and repo links</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno-preview-lab">moul/gno-preview-lab</a> - <a href="https://github.com/moul/gno-preview-lab/pull/2">test: realm-only change</a> (today) </li>
+  <li><a href="https://github.com/gnolang/tx-indexer">gnolang/tx-indexer</a> - <a href="https://github.com/gnolang/tx-indexer/pull/244">docs: replace the dead test7 endpoints with mainnet and Pearl</a> (today) </li>
+  
+  <li><a href="https://github.com/gnolang/faucet-hub">gnolang/faucet-hub</a> - <a href="https://github.com/gnolang/faucet-hub/pull/87">fix: drop the dead sapphire faucet, refresh the README config example</a> (today) </li>
+  
+  <li><a href="https://github.com/gnoverse/awesome-gno">gnoverse/awesome-gno</a> - <a href="https://github.com/gnoverse/awesome-gno/pull/105">docs: refresh the networks section for mainnet, Pearl and the retired testnets</a> (today) </li>
   
   </ul>
 
@@ -121,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1789641953.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1789645442.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
