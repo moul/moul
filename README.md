@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/hackerspace">gnolang/hackerspace</a> - <a href="https://github.com/gnolang/hackerspace/pull/130">docs: orient readers post-mainnet, flag the retired testnets this repo targets</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6199">fix(ci): pick the release-notes range instead of letting GitHub guess it</a> (today) </li>
   
-  <li><a href="https://github.com/gnolang/old-getting-started-workshop">gnolang/old-getting-started-workshop</a> - <a href="https://github.com/gnolang/old-getting-started-workshop/pull/26">docs: mark superseded by gnolang/getting-started, fix stale network and repo links</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6198">docs: README — add Networks, fix 5 stale CI badges, fix the #reference anchor</a> (today) </li>
   
-  <li><a href="https://github.com/gnolang/tx-indexer">gnolang/tx-indexer</a> - <a href="https://github.com/gnolang/tx-indexer/pull/244">docs: replace the dead test7 endpoints with mainnet and Pearl</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/awesome-gno">gnoverse/awesome-gno</a> - <a href="https://github.com/gnoverse/awesome-gno/pull/106">Add Kourt</a> (today) </li>
   
-  <li><a href="https://github.com/gnolang/faucet-hub">gnolang/faucet-hub</a> - <a href="https://github.com/gnolang/faucet-hub/pull/87">fix: drop the dead sapphire faucet, refresh the README config example</a> (today) </li>
+  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/8">feat: make help, lint/fmt targets, a Render test, and AGENTS.md</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/awesome-gno">gnoverse/awesome-gno</a> - <a href="https://github.com/gnoverse/awesome-gno/pull/105">docs: refresh the networks section for mainnet, Pearl and the retired testnets</a> (today) </li>
+  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/76">docs: use the permanent discord.com/invite/gnoland vanity link</a> (today) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1789645442.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1789649551.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
