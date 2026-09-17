@@ -21,6 +21,7 @@
 <h4>🌱 last projects</h4>
 <ul>
 
+<li><a href="https://github.com/moul/gno-preview-lab">moul/gno-preview-lab</a> - Disposable snapshot of gnolang/gno for testing the gnoweb PR-preview CI (gnolang/gno#6194)</li>
 <li><a href="https://github.com/moul/workgraph">moul/workgraph</a> - </li>
 <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - moul&#39;s gno.land contracts (p/moul, r/moul) — versioned, self-contained, CI-tested against gno master</li>
 <li><a href="https://github.com/moul/gnomputer">moul/gnomputer</a> - </li>
@@ -39,7 +40,6 @@
 <li><a href="https://github.com/moul/gno-sync-examples">moul/gno-sync-examples</a> - </li>
 <li><a href="https://github.com/moul/life-in-weeks">moul/life-in-weeks</a> - Life in weeks</li>
 <li><a href="https://github.com/moul/txtar">moul/txtar</a> - Generate txtar from CLI</li>
-<li><a href="https://github.com/moul/mdcodec">moul/mdcodec</a> - convert Go structures to and from readable Markdown (codec).</li>
 <li><a href="https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories">...</a></li>
 
 </ul>
@@ -66,9 +66,11 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6194">feat(ci): publish a static gnoweb preview for every pull request</a> (today) </li>
+  <li><a href="https://github.com/gnolang/tx-exports">gnolang/tx-exports</a> - <a href="https://github.com/gnolang/tx-exports/pull/58">feat: add mainnet.gno.land (gnoland-1) export &#43; CI, retire betanet</a> (today) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6193">fix(gnovm)!: the crossing `cur` parameter is a fixed binding, not a rebindable local</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-preview-lab">moul/gno-preview-lab</a> - <a href="https://github.com/moul/gno-preview-lab/pull/3">test: package-dependency change</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gno-preview-lab">moul/gno-preview-lab</a> - <a href="https://github.com/moul/gno-preview-lab/pull/2">test: realm-only change</a> (today) </li>
   
   </ul>
 
@@ -119,7 +121,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1789638414.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1789641953.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
