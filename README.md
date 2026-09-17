@@ -66,13 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/samouraiworld/memba">samouraiworld/memba</a> - <a href="https://github.com/samouraiworld/memba/pull/1225">Default to gno.land mainnet and retire Betanet from the network picker</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-basics">moul/gno-basics</a> - <a href="https://github.com/moul/gno-basics/pull/36">fix: build on current gno — gnomod.toml workspace, chain stdlib, modern tooling</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/gnopls">gnoverse/gnopls</a> - <a href="https://github.com/gnoverse/gnopls/pull/60">ci: one workflow that can actually fail</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6205">docs: flag the broken installer path and move the quickstart deploy off halted staging</a> (today) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6199">fix(ci): pick the release-notes range instead of letting GitHub guess it</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/gnopls">gnoverse/gnopls</a> - <a href="https://github.com/gnoverse/gnopls/pull/65">fix(ci): release smoke test must tolerate tags cut before the script existed</a> (today) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6198">docs: README — add Networks, fix 5 stale CI badges, fix the #reference anchor</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6204">docs: fix the CONTRIBUTING example that cannot run from the repo root</a> (today) </li>
+  
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6203">docs: surface six pages missing from the index and the sidebar</a> (today) </li>
   
   </ul>
 
@@ -123,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1789659874.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1789663561.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
