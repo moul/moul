@@ -66,13 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/210">feat: blockies identicons, generated in-page for every address</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/142">feat(x/plan9): Plan 9 namespaces for gno: 9P-shaped files, union binds, and an on-chain rc</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/gnopls">gnoverse/gnopls</a> - <a href="https://github.com/gnoverse/gnopls/pull/66">test: unblock the inherited gopls suite and gate on the 122 packages that pass</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/141">feat(wiki): an on-chain encyclopedia (p/moul/wiki/v0 &#43; r/moul/wiki/v0)</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno-1">moul/gno-1</a> - <a href="https://github.com/moul/gno-1/pull/1">docs: mark superseded — nothing here builds on current gno</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/139">feat(forge): an on-chain software forge (p/moul/forge &#43; r/moul/forge)</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno-stuff">moul/gno-stuff</a> - <a href="https://github.com/moul/gno-stuff/pull/2">docs: mark superseded — nothing here builds on current gno</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/137">feat(x/amm): minimal single-file constant-product AMM for GRC20 pairs</a> (today) </li>
+  
+  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/212">feat: show when a transaction was signed by a session key</a> (today) </li>
   
   </ul>
 
@@ -123,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1789670931.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1789674223.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
