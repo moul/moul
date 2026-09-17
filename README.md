@@ -66,15 +66,13 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/samouraiworld/memba">samouraiworld/memba</a> - <a href="https://github.com/samouraiworld/memba/pull/1225">Default to gno.land mainnet and retire Betanet from the network picker</a> (today) </li>
+  
+  <li><a href="https://github.com/gnoverse/gnopls">gnoverse/gnopls</a> - <a href="https://github.com/gnoverse/gnopls/pull/60">ci: one workflow that can actually fail</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6199">fix(ci): pick the release-notes range instead of letting GitHub guess it</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6198">docs: README — add Networks, fix 5 stale CI badges, fix the #reference anchor</a> (today) </li>
-  
-  <li><a href="https://github.com/gnoverse/awesome-gno">gnoverse/awesome-gno</a> - <a href="https://github.com/gnoverse/awesome-gno/pull/106">Add Kourt</a> (today) </li>
-  
-  <li><a href="https://github.com/gnolang/getting-started">gnolang/getting-started</a> - <a href="https://github.com/gnolang/getting-started/pull/8">feat: make help, lint/fmt targets, a Render test, and AGENTS.md</a> (today) </li>
-  
-  <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - <a href="https://github.com/gnolang/workshops/pull/76">docs: use the permanent discord.com/invite/gnoland vanity link</a> (today) </li>
   
   </ul>
 
@@ -125,7 +123,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1789649551.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1789652711.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
