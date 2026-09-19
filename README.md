@@ -66,6 +66,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6216">ci: run misc/install.sh the way the docs tell users to run it</a> (today) </li>
+  
   <li><a href="https://github.com/gnoverse/gnopls">gnoverse/gnopls</a> - <a href="https://github.com/gnoverse/gnopls/pull/69">fix(resolver): understand a plain directory pattern, not just file= and ...</a> (today) </li>
   
   <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/224">feat: identicons for named namespaces, from the on-chain registry</a> (today) </li>
@@ -73,8 +75,6 @@
   <li><a href="https://github.com/gnoverse/gnopls">gnoverse/gnopls</a> - <a href="https://github.com/gnoverse/gnopls/pull/68">fix(test): printf verbs that Go 1.26 vet rejects</a> (today) </li>
   
   <li><a href="https://github.com/gnoverse/gnopls">gnoverse/gnopls</a> - <a href="https://github.com/gnoverse/gnopls/pull/67">docs: a README that matches what gnopls actually does</a> (today) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6215">fix(install.sh): widen the release page and say when a tag has no binaries</a> (today) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1789814628.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1789818229.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
