@@ -21,6 +21,7 @@
 <h4>🌱 last projects</h4>
 <ul>
 
+<li><a href="https://github.com/moul/gnopm">moul/gnopm</a> - A package manager for gno workspaces: the version lives in gnomod.toml, not in the directory name</li>
 <li><a href="https://github.com/moul/gnopm-demo">moul/gnopm-demo</a> - Generated worked example for gnopm. Rewritten on every run.</li>
 <li><a href="https://github.com/moul/gno-preview-lab">moul/gno-preview-lab</a> - Disposable snapshot of gnolang/gno for testing the gnoweb PR-preview CI (gnolang/gno#6194)</li>
 <li><a href="https://github.com/moul/workgraph">moul/workgraph</a> - </li>
@@ -39,7 +40,6 @@
 <li><a href="https://github.com/moul/sapin.gno">moul/sapin.gno</a> - 🎄 christmas tree in gno</li>
 <li><a href="https://github.com/moul/plz">moul/plz</a> - personal adaptation of github.com/m1guelpf/plz-cli</li>
 <li><a href="https://github.com/moul/gno-sync-examples">moul/gno-sync-examples</a> - </li>
-<li><a href="https://github.com/moul/life-in-weeks">moul/life-in-weeks</a> - Life in weeks</li>
 <li><a href="https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories">...</a></li>
 
 </ul>
@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/181">ci: one bot comment, four workflows instead of eight, and the guards in Go</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/175">docs: replace 28 TODO-stub READMEs, and stop the generator from ever writing another</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/174">feat(gnopm): detect instead of asking, and add version, env and tidy</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/173">fix: 71 links the de-versioning broke, a guard for pins a squash would strand, and lock reporting on PRs</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6219">fix(ci): disable goreleaser gomod proxy, the contribs modules cannot be proxied</a> (today) </li>
-  
-  <li><a href="https://github.com/jaekwon/kourt">jaekwon/kourt</a> - <a href="https://github.com/jaekwon/kourt/pull/1">check-mutation-ledger: a coverage claim in prose cannot outlive its test</a> (today) </li>
-  
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/235">feat: a per-validator page, keyed on the consensus address the set actually uses</a> (today) </li>
-  
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/234">feat: an assets page over the GRC20 transfer ledger, with supply and holders that are exact</a> (today) </li>
-  
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/233">feat: sweep balances into a local table, so /accounts is a join and a rich list is possible</a> (today) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1789893992.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1789897433.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
