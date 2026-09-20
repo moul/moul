@@ -21,6 +21,7 @@
 <h4>🌱 last projects</h4>
 <ul>
 
+<li><a href="https://github.com/moul/gnopm-demo">moul/gnopm-demo</a> - Generated worked example for gnopm. Rewritten on every run.</li>
 <li><a href="https://github.com/moul/gno-preview-lab">moul/gno-preview-lab</a> - Disposable snapshot of gnolang/gno for testing the gnoweb PR-preview CI (gnolang/gno#6194)</li>
 <li><a href="https://github.com/moul/workgraph">moul/workgraph</a> - </li>
 <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - moul&#39;s gno.land contracts (p/moul, r/moul) — versioned, self-contained, CI-tested against gno master</li>
@@ -39,7 +40,6 @@
 <li><a href="https://github.com/moul/plz">moul/plz</a> - personal adaptation of github.com/m1guelpf/plz-cli</li>
 <li><a href="https://github.com/moul/gno-sync-examples">moul/gno-sync-examples</a> - </li>
 <li><a href="https://github.com/moul/life-in-weeks">moul/life-in-weeks</a> - Life in weeks</li>
-<li><a href="https://github.com/moul/txtar">moul/txtar</a> - Generate txtar from CLI</li>
 <li><a href="https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories">...</a></li>
 
 </ul>
@@ -66,6 +66,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6219">fix(ci): disable goreleaser gomod proxy, the contribs modules cannot be proxied</a> (today) </li>
+  
   <li><a href="https://github.com/jaekwon/kourt">jaekwon/kourt</a> - <a href="https://github.com/jaekwon/kourt/pull/1">check-mutation-ledger: a coverage claim in prose cannot outlive its test</a> (today) </li>
   
   <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/235">feat: a per-validator page, keyed on the consensus address the set actually uses</a> (today) </li>
@@ -73,8 +75,6 @@
   <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/234">feat: an assets page over the GRC20 transfer ledger, with supply and holders that are exact</a> (today) </li>
   
   <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/233">feat: sweep balances into a local table, so /accounts is a join and a rich list is possible</a> (today) </li>
-  
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/232">test: TestGetRollingActiveTimeSeries fails for one hour a day, when an hour ago is yesterday</a> (today) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1789890233.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1789893992.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
