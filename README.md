@@ -21,6 +21,7 @@
 <h4>🌱 last projects</h4>
 <ul>
 
+<li><a href="https://github.com/moul/gno-contracts-previews">moul/gno-contracts-previews</a> - Static gnoweb previews of moul/gno-contracts: the main snapshot and one per pull request. Generated, not hand-edited.</li>
 <li><a href="https://github.com/moul/gnopm">moul/gnopm</a> - A package manager for gno workspaces: the version lives in gnomod.toml, not in the directory name</li>
 <li><a href="https://github.com/moul/gnopm-demo">moul/gnopm-demo</a> - Generated worked example for gnopm. Rewritten on every run.</li>
 <li><a href="https://github.com/moul/gno-preview-lab">moul/gno-preview-lab</a> - Disposable snapshot of gnolang/gno for testing the gnoweb PR-preview CI (gnolang/gno#6194)</li>
@@ -39,7 +40,6 @@
 <li><a href="https://github.com/moul/gnonativetest">moul/gnonativetest</a> - </li>
 <li><a href="https://github.com/moul/sapin.gno">moul/sapin.gno</a> - 🎄 christmas tree in gno</li>
 <li><a href="https://github.com/moul/plz">moul/plz</a> - personal adaptation of github.com/m1guelpf/plz-cli</li>
-<li><a href="https://github.com/moul/gno-sync-examples">moul/gno-sync-examples</a> - </li>
 <li><a href="https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories">...</a></li>
 
 </ul>
@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/185">chore: preview smoke test (do not merge)</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/184">feat(preview): a browsable gnoweb of main, and a preview that follows what a PR actually changes</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/183">feat(preview): a browsable gnoweb of main, and a preview that follows what a PR actually changes</a> (today) </li>
+  
   <li><a href="https://github.com/moul/gnopm">moul/gnopm</a> - <a href="https://github.com/moul/gnopm/pull/13">feat(demo): the demo repository ships its own gnopm-powered CI and badges</a> (today) </li>
   
   <li><a href="https://github.com/moul/gnopm">moul/gnopm</a> - <a href="https://github.com/moul/gnopm/pull/11">feat(ci): gnopm tool ci and gnopm badges</a> (today) </li>
-  
-  <li><a href="https://github.com/moul/gnopm">moul/gnopm</a> - <a href="https://github.com/moul/gnopm/pull/4">fix: help answers with global options and after the command name, with the regression tests CI was missing</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/182">build: use moul.io/gnopm instead of the in-tree copy</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/181">ci: one bot comment, four workflows instead of eight, and the guards in Go</a> (1 day ago) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1789974412.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1789977171.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
