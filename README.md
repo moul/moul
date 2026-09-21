@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6225">feat(gnoweb): show which network you are on, and let gnodev restyle the banner</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/256">feat: name the contracts the zoom makes room for, and stop links at the bubble border</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/253">feat: a scale toggle on the storage ruler, so log and the honest to-scale drawing are both one click away</a> (today) </li>
+  <li><a href="https://github.com/moul/gnopm">moul/gnopm</a> - <a href="https://github.com/moul/gnopm/pull/16">feat: a version number is a tag, so bump can check the chain and unbump can take one back</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/252">perf(indexer): drop content_raw from the govdao provenance query too</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/189">feat(storagecost): reclaim what soft deletes leave behind, and price whether it is worth it</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/251">feat(registry): date an app description, so the volatile fact inside it stops passing for current</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/255">fix: stop negating the chain&#39;s storage unlock delta, which reported wugnot 9x larger than it is</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gnopm">moul/gnopm</a> - <a href="https://github.com/moul/gnopm/pull/14">feat: gnopm publish, the deploy plan as gnokey commands</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/188">feat(gnohome): tx -batch, one transaction and one signature for every slot</a> (today) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1790009210.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1790012631.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
