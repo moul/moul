@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/gnopm">moul/gnopm</a> - <a href="https://github.com/moul/gnopm/pull/13">feat(demo): the demo repository ships its own gnopm-powered CI and badges</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gnopm">moul/gnopm</a> - <a href="https://github.com/moul/gnopm/pull/11">feat(ci): gnopm tool ci and gnopm badges</a> (today) </li>
+  
   <li><a href="https://github.com/moul/gnopm">moul/gnopm</a> - <a href="https://github.com/moul/gnopm/pull/4">fix: help answers with global options and after the command name, with the regression tests CI was missing</a> (1 day ago) </li>
   
   <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/182">build: use moul.io/gnopm instead of the in-tree copy</a> (1 day ago) </li>
   
   <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/181">ci: one bot comment, four workflows instead of eight, and the guards in Go</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/175">docs: replace 28 TODO-stub READMEs, and stop the generator from ever writing another</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/174">feat(gnopm): detect instead of asking, and add version, env and tidy</a> (1 day ago) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1789969626.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1789974412.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
