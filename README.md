@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/246">feat: an -analytics-script flag, off by default</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/250">fix: step the byte reading through MB and GB</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/245">feat: print the metric the contracts map is sized by</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/249">fix: offer the log scale only where it reaches</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/gnockpit">gnoverse/gnockpit</a> - <a href="https://github.com/gnoverse/gnockpit/pull/8">feat(web): optional Simple Analytics script, off by default</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/248">feat: nest the nav into sections, and split gas and govdao into the pages they had grown into</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/244">feat: /storage cross-highlight on hover, identicons in the legend, and a cumulative column instead of exponents</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/187">fix(preview): a zero argument budget means no cap, as it does for every other cap</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/243">feat: an activity filter on every graph, and the import closure that keeps it from emptying them</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/247">feat(registry): kourt, boards2 and r/sys/params in the app directory, and token folded into defi</a> (today) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1789998378.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1790002050.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
