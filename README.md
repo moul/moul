@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/205">fix(faucet): bound both tables so the board&#39;s gas cost stops growing with its history</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/295">feat(defi): page the whole transfer history instead of stopping at the newest 500</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/206">feat(guard-private): a realm is private by default, and says why when it is not</a> (today) </li>
+  
+  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/294">feat(state): a state tab that shows what a realm actually holds</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/205">fix(faucet): bound the board, pin the path, and publish private</a> (today) </li>
   
   <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/204">docs(agents): avl Remove returns two values where Get returns one</a> (today) </li>
-  
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/203">feat(faucet): a GNOT faucet where a request and its approval ride one transaction</a> (today) </li>
-  
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/293">fix(store): attribute deploy gas from package_submissions, the table that keeps every deploy</a> (today) </li>
-  
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/292">feat(state): decode a realm&#39;s amino state json into a named value tree</a> (today) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1790088474.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1790091837.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
