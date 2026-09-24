@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/223">feat(riscv): RV32IM in gno, predecoded, and the measured cost of a guest instruction</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/348">fix(sessions): version the sweep cursor key, so an upward cursor is not read as downward progress</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/awesome-gno">gnoverse/awesome-gno</a> - <a href="https://github.com/gnoverse/awesome-gno/pull/108">Add gnopm</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/227">fix: the pasteable gnokey commands offered 50x to 500x the accepted gas fee</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gnopm">moul/gnopm</a> - <a href="https://github.com/moul/gnopm/pull/40">docs: a logo, three more captures, a shorter README, and issue forms that invite one</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/347">perf(sessions): sweep newest first, so the index is useful in minutes instead of a day</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/339">perf: nobody should ever be the first visitor</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/346">feat(defi): read the coin ledger instead of re-deriving it on every request</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gnopm">moul/gnopm</a> - <a href="https://github.com/moul/gnopm/pull/39">fix: status to ask and sync to fix did not converge, and errors named the wrong command</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/226">ci: fold the gnopm verdict into the one pull request comment</a> (today) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1790289826.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1790293428.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
