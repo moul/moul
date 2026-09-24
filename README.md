@@ -66,13 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/334">fix(apps): a folded card counts every realm it folded, generations included</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/223">feat(riscv): RV32IM in gno, predecoded, and the measured cost of a guest instruction</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/333">fix(awesome-sync): print every host gnoshot needs, not only the community list&#39;s</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/awesome-gno">gnoverse/awesome-gno</a> - <a href="https://github.com/gnoverse/awesome-gno/pull/108">Add gnopm</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/332">feat(apps): one app is one card, and three facets to ask why it is here</a> (today) </li>
+  <li><a href="https://github.com/moul/gnopm">moul/gnopm</a> - <a href="https://github.com/moul/gnopm/pull/40">docs: a logo, three more captures, a shorter README, and issue forms that invite one</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/awesome-gno">gnoverse/awesome-gno</a> - <a href="https://github.com/gnoverse/awesome-gno/pull/107">Archive Gno Studio Connect and meme.land</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/339">perf: nobody should ever be the first visitor</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gnopm">moul/gnopm</a> - <a href="https://github.com/moul/gnopm/pull/39">fix: status to ask and sync to fix did not converge, and errors named the wrong command</a> (today) </li>
   
   </ul>
 
@@ -123,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1790286244.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1790289826.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
