@@ -21,6 +21,8 @@
 <h4>🌱 last projects</h4>
 <ul>
 
+<li><a href="https://github.com/moul/gno4">moul/gno4</a> - Connect Four with the chain as the referee. One of four repos exploring what a web2.5 app on gno.land has to get right.</li>
+<li><a href="https://github.com/moul/gnopie">moul/gnopie</a> - 🥧 httpie, but for gno.land. Reads realms, evaluates functions, signs transactions, and measures the gas instead of guessing it. Unaudited personal tooling.</li>
 <li><a href="https://github.com/moul/gno-contracts-previews">moul/gno-contracts-previews</a> - Static gnoweb previews of moul/gno-contracts: the main snapshot and one per pull request. Generated, not hand-edited.</li>
 <li><a href="https://github.com/moul/gnopm">moul/gnopm</a> - A package manager for gno workspaces: the version lives in gnomod.toml, not in the directory name</li>
 <li><a href="https://github.com/moul/gnopm-demo">moul/gnopm-demo</a> - Generated worked example for gnopm. Rewritten on every run.</li>
@@ -38,8 +40,6 @@
 <li><a href="https://github.com/moul/vanitycal">moul/vanitycal</a> - generates iCal files with anniversary dates</li>
 <li><a href="https://github.com/moul/talks">moul/talks</a> - sources for my talks and workshops</li>
 <li><a href="https://github.com/moul/gnonativetest">moul/gnonativetest</a> - </li>
-<li><a href="https://github.com/moul/sapin.gno">moul/sapin.gno</a> - 🎄 christmas tree in gno</li>
-<li><a href="https://github.com/moul/plz">moul/plz</a> - personal adaptation of github.com/m1guelpf/plz-cli</li>
 <li><a href="https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories">...</a></li>
 
 </ul>
@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/242">docs(agents): register the upgradeability hub as the eighth meta issue</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/391">perf(web): two identical GETs in flight at once are one GET</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/386">fix(tables): a table repaint enhances on the next frame, so a chosen sort cannot wait behind a debounce</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/390">feat(developer): crawl the standard library, so code search can find strings and avl</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/385">feat(holdings): the gap between a reconstructed balance and the chain is spent, not missing, so show the arithmetic</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/mygnoscan">gnoverse/mygnoscan</a> - <a href="https://github.com/gnoverse/mygnoscan/pull/389">fix(holdings): a package&#39;s storage deposit is charged to its creator on the approver&#39;s transaction</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/240">feat(x/upgrade): six upgrade patterns, re-homed from the 2024 examples and ported to gno 0.9</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/248">feat(kit/num): amount and number formatting, total on every input</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/239">fix(vesting): bound the index, and seed the one multisig whose label is public</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/247">feat(reactions): an embeddable reaction block any realm can drop into its Render</a> (today) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1790614141.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1790617604.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
