@@ -21,6 +21,7 @@
 <h4>🌱 last projects</h4>
 <ul>
 
+<li><a href="https://github.com/moul/gno-moul-mobile">moul/gno-moul-mobile</a> - A native iOS app for gno.land realms: session onboarding without a master key on the phone</li>
 <li><a href="https://github.com/moul/gnosnake">moul/gnosnake</a> - Snake on gno.land: you submit the moves, not the score, and the realm replays them. One of four repos exploring web2.5 practices.</li>
 <li><a href="https://github.com/moul/gnordle">moul/gnordle</a> - A daily word game on gno.land where the answer is public, because a chain cannot keep a secret. Hard mode is enforced instead.</li>
 <li><a href="https://github.com/moul/gnoplace">moul/gnoplace</a> - A shared pixel canvas on gno.land. One of four repos exploring what a web2.5 app has to get right.</li>
@@ -39,7 +40,6 @@
 <li><a href="https://github.com/moul/gno-1">moul/gno-1</a> - gno dev stuff</li>
 <li><a href="https://github.com/moul/revbro">moul/revbro</a> - </li>
 <li><a href="https://github.com/moul/gno-moul-home-web25">moul/gno-moul-home-web25</a> - </li>
-<li><a href="https://github.com/moul/ansicat">moul/ansicat</a> - display ANSI files in terminal</li>
 <li><a href="https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories">...</a></li>
 
 </ul>
@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/286">docs(home): the gallery is one line in Now, not a section of its own</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/285">gnobench: measure what writing one change at a time costs the node</a> (today) </li>
+  
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/284">fix(gallery): self-links carry the version, because gnoweb does not resolve one</a> (today) </li>
+  
   <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/445">fix(defi): a readable asset table, an honest supply column, and a chart on every section page</a> (today) </li>
   
   <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/444">fix(prices): read supply before the depth ladder, so a slow chain does not silently drop every fdv</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/443">fix(prices): an unreadable chain is not an empty one, and a tvl column to show the difference</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/442">fix(realm): set up the self-fetching tabs once per load, not once per paint</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/441">feat(defi): the asset page draws all three kinds, with the series each one honestly has</a> (1 day ago) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1790754836.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1790758452.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
