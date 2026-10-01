@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/452">feat(defi): an address&#39;s money as one picture, a unified per-transaction history, and every ledger list paged by the server</a> (today) </li>
+  
+  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/451">feat(achievements): a Bubble Rumble badge read from the realm, and drop the gnopublish and gnoblog-cli ones</a> (today) </li>
+  
   <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/450">feat(lab/github): rank contributors by a tiered score of merged PRs, reviews and comments, walked all time</a> (today) </li>
   
   <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/313">feat(copilot-log): record the effort each review reports, because the default is not what runs</a> (today) </li>
   
   <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/449">feat(validators): a validator is an address: its moniker and a shield on every link, and its history as an address-page tab</a> (today) </li>
-  
-  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/448">fix(govdao): read every page of gov/dao&#39;s proposal list, not the newest five</a> (today) </li>
-  
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/312">fix(gnohome): os.TempDir keeps macOS&#39;s trailing slash, so the whole local suite was red off CI</a> (today) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1790883915.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1790887675.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
