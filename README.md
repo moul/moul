@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/gno-moul-mobile">moul/gno-moul-mobile</a> - <a href="https://github.com/moul/gno-moul-mobile/pull/2">feat: wiki and gnopm tabs, and an editor on the wiki&#39;s own edit links</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/302">feat(gnobench): report what the chain charges for storage I/O, not just what the VM charges for opcodes</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/295">feat(copilot): ship the review-log harvester, report every finding instead of five, and say when to ask</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/301">fix(copilot): a live link in the log, a page silently dropped, and the index rule the first review already disproved</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/294">feat(review-advice): spend a Copilot review on what is about to become permanent, and nothing else</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/300">bench(gnobench): locate the map-vs-tree crossover, n=330 for a read and n=250 for a write</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/293">build(tools): pin gnopm to the v0.13.0 release</a> (today) </li>
+  <li><a href="https://github.com/moul/gnopm">moul/gnopm</a> - <a href="https://github.com/moul/gnopm/pull/81">docs(demo): the worked example uses the action, now that a release carries it</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/292">feat(agents): relay, a bounded message bus whose ring is its budget</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-moul-mobile">moul/gno-moul-mobile</a> - <a href="https://github.com/moul/gno-moul-mobile/pull/3">fix: link GnoCore into GnoKit only, embed it nowhere, and drop the flatten script</a> (today) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1790862569.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1790866169.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
