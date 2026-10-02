@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6265">perf(tm2): open pebble databases with the tuned default options</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6265">perf(tm2): open pebble databases with the tuned default options</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/316">docs(EFFECTIVE_GNO): fanout 32 where keys are removed, measured</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/316">docs(EFFECTIVE_GNO): fanout 32 where keys are removed, measured</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/456">feat(search): the popup previews three rows per group, /search lists them all, and one thing on two chains is one row</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/456">feat(search): the popup previews three rows per group, /search lists them all, and one thing on two chains is one row</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/455">feat(lab/github): window by all time (the default) or a calendar year, in the URL</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/455">feat(lab/github): window by all time (the default) or a calendar year, in the URL</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6264">perf(tm2): save a block with one fsync instead of two</a> (today) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6264">perf(tm2): save a block with one fsync instead of two</a> (1 day ago) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1790898323.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1790903826.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
