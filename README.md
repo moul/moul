@@ -66,9 +66,9 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnoverse/gnockpit">gnoverse/gnockpit</a> - <a href="https://github.com/gnoverse/gnockpit/pull/12">fix(history): never persist the unfinalized tip&#39;s missing validators</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/458">feat(cartography): a time-lapse and a find box across every view, a chip picker, and night lights</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/457">feat(cartography): variants on every city-builder view, and a honeycomb, a skyline and an archipelago</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/gnockpit">gnoverse/gnockpit</a> - <a href="https://github.com/gnoverse/gnockpit/pull/12">fix(history): never persist the unfinalized tip&#39;s missing validators</a> (today) </li>
   
   </ul>
 
@@ -119,7 +119,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1790959755.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1790963171.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
