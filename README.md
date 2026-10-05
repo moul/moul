@@ -66,15 +66,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/320">feat(web): sign without a wallet, a gnokey modal whose gas is measured by simulation</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/467">fix(frontend): keep a short sub-path whole on timeline cards</a> (today) </li>
   
-  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/463">feat(frontend): /code/timeline, a feed of every package published on a chain, and /code renamed code map</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/466">feat: code-derived tags on packages, with their evidence, on every page that lists them</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/319">feat(web): dice, hangman and 8-ball live apps, a live-app badge, every source file on one page</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/awesome-gno">gnoverse/awesome-gno</a> - <a href="https://github.com/gnoverse/awesome-gno/pull/115">Rename mygnoscan to gnoscope</a> (today) </li>
   
-  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/732">docs: stabilize handoff checkpoint</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/465">feat(frontend): timeline cards carry the realm&#39;s thumbnail and read short</a> (today) </li>
   
-  <li><a href="https://github.com/moul/depviz">moul/depviz</a> - <a href="https://github.com/moul/depviz/pull/731">docs: refresh agent handoff</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/464">feat(registry): add Gnogolf to apps, resync awesome-gno</a> (today) </li>
   
   </ul>
 
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1791200890.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1791205192.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
