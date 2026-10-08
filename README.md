@@ -66,21 +66,21 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/328">fix(realms): eight live realms let a crafted URL path escape its code span</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/330">fix(social): validators agree with the escaper, so a required field cannot render blank</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/327">fix(gnovet): the vendor skip excluded our own published module, and the escaper rule missed rpgroom</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/329">gnovet render-path-in-code-span, and the sites it found</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/326">feat(gnovet): two rules from the x/social and x/vm reviews, and stop linting vendor</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/328">fix(realms): eight live realms let a crafted URL path escape its code span</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6286">feat(gnodev): load ./contracts by convention, and serve the RPC under /rpc</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/327">fix(gnovet): the vendor skip excluded our own published module, and the escaper rule missed rpgroom</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6285">fix(tm2/rpc): keep the URL path when the RPC is served behind a prefix</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/326">feat(gnovet): two rules from the x/social and x/vm reviews, and stop linting vendor</a> (1 day ago) </li>
   
   </ul>
 
   <h4>📓 Gists I wrote</h4>
   <ul>
-  <li><a href="https://gist.github.com/47edc74eb026d52c113510e0daf99ad0">gno changelog: chain/test12 → test13 (master HEAD) — full PR-linked changelog</a> (3 months ago)</li>
+  <li><a href="https://gist.github.com/47edc74eb026d52c113510e0daf99ad0">gno changelog: chain/test12 → test13 (master HEAD) — full PR-linked changelog</a> (4 months ago)</li>
   <li><a href="https://gist.github.com/a885bbf60592db441ae102a43cca9d47">Investigation: gnoswap tainted-readonly fix in PR #5747 — necessary or codebase-fixable?</a> (4 months ago)</li>
   <li><a href="https://gist.github.com/32675996ca746a2e8367aafcf0461717">Cross-platform host probe — emits a TOML report identifying the machine. Source: github.com/moul/nixpkgs/inventory/probe.sh</a> (4 months ago)</li>
   <li><a href="https://gist.github.com/736f84e2655a456d444e40dac6813f5e">gnoland1 post-initial-genesis activity report (halt @ 703411)</a> (5 months ago)</li>
@@ -125,7 +125,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1791416800.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1791422397.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
