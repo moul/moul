@@ -65,11 +65,7 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/504">feat(observability): a handler can name where its time went, and /api/holders does</a> (today) </li>
-  
-  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/503">fix(prices): serve a stale quote and refresh it behind the reader</a> (today) </li>
-  
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/349">feat(x/daily): varint, canonical LEB128 integers with a demo realm</a> (today) </li>
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/350">fix(make): guards runs gnovet, which CI enforces and guards did not</a> (today) </li>
   
   </ul>
 
@@ -120,7 +116,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1792583262.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1792587368.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
