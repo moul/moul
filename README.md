@@ -65,7 +65,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/353">feat(x/daily/shuntingyard): infix to RPN and checked int64 evaluation</a> (today) </li>
+  <li><a href="https://github.com/klash-pro/klash">klash-pro/klash</a> - <a href="https://github.com/klash-pro/klash/pull/3">fix(discover): llama.cpp enricher asks for /v1/v1/models when the base URL ends in /v1</a> (today) </li>
+  
+  <li><a href="https://github.com/klash-pro/klash">klash-pro/klash</a> - <a href="https://github.com/klash-pro/klash/pull/2">fix(shell): bound how much background job output is held in memory</a> (today) </li>
+  
+  <li><a href="https://github.com/klash-pro/klash">klash-pro/klash</a> - <a href="https://github.com/klash-pro/klash/pull/1">perf(bash): stop copying the command&#39;s whole output ten times a second</a> (today) </li>
+  
+  <li><a href="https://github.com/charmbracelet/crush">charmbracelet/crush</a> - <a href="https://github.com/charmbracelet/crush/pull/4137">fix(discover): llama.cpp enricher asks for /v1/v1/models when the base URL ends in /v1</a> (today) </li>
+  
+  <li><a href="https://github.com/charmbracelet/crush">charmbracelet/crush</a> - <a href="https://github.com/charmbracelet/crush/pull/4136">fix(shell): bound how much background job output is held in memory</a> (today) </li>
   
   </ul>
 
@@ -116,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1792871029.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1792874659.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
