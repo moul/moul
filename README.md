@@ -65,15 +65,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/klash-pro/klash">klash-pro/klash</a> - <a href="https://github.com/klash-pro/klash/pull/5">docs(gno): measured references for cost, testing and the Go divergences</a> (today) </li>
+  
+  <li><a href="https://github.com/klash-pro/klash">klash-pro/klash</a> - <a href="https://github.com/klash-pro/klash/pull/4">docs(gno): the storage advice is a measured decision table, not avl by default</a> (today) </li>
+  
   <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/354">feat(x/daily/dijkstra): single-source shortest paths with a deterministic tie-break (p/ lib &#43; r/ demo)</a> (today) </li>
   
   <li><a href="https://github.com/klash-pro/klash">klash-pro/klash</a> - <a href="https://github.com/klash-pro/klash/pull/3">fix(discover): llama.cpp enricher asks for /v1/v1/models when the base URL ends in /v1</a> (1 day ago) </li>
   
   <li><a href="https://github.com/klash-pro/klash">klash-pro/klash</a> - <a href="https://github.com/klash-pro/klash/pull/2">fix(shell): bound how much background job output is held in memory</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/klash-pro/klash">klash-pro/klash</a> - <a href="https://github.com/klash-pro/klash/pull/1">perf(bash): stop copying the command&#39;s whole output ten times a second</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/charmbracelet/crush">charmbracelet/crush</a> - <a href="https://github.com/charmbracelet/crush/pull/4137">fix(discover): llama.cpp enricher asks for /v1/v1/models when the base URL ends in /v1</a> (1 day ago) </li>
   
   </ul>
 
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1792921555.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1792925085.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
