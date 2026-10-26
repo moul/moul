@@ -65,6 +65,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/355">feat(x/daily/cron): five-field cron expressions, parsed and answered (p/ lib &#43; r/ demo)</a> (today) </li>
+  
   <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/507">fix(cache): the first reader after a quiet spell stops paying for the next one</a> (1 day ago) </li>
   
   <li><a href="https://github.com/klash-pro/klash">klash-pro/klash</a> - <a href="https://github.com/klash-pro/klash/pull/5">docs(gno): measured references for cost, testing and the Go divergences</a> (1 day ago) </li>
@@ -72,8 +74,6 @@
   <li><a href="https://github.com/klash-pro/klash">klash-pro/klash</a> - <a href="https://github.com/klash-pro/klash/pull/4">docs(gno): the storage advice is a measured decision table, not avl by default</a> (1 day ago) </li>
   
   <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/354">feat(x/daily/dijkstra): single-source shortest paths with a deterministic tie-break (p/ lib &#43; r/ demo)</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/klash-pro/klash">klash-pro/klash</a> - <a href="https://github.com/klash-pro/klash/pull/3">fix(discover): llama.cpp enricher asks for /v1/v1/models when the base URL ends in /v1</a> (2 days ago) </li>
   
   </ul>
 
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1792998776.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1793001566.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
