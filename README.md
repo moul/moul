@@ -65,6 +65,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/374">feat(x/daily/bwt): Burrows-Wheeler transform (p/ lib &#43; r/ demo)</a> (today) </li>
+  
   <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/518">feat(registry): curate the dApps that shipped in October</a> (1 day ago) </li>
   
   <li><a href="https://github.com/PlakarKorp/plakar">PlakarKorp/plakar</a> - <a href="https://github.com/PlakarKorp/plakar/pull/2560">ui: document PLAKAR_UI_TOKEN</a> (1 day ago) </li>
@@ -72,8 +74,6 @@
   <li><a href="https://github.com/PlakarKorp/plakar">PlakarKorp/plakar</a> - <a href="https://github.com/PlakarKorp/plakar/pull/2559">backup: document that ignore patterns are anchored at /</a> (1 day ago) </li>
   
   <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/373">feat(x/daily/manacher): linear-time palindrome scan (p/ lib &#43; r/ demo)</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/372">fix(tools): the gnocontracts usage line prints a command that runs</a> (2 days ago) </li>
   
   </ul>
 
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1793429032.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1793432629.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
