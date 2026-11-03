@@ -65,7 +65,9 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/PlakarKorp/go-cdc-chunkers">PlakarKorp/go-cdc-chunkers</a> - <a href="https://github.com/PlakarKorp/go-cdc-chunkers/pull/57">fastcdc: drop the per-byte bounds check from the hot loop, 25% faster</a> (today) </li>
+  <li><a href="https://github.com/PlakarKorp/go-cdc-chunkers">PlakarKorp/go-cdc-chunkers</a> - <a href="https://github.com/PlakarKorp/go-cdc-chunkers/pull/59">jc: drop the per-byte bounds check from the scan, 40% faster</a> (today) </li>
+  
+  <li><a href="https://github.com/PlakarKorp/go-cdc-chunkers">PlakarKorp/go-cdc-chunkers</a> - <a href="https://github.com/PlakarKorp/go-cdc-chunkers/pull/58">ultracdc: take the per-byte bounds checks and the window compare out of the scan, 30% faster</a> (today) </li>
   
   </ul>
 
@@ -82,11 +84,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
+  <li><a href="https://github.com/poormikey80-create">poormikey80-create</a>
   <li><a href="https://github.com/RomulusMirauta">RomulusMirauta</a>
   <li><a href="https://github.com/MatthewMacri">MatthewMacri</a>
   <li><a href="https://github.com/gaqx">gaqx</a>
   <li><a href="https://github.com/a4hmad1">a4hmad1</a>
-  <li><a href="https://github.com/splincode">splincode</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -116,7 +118,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1793742241.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1793745829.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
