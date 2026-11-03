@@ -67,8 +67,6 @@
   
   <li><a href="https://github.com/PlakarKorp/go-cdc-chunkers">PlakarKorp/go-cdc-chunkers</a> - <a href="https://github.com/PlakarKorp/go-cdc-chunkers/pull/57">fastcdc: drop the per-byte bounds check from the hot loop, 25% faster</a> (today) </li>
   
-  <li><a href="https://github.com/PlakarKorp/plakar">PlakarKorp/plakar</a> - <a href="https://github.com/PlakarKorp/plakar/pull/2571">sync: document that memory grows with the snapshot being synchronized</a> (today) </li>
-  
   </ul>
 
   <h4>📓 Gists I wrote</h4>
@@ -118,7 +116,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1793717035.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1793720636.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
