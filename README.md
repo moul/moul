@@ -65,13 +65,11 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnosh-ai/gnosh">gnosh-ai/gnosh</a> - <a href="https://github.com/gnosh-ai/gnosh/pull/15">fix(sessionweb): session web answers other sites through DNS rebinding and cross-site posts</a> (today) </li>
+  
   <li><a href="https://github.com/PlakarKorp/kloset">PlakarKorp/kloset</a> - <a href="https://github.com/PlakarKorp/kloset/pull/624">encryption: stop allocating a chunk per frame on the decrypt path, 25% faster and 119x less allocated</a> (today) </li>
   
   <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/380">feat(x/daily): tarjan, strongly connected components</a> (today) </li>
-  
-  <li><a href="https://github.com/PlakarKorp/go-cdc-chunkers">PlakarKorp/go-cdc-chunkers</a> - <a href="https://github.com/PlakarKorp/go-cdc-chunkers/pull/59">jc: drop the per-byte bounds check from the scan, 40% faster</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/PlakarKorp/go-cdc-chunkers">PlakarKorp/go-cdc-chunkers</a> - <a href="https://github.com/PlakarKorp/go-cdc-chunkers/pull/58">ultracdc: take the per-byte bounds checks and the window compare out of the scan, 30% faster</a> (1 day ago) </li>
   
   </ul>
 
@@ -122,7 +120,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1793799834.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1793803435.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
