@@ -67,10 +67,6 @@
   
   <li><a href="https://github.com/gnosh-ai/gnosh">gnosh-ai/gnosh</a> - <a href="https://github.com/gnosh-ai/gnosh/pull/15">fix(sessionweb): session web answers other sites through DNS rebinding and cross-site posts</a> (today) </li>
   
-  <li><a href="https://github.com/PlakarKorp/kloset">PlakarKorp/kloset</a> - <a href="https://github.com/PlakarKorp/kloset/pull/624">encryption: stop allocating a chunk per frame on the decrypt path, 25% faster and 119x less allocated</a> (today) </li>
-  
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/380">feat(x/daily): tarjan, strongly connected components</a> (today) </li>
-  
   </ul>
 
   <h4>📓 Gists I wrote</h4>
@@ -120,7 +116,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1793814241.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1793817835.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
