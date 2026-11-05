@@ -65,6 +65,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/381">feat(x/daily/ascii85): ascii85 codec that refuses the groups Go wraps (p/ lib &#43; r/ demo)</a> (today) </li>
+  
   <li><a href="https://github.com/gnosh-ai/gnosh">gnosh-ai/gnosh</a> - <a href="https://github.com/gnosh-ai/gnosh/pull/20">fix(fetch): a page longer than the read limit is refused as not UTF-8 when the cut splits a character</a> (today) </li>
   
   <li><a href="https://github.com/gnosh-ai/gnosh">gnosh-ai/gnosh</a> - <a href="https://github.com/gnosh-ai/gnosh/pull/19">fix(cmd): session web cannot listen on its default port because the artifact server already holds it</a> (today) </li>
@@ -120,7 +122,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1793861065.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1793864630.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
