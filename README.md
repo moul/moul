@@ -65,9 +65,11 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnoverse/awesome-gno">gnoverse/awesome-gno</a> - <a href="https://github.com/gnoverse/awesome-gno/pull/118">fix: archive dead r/docs and gno.nvim, update Gnolove link, add tlin</a> (today) </li>
+  <li><a href="https://github.com/gnosh-ai/gnosh">gnosh-ai/gnosh</a> - <a href="https://github.com/gnosh-ai/gnosh/pull/22">fix(question): a second client cancelling the same question panics on a closed channel</a> (today) </li>
   
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/381">feat(x/daily/ascii85): ascii85 codec that refuses the groups Go wraps (p/ lib &#43; r/ demo)</a> (today) </li>
+  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/521">chore(deps): bump golang.org/x/crypto to v0.55.0, the newest that still builds on go 1.25</a> (today) </li>
+  
+  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/520">test(e2e): stamp the storage release relative to now, so the 90d window keeps finding it</a> (today) </li>
   
   </ul>
 
@@ -118,7 +120,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1793868235.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1793871830.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
