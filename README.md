@@ -65,13 +65,15 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6480">perf(tm2/pebbledb): give NewPebbleDB a 64 MiB block cache</a> (today) </li>
+  
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6479">perf(params): memoize amino type info of param structs (GetStruct 182µs to 8µs, DeliverTx p50 -5 to -8%)</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6478">perf(gnovm): reuse decoded objects across transactions, 1.3x tx/s with gas unchanged</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6477">fix(misc/docs): make the docs linter name each failing URL and survive a throttled runner</a> (today) </li>
   
   <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/389">feat(x/daily/jarowinkler): Jaro and Jaro-Winkler similarity in integers only</a> (today) </li>
-  
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/388">feat(x/daily/murmur3): MurmurHash3 x86_32 with the SMHasher self-test</a> (1 day ago) </li>
   
   </ul>
 
@@ -88,11 +90,11 @@
   <h4>👯 Check out some of my recent followers</h4>
   <ul>
   
-  <li><a href="https://github.com/poormikey80-create">poormikey80-create</a>
   <li><a href="https://github.com/RomulusMirauta">RomulusMirauta</a>
   <li><a href="https://github.com/MatthewMacri">MatthewMacri</a>
   <li><a href="https://github.com/gaqx">gaqx</a>
   <li><a href="https://github.com/a4hmad1">a4hmad1</a>
+  <li><a href="https://github.com/splincode">splincode</a>
   </ul>
 
   <h4>💬 Feedback</h4>
@@ -122,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1794415433.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1794419033.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
