@@ -65,15 +65,13 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6482">perf(amino,gnovm): cut per-transaction allocations in object encode and decode</a> (today) </li>
+  
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6481">fix(tm2/params): address struct fields by FieldInfo.Index, not loop position</a> (today) </li>
+  
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6480">perf(tm2/pebbledb): give NewPebbleDB a 64 MiB block cache</a> (today) </li>
   
   <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6479">perf(params): memoize amino type info of param structs (GetStruct 182µs to 8µs, DeliverTx p50 -5 to -8%)</a> (today) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6478">perf(gnovm): reuse decoded objects across transactions, 1.3x tx/s with gas unchanged</a> (today) </li>
-  
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6477">fix(misc/docs): make the docs linter name each failing URL and survive a throttled runner</a> (today) </li>
-  
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/389">feat(x/daily/jarowinkler): Jaro and Jaro-Winkler similarity in integers only</a> (today) </li>
   
   </ul>
 
@@ -124,7 +122,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1794419033.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1794422636.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
