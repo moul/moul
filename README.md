@@ -69,10 +69,6 @@
   
   <li><a href="https://github.com/gnosh-ai/gnosh">gnosh-ai/gnosh</a> - <a href="https://github.com/gnosh-ai/gnosh/pull/45">fix(fsext): ls never says a listing was cut when the limit falls on a file</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnosh-ai/gnosh">gnosh-ai/gnosh</a> - <a href="https://github.com/gnosh-ai/gnosh/pull/44">fix(shell): bang output of one long line loses its end when the line ends in a newline</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/391">docs(ci): PR CI never re-vendors, so AGENTS.md stops claiming vendor/ is gated</a> (1 day ago) </li>
-  
   </ul>
 
   <h4>📓 Gists I wrote</h4>
@@ -122,7 +118,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1794577432.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1794581036.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
