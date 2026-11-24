@@ -21,6 +21,8 @@
 <h4>🌱 last projects</h4>
 <ul>
 
+<li><a href="https://github.com/moul/gnolive">moul/gnolive</a> - Watch a Gno source file and print its parseable revisions</li>
+<li><a href="https://github.com/moul/gh-report">moul/gh-report</a> - Deterministic GitHub issue and pull request triage reports from GraphQL snapshots</li>
 <li><a href="https://github.com/moul/gno-moul-mobile">moul/gno-moul-mobile</a> - A native iOS app for gno.land realms: session onboarding without a master key on the phone</li>
 <li><a href="https://github.com/moul/gnosnake">moul/gnosnake</a> - Snake on gno.land: you submit the moves, not the score, and the realm replays them. One of four repos exploring web2.5 practices.</li>
 <li><a href="https://github.com/moul/gnordle">moul/gnordle</a> - A daily word game on gno.land where the answer is public, because a chain cannot keep a secret. Hard mode is enforced instead.</li>
@@ -38,8 +40,6 @@
 <li><a href="https://github.com/moul/mnemos-strava">moul/mnemos-strava</a> - </li>
 <li><a href="https://github.com/moul/shortcuts-if-false">moul/shortcuts-if-false</a> - Apple Shortcuts custom if-false control flow block</li>
 <li><a href="https://github.com/moul/gno-1">moul/gno-1</a> - gno dev stuff</li>
-<li><a href="https://github.com/moul/revbro">moul/revbro</a> - </li>
-<li><a href="https://github.com/moul/gno-moul-home-web25">moul/gno-moul-home-web25</a> - </li>
 <li><a href="https://github.com/search?o=desc&q=user%3Amoul+created%3A%3E2022-01-01&s=updated&type=Repositories">...</a></li>
 
 </ul>
@@ -64,6 +64,8 @@
 
   <h4>💪 Recent PRs</h4>
   <ul>
+  
+  <li><a href="https://github.com/moul/gno-contracts">moul/gno-contracts</a> - <a href="https://github.com/moul/gno-contracts/pull/400">feat(mdpack): recover the packed Markdown realm example</a> (today) </li>
   
   <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/530">feat(indexer): keep the block answers that cannot change, and say what that saved</a> (1 day ago) </li>
   
@@ -116,7 +118,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1795556635.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1795560227.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
