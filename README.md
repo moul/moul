@@ -67,8 +67,6 @@
   
   <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/530">feat(indexer): keep the block answers that cannot change, and say what that saved</a> (1 day ago) </li>
   
-  <li><a href="https://github.com/gnoverse/gnoscope">gnoverse/gnoscope</a> - <a href="https://github.com/gnoverse/gnoscope/pull/529">feat(indexer): count every outbound request, and say what a cache would have saved</a> (1 day ago) </li>
-  
   </ul>
 
   <h4>📓 Gists I wrote</h4>
@@ -118,7 +116,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1795553035.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1795556635.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
