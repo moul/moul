@@ -65,6 +65,8 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6536">feat(gnovm): lint hints for Render string building in loops, unbounded bulk copies and unrecoverable native panics</a> (today) </li>
+  
   <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - <a href="https://github.com/moul/sshportal/pull/489">Modernize Helm autoscaling and test SSH readiness</a> (1 day ago) </li>
   
   <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - <a href="https://github.com/moul/sshportal/pull/488">Bound SSH health checks and close probe connections</a> (1 day ago) </li>
@@ -72,8 +74,6 @@
   <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - <a href="https://github.com/moul/sshportal/pull/487">Support Ed25519 and ECDSA private key imports</a> (1 day ago) </li>
   
   <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - <a href="https://github.com/moul/sshportal/pull/486">Migrate PostgreSQL to pgx v5 and preserve schema indexes</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - <a href="https://github.com/moul/sshportal/pull/485">Return actionable errors on database startup failure</a> (1 day ago) </li>
   
   </ul>
 
@@ -124,7 +124,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1795711435.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1795715027.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
