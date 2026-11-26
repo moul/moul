@@ -65,11 +65,7 @@
   <h4>💪 Recent PRs</h4>
   <ul>
   
-  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6536">feat(gnovm): lint hints for Render string building in loops, unbounded bulk copies and unrecoverable native panics</a> (today) </li>
-  
-  <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - <a href="https://github.com/moul/sshportal/pull/489">Modernize Helm autoscaling and test SSH readiness</a> (1 day ago) </li>
-  
-  <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - <a href="https://github.com/moul/sshportal/pull/488">Bound SSH health checks and close probe connections</a> (1 day ago) </li>
+  <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - <a href="https://github.com/gnolang/gno/pull/6537">feat(tm2): ML-DSA-65 account key type, a post-quantum hedge for tx signatures</a> (today) </li>
   
   </ul>
 
@@ -120,7 +116,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=moul&count_private=true&show_icons=true"/>
 
-  <img src="https://img.shields.io/date/1795729431.svg?label=build&colorB=purple" />
+  <img src="https://img.shields.io/date/1795733033.svg?label=build&colorB=purple" />
 
  <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> <details><summary>Click!</summary> Thank you 😎 </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details> </details>
 </details>
